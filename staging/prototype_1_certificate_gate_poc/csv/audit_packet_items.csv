@@ -1,0 +1,16 @@
+audit_item_id,audit_item,prototype_source,export_method,required_for_prototype,notes
+P1-AUD-001,Learner profile fields,Legal name and CNA certificate number profile fields,User profile CSV/export screenshot,Yes,Required identity fields
+P1-AUD-002,Identity confirmation,Profile fields and orientation acknowledgement,Profile export plus acknowledgement export,Yes,Separate identity acknowledgement can be added later
+P1-AUD-003,Online cap acknowledgement,Feedback or Quiz acknowledgement,Attempt/submission CSV or screenshot,Yes,Must show timestamp and learner
+P1-AUD-004,Theory completion,Sample required theory activity,Activity completion report CSV,Yes,One activity for Prototype 1
+P1-AUD-005,Interaction record,Required interaction/check,Quiz Lesson H5P or Feedback attempt export,Yes,Must show learner attempt/submission
+P1-AUD-006,Active-time report or admin review record,Time plugin or manual admin review hold,Time report CSV/PDF or admin review log,Yes,Moodle logs alone are not enough
+P1-AUD-007,Final exam/test record,Moodle Quiz placeholder,Quiz attempt/grade export,Yes,Pass/fail and timestamp
+P1-AUD-008,Affidavit record,Feedback Assignment e-sign placeholder or wet-sign placeholder,Submission export file record or admin review screenshot,Yes,Final method pending approval
+P1-AUD-009,Certificate issue/lock status,Certificate plugin/equivalent and Restrict Access settings,Issue log export lock screenshot or staging PDF,Yes,Disabled or staging-only until approval metadata exists
+P1-AUD-010,Certificate fields populated,Certificate field map and staging template,Template screenshot or staging PDF marked test only,Yes,No final certificate wording
+P1-AUD-011,Admin hold status,Admin hold field/log,Hold log export or screenshot,Yes,Must show active/clear states
+P1-AUD-012,Approval metadata/staging override,Admin-only compliance archive placeholder,Admin archive screenshot or export,Yes,Production approval not assumed
+P1-AUD-013,Optional clinical support status separately labeled,Optional support completion/report area,Separate optional support export or screenshot,Yes,Must not merge with required CE evidence
+P1-AUD-014,Role permission evidence,Role test results,Screenshots or test notes,Yes,Unauthorized override must fail
+P1-AUD-015,No-PHI confirmation,Optional documentation stub and PHI warning,Screenshot and QA note,Yes,Prototype must not collect PHI

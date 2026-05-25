@@ -1,0 +1,23 @@
+test_id,scenario,role,steps,expected_result,evidence_captured,fix_owner,priority
+QA-001,Provider/course approval metadata is missing,Learner,Complete all learner gates while admin approval metadata is pending,Certificate unavailable,Certificate status screenshot and approval metadata screenshot,Compliance Lead,P0
+QA-002,Legal name is missing,Learner,Remove or blank legal name and complete all other gates,Certificate unavailable and profile correction message shown,Profile screenshot and certificate lock screenshot,Registrar,P0
+QA-003,CNA number is missing,Learner,Blank CNA certificate number and attempt certificate,Certificate unavailable,Profile export and learner screenshot,Registrar,P0
+QA-004,Online cap acknowledgement missing,Learner,Skip acknowledgement and attempt theory module exam or certificate,Next required gate or certificate locked,Completion report and learner screenshot,Compliance Reviewer,P0
+QA-005,Theory module skipped,Learner,Skip a required theory activity and attempt final exam or certificate,Final exam or certificate locked,Activity completion report,Moodle Admin,P0
+QA-006,Required interaction skipped,Learner,Complete reading but skip required interaction,Final exam or certificate locked,Interaction completion report,Instructional Designer,P0
+QA-007,Active-time threshold not met,Learner,Complete activities quickly without meeting active-time requirement,Final exam or certificate locked or admin hold remains active,Active-time report and certificate lock screenshot,Moodle Admin,P0
+QA-008,Final exam failed,Learner,Submit final exam below passing threshold,Certificate unavailable and remediation message shown,Quiz attempt report,RN Educator,P0
+QA-009,Affidavit missing,Learner,Pass final exam but skip final signed statement,Certificate unavailable,Affidavit completion report,Registrar,P0
+QA-010,Admin hold active,Learner/Admin,Admin places learner on hold after all learner gates complete,Certificate unavailable until hold cleared,Admin hold log and learner screenshot,Compliance Lead,P0
+QA-011,Optional clinical support skipped,Learner,Complete all required theory gates and skip all clinical hub activities,Certificate available if all required theory gates pass,Certificate issue log and clinical completion report,QA Manager,P0
+QA-012,Optional clinical confidence check skipped,Learner,Skip confidence checks and complete required theory gates,Certificate available if all required theory gates pass,Completion settings screenshot,QA Manager,P0
+QA-013,Clinical upload missing,Learner,Do not submit optional upload and complete all required theory gates,Certificate available if all required theory gates pass,Certificate issue log and upload completion status,QA Manager,P0
+QA-014,Simulation skipped,Learner,Skip all optional simulations and complete required theory gates,Certificate available if all required theory gates pass,Completion report,QA Manager,P0
+QA-015,Certificate template field blank,Registrar,Remove required field placeholder from staging template and attempt issue,QA fails; certificate blocked or defect logged,Certificate PDF and field map,Registrar,P0
+QA-016,Unauthorized manual override attempt,Instructor/Support,Non-authorized role attempts to override certificate gate,Override denied,Role test log,Moodle Admin,P0
+QA-017,Manual override missing documentation,Admin,Authorized admin bypasses gate without required override form,QA fails; process blocks or defect logged,Override log check,Compliance Lead,P0
+QA-018,PHI upload negative case,Learner,Upload test file containing fake patient identifiers in clinical support upload,Upload warning shown and quarantine/reject process triggered,Warning screenshot and incident log,Privacy Officer,P0 if uploads used
+QA-019,Learner accesses certificate by direct URL,Learner,Use direct URL to certificate activity before gates complete,Access denied or unavailable,URL attempt screenshot,Moodle Admin,P0
+QA-020,Learner accesses final exam by direct URL,Learner,Use direct URL to exam before required gates complete,Access denied or unavailable,URL attempt screenshot,Moodle Admin,P0
+QA-021,Multiple tab time inflation,Learner,Open multiple tabs and attempt to inflate time,Time not double-counted and certificate remains controlled,Time report,Moodle Admin,P0
+QA-022,Mobile completion path,Learner,Complete required path on phone while skipping optional support,Certificate available only after required gates,Mobile screenshots and issue log,UX Tester,P1

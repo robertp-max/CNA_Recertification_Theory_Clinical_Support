@@ -1,0 +1,19 @@
+activity_id,activity_name,course_area,required_optional_admin,moodle_tool,completion_tracking,certificate_gate,graded,clinical_hour_credit,prototype_note
+P1-A001,Module 0 Start Here,Theory CE,Required,Page,Yes,Yes,No,No,Orientation scope and limits
+P1-A002,Legal name field,Certificate,Required,User profile,Yes via profile check,Yes,No,No,Required certificate identity
+P1-A003,CNA certificate number field,Certificate,Required,User profile,Yes via profile check,Yes,No,No,Required certificate identifier
+P1-A004,Online cap acknowledgement,Certificate,Required,Feedback or Quiz,Yes,Yes,No,No,24-hour online CE cap acknowledgement
+P1-A005,Sample required theory activity,Theory CE,Required,Page Book or Lesson,Yes,Yes,No,No,Shell only no final lesson content
+P1-A006,Required interaction/check,Theory CE,Required,Quiz Lesson H5P or Feedback,Yes,Yes,May be scored for completion only,No,Interaction evidence
+P1-A007,Active-time threshold/control,Certificate,Required,Time plugin or manual admin review,Yes,Yes,No,No,Plugin unvalidated until tests pass
+P1-A008,Final exam/test placeholder,Certificate,Required,Quiz,Yes,Yes,Yes,No,Placeholder assessment only
+P1-A009,Final signed statement/affidavit placeholder,Certificate,Required,Feedback Assignment or e-sign placeholder,Yes,Yes,No,No,Method pending approval
+P1-A010,Online CE certificate staging only,Certificate,Required after gates,Custom Certificate or equivalent,Issue or lock record,N/A,No,No,Disabled or staging-only
+P1-A011,Admin approval metadata archive,Admin,Admin Only,Restricted Folder or Page,N/A,Indirect,No,No,Hidden from learners
+P1-A012,Admin hold log,Admin,Admin Only,Restricted field or log,Yes,Yes,No,No,Manual compliance hold
+P1-A013,Audit packet dry-run export,Admin,Admin Only,Reports exports screenshots,N/A,No,No,No,Admin-only evidence package
+P1-A014,Optional clinical support landing page,Clinical Support,Optional,Page,Optional or off,No,No,No,Separate optional support
+P1-A015,Optional skills refresh stub,Clinical Support,Optional,Page or Book,Optional or off,No,No,No,Not clinical-hour credit
+P1-A016,Optional confidence check,Clinical Support,Optional,Ungraded Quiz or Feedback,Optional,No,No,No,Not graded not a gate
+P1-A017,Optional documentation support stub,Clinical Support,Optional,Page or disabled/upload-off Assignment stub,Optional or off,No,No,No,No PHI collection
+P1-A018,Optional help/contact,Support,Optional,Page or Feedback,Optional or off,No,No,No,Support only

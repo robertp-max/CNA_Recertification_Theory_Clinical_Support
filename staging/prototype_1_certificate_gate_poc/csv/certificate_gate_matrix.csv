@@ -1,0 +1,15 @@
+gate_id,gate_name,prototype_method,required,moodle_tool,automated_or_manual,evidence_created,qa_negative_test,certificate_gate
+P1-G001,Provider/course approval metadata active or staging override,Admin-only placeholder record plus certificate availability hold,Yes,Admin archive plus Restrict Access/admin hold,Manual,Staging override or approval metadata screenshot,P1-QA-001,Yes
+P1-G002,Learner legal name present,Required profile field,Yes,User profile field,Automated with registrar review,User profile export,P1-QA-002,Yes
+P1-G003,CNA certificate number present,Required profile field,Yes,User profile field,Automated with registrar review,User profile export,P1-QA-003,Yes
+P1-G004,Online cap acknowledgement complete,Feedback or Quiz acknowledgement,Yes,Feedback or Quiz,Automated,Timestamped acknowledgement export,P1-QA-004,Yes
+P1-G005,Required theory activity complete,Sample theory shell completion,Yes,Page Book or Lesson,Automated,Activity completion report,P1-QA-005,Yes
+P1-G006,Required interaction complete,Required interaction/check submitted,Yes,Quiz Lesson H5P or Feedback,Automated,Attempt or completion export,P1-QA-006,Yes
+P1-G007,Active-time threshold met or admin-reviewed,Plugin threshold or manual compliance hold,Yes,Time plugin report or admin hold,Automated if validated otherwise manual,Active-time report or admin review record,P1-QA-007,Yes
+P1-G008,Final exam/test passed,Grade-to-pass placeholder quiz,Yes,Moodle Quiz,Automated,Quiz attempt score and timestamp,P1-QA-008,Yes
+P1-G009,Final signed statement/affidavit complete,Placeholder statement submission,Yes,Feedback Assignment or e-sign placeholder,Manual or automated pending approval,Statement completion record,P1-QA-009,Yes
+P1-G010,Certificate fields populated,Staging field map QA,Yes,Certificate plugin template plus profile/course metadata,Automated with registrar QA,Field map or staging PDF screenshot,P1-QA-017,Yes
+P1-G011,Admin hold clear,Manual hold field or log,Yes,Restricted profile/course field or admin-only log,Manual,Hold and clearance log,P1-QA-010,Yes
+P1-G012,Direct certificate URL blocked,Restrict Access applies to direct URL,Yes,Restrict Access and role permissions,Automated,Direct URL screenshot,P1-QA-011,Yes
+P1-G013,Direct final exam URL blocked,Exam restricted until prerequisites complete,Yes,Restrict Access and role permissions,Automated,Direct URL screenshot,P1-QA-012,Yes
+P1-G014,Optional clinical support completion is not a gate,Excluded from certificate restrictions,No,Optional Clinical Support Hub,N/A,Settings screenshot showing no dependency,P1-QA-013,No
