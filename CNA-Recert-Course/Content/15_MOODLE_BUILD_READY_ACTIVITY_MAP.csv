@@ -1,0 +1,34 @@
+﻿activity_id,current_module,activity_name,moodle_tool,required_or_optional,certificate_gate_yes_no,estimated_minutes,completion_type,grade_to_pass,evidence_created,restrict_access_dependency,source_reference,notes
+M0-PAGE-01,0,Welcome and Course Purpose,Page,Required,Yes,5,View,N/A,View timestamp,None (first activity),Blueprint Sec 6,Entry point
+M0-FEED-01,0,Online Cap Acknowledgement,Feedback,Required,Yes,3,Submit,N/A,Acknowledgement timestamp,M0-PAGE-01 viewed,Blueprint Sec 2,Must complete before Module 1
+M0-FEED-02,0,PHI Acknowledgement,Feedback,Required,Yes,2,Submit,N/A,Acknowledgement timestamp,M0-FEED-01 complete,Blueprint Sec 2,Non-negotiable
+M0-QUIZ-01,0,Orientation Check,Quiz,Required,Yes,5,Pass,100%,Quiz completion,M0-FEED-02 complete,Blueprint Sec 6,Unlocks Module 1
+M1-BOOK-01,1,Infection Control Lessons,Book/Lesson,Required,Yes,75,View all chapters,N/A,Chapter completion timestamps,M0-QUIZ-01 complete,Legacy CNA-CE-001; NATP 12/13,6 lessons
+M1-QUIZ-01,1,IC Knowledge Checks,Quiz (practice),Required,Yes,10,Attempt,N/A,Attempt records,M1-BOOK-01 complete,Legacy CNA-CE-001,Formative â€” unlimited attempts
+M1-QUIZ-02,1,IC Module Quiz,Quiz (graded),Required,Yes,15,Pass,80%,Score and attempts,M1-QUIZ-01 attempted,Legacy CNA-CE-001,Gate for Module 2
+M2-BOOK-01,2,Resident Rights Lessons,Lesson,Required,Yes,100,View all pages,N/A,Page completion timestamps,M1-QUIZ-02 pass,NATP Module 17,6 lessons
+M2-QUIZ-01,2,RR Knowledge Checks,Quiz (practice),Required,Yes,10,Attempt,N/A,Attempt records,M2-BOOK-01 complete,NATP Module 17,Formative
+M2-QUIZ-02,2,RR Module Quiz,Quiz (graded),Required,Yes,15,Pass,80%,Score and attempts,M2-QUIZ-01 attempted,NATP Module 17,Gate for Module 3
+M3-BOOK-01,3,Dementia/Communication Lessons,Lesson,Required,Yes,100,View all pages,N/A,Page completion timestamps,M2-QUIZ-02 pass,NATP Module 13/16,6 lessons
+M3-QUIZ-01,3,DC Knowledge Checks,Quiz (practice),Required,Yes,10,Attempt,N/A,Attempt records,M3-BOOK-01 complete,NATP Module 13/16,Formative
+M3-QUIZ-02,3,DC Module Quiz,Quiz (graded),Required,Yes,15,Pass,80%,Score and attempts,M3-QUIZ-01 attempted,NATP Module 13/16,Gate for Module 4
+M4-BOOK-01,4,Mobility/Safety Lessons,Book/Lesson,Required,Yes,100,View all pages,N/A,Completion timestamps,M3-QUIZ-02 pass,NATP Module 14/12,6 lessons
+M4-QUIZ-01,4,MS Knowledge Checks,Quiz (practice),Required,Yes,10,Attempt,N/A,Attempt records,M4-BOOK-01 complete,NATP Module 14/12,Formative
+M4-QUIZ-02,4,MS Module Quiz,Quiz (graded),Required,Yes,15,Pass,80%,Score and attempts,M4-QUIZ-01 attempted,NATP Module 14/12,Gate for Module 5
+M5-BOOK-01,5,Nutrition/Skin/VS Lessons,Lesson,Required,Yes,100,View all pages,N/A,Completion timestamps,M4-QUIZ-02 pass,NATP Module 11/10/13,6 lessons
+M5-QUIZ-01,5,NSV Knowledge Checks,Quiz (practice),Required,Yes,10,Attempt,N/A,Attempt records,M5-BOOK-01 complete,NATP Module 11/10/13,Formative
+M5-QUIZ-02,5,NSV Module Quiz,Quiz (graded),Required,Yes,15,Pass,80%,Score and attempts,M5-QUIZ-01 attempted,NATP Module 11/10/13,Gate for Module 6
+M6-BOOK-01,6,Documentation/Scope Lessons,Page/Lesson,Required,Yes,75,View all pages,N/A,Completion timestamps,M5-QUIZ-02 pass,NATP Module 15/13,5 lessons
+M6-QUIZ-01,6,DS Knowledge Checks,Quiz (practice),Required,Yes,8,Attempt,N/A,Attempt records,M6-BOOK-01 complete,NATP Module 15/13,Formative
+M6-QUIZ-02,6,DS Module Quiz,Quiz (graded),Required,Yes,12,Pass,80%,Score and attempts,M6-QUIZ-01 attempted,NATP Module 15/13,Gate for Module 7
+M7-QUIZ-01,7,Practice Review Quiz,Quiz (ungraded),Required,Yes,10,Attempt,N/A,Attempt record,M6-QUIZ-02 pass,All NATP Modules,Optional but encouraged
+M7-QUIZ-02,7,Final Exam,Quiz (graded),Required,Yes,30,Pass,80%,"Score, attempts, timestamp","M7-QUIZ-01 attempted + active-time threshold or admin review",All NATP Modules,25 random from 50-question pool
+M7-FEED-01,7,Completion Affidavit,Feedback/Assignment,Required,Yes,5,Submit,N/A,"Affidavit timestamp, statement record",M7-QUIZ-02 pass,Blueprint,E-sign or wet-sign TBD
+CERT-01,7,CE Certificate,Custom Certificate,Required,Yes,0,All gates pass,N/A,"Certificate PDF, issue log, verification code","All gates: identity + completion + interaction + active-time + exam + affidavit + admin hold clear",Certificate Gate POC,STAGING ONLY â€” watermarked
+CS1-PAGE-01,CS-1,Clinical Support Orientation,Page,Optional,No,15,View (optional),N/A,View log (optional),None,Clinical Hub Stub Spec,Non-gating
+CS2-BOOK-01,CS-2,Skills Refresh Menu,Book,Optional,No,120,View (optional),N/A,Access log (optional),CS1-PAGE-01 viewed (optional),NATP 10-14,Non-gating
+CS3-PAGE-01,CS-3,Scheduling Information,Page + Choice,Optional,No,60,View/Submit (optional),N/A,Choice record (optional),None,Blueprint Sec 7,Non-gating
+CS4-QUIZ-01,CS-4,Confidence Checks,Quiz (ungraded),Optional,No,120,Attempt (optional),N/A,Attempt log (no grade),None,NATP 10-17 scenarios,Non-gating â€” no gradebook
+CS5-ASSIGN-01,CS-5,Documentation Practice,Assignment,Optional,No,180,Submit (optional),N/A,Submission record (no grade),None,NATP Module 15,PHI warning required
+CS6-ASSIGN-01,CS-6,RN/Preceptor Signoff,File + Assignment,Optional,No,120,Submit (optional),N/A,Signoff artifact (no grade),None,Blueprint Sec 7,Non-gating
+CS7-FEED-01,CS-7,Support Request,Feedback,Optional,No,90,Submit (optional),N/A,Support request log,None,Blueprint Sec 7,SLA must be staffed
