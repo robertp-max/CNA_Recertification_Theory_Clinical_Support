@@ -11,10 +11,13 @@ import {
   Lock,
   LogOut,
   Map,
+  Moon,
   ShieldCheck,
   ShieldAlert,
   Stethoscope,
+  Sun,
   UserRound,
+  Wrench,
 } from "lucide-react";
 import { modules } from "./data/courseData";
 import { auditItems, moodleMap, qaTests, sourceInventory } from "./data/auditAndMigrationData";
@@ -120,6 +123,7 @@ const initialState: LearnerState = {
 };
 
 function App() {
+  const [theme, setTheme] = useState<"dark" | "light">(() => (localStorage.getItem("ciTheme") === "light" ? "light" : "dark"));
   const [authenticated, setAuthenticated] = useState(() => sessionStorage.getItem("ciStakeholderSession") === "true");
   const [profile, setProfile] = useState<DemoUserProfile>(defaultDemoProfile);
   const [unlockMode, setUnlockMode] = useState(false);
@@ -154,19 +158,23 @@ function App() {
 
   if (!authenticated) {
     return (
-      <SplashLogin
-        onAuthenticated={(identity) => {
-          sessionStorage.setItem("ciStakeholderSession", "true");
-          setAuthenticated(true);
-          if (identity.email) updateProfile("email", identity.email);
-        }}
-      />
+      <div className="app-shell" data-theme={theme}>
+        <SplashLogin
+          theme={theme}
+          setTheme={setTheme}
+          onAuthenticated={(identity) => {
+            sessionStorage.setItem("ciStakeholderSession", "true");
+            setAuthenticated(true);
+            if (identity.email) updateProfile("email", identity.email);
+          }}
+        />
+      </div>
     );
   }
 
   return (
-    <div>
-      <div className="review-ribbon">Stakeholder Review Prototype - Not for learner use</div>
+    <div className="app-shell" data-theme={theme}>
+      <div className="review-ribbon">Reviewer environment - not for learner use</div>
       {unlockMode && <div className="unlock-ribbon">Unlock Mode Active - Stakeholder Review Only - Does Not Represent Learner Completion</div>}
       <header className="app-header">
         <div>
@@ -187,6 +195,12 @@ function App() {
             </div>
           </div>
           <StatusPill pass={certificateReady} label={certificateReady ? "Certificate preview unlocked" : "Certificate preview locked"} />
+          <ThemeToggle theme={theme} setTheme={setTheme} />
+          <details className="admin-tools-menu">
+            <summary><Wrench /> Reviewer Tools</summary>
+            <button className="secondary" onClick={() => setView("qa")}>Open QA / Negative Tests</button>
+            <p>Internal review utilities remain available but are kept out of the primary stakeholder path.</p>
+          </details>
           <button
             className="ghost-button"
             onClick={() => {
@@ -210,7 +224,6 @@ function App() {
           ["clinical", "Clinical Hub"],
           ["audit", "Audit"],
           ["moodle", "Moodle Map"],
-          ["qa", "QA"],
         ].map(([key, label]) => (
           <button key={key} className={view === key ? "active" : ""} onClick={() => setView(key as View)}>
             {label}
@@ -218,7 +231,7 @@ function App() {
         ))}
       </nav>
 
-      <main>
+      <main key={view} className="view-stage">
         {view === "landing" && <Landing setView={setView} gates={gates} />}
         {view === "dashboard" && (
           <Dashboard
@@ -252,7 +265,15 @@ function App() {
   );
 }
 
-function SplashLogin({ onAuthenticated }: { onAuthenticated: (identity: { email?: string; displayName?: string }) => void }) {
+function SplashLogin({
+  onAuthenticated,
+  theme,
+  setTheme,
+}: {
+  onAuthenticated: (identity: { email?: string; displayName?: string }) => void;
+  theme: "dark" | "light";
+  setTheme: (theme: "dark" | "light") => void;
+}) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -298,6 +319,10 @@ function SplashLogin({ onAuthenticated }: { onAuthenticated: (identity: { email?
   return (
     <main className="splash-page">
       <section className="splash-panel">
+        <div className="splash-toolbar">
+          <span>Reviewer access</span>
+          <ThemeToggle theme={theme} setTheme={setTheme} />
+        </div>
         <div className="brand-lockup">
           <img className="brand-logo" src="/brand/logos/ci-ion-logo-original.svg" alt="CI Institute of Nursing" />
           <div>
@@ -331,6 +356,23 @@ function SplashLogin({ onAuthenticated }: { onAuthenticated: (identity: { email?
         </div>
       </section>
     </main>
+  );
+}
+
+function ThemeToggle({ theme, setTheme }: { theme: "dark" | "light"; setTheme: (theme: "dark" | "light") => void }) {
+  const nextTheme = theme === "dark" ? "light" : "dark";
+  return (
+    <button
+      className="theme-toggle"
+      aria-label={`Switch to ${nextTheme} mode`}
+      onClick={() => {
+        localStorage.setItem("ciTheme", nextTheme);
+        setTheme(nextTheme);
+      }}
+    >
+      {theme === "dark" ? <Sun /> : <Moon />}
+      <span>{theme === "dark" ? "Light" : "Dark"}</span>
+    </button>
   );
 }
 
@@ -721,13 +763,42 @@ function Certificate({
       </div>
       <div className="certificate-preview">
         <div className="watermark">STAGING / PROTOTYPE ONLY - NOT A LIVE CE CERTIFICATE</div>
-        <h2>{certificateReady ? "Mock Certificate Preview" : "Certificate Preview Locked"}</h2>
-        <p>CI Institute of Nursing - provider/NAC# metadata pending approval.</p>
-        <p>Course: CNA Recertification Online CE - 12 Hour Theory - Staging</p>
-        <p>Demo learner: {state.legalFirstName || "[missing]"} {state.legalLastName || "[missing]"} - {state.cnaNumber || "[missing CNA number]"}</p>
-        <p>Review cohort: {profile.courseCohort} - {profile.renewalCycle}</p>
-        <p>Optional clinical support is not included in this online CE certificate preview.</p>
-        <p>Status: {certificateReady ? "All prototype gates complete" : "One or more required prototype gates are incomplete"}</p>
+        <div className="certificate-topline">
+          <img src="/brand/logos/ci-ion-logo-original.svg" alt="CI Institute of Nursing" />
+          <span className={certificateReady ? "certificate-seal available" : "certificate-seal locked"}>{certificateReady ? "Preview Open" : "Locked"}</span>
+        </div>
+        <div className="certificate-title-block">
+          <p className="eyebrow">Mock continuing education certificate preview</p>
+          <h2>{certificateReady ? "Certificate Preview Available" : "Certificate Preview Locked"}</h2>
+          <p>CI Institute of Nursing - provider/NAC# metadata pending approval.</p>
+        </div>
+        <div className="certificate-field-grid">
+          <div>
+            <span>Learner</span>
+            <strong>{state.legalFirstName || "[missing]"} {state.legalLastName || "[missing]"}</strong>
+          </div>
+          <div>
+            <span>CNA certificate number</span>
+            <strong>{state.cnaNumber || "[missing CNA number]"}</strong>
+          </div>
+          <div>
+            <span>Course</span>
+            <strong>CNA Recertification Online CE - 12 Hour Theory</strong>
+          </div>
+          <div>
+            <span>Review cohort</span>
+            <strong>{profile.courseCohort}</strong>
+          </div>
+          <div>
+            <span>Renewal cycle</span>
+            <strong>{profile.renewalCycle}</strong>
+          </div>
+          <div>
+            <span>Status</span>
+            <strong>{certificateReady ? "All prototype gates complete" : "Required prototype gates incomplete"}</strong>
+          </div>
+        </div>
+        <div className="certificate-footer-note">Optional clinical support is not included in this online CE certificate preview.</div>
       </div>
     </section>
   );
