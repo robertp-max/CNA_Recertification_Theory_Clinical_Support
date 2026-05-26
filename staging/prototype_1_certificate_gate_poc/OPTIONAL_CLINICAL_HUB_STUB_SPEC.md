@@ -53,7 +53,7 @@ Ungraded Quiz or Feedback.
 
 Optional Confidence Check
 
-This confidence check is for your own preparation. It is not graded, does not count as clinical hours, and does not block your online CE certificate unless CI Institute of Nursing separately gives you written CDPH-approved instructions.
+This confidence check is for your own preparation. It is not graded, does not count as clinical hours, and does not block your online CE certificate in Prototype Build 1.
 
 ## Optional Documentation Support
 

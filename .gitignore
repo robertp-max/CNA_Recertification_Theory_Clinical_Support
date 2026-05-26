@@ -9,3 +9,14 @@
 /test-evidence/
 /private-approvals/
 /production-evidence/
+**/exports/
+**/audit-evidence/
+**/screenshots/
+**/moodle-backups/
+**/learner-data/
+**/test-evidence/
+**/private-approvals/
+**/production-evidence/
+*.mbz
+*certificate*.pdf
+*Certificate*.pdf
