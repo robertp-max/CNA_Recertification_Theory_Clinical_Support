@@ -47,8 +47,8 @@ export const executiveCards = [
 export const gateDefinitions: GateDefinition[] = [
   {
     key: "providerOverride",
-    label: "Provider/course approval metadata or staging override present",
-    source: "Approval/NAC# metadata placeholder or staging-only override",
+    label: "Provider/course approval metadata or reviewer override present",
+    source: "Approval/NAC# metadata placeholder or reviewer-only override",
   },
   { key: "legalName", label: "Legal name present", source: "Required user profile field" },
   { key: "cnaNumber", label: "CNA certificate number present", source: "Required user profile field" },
@@ -58,7 +58,7 @@ export const gateDefinitions: GateDefinition[] = [
   {
     key: "activeTimeOrManualReview",
     label: "Simulated active-time or manual review hold cleared",
-    source: "Prototype active-time gate; Moodle validation pending",
+    source: "Review active-time gate; Moodle validation pending",
   },
   { key: "finalExamPassed", label: "Final exam/test passed", source: "Final quiz/test attempt record" },
   { key: "affidavitComplete", label: "Final signed statement/affidavit complete", source: "Draft affidavit workflow" },
@@ -142,7 +142,7 @@ export const gateAuditEvidence = [
 ];
 
 export const stakeholderDemoScript =
-  "This screen demonstrates how the MVP protects certificate integrity. A learner can complete optional support or skip it entirely, but the certificate depends only on required online CE gates. This gives leadership and compliance reviewers a clear reason for every certificate decision.";
+  "This screen shows how the MVP protects certificate integrity. A learner can complete optional support or skip it entirely, but the certificate depends only on required online CE gates. This gives leadership and compliance reviewers a clear reason for every certificate decision.";
 
 export function evaluateGateScenario(scenarioToEvaluate: GateScenario) {
   const blockers = gateDefinitions.filter((gate) => !scenarioToEvaluate.gates[gate.key]);

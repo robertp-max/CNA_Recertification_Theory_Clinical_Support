@@ -46,10 +46,10 @@ export type SeededModuleContent = {
 export const moduleContents: SeededModuleContent[] = [
   {
     id: "m0",
-    title: "Module 0: Orientation and Compliance Boundaries",
+    title: "Module 0: Orientation and Course Requirements",
     time: "0.5 hr",
     required: true,
-    status: "Functional seeded prototype",
+    status: "Seeded review package",
     placeholder: false,
     sourcePath: "CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md",
     sourceStatus: "Extracted source present; ready for packaging with compliance review for disclaimer wording.",
@@ -62,7 +62,7 @@ export const moduleContents: SeededModuleContent[] = [
     ],
     lessonSections: [
       { title: "Course scope and renewal boundaries", minutes: 10, summary: "Frames the course as online theory CE support, not full renewal completion." },
-      { title: "Identity and profile fields", minutes: 5, summary: "Collects mock legal name and CNA certificate number for gate demonstration." },
+      { title: "Identity and profile fields", minutes: 5, summary: "Collects review learner name and CNA certificate number for gate evidence." },
       { title: "Required acknowledgements", minutes: 15, summary: "Online cap, no-PHI, and optional clinical support boundary acknowledgements." },
     ],
     scenarioChecks: [],
@@ -80,7 +80,7 @@ export const moduleContents: SeededModuleContent[] = [
     title: "Module 1: Infection Control and PPE",
     time: "1.5 hr",
     required: true,
-    status: "Functional seeded prototype; SME/source review required",
+    status: "Seeded lesson package; SME/source review required",
     placeholder: false,
     sourcePath: "CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md",
     sourceStatus: "Extracted source present; content package index flags Module 1 for SME/source review.",
@@ -96,7 +96,7 @@ export const moduleContents: SeededModuleContent[] = [
       { title: "Hand hygiene and PPE", minutes: 25, summary: "Reviews hand hygiene moments and PPE workflow.", sourceStatus: "SME/source review required." },
       { title: "Recognition and reporting", minutes: 25, summary: "Focuses on sudden changes and prompt reporting to licensed staff.", sourceStatus: "SME/source review required." },
       { title: "Cleaning and safe handling", minutes: 15, summary: "Covers environmental cleaning and linen handling boundaries.", sourceStatus: "SME/source review required." },
-      { title: "Module check", minutes: 10, summary: "Prototype scenario check and quiz-passed toggle.", sourceStatus: "SME/source review required." },
+      { title: "Module check", minutes: 10, summary: "Scenario check and quiz evidence step.", sourceStatus: "SME/source review required." },
     ],
     scenarioChecks: [
       {
@@ -107,7 +107,7 @@ export const moduleContents: SeededModuleContent[] = [
         feedback:
           "Correct feedback should reinforce prompt reporting of sudden changes from baseline and avoid diagnosis by the CNA.",
         remediation: "Review recognition/reporting section before retry.",
-        sourceStatus: "Prototype interaction aligned to extracted Module 1 theme; SME/source review required.",
+        sourceStatus: "Interaction aligned to extracted Module 1 theme; SME/source review required.",
       },
     ],
     remediation: "Review infection-control reporting content before retaking the module check.",
@@ -409,7 +409,7 @@ export const examPreviewQuestions = [
     sourcePath: "CNA-Recert-Course/Content/theory/exam/30_FINAL_EXAM_POOL_50_COMPLETE.md",
     prompt: "A resident reports that money is missing from his wallet. Which abuse category is most directly involved?",
     answer: "Financial abuse or exploitation.",
-    reviewStatus: "Extracted question bank; prototype preview only pending approval.",
+    reviewStatus: "Extracted question bank; preview pending approval.",
   },
   {
     id: "Q09",
@@ -425,7 +425,7 @@ export const examPreviewQuestions = [
     sourcePath: "CNA-Recert-Course/Content/theory/exam/30_FINAL_EXAM_POOL_50_COMPLETE.md",
     prompt: "A care plan requires a two-person transfer, but only one CNA is available. What should the CNA do?",
     answer: "Wait and obtain another trained staff member before transferring.",
-    reviewStatus: "Extracted question bank; prototype preview only pending approval.",
+    reviewStatus: "Extracted question bank; preview pending approval.",
   },
   {
     id: "Q21",
@@ -441,6 +441,6 @@ export const examPreviewQuestions = [
     sourcePath: "CNA-Recert-Course/Content/theory/exam/30_FINAL_EXAM_POOL_50_COMPLETE.md",
     prompt: "Which note is most objective and appropriate for a CNA documentation record?",
     answer: "A factual, timed note with observable details and nurse notification when needed.",
-    reviewStatus: "Extracted question bank; prototype preview only pending approval.",
+    reviewStatus: "Extracted question bank; preview pending approval.",
   },
 ];

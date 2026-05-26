@@ -180,7 +180,6 @@ function App() {
 
   return (
     <div className="app-shell" data-theme={theme}>
-      <div className="review-ribbon">Reviewer environment | Mock certificate controls only | No learner records</div>
       {unlockMode && <div className="unlock-ribbon">Unlock Mode Active | Internal navigation only | Gates remain unchanged</div>}
       <header className="app-header">
         <div>
@@ -190,9 +189,9 @@ function App() {
             alt="CI Institute of Nursing"
           />
           <p className="eyebrow">CareIndeed / CI Institute of Nursing</p>
-          <h1>CNA Recertification Theory + Clinical Support Review</h1>
+          <h1>CNA Recertification Theory + Clinical Support</h1>
           <p className="subhead">
-            Premium stakeholder review for required online CE flow, certificate gates, optional clinical support,
+            Premium stakeholder pathway for required online CE flow, certificate gates, optional clinical support,
             audit preview, and Moodle migration mapping.
           </p>
         </div>
@@ -300,6 +299,9 @@ function App() {
         {view === "moodle" && <MoodleMigrationMap />}
         {view === "qa" && <QAPanel state={state} setState={setState} gates={gates} />}
       </main>
+      <footer className="compliance-footer">
+        No PHI. No CDPH approval claimed. Optional clinical support is non-gating. Certificate surfaces remain mock previews only.
+      </footer>
     </div>
   );
 }
@@ -317,7 +319,6 @@ function SplashLogin({
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
-  const localHints = import.meta.env.DEV || import.meta.env.VITE_DEMO_LOGIN_HINTS === "true";
   const demoFallbackDisabled = import.meta.env.VITE_DEMO_LOGIN_ENABLED === "false";
   const expectedDemoEmail = String(import.meta.env.VITE_DEMO_LOGIN_EMAIL || demoLoginDefaults.email).trim().toLowerCase();
   const expectedDemoPassword = String(import.meta.env.VITE_DEMO_LOGIN_PASSWORD || demoLoginDefaults.password);
@@ -371,11 +372,11 @@ function SplashLogin({
             />
             <div>
               <p className="eyebrow">CareIndeed / CI Institute of Nursing</p>
-              <h1>CNA Recertification Theory + Clinical Support Review</h1>
+              <h1>CNA Recertification Theory + Clinical Support</h1>
             </div>
           </div>
           <span className="review-badge">Stakeholder Review Access</span>
-          <p className="splash-warning">Mock review environment: not a live CE course or certificate system.</p>
+          <p className="splash-warning">Secure stakeholder access for a gated online CE preview. No PHI and no certificate issuance.</p>
           <form className="login-form" onSubmit={submit}>
             <label>
               Email
@@ -385,20 +386,11 @@ function SplashLogin({
               Password
               <input type="password" autoComplete="current-password" value={password} onChange={(event) => setPassword(event.target.value)} />
             </label>
-            {localHints && (
-              <details className="reviewer-disclosure">
-                <summary>Local access note</summary>
-                <p>
-                  The local Vite fallback accepts the configured review credential when the Vercel Function is unavailable.
-                  Use deployment protection or Vercel Authentication for deployed review links.
-                </p>
-              </details>
-            )}
             {error && <div className="feedback bad">{error}</div>}
             <button disabled={loading}>{loading ? "Checking..." : "Sign in"}</button>
           </form>
           <div className="notice">
-            Stakeholder access layer only. No real learner record, no PHI, and no certificate issuance occurs here.
+            Stakeholder access layer only. No learner record, no PHI, and no certificate issuance occurs here.
           </div>
         </div>
         <aside className="splash-visual" aria-label="CNA students reviewing online coursework">
@@ -441,8 +433,8 @@ function Landing({ setView, gates }: { setView: (view: View) => void; gates: Gat
         <p className="eyebrow">12-hour asynchronous theory pathway</p>
         <h2>Premium online CE pathway with certificate integrity controls</h2>
         <p>
-          This standalone review build demonstrates the intended learner/admin experience before Moodle launch. It
-          preserves approval blockers, active-time validation warnings, final exam/test preview, final
+          A focused learner and admin experience for the Moodle launch pathway. It
+          preserves approval blockers, active-time validation warnings, final exam preview, final
           statement workflow, and audit packet structure.
         </p>
         <div className="button-row">
@@ -455,7 +447,7 @@ function Landing({ setView, gates }: { setView: (view: View) => void; gates: Gat
       <div className="hero-media" aria-label="CI Institute of Nursing brand image" />
       <aside className="status-card" aria-label="Course status preview">
         <h3>Certificate Status Preview</h3>
-        <p className="warning-text">Mock preview only. No live certificate issuance. CDPH approval is not claimed.</p>
+        <p className="warning-text">Preview only. No certificate issuance. CDPH approval is not claimed.</p>
         {gates.slice(0, 6).map((gate) => (
           <GateRow key={gate.id} gate={gate} />
         ))}
@@ -520,13 +512,16 @@ function Dashboard(props: {
         <ProgressPanel title="Optional Clinical Support" value={optionalProgress} note="Shown separately. Skipping it must not block the online CE certificate." />
       </div>
       <div className="dashboard-lower">
-        <DemoUserProfilePanel
-          profile={props.profile}
-          updateProfile={props.updateProfile}
-          resetDemoProfile={props.resetDemoProfile}
-          unlockMode={props.unlockMode}
-          setUnlockMode={props.setUnlockMode}
-        />
+        <details className="panel admin-profile-drawer">
+          <summary>Reviewer profile and navigation tools</summary>
+          <DemoUserProfilePanel
+            profile={props.profile}
+            updateProfile={props.updateProfile}
+            resetDemoProfile={props.resetDemoProfile}
+            unlockMode={props.unlockMode}
+            setUnlockMode={props.setUnlockMode}
+          />
+        </details>
         <aside className="panel gate-summary-panel">
           <div className="panel-heading">
             <div>
@@ -866,7 +861,7 @@ function ResourcesPanel({ module }: { module: SeededModuleContent }) {
       <h3>Source and migration anchors</h3>
       <div className="resource-list">
         <div>
-          <span>Source path</span>
+            <span>Content source</span>
           <strong>{module.sourcePath}</strong>
         </div>
         <div>
@@ -1301,7 +1296,7 @@ function Certificate({
   const profileReady = hasLegalName(state) && Boolean(state.cnaNumber.trim());
   return (
     <section>
-      <SectionHeader icon={<Lock />} title="Certificate Gate Status" text="No live certificate is issued. The mock preview remains blocked until all required gates pass." />
+      <SectionHeader icon={<Lock />} title="Certificate Gate Status" text="No certificate is issued here. The preview remains blocked until all required gates pass." />
       <div className="certificate-layout">
         <aside className="panel certificate-readiness-card">
           <p className="eyebrow">Readiness summary</p>
@@ -1349,23 +1344,23 @@ function Certificate({
               ))}
             </div>
           ) : (
-            <div className="feedback good">All required gates pass. The certificate remains a mock/staged preview only.</div>
+            <div className="feedback good">All required gates pass. The certificate surface remains a mock preview only.</div>
           )}
           <div className="mini-certificate-card">
             <span>Preview surface</span>
             <strong>{certificateReady ? "Unlocked mock" : "Locked mock"}</strong>
-            <p>No live certificate behavior.</p>
+            <p>No certificate issuance behavior.</p>
           </div>
         </aside>
       </div>
       <div className="certificate-preview">
-        <div className="watermark">STAGING / PROTOTYPE ONLY - NOT A LIVE CE CERTIFICATE</div>
+        <div className="watermark">MOCK PREVIEW - NOT FOR ISSUANCE</div>
         <div className="certificate-topline">
           <img src="/brand/logos/ci-ion-logo-original.svg" alt="CI Institute of Nursing" />
           <span className={certificateReady ? "certificate-seal available" : "certificate-seal locked"}>{certificateReady ? "Preview Open" : "Locked"}</span>
         </div>
         <div className="certificate-title-block">
-          <p className="eyebrow">Mock continuing education certificate preview</p>
+          <p className="eyebrow">Continuing education certificate preview</p>
           <h2>{certificateReady ? "Certificate Preview Available" : "Certificate Preview Locked"}</h2>
           <p>CI Institute of Nursing - provider/NAC# metadata pending approval.</p>
         </div>
@@ -1412,7 +1407,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
       <SectionHeader
         icon={<ShieldCheck />}
         title="Certificate Gate Command Center"
-        text="Premium compliance gate engine for certificate integrity, optional-support separation, and audit-ready decisions."
+        text="Compliance gate engine for certificate integrity, optional-support separation, and audit-ready decisions."
       />
       <div className="command-hero">
         <div>
@@ -1472,7 +1467,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
             <h4>{selectedScenario.name}</h4>
             <p>{selectedScenario.summary}</p>
             {result.available ? (
-              <div className="feedback good">No required-gate blockers. Certificate preview can be shown as mock/staged only.</div>
+              <div className="feedback good">No required-gate blockers. Certificate preview can be shown as mock only.</div>
             ) : (
               <div className="feedback bad">
                 {result.blockers.map((blocker) => (
@@ -1509,7 +1504,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
               <p className="eyebrow">Required gates only</p>
               <h3>Gate Evaluation</h3>
             </div>
-            <span className="tag">Mock only</span>
+          <span className="tag">Preview only</span>
           </div>
           <div className="gate-list">
             {gateDefinitions.map((gate) => (
@@ -1536,19 +1531,19 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
           </div>
           <button onClick={() => setView("audit")}>View Audit Evidence Preview</button>
           <details className="content-details">
-            <summary>Stakeholder Demo Script</summary>
+            <summary>Stakeholder talking points</summary>
             <p>{stakeholderDemoScript}</p>
           </details>
         </aside>
       </div>
 
       <article className="certificate-preview command-certificate">
-        <div className="watermark">STAGING / PROTOTYPE ONLY - NOT A LIVE CE CERTIFICATE</div>
+        <div className="watermark">MOCK PREVIEW - NOT FOR ISSUANCE</div>
         <h2>{result.available ? "Mock Certificate Available - Review Only" : "Certificate Locked"}</h2>
         <p>Scenario: {selectedScenario.name}</p>
         <p>
           {result.available
-            ? "Required certificate gates are complete in this scenario. This remains a mock/staged preview only."
+            ? "Required certificate gates are complete in this scenario. This remains a mock preview only."
             : `Blocked required gates: ${result.blockers.map((blocker) => blocker.label).join(", ")}`}
         </p>
         <p>Optional clinical support is excluded from this certificate decision.</p>
@@ -1616,7 +1611,7 @@ function ClinicalHub() {
 function AuditPreview({ state, gates }: { state: LearnerState; gates: Gate[] }) {
   return (
     <section>
-      <SectionHeader icon={<ClipboardCheck />} title="Audit Packet Preview" text="Shows what would be exported from the Moodle review environment. No real evidence files are created." />
+      <SectionHeader icon={<ClipboardCheck />} title="Audit Packet Preview" text="Shows what would be exported from the Moodle environment. No evidence files are created here." />
       <div className="audit-grid">
         {auditItems.map((item) => (
           <article className="panel compact" key={item.id}>
@@ -1693,15 +1688,16 @@ function MoodleMigrationMap() {
 
 function ReviewNotes() {
   return (
-    <article className="panel review-notes">
+    <details className="panel review-notes">
+      <summary>Compliance and launch readiness notes</summary>
       <h3>Review Environment Status</h3>
       <div className="three-col">
-        <InfoBlock icon={<ShieldAlert />} title="Standalone Review Build" text="Vite/React review experience. Moodle launch migration is still pending." />
+        <InfoBlock icon={<ShieldAlert />} title="Launch Readiness" text="Moodle launch migration is still pending." />
         <InfoBlock icon={<Lock />} title="Gate Simulation" text="Active-time validation is simulated only; Moodle plugin validation is not complete." />
         <InfoBlock icon={<Stethoscope />} title="Optional Support" text="Clinical support is non-gating, non-credit, and separated from required online CE progress." />
       </div>
-      <div className="notice strong">No PHI, no real learner records, and no live certificate issuance in this review build.</div>
-    </article>
+      <div className="notice strong">No PHI, no real learner records, and no certificate issuance in this review build.</div>
+    </details>
   );
 }
 
@@ -1719,16 +1715,16 @@ function DemoUserProfilePanel({
   setUnlockMode: (enabled: boolean) => void;
 }) {
   return (
-    <article className="panel">
+    <article className="profile-editor">
       <div className="panel-heading">
         <div>
           <p className="eyebrow">Stakeholder review profile</p>
-          <h3>Demo User Profile</h3>
+          <h3>Review Learner Profile</h3>
         </div>
         <span className="tag">{profile.reviewStatus}</span>
       </div>
       <p className="source-note">
-        Fictional/test data only. Edits update visible dashboard/profile and certificate profile gates in review
+        Fictional data only. Edits update visible dashboard/profile and certificate profile gates in review
         state; they do not create a real learner record.
       </p>
       <div className="form-grid">
@@ -1966,7 +1962,7 @@ function getNextStep({
   if (!state.activeTimeMet) return { label: "Meet active participation gate", note: "This is simulated only; Moodle active-time validation remains pending.", action: "Open Reviewer Tools", view: "qa" as View };
   if (!examUnlocked || !state.finalExamPassed) return { label: "Pass final exam/test preview", note: "Mock questions only; approved question bank still required.", action: "Open Final Exam", view: "exam" as View };
   if (!state.affidavitComplete) return { label: "Complete final statement", note: "Draft affidavit pending legal/CDPH approval.", action: "Open Affidavit", view: "affidavit" as View };
-  return { label: "Review certificate gate status", note: "Mock certificate preview is unlocked but not a live CE certificate.", action: "Open Certificate Status", view: "certificate" as View };
+  return { label: "Review certificate gate status", note: "Mock certificate preview is unlocked for gate review only.", action: "Open Certificate Status", view: "certificate" as View };
 }
 
 function setExam(update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void, pass: boolean) {

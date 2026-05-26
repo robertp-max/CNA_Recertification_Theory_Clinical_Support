@@ -2806,3 +2806,380 @@ details[open] summary {
     transition-duration: 0.001ms !important;
   }
 }
+
+/* Final QA polish: flat CI maroon/gold lesson platform */
+.app-shell {
+  --ci-primary: #8b1515;
+  --ci-primary-dark: #4f080a;
+  --ci-primary-deep: #210305;
+  --ci-accent: #d4af37;
+  --ci-accent-hover: #e3c462;
+  --shell-bg: #050203;
+  --shell-bg-2: #120406;
+  --glass-surface: #151012;
+  --glass-surface-strong: #1d1114;
+  --glass-line: rgba(212, 175, 55, 0.18);
+  --glass-line-strong: rgba(212, 175, 55, 0.38);
+  --text-strong: #fff8ef;
+  --text-main: #f5ece5;
+  --text-muted: #cfbdb5;
+  --gold-glow: rgba(212, 175, 55, 0.16);
+  --maroon-glow: rgba(139, 21, 21, 0.24);
+  --flat-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+  background:
+    radial-gradient(circle at 16% 0%, rgba(139, 21, 21, 0.45), transparent 30rem),
+    radial-gradient(circle at 88% 12%, rgba(79, 8, 10, 0.5), transparent 34rem),
+    linear-gradient(135deg, #050203 0%, #120406 54%, #020102 100%);
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.app-shell[data-theme="light"] {
+  --glass-surface: #fffaf6;
+  --glass-surface-strong: #ffffff;
+  --glass-line: rgba(139, 21, 21, 0.18);
+  --glass-line-strong: rgba(139, 21, 21, 0.34);
+  --text-strong: #2a1012;
+  --text-main: #332124;
+  --text-muted: #6f5553;
+  --gold-glow: rgba(212, 175, 55, 0.14);
+  --maroon-glow: rgba(139, 21, 21, 0.12);
+  --flat-shadow: 0 10px 24px rgba(139, 21, 21, 0.1);
+  background:
+    radial-gradient(circle at 12% 0%, rgba(139, 21, 21, 0.13), transparent 28rem),
+    linear-gradient(135deg, #fff7f2 0%, #fdf0e8 48%, #ffffff 100%);
+}
+
+.splash-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 12% 6%, rgba(212, 175, 55, 0.14), transparent 24rem),
+    radial-gradient(circle at 82% 12%, rgba(139, 21, 21, 0.36), transparent 34rem),
+    linear-gradient(135deg, #210305 0%, #5c0e12 45%, #050203 100%);
+}
+
+.app-shell[data-theme="light"] .splash-page {
+  background:
+    radial-gradient(circle at 12% 6%, rgba(212, 175, 55, 0.18), transparent 24rem),
+    radial-gradient(circle at 82% 12%, rgba(139, 21, 21, 0.2), transparent 34rem),
+    linear-gradient(135deg, #5c0e12 0%, #8b1515 44%, #210305 100%);
+}
+
+.app-header,
+.top-nav,
+.splash-panel,
+.panel,
+.module-card,
+.info-block,
+.status-card,
+.certificate-preview,
+.table-wrap,
+.decision-card,
+.scenario-summary,
+.boundary-row,
+.identity-card,
+.admin-tools-menu,
+.course-rail,
+.lesson-canvas,
+.lesson-context-panel,
+.lesson-section-card,
+.context-card,
+.drawer-panel,
+.scenario-card,
+.lesson-insight-card,
+.term-card,
+.completion-status,
+.rail-progress,
+.answer-list label,
+.switch-row,
+.reviewer-toolbox {
+  background: var(--glass-surface);
+  border: 1px solid var(--glass-line);
+  box-shadow: var(--flat-shadow);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.app-header,
+.command-hero,
+.primary-panel,
+.hero-copy,
+.module-context-card,
+.certificate-readiness-card,
+.certificate-actions-card,
+.lesson-hero {
+  background:
+    linear-gradient(135deg, rgba(139, 21, 21, 0.92), rgba(33, 3, 5, 0.94));
+  border-color: rgba(212, 175, 55, 0.28);
+}
+
+.app-shell[data-theme="light"] .app-header,
+.app-shell[data-theme="light"] .command-hero,
+.app-shell[data-theme="light"] .primary-panel,
+.app-shell[data-theme="light"] .hero-copy,
+.app-shell[data-theme="light"] .module-context-card,
+.app-shell[data-theme="light"] .certificate-readiness-card,
+.app-shell[data-theme="light"] .certificate-actions-card,
+.app-shell[data-theme="light"] .lesson-hero {
+  background:
+    linear-gradient(135deg, #8b1515, #5c0e12);
+  color: #fff8ef;
+}
+
+.app-shell[data-theme="light"] .app-header h1,
+.app-shell[data-theme="light"] .app-header .eyebrow,
+.app-shell[data-theme="light"] .app-header .subhead,
+.app-shell[data-theme="light"] .hero-copy h2,
+.app-shell[data-theme="light"] .hero-copy p,
+.app-shell[data-theme="light"] .primary-panel h2,
+.app-shell[data-theme="light"] .primary-panel p,
+.app-shell[data-theme="light"] .lesson-hero h2,
+.app-shell[data-theme="light"] .lesson-hero p,
+.app-shell[data-theme="light"] .command-hero h2,
+.app-shell[data-theme="light"] .command-hero p {
+  color: #fff8ef;
+}
+
+.top-nav {
+  background: #17090c;
+  border-bottom-color: rgba(212, 175, 55, 0.24);
+}
+
+.app-shell[data-theme="light"] .top-nav {
+  background: #8b1515;
+}
+
+.top-nav button {
+  border-color: rgba(212, 175, 55, 0.24);
+  color: #f8efe8;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.app-shell[data-theme="light"] .top-nav button {
+  color: #fff8ef;
+}
+
+button,
+.top-nav button.active,
+.scenario-button.active,
+.lesson-tabs button.active,
+.rail-module.active,
+.lesson-step.active,
+.rail-final-button {
+  background: var(--ci-primary);
+  color: #fff8ef;
+  border-color: var(--ci-primary);
+  box-shadow: none;
+}
+
+button:not(.secondary):not(.ghost-button):not(.theme-toggle):hover:not(:disabled),
+.top-nav button.active,
+.lesson-tabs button.active,
+.rail-module.active,
+.lesson-step.active {
+  background: #a7191d;
+  color: #fff8ef;
+}
+
+button.secondary,
+.theme-toggle,
+.ghost-button,
+.scenario-button,
+.context-action {
+  background: transparent;
+  color: var(--text-main);
+  border: 1px solid var(--glass-line);
+  box-shadow: none;
+}
+
+button.secondary:hover:not(:disabled),
+.theme-toggle:hover:not(:disabled),
+.ghost-button:hover:not(:disabled),
+.scenario-button:hover:not(:disabled),
+.context-action:hover:not(:disabled) {
+  background: rgba(139, 21, 21, 0.12);
+  color: var(--text-strong);
+  border-color: var(--glass-line-strong);
+}
+
+.rail-orb,
+.lesson-step span,
+.rail-status.complete,
+.gate-icon.pass,
+.pill.pass,
+.status-pill.pass,
+.progress-value {
+  color: var(--ci-accent);
+  text-shadow: none;
+}
+
+.progress-bar span {
+  background: linear-gradient(90deg, var(--ci-primary), var(--ci-accent));
+  animation: none;
+}
+
+.lesson-body-grid,
+.objective-grid,
+.decision-grid,
+.term-grid,
+.lesson-selector {
+  gap: 0.65rem;
+}
+
+.lesson-section-card,
+.context-card,
+.drawer-panel,
+.lesson-insight-card,
+.term-card,
+.scenario-card,
+.resource-list div,
+.transcript-script,
+.completion-control-card,
+.certificate-field-grid div,
+.certificate-profile-list div,
+.mini-certificate-card {
+  box-shadow: none;
+}
+
+.lesson-insight-card,
+.term-card,
+.scenario-card,
+.resource-list div,
+.transcript-script,
+.completion-control-card {
+  background: transparent;
+  border-color: rgba(212, 175, 55, 0.16);
+}
+
+.splash-panel {
+  background: rgba(16, 5, 7, 0.92);
+  border-color: rgba(212, 175, 55, 0.24);
+}
+
+.app-shell[data-theme="light"] .splash-panel {
+  background: rgba(255, 248, 239, 0.96);
+}
+
+.splash-visual,
+.image-frame,
+.dashboard-image-strip,
+.module-visual,
+.clinical-visual {
+  box-shadow: none;
+  border-color: rgba(212, 175, 55, 0.24);
+}
+
+.login-image {
+  animation: none;
+}
+
+.visual-stat-card {
+  background: rgba(33, 3, 5, 0.86);
+  border-color: rgba(212, 175, 55, 0.28);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  box-shadow: none;
+}
+
+.view-stage,
+.drawer-panel,
+.lesson-body-grid,
+.content-details[open],
+.reviewer-disclosure[open],
+.reviewer-toolbox[open],
+.admin-tools-menu[open],
+.feedback.good,
+.feedback.bad,
+.lock-notice,
+.phi-warning {
+  animation: fadeOnly 180ms ease both;
+}
+
+.unlock-ribbon,
+.scenario-button.active,
+.check-row input:checked,
+.switch-row input:checked,
+.certificate-seal.available,
+.certificate-seal.locked {
+  animation: none;
+}
+
+button,
+.module-card,
+.panel,
+.info-block,
+.status-card,
+.boundary-row,
+.lesson-insight-card,
+.term-card,
+.scenario-card,
+.premium-answer-list label,
+.gate-icon.pass,
+.gate-icon.fail,
+.pill.pass,
+.pill.fail {
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.panel:hover,
+.module-card:hover,
+.info-block:hover,
+.status-card:hover,
+.boundary-row:hover,
+.lesson-insight-card:hover,
+.term-card:hover,
+.scenario-card:hover {
+  transform: none;
+  box-shadow: var(--flat-shadow);
+}
+
+button:hover:not(:disabled),
+.context-action:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+button:active:not(:disabled),
+.premium-answer-list label.selected,
+.gate-row:hover .gate-icon,
+.pill:hover {
+  transform: none;
+}
+
+.admin-profile-drawer > summary,
+.review-notes > summary {
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--ci-accent);
+  font-family: Poppins, Montserrat, sans-serif;
+  font-weight: 800;
+}
+
+.admin-profile-drawer .profile-editor {
+  margin-top: 0.85rem;
+}
+
+.reviewer-login-note {
+  margin: 0;
+  font-size: 0.82rem;
+}
+
+.review-ribbon {
+  display: none;
+}
+
+.compliance-footer {
+  max-width: min(1480px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 0 1rem 1.2rem;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  text-align: center;
+}
+
+@keyframes fadeOnly {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

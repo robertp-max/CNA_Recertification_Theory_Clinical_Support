@@ -12,7 +12,7 @@ export const modules = [
   })),
   {
     id: "final",
-    title: "Final Review, Exam/Test, Affidavit, and Certificate Status",
+    title: "Final Review / Exam / Affidavit / Certificate Status",
     time: "0.5 hr",
     summary:
       "Required certificate-gate section with locked final exam/test preview, remediation behavior, draft final signed statement, and certificate gate status.",
