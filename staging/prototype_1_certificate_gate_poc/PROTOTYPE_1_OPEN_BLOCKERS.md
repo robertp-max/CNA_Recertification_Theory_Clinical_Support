@@ -18,4 +18,5 @@
 | PHI warning not configured near documentation support | Privacy blockers | Learners may upload/type PHI | Privacy Officer / Moodle Admin | Add warning and disable PHI collection | Yes if documentation stub exists | Yes |
 | Final lesson content absent | Content blockers | Full course cannot launch | Instructional Design Lead | Build final content in later phase | No | Yes |
 | New video production excluded | Content blockers | Video-dependent course design cannot proceed | Product Lead | Use non-video MVP approach or later approved media plan | No | No, if MVP avoids new video |
+| Staging Moodle access details not available to build agent | Moodle/plugin blockers | Moodle category, course shells, profile fields, gate restrictions, test users, evidence capture, and QA execution cannot be configured or verified | Moodle Admin / Build Lead | Provide staging Moodle URL, admin-capable access path, and selected certificate and active-time candidate tools outside the repository | Yes | Yes |
 | Role permission override path untested | QA blockers | Unauthorized users might bypass gates | Moodle Admin / QA Lead | Run role permission tests | Yes | Yes |
