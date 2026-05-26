@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 83.94 76.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #cf9eaa;
+      }
+
+      .cls-5 {
+        font-size: 6.92px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #801323;
+        font-family: Poppins-Medium, Poppins;
+        font-weight: 500;
+      }
+
+      .cls-7, .cls-8 {
+        fill: none;
+        stroke-width: 1.87px;
+      }
+
+      .cls-7, .cls-3 {
+        stroke: #800020;
+      }
+
+      .cls-8 {
+        stroke: #801323;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 1.25px;
+      }
+
+      .cls-6 {
+        font-size: 5.35px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="35.25" y1="1021.84" x2="39.06" y2="959.25" gradientTransform="translate(0 -984)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5a425"/>
+      <stop offset="1" stop-color="#f5a425" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="35.4" cy="35.4" r="35.4"/>
+  <rect class="cls-2" x="12.6" y="15.1" width="69.8" height="51.8"/>
+  <rect class="cls-4" x="12.6" y="56.8" width="69.8" height="10.1"/>
+  <rect class="cls-2" x="40.7" y="66.9" width="15.8" height="7.9"/>
+  <path class="cls-7" d="m12.6,17.2v47.6c0,1.2.9,2.1,2.1,2.1h66.2c1.2,0,2.1-.9,2.1-2.1V17.2c0-1.2-.9-2.1-2.1-2.1H14.6c-1.1,0-2,1-2,2.1Z"/>
+  <path class="cls-7" d="m55.9,67.5v8.4m5.6,0h-21.4m-5.6,0h5.6m0-8.4v8.4"/>
+  <path class="cls-7" d="m12.6,56.2h70.3"/>
+  <circle class="cls-3" cx="48" cy="61.8" r="2.2"/>
+  <g id="better_pay" data-name="better pay">
+    <polyline class="cls-8" points="53.29 40.47 65.86 36.53 66.71 38.22 47.11 49.45 31.14 48.71 29.29 49.2 29.29 40.06 34.79 37.16 45.09 40.06 52.97 39.61 53.59 41.27 44.65 44.43 37.51 44.43"/>
+    <circle class="cls-8" cx="40.1" cy="25.11" r="4.07"/>
+    <circle class="cls-8" cx="51.48" cy="31.51" r="5.02"/>
+    <text class="cls-5" transform="translate(50.08 33.45)"><tspan x="0" y="0">$</tspan></text>
+    <text class="cls-6" transform="translate(38.55 26.49)"><tspan x="0" y="0">$</tspan></text>
+  </g>
+</svg>

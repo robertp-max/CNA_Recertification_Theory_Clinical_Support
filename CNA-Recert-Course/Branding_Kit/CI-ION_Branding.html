@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CI Institute of Nursing - Developer Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        ci: {
+                            maroon: '#8B1515',
+                            gold: '#FFC107',
+                            surface: '#F8F9FA',
+                            text: '#212529',
+                            border: '#DEE2E6',
+                        }
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'Montserrat', 'sans-serif'],
+                        body: ['Open Sans', 'Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;600;700&family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            background-color: #F7FAFC;
+            color: #2D3748;
+            font-family: 'Open Sans', 'Inter', sans-serif;
+            scroll-behavior: smooth;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Montserrat', 'Inter', sans-serif;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #8B1515;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 16px;
+            position: fixed;
+            z-index: 50;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+        .toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+        .interactive-element {
+            transition: all 0.2s ease-in-out;
+        }
+        .interactive-element:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+<!-- Chosen Palette: Trust Blue, Medical Teal/Blue, Healing Green, Background Gray, Deep Charcoal -->
+<!-- Application Structure Plan: The application is structured as a vertical scrolling dashboard specifically designed for developers. It groups information logically into Visual Identity, Color System (with interactive copy-to-clipboard swatches and usage distribution charting), Typography (with live testing), and UI Components (with ready-to-use CSS). This architecture was chosen to serve as a functional, interactive 'living document' rather than a static PDF, allowing developers to directly interact with, test, and copy the assets they need for the CI Institute of Nursing web application. -->
+<!-- Visualization & Content Choices: 
+1. Logos -> HTML Image Tags -> Visual Reference -> Standard web implementation.
+2. Color Distribution -> Chart.js Donut Chart -> Interactive Hover -> Shows developers the recommended balance of UI colors (60/30/10 rule).
+3. Color Swatches -> Interactive HTML Divs -> Click to copy HEX -> Speeds up developer workflow.
+4. Typography -> HTML Inputs and dynamic JS -> Live preview -> Allows developers to test how actual course text will look in the brand fonts.
+5. CSS Block -> HTML Pre/Code -> Click to copy -> Immediate integration. -->
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+    <nav class="fixed top-0 left-0 right-0 bg-white shadow-md z-40 border-b border-ci-border">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <span class="font-heading font-bold text-xl text-ci-maroon">CI Developer Portal</span>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <button onclick="document.getElementById('identity').scrollIntoView()" class="text-ci-text hover:text-ci-maroon font-semibold transition-colors">Identity</button>
+                    <button onclick="document.getElementById('colors').scrollIntoView()" class="text-ci-text hover:text-ci-maroon font-semibold transition-colors">Colors</button>
+                    <button onclick="document.getElementById('typography').scrollIntoView()" class="text-ci-text hover:text-ci-maroon font-semibold transition-colors">Typography</button>
+                    <button onclick="document.getElementById('components').scrollIntoView()" class="text-ci-text hover:text-ci-maroon font-semibold transition-colors">Components</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 space-y-16">
+        
+        <header class="text-center py-12 bg-ci-maroon text-white rounded-xl shadow-lg">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">CI Institute of Nursing</h1>
+            <p class="text-lg md:text-xl text-ci-surface max-w-2xl mx-auto">Interactive Brand Kit & UI Specifications for Application Developers</p>
+        </header>
+
+        <section id="identity" class="scroll-mt-24">
+            <div class="mb-8 border-b border-ci-border pb-4">
+                <h2 class="text-3xl font-bold text-ci-maroon mb-4">1. Visual Identity & Logos</h2>
+                <p class="text-ci-text text-lg leading-relaxed max-w-4xl">
+                    This section defines the core visual representation of the CI Institute of Nursing. The primary logo should be used in light-themed areas, standard branding contexts, and application headers. The white logomark is strictly reserved for dark mode interfaces, solid color footers, and mobile application icons. Consistent clear space is mandatory.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-white p-8 rounded-xl shadow-sm border border-ci-border flex flex-col items-center justify-center interactive-element">
+                    <h3 class="text-sm font-bold text-ci-text uppercase tracking-wider mb-6 w-full text-left">Primary Logo (Light UI)</h3>
+                    <div class="flex-grow flex items-center justify-center p-4 bg-gray-50 w-full rounded border border-dashed border-gray-300 relative">
+                        <div class="absolute inset-0 m-4 border border-red-200 opacity-50"></div>
+                        <img src="https://ciinstituteofnursing.com/assets/logos/ci-ion-logo-original.svg" alt="Primary Logo" class="max-h-24 z-10" />
+                    </div>
+                    <p class="text-xs text-center mt-4 font-mono text-gray-500 break-all">https://ciinstituteofnursing.com/assets/logos/ci-ion-logo-original.svg</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm border border-ci-border flex flex-col items-center justify-center interactive-element">
+                    <h3 class="text-sm font-bold text-ci-text uppercase tracking-wider mb-6 w-full text-left">White Logomark (Dark UI)</h3>
+                    <div class="flex-grow flex items-center justify-center p-4 bg-ci-maroon w-full rounded relative">
+                        <div class="absolute inset-0 m-4 border border-white opacity-20"></div>
+                        <img src="https://ciinstituteofnursing.com/assets/logos/ci-ion-logomark-white.svg" alt="White Logomark" class="max-h-24 z-10" />
+                    </div>
+                    <p class="text-xs text-center mt-4 font-mono text-gray-500 break-all">https://ciinstituteofnursing.com/assets/logos/ci-ion-logomark-white.svg</p>
+                </div>
+            </div>
+            <div class="mt-4 bg-yellow-50 p-4 rounded-lg border border-yellow-100 flex items-start">
+                <span class="text-2xl mr-3">&#9888;</span>
+                <div>
+                    <h4 class="font-bold text-ci-maroon">Usage Rules</h4>
+                    <ul class="list-disc list-inside text-sm text-ci-text mt-2 space-y-1">
+                        <li>Maintain padding around the logo equal to at least 20% of the logo's height.</li>
+                        <li>Do not stretch or distort the logos. Always lock the aspect ratio when resizing.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="colors" class="scroll-mt-24">
+            <div class="mb-8 border-b border-ci-border pb-4">
+                <h2 class="text-3xl font-bold text-ci-maroon mb-4">2. Color System & Distribution</h2>
+                <p class="text-ci-text text-lg leading-relaxed max-w-4xl">
+                    The color system is strategically designed to convey trust, professionalism, and healthcare excellence. The chart below illustrates the recommended proportion of color usage across application views. The interactive swatches below allow developers to quickly copy specific HEX codes for implementation.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8">
+                <div class="lg:col-span-1 bg-white p-6 rounded-xl shadow-sm border border-ci-border flex flex-col items-center justify-center">
+                    <h3 class="text-lg font-bold text-ci-maroon mb-2 text-center">UI Color Distribution</h3>
+                    <p class="text-sm text-center text-gray-500 mb-4">Recommended balance for standard application pages.</p>
+                    <div class="chart-container w-full">
+                        <canvas id="colorDistributionChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="lg:col-span-2 grid grid-cols-2 md:grid-cols-3 gap-4">
+                    <div onclick="copyText('#8B1515')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#8B1515] flex items-center justify-center">
+                            <span class="opacity-0 group-hover:opacity-100 text-white font-mono text-sm transition-opacity bg-black bg-opacity-30 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Primary Maroon</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#8B1515</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">Headers, large backgrounds.</p>
+                        </div>
+                    </div>
+
+                    <div onclick="copyText('#FFC107')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#FFC107] flex items-center justify-center">
+                            <span class="opacity-0 group-hover:opacity-100 text-ci-text font-mono text-sm transition-opacity bg-white bg-opacity-50 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Accent Gold</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#FFC107</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">Call to actions, buttons, highlights.</p>
+                        </div>
+                    </div>
+
+                    <div onclick="copyText('#FFFFFF')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#FFFFFF] flex items-center justify-center border-b border-gray-200">
+                            <span class="opacity-0 group-hover:opacity-100 text-ci-text font-mono text-sm transition-opacity bg-black bg-opacity-10 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Pure White</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#FFFFFF</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">Cards, content areas, text on maroon.</p>
+                        </div>
+                    </div>
+
+                    <div onclick="copyText('#212529')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#212529] flex items-center justify-center">
+                            <span class="opacity-0 group-hover:opacity-100 text-white font-mono text-sm transition-opacity bg-white bg-opacity-30 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Text Dark</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#212529</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">Standard body copy and paragraphs.</p>
+                        </div>
+                    </div>
+
+                    <div onclick="copyText('#DEE2E6')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#DEE2E6] flex items-center justify-center border-b border-gray-200">
+                            <span class="opacity-0 group-hover:opacity-100 text-ci-navy font-mono text-sm transition-opacity bg-black bg-opacity-10 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Border Gray</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#DEE2E6</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">Card borders, input borders, dividers.</p>
+                        </div>
+                    </div>
+
+                    <div onclick="copyText('#F8F9FA')" class="cursor-pointer group flex flex-col rounded-lg overflow-hidden shadow-sm border border-ci-border interactive-element">
+                        <div class="h-24 bg-[#F8F9FA] flex items-center justify-center border-b border-gray-200">
+                            <span class="opacity-0 group-hover:opacity-100 text-ci-navy font-mono text-sm transition-opacity bg-black bg-opacity-10 px-2 py-1 rounded">Click to Copy</span>
+                        </div>
+                        <div class="p-3 bg-white">
+                            <p class="font-bold text-sm text-ci-text">Surface Gray</p>
+                            <p class="font-mono text-xs text-gray-500 mt-1">#F8F9FA</p>
+                            <p class="text-xs text-gray-400 mt-2 line-clamp-2">App background, secondary module bg.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="typography" class="scroll-mt-24">
+            <div class="mb-8 border-b border-ci-border pb-4">
+                <h2 class="text-3xl font-bold text-ci-maroon mb-4">3. Typography Scale & Testing</h2>
+                <p class="text-ci-text text-lg leading-relaxed max-w-4xl">
+                    The application uses clean, highly legible sans-serif fonts optimized for both web and mobile screens, crucial for prolonged learning sessions. Use the interactive tester below to visualize how different content blocks will render across the mobile-first typography scale.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border border-ci-border p-6 md:p-8 flex flex-col md:flex-row gap-8">
+                
+                <div class="w-full md:w-1/3 bg-gray-50 p-6 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-lg mb-4 text-ci-maroon">Live Content Tester</h3>
+                    <div class="space-y-4">
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1">Select Hierarchy Level</label>
+                            <select id="typeSelector" class="w-full border-gray-300 rounded-md shadow-sm focus:border-ci-gold focus:ring focus:ring-ci-gold focus:ring-opacity-50 p-2 border">
+                                <option value="h1">H1 - Page Title (24px)</option>
+                                <option value="h2">H2 - Section Header (20px)</option>
+                                <option value="h3">H3 - Module Header (18px)</option>
+                                <option value="p" selected>Body - Standard Text (16px)</option>
+                                <option value="small">Small - Captions (14px)</option>
+                                <option value="mono">Mono - Data/Codes (14px)</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1">Custom Text</label>
+                            <textarea id="typeInput" rows="3" class="w-full border-gray-300 rounded-md shadow-sm focus:border-ci-gold focus:ring focus:ring-ci-gold focus:ring-opacity-50 p-2 border">Our comprehensive program provides the skills and knowledge you need to become a Certified Nursing Assistant (CNA).</textarea>
+                        </div>
+                        <div class="pt-4 border-t border-gray-200">
+                            <p class="text-xs text-gray-500 mb-2">Primary Heading Font: <strong class="text-ci-maroon">Poppins (500-700)</strong></p>
+                            <p class="text-xs text-gray-500 mb-2">Primary Body Font: <strong class="text-ci-maroon">Open Sans (400)</strong></p>
+                            <p class="text-xs text-gray-500">Monospace Font: <strong class="text-ci-maroon">Roboto Mono</strong></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-full md:w-2/3 flex items-center justify-center p-8 bg-white border border-gray-200 rounded-lg shadow-inner min-h-[300px]">
+                    <div id="typeOutput" class="w-full break-words transition-all duration-300 ease-in-out text-base font-body text-ci-text font-normal">
+                        Our comprehensive program provides the skills and knowledge you need to become a Certified Nursing Assistant (CNA).
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="components" class="scroll-mt-24">
+            <div class="mb-8 border-b border-ci-border pb-4">
+                <h2 class="text-3xl font-bold text-ci-maroon mb-4">4. UI Components & CSS Configuration</h2>
+                <p class="text-ci-text text-lg leading-relaxed max-w-4xl">
+                    Standardized UI components ensure consistency across the application. Below are the primary button configurations, card layouts, and the required CSS variable root block for immediate integration into the project stylesheet.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+                <div class="space-y-8">
+                    <div class="bg-white p-6 rounded-xl shadow-sm border border-ci-border">
+                        <h3 class="text-lg font-bold text-ci-maroon mb-4 border-b pb-2">Buttons</h3>
+                        <div class="flex flex-col sm:flex-row gap-4 items-center">
+                            <button class="bg-ci-gold hover:bg-yellow-500 text-ci-text font-semibold py-2 px-6 rounded-md shadow transition-colors w-full sm:w-auto">
+                                Get Started (Primary)
+                            </button>
+                            <button class="bg-transparent border-2 border-ci-maroon text-ci-maroon hover:bg-gray-50 font-semibold py-2 px-6 rounded-md transition-colors w-full sm:w-auto">
+                                Secondary Action
+                            </button>
+                        </div>
+                        <div class="mt-4 text-sm text-gray-600 bg-gray-50 p-3 rounded">
+                            <span class="font-mono font-bold text-xs">Primary:</span> bg-[#FFC107], text-[#212529], border-radius: 6px.<br>
+                            <span class="font-mono font-bold text-xs mt-1 block">Hover:</span> Darken gold slightly.
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-sm border border-ci-border shadow-[0_4px_6px_-1px_rgba(0,0,0,0.1),0_2px_4px_-1px_rgba(0,0,0,0.06)]">
+                        <h3 class="text-lg font-bold text-ci-navy mb-2">Card Container</h3>
+                        <p class="text-ci-text mb-4">Cards are used to highlight course modules, announcements, and profile settings.</p>
+                        <div class="text-sm text-gray-600 bg-gray-50 p-3 rounded font-mono break-all">
+                            Background: #FFFFFF<br>
+                            Border Radius: 8px<br>
+                            Shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-[#1e1e1e] rounded-xl overflow-hidden shadow-lg border border-gray-800 flex flex-col">
+                    <div class="bg-[#2d2d2d] px-4 py-2 flex justify-between items-center">
+                        <span class="text-gray-300 font-mono text-sm">variables.css</span>
+                        <button onclick="copyCSS()" class="text-xs bg-ci-gold hover:bg-yellow-500 text-ci-text font-semibold px-3 py-1 rounded transition-colors">
+                            Copy Code
+                        </button>
+                    </div>
+                    <pre class="p-4 overflow-x-auto text-sm text-green-400 font-mono flex-grow"><code id="cssCode">:root {
+  /* Brand Colors */
+  --ci-primary-maroon: #8B1515;
+  --ci-accent-gold: #FFC107;
+  
+  /* Neutral/UI Colors */
+  --ci-bg-surface: #F8F9FA;
+  --ci-text-main: #212529;
+  --ci-border-light: #DEE2E6;
+  --ci-white: #FFFFFF;
+
+  /* Typography */
+  --font-heading: 'Poppins', 'Montserrat', sans-serif;
+  --font-body: 'Open Sans', 'Inter', sans-serif;
+  --font-mono: 'Roboto Mono', monospace;
+
+  /* UI Styling */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}</code></pre>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-ci-maroon text-white py-8 text-center">
+        <p class="text-sm opacity-80">&copy; 2026 CI Institute of Nursing. Internal Developer Resources.</p>
+    </footer>
+
+    <div id="toast" class="toast">Copied to clipboard!</div>
+
+    <script>
+        const cssCodeBlock = document.getElementById('cssCode').innerText;
+
+        function copyText(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                showToast(`Copied ${text} to clipboard!`);
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+            });
+        }
+
+        function copyCSS() {
+            navigator.clipboard.writeText(cssCodeBlock).then(() => {
+                showToast('CSS Variables copied to clipboard!');
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+            });
+        }
+
+        function showToast(message) {
+            const toast = document.getElementById("toast");
+            toast.innerText = message;
+            toast.className = "toast show";
+            setTimeout(function(){ toast.className = toast.className.replace("show", ""); }, 3000);
+        }
+
+        const typeSelector = document.getElementById('typeSelector');
+        const typeInput = document.getElementById('typeInput');
+        const typeOutput = document.getElementById('typeOutput');
+
+        const typographyMap = {
+            'h1': 'text-2xl md:text-[24px] font-heading font-bold text-ci-maroon leading-tight',
+            'h2': 'text-xl md:text-[20px] font-heading font-semibold text-ci-maroon leading-snug',
+            'h3': 'text-lg md:text-[18px] font-heading font-semibold text-ci-maroon leading-snug',
+            'p': 'text-base md:text-[16px] font-body font-normal text-ci-text leading-relaxed',
+            'small': 'text-sm md:text-[14px] font-body font-normal text-gray-600 leading-normal',
+            'mono': 'text-sm md:text-[14px] font-mono font-normal text-ci-text leading-normal bg-gray-100 p-1 rounded'
+        };
+
+        function updateTypography() {
+            const selectedStyle = typeSelector.value;
+            const textValue = typeInput.value || "Please enter some text to preview.";
+            
+            typeOutput.className = `w-full break-words transition-all duration-300 ease-in-out ${typographyMap[selectedStyle]}`;
+            typeOutput.innerText = textValue;
+        }
+
+        typeSelector.addEventListener('change', updateTypography);
+        typeInput.addEventListener('input', updateTypography);
+
+        const ctx = document.getElementById('colorDistributionChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Surface Gray (Backgrounds)', 'Primary Maroon (Headers/Sections)', 'White (Cards/Content)', 'Accent Gold (Buttons)'],
+                datasets: [{
+                    data: [40, 25, 25, 10],
+                    backgroundColor: [
+                        '#F8F9FA',
+                        '#8B1515',
+                        '#FFFFFF',
+                        '#FFC107'
+                    ],
+                    borderColor: '#DEE2E6',
+                    borderWidth: 1,
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            font: {
+                                family: "'Open Sans', sans-serif",
+                                size: 12
+                            },
+                            color: '#2D3748',
+                            boxWidth: 15
+                        }
+                    },
+                    tooltip: {
+                        bodyFont: {
+                            family: "'Open Sans', sans-serif"
+                        },
+                        callbacks: {
+                            label: function(context) {
+                                return context.label + ': ~' + context.parsed + '% of UI';
+                            }
+                        }
+                    }
+                },
+                cutout: '70%'
+            }
+        });
+    </script>
+</body>
+</html>

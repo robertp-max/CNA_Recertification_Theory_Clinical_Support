@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 83.34 76.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #cf9eaa;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke-width: 1.87px;
+      }
+
+      .cls-5, .cls-3 {
+        stroke: #800020;
+      }
+
+      .cls-6 {
+        stroke: #801323;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 1.25px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="47.79" y1="1021.84" x2="51.6" y2="959.25" gradientTransform="translate(0 -984)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5a425"/>
+      <stop offset="1" stop-color="#f5a425" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="47.94" cy="35.4" r="35.4"/>
+  <rect class="cls-2" x=".94" y="15.1" width="69.8" height="51.8"/>
+  <rect class="cls-4" x=".94" y="56.8" width="69.8" height="10.1"/>
+  <rect class="cls-2" x="29.04" y="66.9" width="15.8" height="7.9"/>
+  <path class="cls-5" d="m.94,17.2v47.6c0,1.2.9,2.1,2.1,2.1h66.2c1.2,0,2.1-.9,2.1-2.1V17.2c0-1.2-.9-2.1-2.1-2.1H2.94c-1.1,0-2,1-2,2.1Z"/>
+  <path class="cls-5" d="m44.24,67.5v8.4m5.6,0h-21.4m-5.6,0h5.6m0-8.4v8.4"/>
+  <path class="cls-5" d="m.94,56.2h70.3"/>
+  <circle class="cls-3" cx="36.34" cy="61.8" r="2.2"/>
+  <g id="flexibility">
+    <path class="cls-6" d="m35.33,49.63s2.29-15.15,15.15-15.15"/>
+    <line class="cls-6" x1="35.93" y1="40.19" x2="35.93" y2="22.61"/>
+    <path class="cls-6" d="m34.13,44.19s-1.12-11.71-11.71-11.71"/>
+    <polyline class="cls-6" points="49.13 31.7 52.01 34.59 49.21 37.39"/>
+    <polyline class="cls-6" points="33.09 24.05 35.97 21.17 38.77 23.97"/>
+    <polyline class="cls-6" points="23.15 35.32 20.26 32.44 23.06 29.64"/>
+  </g>
+</svg>
