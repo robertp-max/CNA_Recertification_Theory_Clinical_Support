@@ -1,1 +1,11 @@
-CNA_Recertification_Theory_Clinical_Support/
+.env
+*.log
+/tmp/
+/exports/
+/audit-evidence/
+/screenshots/
+/moodle-backups/
+/learner-data/
+/test-evidence/
+/private-approvals/
+/production-evidence/
