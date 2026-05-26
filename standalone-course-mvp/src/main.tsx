@@ -90,7 +90,7 @@ type DemoUserProfile = {
 
 const defaultDemoProfile: DemoUserProfile = {
   displayName: "James Bond",
-  role: "Stakeholder Admin / Demo Learner",
+  role: "Stakeholder Admin / Review Learner",
   email: "admin@careindeed.com",
   legalFirstName: "James",
   legalLastName: "Bond",
@@ -100,8 +100,8 @@ const defaultDemoProfile: DemoUserProfile = {
   phone: "(650) 268-4983",
   organization: "Care Indeed / CI Institute of Nursing",
   location: "Menlo Park, CA",
-  reviewStatus: "Stakeholder demo user",
-  notes: "Fictional seeded profile for prototype review only; not a real learner record.",
+  reviewStatus: "Stakeholder review user",
+  notes: "Fictional seeded profile for internal review only; not a real learner record.",
 };
 
 const initialState: LearnerState = {
@@ -174,15 +174,19 @@ function App() {
 
   return (
     <div className="app-shell" data-theme={theme}>
-      <div className="review-ribbon">Reviewer environment - not for learner use</div>
-      {unlockMode && <div className="unlock-ribbon">Unlock Mode Active - Stakeholder Review Only - Does Not Represent Learner Completion</div>}
+      <div className="review-ribbon">Reviewer environment | Mock certificate controls only | No learner records</div>
+      {unlockMode && <div className="unlock-ribbon">Unlock Mode Active | Internal navigation only | Gates remain unchanged</div>}
       <header className="app-header">
         <div>
-          <img className="header-logo" src="/brand/logos/ci-ion-logomark-white.svg" alt="CI Institute of Nursing" />
+          <img
+            className="header-logo"
+            src={theme === "dark" ? "/brand/logos/ci-ion-logomark-white.svg" : "/brand/logos/ci-ion-logomark-original.svg"}
+            alt="CI Institute of Nursing"
+          />
           <p className="eyebrow">CareIndeed / CI Institute of Nursing</p>
-          <h1>CNA Recertification Theory + Clinical Support MVP</h1>
+          <h1>CNA Recertification Theory + Clinical Support Review</h1>
           <p className="subhead">
-            Mobile-first prototype for required online CE flow, certificate gates, optional clinical support,
+            Premium stakeholder review for required online CE flow, certificate gates, optional clinical support,
             audit preview, and Moodle migration mapping.
           </p>
         </div>
@@ -198,7 +202,7 @@ function App() {
           <ThemeToggle theme={theme} setTheme={setTheme} />
           <details className="admin-tools-menu">
             <summary><Wrench /> Reviewer Tools</summary>
-            <button className="secondary" onClick={() => setView("qa")}>Open QA / Negative Tests</button>
+            <button className="secondary" onClick={() => setView("qa")}>Open Advanced QA Controls</button>
             <p>Internal review utilities remain available but are kept out of the primary stakeholder path.</p>
           </details>
           <button
@@ -312,48 +316,67 @@ function SplashLogin({
       return;
     }
 
-    setError("Invalid demo credentials or demo login environment variables are not configured.");
+    setError("Invalid review credentials or review login environment variables are not configured.");
     setLoading(false);
   }
 
   return (
     <main className="splash-page">
-      <section className="splash-panel">
-        <div className="splash-toolbar">
-          <span>Reviewer access</span>
-          <ThemeToggle theme={theme} setTheme={setTheme} />
-        </div>
-        <div className="brand-lockup">
-          <img className="brand-logo" src="/brand/logos/ci-ion-logo-original.svg" alt="CI Institute of Nursing" />
-          <div>
-            <p className="eyebrow">CareIndeed / CI Institute of Nursing</p>
-            <h1>CNA Recertification Theory + Clinical Support MVP</h1>
+      <section className="splash-panel splash-layout">
+        <div className="splash-copy">
+          <div className="splash-toolbar">
+            <span>Reviewer access</span>
+            <ThemeToggle theme={theme} setTheme={setTheme} />
+          </div>
+          <div className="brand-lockup">
+            <img
+              className="brand-logo"
+              src={theme === "dark" ? "/brand/logos/ci-ion-logomark-white.svg" : "/brand/logos/ci-ion-logo-original.svg"}
+              alt="CI Institute of Nursing"
+            />
+            <div>
+              <p className="eyebrow">CareIndeed / CI Institute of Nursing</p>
+              <h1>CNA Recertification Theory + Clinical Support Review</h1>
+            </div>
+          </div>
+          <span className="review-badge">Stakeholder Review Access</span>
+          <p className="splash-warning">Mock review environment: not a live CE course or certificate system.</p>
+          <form className="login-form" onSubmit={submit}>
+            <label>
+              Email
+              <input autoComplete="email" value={email} onChange={(event) => setEmail(event.target.value)} />
+            </label>
+            <label>
+              Password
+              <input type="password" autoComplete="current-password" value={password} onChange={(event) => setPassword(event.target.value)} />
+            </label>
+            {localHints && (
+              <details className="reviewer-disclosure">
+                <summary>Local access note</summary>
+                <p>
+                  The local Vite fallback accepts the configured review credential when the Vercel Function is unavailable.
+                  Use deployment protection or Vercel Authentication for deployed review links.
+                </p>
+              </details>
+            )}
+            {error && <div className="feedback bad">{error}</div>}
+            <button disabled={loading}>{loading ? "Checking..." : "Sign in"}</button>
+          </form>
+          <div className="notice">
+            Stakeholder access layer only. No real learner record, no PHI, and no certificate issuance occurs here.
           </div>
         </div>
-        <span className="review-badge">Stakeholder Review Prototype</span>
-        <p className="splash-warning">Prototype only - not a live CE course or certificate system.</p>
-        <form className="login-form" onSubmit={submit}>
-          <label>
-            Email
-            <input autoComplete="email" value={email} onChange={(event) => setEmail(event.target.value)} />
-          </label>
-          <label>
-            Password
-            <input type="password" autoComplete="current-password" value={password} onChange={(event) => setPassword(event.target.value)} />
-          </label>
-          {localHints && (
-            <p className="source-note">
-              Local/demo hint: this Vite-only fallback accepts the configured demo credential for review when the
-              Vercel Function is unavailable. It is not production authentication.
-            </p>
-          )}
-          {error && <div className="feedback bad">{error}</div>}
-          <button disabled={loading}>{loading ? "Checking..." : "Sign in"}</button>
-        </form>
-        <div className="notice">
-          This form is a stakeholder experience layer only. Use Vercel Deployment Protection or Vercel Authentication
-          as the real access control for deployed review links.
-        </div>
+        <aside className="splash-visual" aria-label="CNA students reviewing online coursework">
+          <div className="image-frame login-image" />
+          <div className="visual-stat-card">
+            <span>Integrity Gates</span>
+            <strong>Required CE only</strong>
+          </div>
+          <div className="visual-stat-card secondary-stat">
+            <span>Support Boundary</span>
+            <strong>Optional, non-gating</strong>
+          </div>
+        </aside>
       </section>
     </main>
   );
@@ -381,10 +404,10 @@ function Landing({ setView, gates }: { setView: (view: View) => void; gates: Gat
       <section className="hero">
       <div className="hero-copy">
         <p className="eyebrow">12-hour asynchronous theory pathway</p>
-        <h2>Required online CE prototype with certificate controls disabled for live use</h2>
+        <h2>Premium online CE pathway with certificate integrity controls</h2>
         <p>
-          This standalone MVP demonstrates the intended learner/admin experience before Moodle production build. It
-          preserves the CDPH approval blockers, active-time validation warning, final exam/test preview, final
+          This standalone review build demonstrates the intended learner/admin experience before Moodle launch. It
+          preserves approval blockers, active-time validation warnings, final exam/test preview, final
           statement workflow, and audit packet structure.
         </p>
         <div className="button-row">
@@ -397,7 +420,7 @@ function Landing({ setView, gates }: { setView: (view: View) => void; gates: Gat
       <div className="hero-media" aria-label="CI Institute of Nursing brand image" />
       <aside className="status-card" aria-label="Course status preview">
         <h3>Certificate Status Preview</h3>
-        <p className="warning-text">Prototype only. No live certificate issuance. CDPH approval is not claimed.</p>
+        <p className="warning-text">Mock preview only. No live certificate issuance. CDPH approval is not claimed.</p>
         {gates.slice(0, 6).map((gate) => (
           <GateRow key={gate.id} gate={gate} />
         ))}
@@ -458,20 +481,32 @@ function Dashboard(props: {
           <p>{nextStep.note}</p>
           <button onClick={() => props.setView(nextStep.view)}>{nextStep.action}</button>
         </div>
-        <ProgressPanel title="Required Theory Progress" value={requiredProgress} note="Includes required theory, active-time prototype, final exam, and affidavit only." />
+        <ProgressPanel title="Required Theory Progress" value={requiredProgress} note="Includes required theory, active-time simulation, final exam, and affidavit only." />
         <ProgressPanel title="Optional Clinical Support" value={optionalProgress} note="Shown separately. Skipping it must not block the online CE certificate." />
       </div>
-      <DemoUserProfilePanel
-        profile={props.profile}
-        updateProfile={props.updateProfile}
-        resetDemoProfile={props.resetDemoProfile}
-        unlockMode={props.unlockMode}
-        setUnlockMode={props.setUnlockMode}
-      />
-      <div className="gate-list">
-        {props.gates.map((gate) => (
-          <GateRow key={gate.id} gate={gate} />
-        ))}
+      <div className="dashboard-lower">
+        <DemoUserProfilePanel
+          profile={props.profile}
+          updateProfile={props.updateProfile}
+          resetDemoProfile={props.resetDemoProfile}
+          unlockMode={props.unlockMode}
+          setUnlockMode={props.setUnlockMode}
+        />
+        <aside className="panel gate-summary-panel">
+          <div className="panel-heading">
+            <div>
+              <p className="eyebrow">Certificate readiness</p>
+              <h3>Required Gate Evidence</h3>
+            </div>
+            <StatusPill pass={props.gates.every((gate) => gate.pass)} label={props.gates.every((gate) => gate.pass) ? "Ready" : "Blocked"} />
+          </div>
+          <div className="dashboard-image-strip" aria-label="CNA online learning visual" />
+          <div className="gate-list">
+            {props.gates.map((gate) => (
+              <GateRow key={gate.id} gate={gate} />
+            ))}
+          </div>
+        </aside>
       </div>
     </section>
   );
@@ -490,29 +525,43 @@ function ModuleShell({
 }) {
   return (
     <section>
-      <SectionHeader icon={<BookOpen />} title="Module Navigation" text="Full 12-hour shell seeded from extracted content with visible review flags and Moodle migration notes." />
-      <div className="module-grid">
-        {modules.map((module) => (
-          <article key={module.id} className="module-card">
-            <p className="eyebrow">{module.time}</p>
-            <h3>{module.title}</h3>
-            <p>{module.summary}</p>
-            <div className="tag-row">
-              <span>{module.id === "final" ? "Required certificate gates" : "Required online CE"}</span>
-              <span>{module.status}</span>
-            </div>
-            {module.id === "m0" && <button onClick={() => setView("module0")}>{module0Complete || unlockMode ? "Review Module 0" : "Open Module 0"}</button>}
-            {module.id === "m1" && <button onClick={() => setView("module1")}>{module1Complete || unlockMode ? "Review Module 1" : "Open Module 1"}</button>}
-            {module.id === "final" && <button onClick={() => setView("exam")}>Open Final Preview</button>}
-            {module.id !== "final" && <SeededModuleDetails module={moduleContents.find((item) => item.id === module.id)} />}
-            {module.placeholder && (
-              <div className="notice">
-                <strong>Placeholder:</strong> Content placeholder pending approved source conversion. Question bank
-                placeholder pending approved exam blueprint.
+      <SectionHeader icon={<BookOpen />} title="Module Navigation" text="Full 12-hour review shell seeded from extracted content with review flags and Moodle migration notes." />
+      <div className="module-layout">
+        <aside className="panel module-context-card">
+          <div className="module-visual" aria-label="CNA coursework visual" />
+          <p className="eyebrow">Course experience</p>
+          <h3>Guided, gated, and audit aware</h3>
+          <p>
+            Required theory modules move learners toward a locked certificate preview while optional clinical support remains separate.
+          </p>
+          <div className="tag-row">
+            <span>12-hour theory pathway</span>
+            <span>Optional support excluded</span>
+          </div>
+        </aside>
+        <div className="module-grid">
+          {modules.map((module) => (
+            <article key={module.id} className="module-card">
+              <p className="eyebrow">{module.time}</p>
+              <h3>{module.title}</h3>
+              <p>{module.summary}</p>
+              <div className="tag-row">
+                <span>{module.id === "final" ? "Required certificate gates" : "Required online CE"}</span>
+                <span>{module.status}</span>
               </div>
-            )}
-          </article>
-        ))}
+              {module.id === "m0" && <button onClick={() => setView("module0")}>{module0Complete || unlockMode ? "Review Module 0" : "Open Module 0"}</button>}
+              {module.id === "m1" && <button onClick={() => setView("module1")}>{module1Complete || unlockMode ? "Review Module 1" : "Open Module 1"}</button>}
+              {module.id === "final" && <button onClick={() => setView("exam")}>Open Final Preview</button>}
+              {module.id !== "final" && <SeededModuleDetails module={moduleContents.find((item) => item.id === module.id)} />}
+              {module.placeholder && (
+                <div className="notice">
+                  <strong>Placeholder:</strong> Content placeholder pending approved source conversion. Question bank
+                  placeholder pending approved exam blueprint.
+                </div>
+              )}
+            </article>
+          ))}
+        </div>
       </div>
     </section>
   );
@@ -521,7 +570,7 @@ function ModuleShell({
 function Module0({ state, update }: { state: LearnerState; update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void }) {
   return (
     <section>
-      <SectionHeader icon={<ShieldAlert />} title="Module 0: Orientation and Compliance Boundaries" text="Functional prototype based on extracted Module 0 source content." />
+      <SectionHeader icon={<ShieldAlert />} title="Module 0: Orientation and Compliance Boundaries" text="Functional review screen based on extracted Module 0 source content." />
       <div className="content-stack">
         <article className="panel">
           <h3>Course Scope</h3>
@@ -593,7 +642,7 @@ function Module1({
   const correct = answer === "report";
   return (
     <section>
-      <SectionHeader icon={<BookOpen />} title="Module 1: Infection Control and PPE" text="Functional prototype using extracted Module 1 source content; source notes require SME/source review before production." />
+      <SectionHeader icon={<BookOpen />} title="Module 1: Infection Control and PPE" text="Functional review screen using extracted Module 1 source content; source notes require SME/source review before production." />
       {!module0Complete && !unlockMode && <LockNotice text="Module 1 is intended to unlock after Module 0 identity, online cap, PHI, and orientation acknowledgements are complete." />}
       {!module0Complete && unlockMode && <LockNotice text="Unlock Mode lets stakeholders review Module 1 without marking Module 0 complete." />}
       <div className="content-stack">
@@ -608,7 +657,7 @@ function Module1({
             <li>Environmental cleaning and safe linen handling.</li>
           </ul>
           <div className="notice">
-            Module 1 production content is marked in the source package as needing SME/source review. This prototype does
+            Module 1 production content is marked in the source package as needing SME/source review. This review build does
             not claim final approved content status.
           </div>
         </article>
@@ -643,7 +692,7 @@ function Module1({
             <div className={correct ? "feedback good" : "feedback bad"}>
               {correct
                 ? "Correct. New confusion or a sudden change from baseline can signal infection or another urgent change. Report it directly to the licensed nurse."
-                : "Not yet. Review the reporting section: sudden confusion in an older resident should be reported immediately. This remediation message is part of the prototype feedback evidence."}
+                : "Not yet. Review the reporting section: sudden confusion in an older resident should be reported immediately. This remediation message is part of the review feedback evidence."}
             </div>
           )}
         </article>
@@ -674,12 +723,12 @@ function FinalExam({
 }) {
   return (
     <section>
-      <SectionHeader icon={<ClipboardCheck />} title="Final Exam/Test Preview" text="Uses extracted question-bank examples as prototype preview only. This is not a final approved exam." />
+      <SectionHeader icon={<ClipboardCheck />} title="Final Exam/Test Preview" text="Uses extracted question-bank examples as review preview only. This is not a final approved exam." />
       {!examUnlocked && <LockNotice text="Final exam/test preview is locked until required theory completion and simulated active-time gates are met." />}
-      {unlockMode && <LockNotice text="Unlock Mode is active for stakeholder navigation only. Passing/failing here still changes only prototype state." />}
+      {unlockMode && <LockNotice text="Unlock Mode is active for stakeholder navigation only. Passing/failing here still changes only review state." />}
       <div className="panel">
         <p>
-          Extracted source indicates a 50-question final exam pool, 25-question attempt, 80% prototype passing
+          Extracted source indicates a 50-question final exam pool, 25-question attempt, 80% review passing
           threshold, and remediation after failed attempt. The pool is preview-only until approval and flagged items are
           reviewed.
         </p>
@@ -727,7 +776,7 @@ function Affidavit({
   return (
     <section>
       <SectionHeader icon={<FileWarning />} title="Final Statement / Affidavit Prototype" text="Draft only, pending legal/CDPH approval. E-signature acceptance is unresolved." />
-      {!enabled && <LockNotice text="Affidavit prototype unlocks after the final exam/test is passed." />}
+      {!enabled && <LockNotice text="Draft affidavit unlocks after the final exam/test is passed." />}
       {unlockMode && <LockNotice text="Unlock Mode allows stakeholder review of this screen without treating the affidavit as complete." />}
       <div className="panel">
         <p>I affirm that I personally completed the required course activities, used my own login, did not receive unauthorized exam assistance, understand the online CE cap, and did not enter PHI.</p>
@@ -753,13 +802,66 @@ function Certificate({
   state: LearnerState;
   profile: DemoUserProfile;
 }) {
+  const blockers = gates.filter((gate) => !gate.pass);
+  const profileReady = hasLegalName(state) && Boolean(state.cnaNumber.trim());
   return (
     <section>
-      <SectionHeader icon={<Lock />} title="Certificate Gate Status" text="No live certificate is issued. The preview is visibly staged and blocked until all prototype gates pass." />
-      <div className="gate-list">
-        {gates.map((gate) => (
-          <GateRow key={gate.id} gate={gate} />
-        ))}
+      <SectionHeader icon={<Lock />} title="Certificate Gate Status" text="No live certificate is issued. The mock preview remains blocked until all required gates pass." />
+      <div className="certificate-layout">
+        <aside className="panel certificate-readiness-card">
+          <p className="eyebrow">Readiness summary</p>
+          <h3>{certificateReady ? "Mock preview ready" : "Certificate preview locked"}</h3>
+          <p>
+            Required gates drive this decision. Optional clinical support is excluded from certificate computation.
+          </p>
+          <StatusPill pass={certificateReady} label={certificateReady ? "All required gates pass" : `${blockers.length} blocker${blockers.length === 1 ? "" : "s"}`} />
+          <div className="certificate-profile-list">
+            <div>
+              <span>Learner profile</span>
+              <strong>{profileReady ? "Complete" : "Needs required fields"}</strong>
+            </div>
+            <div>
+              <span>Review learner</span>
+              <strong>{state.legalFirstName || "[missing]"} {state.legalLastName || "[missing]"}</strong>
+            </div>
+            <div>
+              <span>CNA number</span>
+              <strong>{state.cnaNumber || "[missing]"}</strong>
+            </div>
+          </div>
+        </aside>
+        <article className="panel certificate-gates-card">
+          <div className="panel-heading">
+            <div>
+              <p className="eyebrow">Required gates</p>
+              <h3>Completion Evidence</h3>
+            </div>
+            <span className="tag">{gates.filter((gate) => gate.pass).length}/{gates.length} passing</span>
+          </div>
+          <div className="gate-list">
+            {gates.map((gate) => (
+              <GateRow key={gate.id} gate={gate} />
+            ))}
+          </div>
+        </article>
+        <aside className="panel certificate-actions-card">
+          <p className="eyebrow">Blockers and evidence</p>
+          <h3>{blockers.length ? "Action Required" : "Evidence Complete"}</h3>
+          {blockers.length ? (
+            <div className="blocker-list">
+              {blockers.slice(0, 4).map((gate) => (
+                <span className="tag" key={gate.id}>{gate.label}</span>
+              ))}
+            </div>
+          ) : (
+            <div className="feedback good">All required gates pass. The certificate remains a mock/staged preview only.</div>
+          )}
+          <div className="mini-certificate-card">
+            <span>Preview surface</span>
+            <strong>{certificateReady ? "Unlocked mock" : "Locked mock"}</strong>
+            <p>No live certificate behavior.</p>
+          </div>
+        </aside>
       </div>
       <div className="certificate-preview">
         <div className="watermark">STAGING / PROTOTYPE ONLY - NOT A LIVE CE CERTIFICATE</div>
@@ -795,7 +897,7 @@ function Certificate({
           </div>
           <div>
             <span>Status</span>
-            <strong>{certificateReady ? "All prototype gates complete" : "Required prototype gates incomplete"}</strong>
+            <strong>{certificateReady ? "All required gates complete" : "Required gates incomplete"}</strong>
           </div>
         </div>
         <div className="certificate-footer-note">Optional clinical support is not included in this online CE certificate preview.</div>
@@ -875,7 +977,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
             <h4>{selectedScenario.name}</h4>
             <p>{selectedScenario.summary}</p>
             {result.available ? (
-              <div className="feedback good">No required-gate blockers. Certificate preview can be shown as staging/mock only.</div>
+              <div className="feedback good">No required-gate blockers. Certificate preview can be shown as mock/staged only.</div>
             ) : (
               <div className="feedback bad">
                 {result.blockers.map((blocker) => (
@@ -951,7 +1053,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
         <p>Scenario: {selectedScenario.name}</p>
         <p>
           {result.available
-            ? "Required certificate gates are complete in this scenario. This remains a mock/staging preview only."
+            ? "Required certificate gates are complete in this scenario. This remains a mock/staged preview only."
             : `Blocked required gates: ${result.blockers.map((blocker) => blocker.label).join(", ")}`}
         </p>
         <p>Optional clinical support is excluded from this certificate decision.</p>
@@ -964,9 +1066,21 @@ function ClinicalHub() {
   return (
     <section>
       <SectionHeader icon={<Stethoscope />} title="Optional Clinical Support Hub" text="Separate support pathway. Non-credit by default and not an online CE certificate gate." />
-      <div className="notice strong">
-        Skipping optional clinical support, uploads, confidence checks, simulation, scheduling, or RN/preceptor signoff
-        must not block the online CE certificate when required theory gates are complete.
+      <div className="clinical-hero">
+        <div className="clinical-visual" aria-label="CNA clinical support visual" />
+        <div className="panel">
+          <p className="eyebrow">Optional support boundary</p>
+          <h3>Helpful support, never a certificate gate</h3>
+          <p>
+            Skipping optional clinical support, uploads, confidence checks, simulation, scheduling, or RN/preceptor signoff
+            must not block the online CE certificate when required theory gates are complete.
+          </p>
+          <div className="tag-row">
+            <span>Non-credit support</span>
+            <span>No PHI</span>
+            <span>Non-gating</span>
+          </div>
+        </div>
       </div>
       <div className="module-grid">
         {clinicalSupportSections.map((item) => (
@@ -1007,7 +1121,7 @@ function ClinicalHub() {
 function AuditPreview({ state, gates }: { state: LearnerState; gates: Gate[] }) {
   return (
     <section>
-      <SectionHeader icon={<ClipboardCheck />} title="Audit Packet Preview" text="Shows what would be exported from Moodle/staging. No real evidence files are created." />
+      <SectionHeader icon={<ClipboardCheck />} title="Audit Packet Preview" text="Shows what would be exported from the Moodle review environment. No real evidence files are created." />
       <div className="audit-grid">
         {auditItems.map((item) => (
           <article className="panel compact" key={item.id}>
@@ -1085,13 +1199,13 @@ function MoodleMigrationMap() {
 function ReviewNotes() {
   return (
     <article className="panel review-notes">
-      <h3>Prototype Status</h3>
+      <h3>Review Environment Status</h3>
       <div className="three-col">
-        <InfoBlock icon={<ShieldAlert />} title="Standalone MVP" text="Vite/React review build. Moodle production migration is still pending." />
+        <InfoBlock icon={<ShieldAlert />} title="Standalone Review Build" text="Vite/React review experience. Moodle launch migration is still pending." />
         <InfoBlock icon={<Lock />} title="Gate Simulation" text="Active-time validation is simulated only; Moodle plugin validation is not complete." />
         <InfoBlock icon={<Stethoscope />} title="Optional Support" text="Clinical support is non-gating, non-credit, and separated from required online CE progress." />
       </div>
-      <div className="notice strong">No PHI, no real learner records, and no live certificate issuance in this prototype.</div>
+      <div className="notice strong">No PHI, no real learner records, and no live certificate issuance in this review build.</div>
     </article>
   );
 }
@@ -1113,13 +1227,13 @@ function DemoUserProfilePanel({
     <article className="panel">
       <div className="panel-heading">
         <div>
-          <p className="eyebrow">Stakeholder demo profile</p>
+          <p className="eyebrow">Stakeholder review profile</p>
           <h3>Demo User Profile</h3>
         </div>
         <span className="tag">{profile.reviewStatus}</span>
       </div>
       <p className="source-note">
-        Fictional/test data only. Edits update visible dashboard/profile and certificate profile gates in prototype
+        Fictional/test data only. Edits update visible dashboard/profile and certificate profile gates in review
         state; they do not create a real learner record.
       </p>
       <div className="form-grid">
@@ -1165,7 +1279,7 @@ function DemoUserProfilePanel({
         <textarea value={profile.notes} onChange={(event) => updateProfile("notes", event.target.value)} />
       </label>
       <div className="button-row">
-        <button className="secondary" onClick={resetDemoProfile}>Reset to James Bond Demo User</button>
+        <button className="secondary" onClick={resetDemoProfile}>Reset to James Bond Review User</button>
         <label className="switch-row">
           <input type="checkbox" checked={unlockMode} onChange={(event) => setUnlockMode(event.target.checked)} />
           <span>Stakeholder Unlock Mode</span>
@@ -1190,36 +1304,50 @@ function QAPanel({
 }) {
   return (
     <section>
-      <SectionHeader icon={<HelpCircle />} title="QA / Negative-Test Helper" text="Visible development panel for certificate-gate and optional-support non-gating checks." />
-      <div className="button-row">
-        <button onClick={() => setState(passAllState())}>Load passing required-theory learner</button>
-        <button className="secondary" onClick={() => setState({ ...passAllState(), legalFirstName: "", legalLastName: "" })}>
-          QA missing legal name
-        </button>
-        <button className="secondary" onClick={() => setState({ ...passAllState(), finalExamPassed: false, finalExamAttempted: true })}>
-          QA failed exam
-        </button>
-        <button className="secondary" onClick={() => setState(initialState)}>Reset mock learner</button>
+      <SectionHeader icon={<HelpCircle />} title="Advanced Reviewer Tools" text="Internal controls for certificate-gate and optional-support non-gating checks." />
+      <details className="panel reviewer-toolbox" open>
+        <summary>Gate state controls</summary>
+        <div className="button-row">
+          <button onClick={() => setState(passAllState())}>Load passing required-theory learner</button>
+          <button className="secondary" onClick={() => setState({ ...passAllState(), legalFirstName: "", legalLastName: "" })}>
+            QA missing legal name
+          </button>
+          <button className="secondary" onClick={() => setState({ ...passAllState(), finalExamPassed: false, finalExamAttempted: true })}>
+            QA failed exam
+          </button>
+          <button className="secondary" onClick={() => setState(initialState)}>Reset mock learner</button>
+        </div>
+      </details>
+      <div className="reviewer-layout">
+        <article className="panel">
+          <h3>Current Gate Snapshot</h3>
+          <div className="gate-list">
+            {gates.map((gate) => (
+              <GateRow key={gate.id} gate={gate} />
+            ))}
+          </div>
+        </article>
+        <aside className="panel">
+          <h3>Internal Assertions</h3>
+          <div className="notice">
+            Optional clinical support skipped, optional upload missing, and simulation skipped are expected to remain
+            non-blocking. Current optional state is intentionally not included in certificate gate computation.
+          </div>
+          <pre>{JSON.stringify(maskProfile(state), null, 2)}</pre>
+        </aside>
       </div>
-      <div className="gate-list">
-        {gates.map((gate) => (
-          <GateRow key={gate.id} gate={gate} />
-        ))}
-      </div>
-      <div className="audit-grid">
-        {qaTests.map((test) => (
-          <article className="panel compact" key={test.id}>
-            <h3>{test.id}</h3>
-            <p>{test.scenario}</p>
-            <span className="tag">{test.expected}</span>
-          </article>
-        ))}
-      </div>
-      <div className="notice">
-        Optional clinical support skipped, optional upload missing, and simulation skipped are expected to remain
-        non-blocking. Current optional state is intentionally not included in certificate gate computation.
-      </div>
-      <pre>{JSON.stringify(maskProfile(state), null, 2)}</pre>
+      <details className="panel reviewer-toolbox">
+        <summary>Negative-test library</summary>
+        <div className="audit-grid">
+          {qaTests.map((test) => (
+            <article className="panel compact" key={test.id}>
+              <h3>{test.id}</h3>
+              <p>{test.scenario}</p>
+              <span className="tag">{test.expected}</span>
+            </article>
+          ))}
+        </div>
+      </details>
     </section>
   );
 }
@@ -1292,11 +1420,11 @@ function computeGates(state: LearnerState): Gate[] {
     { id: "legal-name", label: "Legal name present", pass: hasLegalName(state), source: "Required profile fields" },
     { id: "cna", label: "CNA certificate number present", pass: Boolean(state.cnaNumber.trim()), source: "Required profile field" },
     { id: "cap", label: "Online cap acknowledgement complete", pass: state.onlineCapAck, source: "Module 0 acknowledgement" },
-    { id: "theory", label: "Required theory complete", pass: state.orientationFinalAck && state.module1QuizPassed && state.remainingTheorySimulated, source: "Module completion prototype" },
+    { id: "theory", label: "Required theory complete", pass: state.orientationFinalAck && state.module1QuizPassed && state.remainingTheorySimulated, source: "Module completion simulation" },
     { id: "interaction", label: "Required interaction/feedback complete", pass: state.phiAck && state.module1Interaction, source: "Module 0/1 interactions" },
-    { id: "time", label: "Active-time threshold met, simulated/prototype only", pass: state.activeTimeMet, source: "Prototype toggle; Moodle validation pending" },
+    { id: "time", label: "Active-time threshold met, simulated only", pass: state.activeTimeMet, source: "Review toggle; Moodle validation pending" },
     { id: "exam", label: "Final exam/test passed", pass: state.finalExamPassed, source: "Mock final exam preview" },
-    { id: "affidavit", label: "Final statement/affidavit complete", pass: state.affidavitComplete, source: "Draft affidavit prototype" },
+    { id: "affidavit", label: "Final statement/affidavit complete", pass: state.affidavitComplete, source: "Draft affidavit review screen" },
     { id: "fields", label: "Required certificate fields populated", pass: state.certificateFieldsPopulated, source: "Certificate field map placeholder" },
     { id: "hold", label: "Admin hold clear", pass: state.adminHoldClear, source: "Manual hold placeholder" },
   ];
@@ -1316,12 +1444,12 @@ function getNextStep({
   examUnlocked: boolean;
 }) {
   if (!module0Complete) return { label: "Complete Module 0", note: "Identity, online cap, no-PHI, and orientation acknowledgements are required.", action: "Open Module 0", view: "module0" as View };
-  if (!module1Complete) return { label: "Complete Module 1 prototype", note: "Finish the infection control scenario and module quiz prototype.", action: "Open Module 1", view: "module1" as View };
-  if (!state.remainingTheorySimulated) return { label: "Simulate remaining theory completion", note: "Modules 2-6 are seeded for review, but this standalone MVP still uses a prototype completion toggle.", action: "Open QA panel", view: "qa" as View };
-  if (!state.activeTimeMet) return { label: "Meet active participation gate", note: "This is simulated only; Moodle active-time validation remains pending.", action: "Open QA panel", view: "qa" as View };
+  if (!module1Complete) return { label: "Complete Module 1 review", note: "Finish the infection control scenario and module quiz review.", action: "Open Module 1", view: "module1" as View };
+  if (!state.remainingTheorySimulated) return { label: "Simulate remaining theory completion", note: "Modules 2-6 are seeded for review, but this standalone build still uses a review completion toggle.", action: "Open Reviewer Tools", view: "qa" as View };
+  if (!state.activeTimeMet) return { label: "Meet active participation gate", note: "This is simulated only; Moodle active-time validation remains pending.", action: "Open Reviewer Tools", view: "qa" as View };
   if (!examUnlocked || !state.finalExamPassed) return { label: "Pass final exam/test preview", note: "Mock questions only; approved question bank still required.", action: "Open Final Exam", view: "exam" as View };
-  if (!state.affidavitComplete) return { label: "Complete final statement", note: "Draft affidavit prototype pending legal/CDPH approval.", action: "Open Affidavit", view: "affidavit" as View };
-  return { label: "Review certificate gate status", note: "Prototype certificate preview is unlocked but not a live CE certificate.", action: "Open Certificate Status", view: "certificate" as View };
+  if (!state.affidavitComplete) return { label: "Complete final statement", note: "Draft affidavit pending legal/CDPH approval.", action: "Open Affidavit", view: "affidavit" as View };
+  return { label: "Review certificate gate status", note: "Mock certificate preview is unlocked but not a live CE certificate.", action: "Open Certificate Status", view: "certificate" as View };
 }
 
 function setExam(update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void, pass: boolean) {

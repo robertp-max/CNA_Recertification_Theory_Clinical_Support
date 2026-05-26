@@ -1759,6 +1759,583 @@ details[open] summary {
   }
 }
 
+/* Premium QA implementation override layer */
+.app-shell {
+  --ci-accent: #d4af37;
+  --ci-accent-hover: #e5c963;
+  --shell-bg: #050506;
+  --shell-bg-2: #080609;
+  --glass-surface: rgba(18, 15, 18, 0.76);
+  --glass-surface-strong: rgba(30, 22, 26, 0.84);
+  --glass-line: rgba(248, 243, 234, 0.13);
+  --glass-line-strong: rgba(212, 175, 55, 0.34);
+  --text-strong: #f8f3ea;
+  --text-main: #f8f3ea;
+  --text-muted: #cdbfb6;
+  --gold-glow: rgba(212, 175, 55, 0.22);
+  --maroon-glow: rgba(104, 16, 16, 0.24);
+  background:
+    radial-gradient(circle at 12% 8%, rgba(58, 7, 10, 0.4), transparent 28rem),
+    radial-gradient(circle at 82% 4%, rgba(104, 16, 16, 0.24), transparent 30rem),
+    radial-gradient(circle at 56% 100%, rgba(212, 175, 55, 0.08), transparent 34rem),
+    linear-gradient(135deg, #050506, #080609 54%, #0b0709);
+}
+
+.app-shell[data-theme="light"] {
+  --ci-accent: #d4af37;
+  --ci-accent-hover: #b88f1d;
+  --glass-surface: rgba(255, 255, 255, 0.8);
+  --glass-surface-strong: rgba(255, 252, 245, 0.94);
+  --glass-line: rgba(104, 16, 16, 0.15);
+  --glass-line-strong: rgba(139, 21, 21, 0.28);
+  --text-strong: #211b1d;
+  --text-main: #30282a;
+  --text-muted: #6a5b55;
+  background:
+    radial-gradient(circle at 12% 8%, rgba(212, 175, 55, 0.24), transparent 28rem),
+    radial-gradient(circle at 85% 2%, rgba(104, 16, 16, 0.12), transparent 30rem),
+    linear-gradient(135deg, #fffaf1, #f6eee6 54%, #ffffff);
+}
+
+.app-header {
+  background:
+    radial-gradient(circle at 12% 0%, rgba(212, 175, 55, 0.16), transparent 22rem),
+    linear-gradient(135deg, rgba(18, 15, 18, 0.82), rgba(30, 22, 26, 0.86));
+  border-bottom-color: rgba(212, 175, 55, 0.22);
+}
+
+.app-shell[data-theme="light"] .app-header {
+  background:
+    radial-gradient(circle at 12% 0%, rgba(212, 175, 55, 0.2), transparent 22rem),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 248, 234, 0.84));
+}
+
+.app-shell[data-theme="light"] .app-header .eyebrow,
+.app-shell[data-theme="light"] .subhead {
+  color: var(--text-muted);
+}
+
+.header-logo {
+  filter: drop-shadow(0 12px 28px rgba(0, 0, 0, 0.28));
+}
+
+.app-shell[data-theme="light"] .header-logo {
+  width: 64px;
+  filter: none;
+}
+
+.review-ribbon {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  background: rgba(5, 5, 6, 0.78);
+}
+
+.unlock-ribbon {
+  background: linear-gradient(90deg, #d4af37, #f1d879);
+  color: #1c1114;
+}
+
+.top-nav {
+  background: rgba(5, 5, 6, 0.72);
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.24);
+}
+
+.panel,
+.module-card,
+.info-block,
+.status-card,
+.gate-row,
+.table-wrap,
+.answer-list label,
+.switch-row,
+.scenario-summary,
+.boundary-row,
+.reviewer-toolbox {
+  background:
+    linear-gradient(145deg, rgba(248, 243, 234, 0.07), rgba(248, 243, 234, 0.025)),
+    var(--glass-surface);
+  border-color: var(--glass-line);
+}
+
+.app-shell[data-theme="light"] .panel,
+.app-shell[data-theme="light"] .module-card,
+.app-shell[data-theme="light"] .info-block,
+.app-shell[data-theme="light"] .status-card,
+.app-shell[data-theme="light"] .gate-row,
+.app-shell[data-theme="light"] .table-wrap,
+.app-shell[data-theme="light"] .answer-list label,
+.app-shell[data-theme="light"] .switch-row,
+.app-shell[data-theme="light"] .scenario-summary,
+.app-shell[data-theme="light"] .boundary-row,
+.app-shell[data-theme="light"] .reviewer-toolbox {
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.86), rgba(255, 248, 234, 0.72)),
+    var(--glass-surface);
+}
+
+.primary-panel,
+.hero-copy,
+.module-context-card,
+.certificate-readiness-card,
+.certificate-actions-card {
+  border-color: rgba(212, 175, 55, 0.34);
+  background:
+    radial-gradient(circle at 0% 0%, rgba(212, 175, 55, 0.14), transparent 18rem),
+    linear-gradient(145deg, rgba(30, 22, 26, 0.9), rgba(18, 15, 18, 0.78));
+}
+
+.app-shell[data-theme="light"] .primary-panel,
+.app-shell[data-theme="light"] .hero-copy,
+.app-shell[data-theme="light"] .module-context-card,
+.app-shell[data-theme="light"] .certificate-readiness-card,
+.app-shell[data-theme="light"] .certificate-actions-card {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(212, 175, 55, 0.18), transparent 18rem),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.92), rgba(255, 248, 234, 0.78));
+}
+
+.splash-panel.splash-layout {
+  width: min(1180px, calc(100vw - 32px));
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(320px, 1.1fr);
+  gap: clamp(1rem, 3vw, 1.4rem);
+  align-items: stretch;
+}
+
+.splash-page {
+  background:
+    radial-gradient(circle at 8% 10%, rgba(212, 175, 55, 0.11), transparent 24rem),
+    radial-gradient(circle at 94% 4%, rgba(104, 16, 16, 0.26), transparent 30rem),
+    linear-gradient(135deg, #050506, #080609 58%, #0b0709);
+}
+
+.splash-panel {
+  background:
+    linear-gradient(145deg, rgba(248, 243, 234, 0.055), rgba(248, 243, 234, 0.018)),
+    rgba(18, 15, 18, 0.82);
+  border-color: rgba(212, 175, 55, 0.16);
+}
+
+.app-shell[data-theme="light"] .splash-page {
+  background:
+    radial-gradient(circle at 8% 10%, rgba(212, 175, 55, 0.22), transparent 24rem),
+    radial-gradient(circle at 94% 4%, rgba(104, 16, 16, 0.12), transparent 30rem),
+    linear-gradient(135deg, #fffaf1, #f8efe6 58%, #ffffff);
+}
+
+.app-shell[data-theme="light"] .splash-panel {
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.92), rgba(255, 248, 234, 0.82)),
+    rgba(255, 255, 255, 0.82);
+}
+
+.splash-copy {
+  display: grid;
+  align-content: center;
+}
+
+.splash-visual,
+.image-frame,
+.dashboard-image-strip,
+.module-visual,
+.clinical-visual {
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  border: 1px solid var(--glass-line-strong);
+  box-shadow:
+    0 28px 76px rgba(0, 0, 0, 0.36),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+}
+
+.splash-visual {
+  min-height: 560px;
+  display: grid;
+  align-content: end;
+  padding: 1rem;
+  background:
+    linear-gradient(180deg, transparent 42%, rgba(5, 5, 6, 0.86)),
+    url("/brand/stock/cna-team-hero.jpg") center/cover no-repeat;
+}
+
+.login-image {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  border-radius: inherit;
+  background:
+    linear-gradient(180deg, rgba(5, 5, 6, 0.02), rgba(5, 5, 6, 0.72)),
+    url("/brand/stock/cna-team-hero.jpg") center/cover no-repeat;
+  animation: slowImagePan 9000ms ease-in-out infinite alternate;
+}
+
+.visual-stat-card {
+  position: relative;
+  z-index: 1;
+  width: min(260px, 88%);
+  padding: 0.85rem;
+  border-radius: 16px;
+  background: rgba(18, 15, 18, 0.78);
+  border: 1px solid rgba(212, 175, 55, 0.34);
+  -webkit-backdrop-filter: blur(14px) saturate(150%);
+  backdrop-filter: blur(14px) saturate(150%);
+}
+
+.secondary-stat {
+  justify-self: end;
+  margin-top: 0.75rem;
+}
+
+.visual-stat-card span,
+.certificate-profile-list span,
+.mini-certificate-card span {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.visual-stat-card strong,
+.mini-certificate-card strong {
+  display: block;
+  color: var(--text-strong);
+  font-family: Poppins, Montserrat, sans-serif;
+  font-size: 1.15rem;
+}
+
+.brand-lockup h1 {
+  color: var(--text-strong);
+}
+
+.splash-warning {
+  color: #efb8a8;
+}
+
+.app-shell[data-theme="light"] .splash-warning {
+  color: #8b1515;
+}
+
+.brand-logo {
+  object-fit: contain;
+}
+
+.app-shell[data-theme="dark"] .brand-logo {
+  width: 86px;
+  flex-basis: 86px;
+}
+
+.reviewer-disclosure {
+  border: 1px solid var(--glass-line);
+  border-radius: 12px;
+  padding: 0.65rem 0.75rem;
+}
+
+.reviewer-disclosure summary,
+.reviewer-toolbox summary {
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--ci-accent);
+  font-family: Poppins, Montserrat, sans-serif;
+  font-weight: 800;
+}
+
+.hero-media {
+  background:
+    linear-gradient(180deg, rgba(5, 5, 6, 0.06), rgba(5, 5, 6, 0.62)),
+    url("/brand/stock/cna-elearning-study.jpg") center 42%/cover no-repeat;
+}
+
+.dashboard-lower,
+.module-layout,
+.certificate-layout,
+.clinical-hero,
+.reviewer-layout {
+  display: grid;
+  gap: 1rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+.dashboard-lower {
+  grid-template-columns: minmax(0, 1.08fr) minmax(360px, 0.92fr);
+}
+
+.dashboard-image-strip {
+  min-height: 150px;
+  margin: 0.8rem 0;
+  background:
+    linear-gradient(90deg, rgba(5, 5, 6, 0.14), rgba(5, 5, 6, 0.58)),
+    url("/brand/stock/cna-elearning-study.jpg") center 35%/cover no-repeat;
+}
+
+.module-layout {
+  grid-template-columns: minmax(280px, 0.34fr) minmax(0, 1fr);
+}
+
+.module-layout .module-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.module-context-card {
+  position: sticky;
+  top: 84px;
+}
+
+.module-visual {
+  min-height: 280px;
+  margin-bottom: 1rem;
+  background:
+    linear-gradient(180deg, rgba(5, 5, 6, 0.02), rgba(5, 5, 6, 0.62)),
+    url("/brand/stock/cna-training-team.jpg") center/cover no-repeat;
+}
+
+.certificate-layout {
+  grid-template-columns: minmax(240px, 0.8fr) minmax(0, 1.35fr) minmax(260px, 0.8fr);
+}
+
+.certificate-readiness-card,
+.certificate-actions-card {
+  min-height: 100%;
+}
+
+.certificate-profile-list,
+.blocker-list {
+  display: grid;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+
+.certificate-profile-list div,
+.mini-certificate-card {
+  padding: 0.8rem;
+  border-radius: 14px;
+  border: 1px solid var(--glass-line);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.certificate-profile-list strong {
+  display: block;
+  color: var(--text-strong);
+  font-family: Poppins, Montserrat, sans-serif;
+}
+
+.mini-certificate-card {
+  margin-top: 1rem;
+  border-color: rgba(212, 175, 55, 0.34);
+}
+
+.clinical-hero {
+  grid-template-columns: minmax(300px, 0.9fr) minmax(0, 1.1fr);
+}
+
+.clinical-visual {
+  min-height: 310px;
+  background:
+    linear-gradient(180deg, rgba(5, 5, 6, 0.04), rgba(5, 5, 6, 0.58)),
+    url("/brand/stock/cna-clinical-gold.jpg") center 34%/cover no-repeat;
+}
+
+.reviewer-layout {
+  grid-template-columns: minmax(0, 1.1fr) minmax(300px, 0.9fr);
+}
+
+.reviewer-toolbox {
+  margin-top: 1rem;
+}
+
+.command-hero {
+  background:
+    radial-gradient(circle at 18% 0%, rgba(212, 175, 55, 0.16), transparent 28rem),
+    radial-gradient(circle at 92% 12%, rgba(104, 16, 16, 0.26), transparent 26rem),
+    linear-gradient(135deg, rgba(18, 15, 18, 0.9), rgba(30, 22, 26, 0.82));
+}
+
+.scenario-button.active {
+  animation: scenarioLock 260ms ease both;
+}
+
+.gate-icon.pass,
+.gate-icon.fail,
+.pill.pass,
+.pill.fail {
+  transition:
+    color 220ms ease,
+    background 220ms ease,
+    transform 220ms ease,
+    box-shadow 220ms ease;
+}
+
+.gate-row:hover .gate-icon,
+.pill:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 0 4px rgba(212, 175, 55, 0.1);
+}
+
+.check-row input:checked,
+.switch-row input:checked {
+  accent-color: #d4af37;
+  animation: checkPop 220ms ease both;
+}
+
+.certificate-seal.available {
+  animation: sealGlow 1800ms ease-in-out infinite;
+}
+
+.certificate-seal.locked {
+  animation: lockBreathe 2200ms ease-in-out infinite;
+}
+
+.content-details[open],
+.reviewer-disclosure[open],
+.reviewer-toolbox[open],
+.admin-tools-menu[open] {
+  animation: drawerReveal 260ms ease both;
+}
+
+.feedback.good,
+.feedback.bad,
+.lock-notice,
+.phi-warning {
+  animation: noticeSlide 260ms ease both;
+}
+
+.progress-value {
+  color: var(--ci-accent);
+  text-shadow: 0 0 18px var(--gold-glow);
+}
+
+.table-wrap {
+  scrollbar-color: var(--ci-accent) rgba(255, 255, 255, 0.08);
+}
+
+.table-wrap:focus-within {
+  box-shadow:
+    0 0 0 3px rgba(212, 175, 55, 0.16),
+    0 24px 70px rgba(0, 0, 0, 0.24);
+}
+
+@keyframes slowImagePan {
+  from {
+    transform: scale(1.02) translate3d(-4px, 0, 0);
+  }
+  to {
+    transform: scale(1.07) translate3d(6px, -4px, 0);
+  }
+}
+
+@keyframes scenarioLock {
+  0% {
+    transform: translateY(2px) scale(0.98);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes checkPop {
+  50% {
+    transform: scale(1.18);
+  }
+}
+
+@keyframes sealGlow {
+  50% {
+    box-shadow:
+      0 16px 38px rgba(139, 21, 21, 0.18),
+      0 0 34px rgba(212, 175, 55, 0.36);
+  }
+}
+
+@keyframes lockBreathe {
+  50% {
+    opacity: 0.84;
+    transform: scale(0.985);
+  }
+}
+
+@keyframes drawerReveal {
+  from {
+    opacity: 0.82;
+    transform: translateY(-3px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes noticeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 1180px) {
+  .certificate-layout,
+  .dashboard-lower {
+    grid-template-columns: 1fr;
+  }
+
+  .module-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .module-context-card {
+    position: static;
+  }
+}
+
+@media (max-width: 900px) {
+  .splash-panel.splash-layout,
+  .clinical-hero,
+  .reviewer-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .splash-visual {
+    min-height: 360px;
+  }
+
+  .module-layout .module-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .splash-panel.splash-layout {
+    width: min(100%, calc(100vw - 20px));
+  }
+
+  .splash-visual {
+    min-height: 280px;
+    padding: 0.75rem;
+  }
+
+  .visual-stat-card {
+    width: 100%;
+  }
+
+  .secondary-stat {
+    justify-self: stretch;
+  }
+
+  .dashboard-image-strip,
+  .module-visual,
+  .clinical-visual {
+    min-height: 210px;
+  }
+
+  .certificate-layout {
+    gap: 0.75rem;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
