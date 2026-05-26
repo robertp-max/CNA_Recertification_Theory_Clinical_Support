@@ -3,17 +3,23 @@ import { createRoot } from "react-dom/client";
 import {
   AlertTriangle,
   BookOpen,
+  ChevronRight,
   CheckCircle2,
   ClipboardCheck,
   FileWarning,
+  FileText,
   GraduationCap,
   HelpCircle,
+  Layers,
+  ListChecks,
   Lock,
   LogOut,
   Map,
+  MessageSquare,
   Moon,
   ShieldCheck,
   ShieldAlert,
+  Sparkles,
   Stethoscope,
   Sun,
   UserRound,
@@ -253,9 +259,38 @@ function App() {
             setView={setView}
           />
         )}
-        {view === "modules" && <ModuleShell setView={setView} module0Complete={module0Complete} module1Complete={module1Complete} unlockMode={unlockMode} />}
-        {view === "module0" && <Module0 state={state} update={update} />}
-        {view === "module1" && <Module1 state={state} update={update} module0Complete={module0Complete} unlockMode={unlockMode} />}
+        {view === "modules" && (
+          <TrainingShell
+            setView={setView}
+            state={state}
+            update={update}
+            module0Complete={module0Complete}
+            module1Complete={module1Complete}
+            unlockMode={unlockMode}
+          />
+        )}
+        {view === "module0" && (
+          <TrainingShell
+            setView={setView}
+            state={state}
+            update={update}
+            module0Complete={module0Complete}
+            module1Complete={module1Complete}
+            unlockMode={unlockMode}
+            initialModuleId="m0"
+          />
+        )}
+        {view === "module1" && (
+          <TrainingShell
+            setView={setView}
+            state={state}
+            update={update}
+            module0Complete={module0Complete}
+            module1Complete={module1Complete}
+            unlockMode={unlockMode}
+            initialModuleId="m1"
+          />
+        )}
         {view === "exam" && <FinalExam state={state} update={update} examUnlocked={examUnlocked || unlockMode} unlockMode={unlockMode} />}
         {view === "affidavit" && <Affidavit state={state} update={update} enabled={state.finalExamPassed || unlockMode} unlockMode={unlockMode} />}
         {view === "certificate" && <Certificate gates={gates} certificateReady={certificateReady} state={state} profile={profile} />}
@@ -512,200 +547,660 @@ function Dashboard(props: {
   );
 }
 
-function ModuleShell({
+type LessonTabId = "learn" | "terms" | "scenario" | "transcript" | "evidence";
+
+function TrainingShell({
   setView,
-  module0Complete,
-  module1Complete,
-  unlockMode,
-}: {
-  setView: (view: View) => void;
-  module0Complete: boolean;
-  module1Complete: boolean;
-  unlockMode: boolean;
-}) {
-  return (
-    <section>
-      <SectionHeader icon={<BookOpen />} title="Module Navigation" text="Full 12-hour review shell seeded from extracted content with review flags and Moodle migration notes." />
-      <div className="module-layout">
-        <aside className="panel module-context-card">
-          <div className="module-visual" aria-label="CNA coursework visual" />
-          <p className="eyebrow">Course experience</p>
-          <h3>Guided, gated, and audit aware</h3>
-          <p>
-            Required theory modules move learners toward a locked certificate preview while optional clinical support remains separate.
-          </p>
-          <div className="tag-row">
-            <span>12-hour theory pathway</span>
-            <span>Optional support excluded</span>
-          </div>
-        </aside>
-        <div className="module-grid">
-          {modules.map((module) => (
-            <article key={module.id} className="module-card">
-              <p className="eyebrow">{module.time}</p>
-              <h3>{module.title}</h3>
-              <p>{module.summary}</p>
-              <div className="tag-row">
-                <span>{module.id === "final" ? "Required certificate gates" : "Required online CE"}</span>
-                <span>{module.status}</span>
-              </div>
-              {module.id === "m0" && <button onClick={() => setView("module0")}>{module0Complete || unlockMode ? "Review Module 0" : "Open Module 0"}</button>}
-              {module.id === "m1" && <button onClick={() => setView("module1")}>{module1Complete || unlockMode ? "Review Module 1" : "Open Module 1"}</button>}
-              {module.id === "final" && <button onClick={() => setView("exam")}>Open Final Preview</button>}
-              {module.id !== "final" && <SeededModuleDetails module={moduleContents.find((item) => item.id === module.id)} />}
-              {module.placeholder && (
-                <div className="notice">
-                  <strong>Placeholder:</strong> Content placeholder pending approved source conversion. Question bank
-                  placeholder pending approved exam blueprint.
-                </div>
-              )}
-            </article>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function Module0({ state, update }: { state: LearnerState; update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void }) {
-  return (
-    <section>
-      <SectionHeader icon={<ShieldAlert />} title="Module 0: Orientation and Compliance Boundaries" text="Functional review screen based on extracted Module 0 source content." />
-      <div className="content-stack">
-        <article className="panel">
-          <h3>Course Scope</h3>
-          <p>
-            This online course provides up to 12 hours of theory-based continuing education support for California CNA
-            renewal only if CI Institute of Nursing and the course are approved for California CNA online CE.
-          </p>
-          <ul>
-            <li>California CNA renewal requires 48 hours over each two-year certification period.</li>
-            <li>At least 12 hours must be completed each year.</li>
-            <li>Only 24 of the 48 hours may be completed through CDPH-approved online CE.</li>
-            <li>This course does not complete all California CNA renewal requirements by itself.</li>
-          </ul>
-        </article>
-        <TranscriptBox title="TTS / Transcript Placeholder" />
-        <article className="panel">
-          <h3>Identity/Profile Fields Mockup</h3>
-          <div className="form-grid">
-            <label>
-              Legal first name
-              <input value={state.legalFirstName} onChange={(event) => update("legalFirstName", event.target.value)} />
-            </label>
-            <label>
-              Legal last name
-              <input value={state.legalLastName} onChange={(event) => update("legalLastName", event.target.value)} />
-            </label>
-            <label>
-              CNA certificate number
-              <input value={state.cnaNumber} onChange={(event) => update("cnaNumber", event.target.value)} />
-            </label>
-          </div>
-        </article>
-        <article className="panel">
-          <h3>Required Acknowledgements</h3>
-          <CheckBox
-            checked={state.onlineCapAck}
-            onChange={(checked) => update("onlineCapAck", checked)}
-            label="I understand the 24-hour online CE cap and that this 12-hour course is partial renewal credit only."
-          />
-          <CheckBox
-            checked={state.phiAck}
-            onChange={(checked) => update("phiAck", checked)}
-            label="I will not enter or upload PHI about real patients, residents, or individuals in any part of this course."
-          />
-          <CheckBox
-            checked={state.orientationFinalAck}
-            onChange={(checked) => update("orientationFinalAck", checked)}
-            label="I understand optional clinical support is separate and does not affect the online CE certificate gate."
-          />
-        </article>
-      </div>
-    </section>
-  );
-}
-
-function Module1({
   state,
   update,
   module0Complete,
+  module1Complete,
   unlockMode,
+  initialModuleId = "m0",
 }: {
+  setView: (view: View) => void;
   state: LearnerState;
   update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
   module0Complete: boolean;
+  module1Complete: boolean;
   unlockMode: boolean;
+  initialModuleId?: string;
 }) {
+  const [activeModuleId, setActiveModuleId] = useState(initialModuleId);
+  const [lessonIndex, setLessonIndex] = useState(0);
+  const [activeTab, setActiveTab] = useState<LessonTabId>("learn");
+  const activeModule = moduleContents.find((module) => module.id === activeModuleId) || moduleContents[0];
+  const activeLesson = activeModule.lessonSections[lessonIndex] || activeModule.lessonSections[0];
+  const completedCount = moduleContents.filter((module) =>
+    getModuleCompletion(module.id, state, module0Complete, module1Complete)
+  ).length;
+  const courseProgress = Math.round((completedCount / moduleContents.length) * 100);
+
+  const selectModule = (moduleId: string) => {
+    setActiveModuleId(moduleId);
+    setLessonIndex(0);
+    setActiveTab("learn");
+  };
+
+  return (
+    <section className="training-experience">
+      <SectionHeader
+        icon={<BookOpen />}
+        title="CNA Recertification Lesson Workspace"
+        text="Structured lesson path using extracted CNA module content, review flags, scenario checks, and certificate-gate evidence."
+      />
+      {activeModule.id === "m1" && !module0Complete && !unlockMode && (
+        <LockNotice text="Module 1 is intended to unlock after Module 0 identity, online cap, PHI, and orientation acknowledgements are complete." />
+      )}
+      {activeModule.id === "m1" && !module0Complete && unlockMode && (
+        <LockNotice text="Unlock Mode lets stakeholders review Module 1 without marking Module 0 complete." />
+      )}
+      <div className="training-shell">
+        <CourseRail
+          activeModuleId={activeModule.id}
+          completedCount={completedCount}
+          courseProgress={courseProgress}
+          module0Complete={module0Complete}
+          module1Complete={module1Complete}
+          state={state}
+          onSelectModule={selectModule}
+          onFinal={() => setView("exam")}
+        />
+        <LessonCanvas
+          module={activeModule}
+          activeLesson={activeLesson}
+          lessonIndex={lessonIndex}
+          setLessonIndex={setLessonIndex}
+          activeTab={activeTab}
+          setActiveTab={setActiveTab}
+          state={state}
+          update={update}
+          module0Complete={module0Complete}
+          module1Complete={module1Complete}
+          setView={setView}
+        />
+        <LessonContextPanel
+          module={activeModule}
+          activeLessonTitle={activeLesson?.title}
+          moduleComplete={getModuleCompletion(activeModule.id, state, module0Complete, module1Complete)}
+          setActiveTab={setActiveTab}
+          setView={setView}
+        />
+      </div>
+    </section>
+  );
+}
+
+function CourseRail({
+  activeModuleId,
+  completedCount,
+  courseProgress,
+  module0Complete,
+  module1Complete,
+  state,
+  onSelectModule,
+  onFinal,
+}: {
+  activeModuleId: string;
+  completedCount: number;
+  courseProgress: number;
+  module0Complete: boolean;
+  module1Complete: boolean;
+  state: LearnerState;
+  onSelectModule: (moduleId: string) => void;
+  onFinal: () => void;
+}) {
+  return (
+    <aside className="course-rail" aria-label="Course module rail">
+      <div className="rail-brand">
+        <span className="rail-orb"><Layers /></span>
+        <div>
+          <p className="eyebrow">Lesson operating system</p>
+          <h3>Required Theory Path</h3>
+        </div>
+      </div>
+      <ModuleProgress title="Required theory modules" value={courseProgress} note={`${completedCount}/${moduleContents.length} module evidence states complete`} />
+      <div className="rail-module-list">
+        {moduleContents.map((module, index) => {
+          const complete = getModuleCompletion(module.id, state, module0Complete, module1Complete);
+          const active = activeModuleId === module.id;
+          return (
+            <button
+              className={active ? "rail-module active" : "rail-module"}
+              key={module.id}
+              onClick={() => onSelectModule(module.id)}
+              aria-current={active ? "page" : undefined}
+            >
+              <span className={complete ? "rail-status complete" : "rail-status"}>{complete ? <CheckCircle2 /> : index}</span>
+              <span>
+                <strong>{module.title.replace("Module ", "M")}</strong>
+                <small>{module.time} | {module.status}</small>
+              </span>
+            </button>
+          );
+        })}
+      </div>
+      <button className="rail-final-button" onClick={onFinal}>
+        Final Review / Exam / Affidavit <ChevronRight />
+      </button>
+    </aside>
+  );
+}
+
+function LessonCanvas({
+  module,
+  activeLesson,
+  lessonIndex,
+  setLessonIndex,
+  activeTab,
+  setActiveTab,
+  state,
+  update,
+  module0Complete,
+  module1Complete,
+  setView,
+}: {
+  module: SeededModuleContent;
+  activeLesson?: SeededModuleContent["lessonSections"][number];
+  lessonIndex: number;
+  setLessonIndex: (index: number) => void;
+  activeTab: LessonTabId;
+  setActiveTab: (tab: LessonTabId) => void;
+  state: LearnerState;
+  update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
+  module0Complete: boolean;
+  module1Complete: boolean;
+  setView: (view: View) => void;
+}) {
+  return (
+    <article className="lesson-canvas">
+      <div className="lesson-hero">
+        <div>
+          <p className="eyebrow">{module.time} | {module.required ? "Required online CE" : "Optional"}</p>
+          <h2>{module.title}</h2>
+          <p>{module.summary}</p>
+          <div className="tag-row">
+            <span>{module.sourceStatus}</span>
+            {module.reviewFlags.length ? <span>{module.reviewFlags.length} review flag{module.reviewFlags.length === 1 ? "" : "s"}</span> : <span>Source extracted</span>}
+          </div>
+        </div>
+        <CompletionStatus
+          module={module}
+          complete={getModuleCompletion(module.id, state, module0Complete, module1Complete)}
+        />
+      </div>
+
+      <LessonTabs activeTab={activeTab} setActiveTab={setActiveTab} />
+
+      {activeTab === "learn" && (
+        <div className="lesson-body-grid">
+          <div className="lesson-main-flow">
+            <section className="lesson-section-card overview-card">
+              <p className="eyebrow">Module overview</p>
+              <h3>What this lesson covers</h3>
+              <p>{module.summary}</p>
+              <div className="objective-grid">
+                {module.objectives.map((objective) => (
+                  <LessonInsightCard key={objective} title="Learning goal" text={objective} />
+                ))}
+              </div>
+            </section>
+
+            <section className="lesson-section-card">
+              <div className="panel-heading">
+                <div>
+                  <p className="eyebrow">Focused lesson canvas</p>
+                  <h3>{activeLesson?.title || "Lesson section"}</h3>
+                </div>
+                <span className="tag">{activeLesson?.minutes || 0} min</span>
+              </div>
+              <p>{activeLesson?.summary}</p>
+              {activeLesson?.sourceStatus && <div className="notice">{activeLesson.sourceStatus}</div>}
+              <div className="lesson-selector" aria-label="Module lesson list">
+                {module.lessonSections.map((lesson, index) => (
+                  <button
+                    key={lesson.title}
+                    className={lessonIndex === index ? "lesson-step active" : "lesson-step"}
+                    onClick={() => setLessonIndex(index)}
+                  >
+                    <span>{index + 1}</span>
+                    <strong>{lesson.title}</strong>
+                    <small>{lesson.minutes} min</small>
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <section className="lesson-section-card">
+              <p className="eyebrow">Key CNA decision points</p>
+              <h3>Practice boundaries to carry forward</h3>
+              <div className="decision-grid">
+                {module.lessonSections.slice(0, 4).map((lesson) => (
+                  <LessonInsightCard key={lesson.title} title={lesson.title} text={lesson.summary} status={lesson.sourceStatus} />
+                ))}
+              </div>
+            </section>
+          </div>
+
+          <aside className="lesson-action-stack">
+            <ResourcesPanel module={module} />
+            <QuickReference module={module} />
+          </aside>
+        </div>
+      )}
+
+      {activeTab === "terms" && <TerminologyPanel module={module} />}
+      {activeTab === "scenario" && (
+        <ScenarioChallenge module={module} state={state} update={update} />
+      )}
+      {activeTab === "transcript" && <TranscriptPanel module={module} />}
+      {activeTab === "evidence" && (
+        <EvidencePanel module={module} state={state} update={update} module0Complete={module0Complete} module1Complete={module1Complete} setView={setView} />
+      )}
+    </article>
+  );
+}
+
+function LessonTabs({ activeTab, setActiveTab }: { activeTab: LessonTabId; setActiveTab: (tab: LessonTabId) => void }) {
+  const tabs: Array<{ id: LessonTabId; label: string; icon: React.ReactNode }> = [
+    { id: "learn", label: "Lesson", icon: <BookOpen /> },
+    { id: "terms", label: "Terms", icon: <FileText /> },
+    { id: "scenario", label: "Practice", icon: <MessageSquare /> },
+    { id: "transcript", label: "Transcript", icon: <Sparkles /> },
+    { id: "evidence", label: "Evidence", icon: <ListChecks /> },
+  ];
+  return (
+    <div className="lesson-tabs" aria-label="Lesson workspace tabs">
+      {tabs.map((tab) => (
+        <button
+          key={tab.id}
+          className={activeTab === tab.id ? "active" : ""}
+          onClick={() => setActiveTab(tab.id)}
+        >
+          {tab.icon}
+          {tab.label}
+        </button>
+      ))}
+    </div>
+  );
+}
+
+function LessonInsightCard({ title, text, status }: { title: string; text: string; status?: string }) {
+  return (
+    <article className="lesson-insight-card">
+      <h4>{title}</h4>
+      <p>{text}</p>
+      {status && <span>{status}</span>}
+    </article>
+  );
+}
+
+function TerminologyPanel({ module }: { module: SeededModuleContent }) {
+  const terms = buildTerminology(module);
+  return (
+    <section className="drawer-panel terminology-panel">
+      <div className="panel-heading">
+        <div>
+          <p className="eyebrow">Terminology review</p>
+          <h3>Terms extracted from this module</h3>
+        </div>
+        <span className="tag">{terms.length} terms</span>
+      </div>
+      <div className="term-grid">
+        {terms.map((term) => (
+          <article className="term-card" key={term.label}>
+            <strong>{term.label}</strong>
+            <p>{term.detail}</p>
+          </article>
+        ))}
+      </div>
+      <div className="notice">Terminology is derived from the seeded CNA module data and remains subject to the same source/review flags shown for the module.</div>
+    </section>
+  );
+}
+
+function ResourcesPanel({ module }: { module: SeededModuleContent }) {
+  return (
+    <section className="context-card">
+      <p className="eyebrow">Resources</p>
+      <h3>Source and migration anchors</h3>
+      <div className="resource-list">
+        <div>
+          <span>Source path</span>
+          <strong>{module.sourcePath}</strong>
+        </div>
+        <div>
+          <span>Moodle mapping</span>
+          <strong>{module.moodleNotes}</strong>
+        </div>
+      </div>
+      {module.reviewFlags.length > 0 && (
+        <details className="content-details">
+          <summary>Review flags</summary>
+          {module.reviewFlags.map((flag) => (
+            <div className="notice" key={`${flag.kind}-${flag.note}`}>
+              <strong>{flag.kind} review:</strong> {flag.note}
+            </div>
+          ))}
+        </details>
+      )}
+    </section>
+  );
+}
+
+function ScenarioChallenge({
+  module,
+  state,
+  update,
+}: {
+  module: SeededModuleContent;
+  state: LearnerState;
+  update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
+}) {
+  if (module.id === "m0") {
+    return <OrientationCheck state={state} update={update} />;
+  }
+  if (module.scenarioChecks.length === 0) {
+    return (
+      <section className="drawer-panel">
+        <p className="eyebrow">Scenario challenge</p>
+        <h3>Source review pending</h3>
+        <p>No scored scenario is seeded for this module yet. Keep the lesson structure visible without fabricating final approved clinical content.</p>
+        <div className="notice">Scenario and feedback content awaiting final approval.</div>
+      </section>
+    );
+  }
+  return (
+    <section className="scenario-workspace drawer-panel">
+      <div className="panel-heading">
+        <div>
+          <p className="eyebrow">Scenario challenge</p>
+          <h3>Apply the CNA decision boundary</h3>
+        </div>
+        <span className="tag">{module.scenarioChecks.length} check{module.scenarioChecks.length === 1 ? "" : "s"}</span>
+      </div>
+      <div className="scenario-list">
+        {module.scenarioChecks.map((check, index) => (
+          <PracticeCheckCard key={check.title} moduleId={module.id} check={check} index={index} update={update} />
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function PracticeCheckCard({
+  moduleId,
+  check,
+  index,
+  update,
+}: {
+  moduleId: string;
+  check: SeededModuleContent["scenarioChecks"][number];
+  index: number;
+  update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
+}) {
+  const choices = check.choices?.length
+    ? check.choices
+    : check.correctAnswer
+      ? [check.correctAnswer, "Review the lesson before selecting an action.", "Escalate only after documenting a final diagnosis."]
+      : ["Content awaiting approval"];
   const [answer, setAnswer] = useState("");
   const [submitted, setSubmitted] = useState(false);
-  const correct = answer === "report";
+  const correct = Boolean(check.correctAnswer && answer === check.correctAnswer);
   return (
-    <section>
-      <SectionHeader icon={<BookOpen />} title="Module 1: Infection Control and PPE" text="Functional review screen using extracted Module 1 source content; source notes require SME/source review before production." />
-      {!module0Complete && !unlockMode && <LockNotice text="Module 1 is intended to unlock after Module 0 identity, online cap, PHI, and orientation acknowledgements are complete." />}
-      {!module0Complete && unlockMode && <LockNotice text="Unlock Mode lets stakeholders review Module 1 without marking Module 0 complete." />}
-      <div className="content-stack">
-        <article className="panel">
-          <h3>Microlearning Sections</h3>
-          <ul>
-            <li>Why infection control matters in long-term care.</li>
-            <li>The chain of infection and how CNAs break it.</li>
-            <li>Hand hygiene: soap/water, sanitizer, and key moments.</li>
-            <li>PPE selection, donning, and doffing.</li>
-            <li>Recognizing and reporting infection signs.</li>
-            <li>Environmental cleaning and safe linen handling.</li>
-          </ul>
-          <div className="notice">
-            Module 1 production content is marked in the source package as needing SME/source review. This review build does
-            not claim final approved content status.
-          </div>
-        </article>
-        <TranscriptBox title="Optional TTS Placeholder: Infection Control Summary" />
-        <article className="panel">
-          <h3>Scenario Check</h3>
-          <p>
-            During a busy shift, Mrs. J is usually alert and talkative. Today she seems suddenly confused and agitated.
-            She also ate very little at breakfast. What is the CNA's best first action?
-          </p>
-          <div className="answer-list" role="radiogroup" aria-label="Module 1 scenario choices">
-            {[
-              ["sleep", "Assume she did not sleep well and check again tomorrow."],
-              ["chart", "Document the change and continue with rounds."],
-              ["report", "Report the change to the licensed nurse immediately."],
-            ].map(([value, label]) => (
-              <label key={value}>
-                <input type="radio" name="m1-scenario" value={value} checked={answer === value} onChange={() => setAnswer(value)} />
-                {label}
+    <article className="scenario-card">
+      <p className="eyebrow">Check {index + 1}</p>
+      <h4>{check.title}</h4>
+      <p>{check.prompt}</p>
+      {check.sourceStatus && <div className="notice">{check.sourceStatus}</div>}
+      {check.correctAnswer ? (
+        <>
+          <div className="answer-list premium-answer-list" role="radiogroup" aria-label={`${check.title} choices`}>
+            {choices.map((choice) => (
+              <label key={choice} className={answer === choice ? "selected" : ""}>
+                <input
+                  type="radio"
+                  name={`${moduleId}-${check.title}`}
+                  value={choice}
+                  checked={answer === choice}
+                  onChange={() => setAnswer(choice)}
+                />
+                {choice}
               </label>
             ))}
           </div>
           <button
             onClick={() => {
               setSubmitted(true);
-              if (correct) update("module1Interaction", true);
+              if (moduleId === "m1" && correct) update("module1Interaction", true);
             }}
           >
-            Submit scenario check
+            Submit practice check
           </button>
           {submitted && (
             <div className={correct ? "feedback good" : "feedback bad"}>
-              {correct
-                ? "Correct. New confusion or a sudden change from baseline can signal infection or another urgent change. Report it directly to the licensed nurse."
-                : "Not yet. Review the reporting section: sudden confusion in an older resident should be reported immediately. This remediation message is part of the review feedback evidence."}
+              {correct ? check.feedback || "Correct. Continue to the debrief and completion evidence." : check.remediation || "Review the lesson section before trying again."}
             </div>
           )}
-        </article>
-        <article className="panel">
-          <h3>Module Completion Status</h3>
+        </>
+      ) : (
+        <div className="notice">Content awaiting final approval before this can be used as a scored check.</div>
+      )}
+    </article>
+  );
+}
+
+function TranscriptPanel({ module }: { module: SeededModuleContent }) {
+  return (
+    <section className="drawer-panel transcript-workspace">
+      <div className="panel-heading">
+        <div>
+          <p className="eyebrow">Narration and transcript</p>
+          <h3>{module.title}</h3>
+        </div>
+        <span className="tag">Narration pending</span>
+      </div>
+      <p>{module.tts.status}</p>
+      <div className="transcript-script">
+        <h4>Transcript summary</h4>
+        <p>{module.tts.transcriptSummary}</p>
+      </div>
+      <div className="source-box">
+        <p><strong>TTS source:</strong> {module.tts.sourcePath}</p>
+        <p>Audio is not generated until authorization, script approval, and transcript pairing are complete.</p>
+      </div>
+    </section>
+  );
+}
+
+function EvidencePanel({
+  module,
+  state,
+  update,
+  module0Complete,
+  module1Complete,
+  setView,
+}: {
+  module: SeededModuleContent;
+  state: LearnerState;
+  update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
+  module0Complete: boolean;
+  module1Complete: boolean;
+  setView: (view: View) => void;
+}) {
+  const complete = getModuleCompletion(module.id, state, module0Complete, module1Complete);
+  return (
+    <section className="drawer-panel evidence-workspace">
+      <div className="panel-heading">
+        <div>
+          <p className="eyebrow">Completion and evidence</p>
+          <h3>{complete ? "Evidence state complete" : "Evidence still needed"}</h3>
+        </div>
+        <StatusPill pass={complete} label={complete ? "Complete" : "Incomplete"} />
+      </div>
+      {module.id === "m0" && <OrientationCheck state={state} update={update} compact />}
+      {module.id === "m1" && (
+        <div className="completion-control-card">
           <CheckBox
             checked={state.module1QuizPassed}
             onChange={(checked) => update("module1QuizPassed", checked)}
-            label="Prototype module quiz passed at 80% or higher."
+            label="Module 1 quiz/check evidence passed at the review threshold."
           />
-          <StatusPill pass={state.module1Interaction && state.module1QuizPassed} label={state.module1Interaction && state.module1QuizPassed ? "Module 1 complete" : "Module 1 incomplete"} />
-        </article>
+          <StatusPill pass={state.module1Interaction && state.module1QuizPassed} label={state.module1Interaction && state.module1QuizPassed ? "Module 1 complete" : "Scenario and quiz evidence needed"} />
+        </div>
+      )}
+      {["m2", "m3", "m4", "m5", "m6"].includes(module.id) && (
+        <div className="completion-control-card">
+          <p>
+            Modules 2-6 are rendered from seeded source data in this standalone review build. The shared theory-completion
+            control remains in reviewer tools so certificate gates stay consistent with the existing MVP logic.
+          </p>
+          <CheckBox
+            checked={state.remainingTheorySimulated}
+            onChange={(checked) => update("remainingTheorySimulated", checked)}
+            label="Reviewer evidence state: remaining required theory modules reviewed."
+          />
+        </div>
+      )}
+      <div className="button-row">
+        <button onClick={() => setView("exam")}>Continue to Final Review</button>
+        <button className="secondary" onClick={() => setView("certificate")}>Check Certificate Gates</button>
       </div>
+      <details className="content-details">
+        <summary>Evidence details</summary>
+        <p>{module.remediation}</p>
+        <p className="source-note">{module.moodleNotes}</p>
+      </details>
+    </section>
+  );
+}
+
+function OrientationCheck({
+  state,
+  update,
+  compact,
+}: {
+  state: LearnerState;
+  update: <K extends keyof LearnerState>(key: K, value: LearnerState[K]) => void;
+  compact?: boolean;
+}) {
+  return (
+    <section className={compact ? "orientation-check compact-orientation" : "orientation-check drawer-panel"}>
+      {!compact && (
+        <>
+          <p className="eyebrow">Orientation flow</p>
+          <h3>Profile, course boundary, and acknowledgements</h3>
+        </>
+      )}
+      <div className="form-grid">
+        <label>
+          Legal first name
+          <input value={state.legalFirstName} onChange={(event) => update("legalFirstName", event.target.value)} />
+        </label>
+        <label>
+          Legal last name
+          <input value={state.legalLastName} onChange={(event) => update("legalLastName", event.target.value)} />
+        </label>
+        <label>
+          CNA certificate number
+          <input value={state.cnaNumber} onChange={(event) => update("cnaNumber", event.target.value)} />
+        </label>
+      </div>
+      <div className="acknowledgement-stack">
+        <CheckBox
+          checked={state.onlineCapAck}
+          onChange={(checked) => update("onlineCapAck", checked)}
+          label="I understand the 24-hour online CE cap and that this course is partial renewal credit only."
+        />
+        <CheckBox
+          checked={state.phiAck}
+          onChange={(checked) => update("phiAck", checked)}
+          label="I will not enter or upload PHI about real patients, residents, or individuals in any part of this course."
+        />
+        <CheckBox
+          checked={state.orientationFinalAck}
+          onChange={(checked) => update("orientationFinalAck", checked)}
+          label="I understand optional clinical support is separate and does not affect the online CE certificate gate."
+        />
+      </div>
+    </section>
+  );
+}
+
+function LessonContextPanel({
+  module,
+  activeLessonTitle,
+  moduleComplete,
+  setActiveTab,
+  setView,
+}: {
+  module: SeededModuleContent;
+  activeLessonTitle?: string;
+  moduleComplete: boolean;
+  setActiveTab: (tab: LessonTabId) => void;
+  setView: (view: View) => void;
+}) {
+  return (
+    <aside className="lesson-context-panel">
+      <section className="context-card active-lesson-card">
+        <p className="eyebrow">Current lesson</p>
+        <h3>{activeLessonTitle || module.title}</h3>
+        <StatusPill pass={moduleComplete} label={moduleComplete ? "Evidence complete" : "Evidence pending"} />
+      </section>
+      <button className="context-action" onClick={() => setActiveTab("scenario")}>
+        Open Practice Check <ChevronRight />
+      </button>
+      <button className="context-action secondary-context" onClick={() => setActiveTab("terms")}>
+        Review Terms <ChevronRight />
+      </button>
+      <button className="context-action secondary-context" onClick={() => setView("clinical")}>
+        Optional Clinical Hub <ChevronRight />
+      </button>
+      <details className="context-card reviewer-tools-drawer">
+        <summary>Reviewer / Admin Notes</summary>
+        <p>{module.sourceStatus}</p>
+        <p className="source-note">Controls that alter gates remain in Advanced Reviewer Tools.</p>
+      </details>
+    </aside>
+  );
+}
+
+function ModuleProgress({ title, value, note }: { title: string; value: number; note: string }) {
+  return (
+    <div className="rail-progress">
+      <div className="panel-heading">
+        <strong>{title}</strong>
+        <span>{value}%</span>
+      </div>
+      <div className="progress-bar" aria-label={`${title}: ${value}%`}>
+        <span style={{ width: `${value}%` }} />
+      </div>
+      <p>{note}</p>
+    </div>
+  );
+}
+
+function CompletionStatus({ module, complete }: { module: SeededModuleContent; complete: boolean }) {
+  return (
+    <aside className={complete ? "completion-status complete" : "completion-status"}>
+      <span>{complete ? <CheckCircle2 /> : <Lock />}</span>
+      <strong>{complete ? "Evidence complete" : "Evidence pending"}</strong>
+      <p>{module.status}</p>
+    </aside>
+  );
+}
+
+function QuickReference({ module }: { module: SeededModuleContent }) {
+  return (
+    <section className="context-card quick-reference-card">
+      <p className="eyebrow">Job-aid summary</p>
+      <h3>Carry-forward takeaways</h3>
+      <ul>
+        {module.objectives.slice(0, 3).map((objective) => (
+          <li key={objective}>{objective}</li>
+        ))}
+      </ul>
+      <div className="notice">Use facility policy and licensed supervision boundaries. Do not enter PHI in course practice areas.</div>
     </section>
   );
 }
@@ -753,8 +1248,8 @@ function FinalExam({
         {state.finalExamAttempted && (
           <div className={state.finalExamPassed ? "feedback good" : "feedback bad"}>
             {state.finalExamPassed
-              ? "Prototype result: passed. Affidavit screen is now available."
-              : "Prototype result: failed. Certificate remains unavailable. Review infection control, resident rights, dementia care, mobility/falls, nutrition/skin/vitals, and documentation/scope before retry."}
+              ? "Review result: passed. Affidavit screen is now available."
+              : "Review result: failed. Certificate remains unavailable. Review infection control, resident rights, dementia care, mobility/falls, nutrition/skin/vitals, and documentation/scope before retry."}
           </div>
         )}
       </div>
@@ -775,7 +1270,7 @@ function Affidavit({
 }) {
   return (
     <section>
-      <SectionHeader icon={<FileWarning />} title="Final Statement / Affidavit Prototype" text="Draft only, pending legal/CDPH approval. E-signature acceptance is unresolved." />
+      <SectionHeader icon={<FileWarning />} title="Final Statement / Affidavit Draft" text="Draft only, pending legal/CDPH approval. E-signature acceptance is unresolved." />
       {!enabled && <LockNotice text="Draft affidavit unlocks after the final exam/test is passed." />}
       {unlockMode && <LockNotice text="Unlock Mode allows stakeholder review of this screen without treating the affidavit as complete." />}
       <div className="panel">
@@ -784,7 +1279,7 @@ function Affidavit({
           disabled={!enabled}
           checked={state.affidavitComplete}
           onChange={(checked) => update("affidavitComplete", checked)}
-          label="Prototype signature acknowledgement complete."
+          label="Draft signature acknowledgement complete."
         />
       </div>
     </section>
@@ -935,7 +1430,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
         <div className={result.available ? "decision-card available" : "decision-card blocked"}>
           <p className="eyebrow">Selected scenario</p>
           <h3>{selectedScenario.name}</h3>
-          <strong>{result.available ? "Mock Certificate Available - Prototype Only" : "Certificate Locked"}</strong>
+          <strong>{result.available ? "Mock Certificate Available - Review Only" : "Certificate Locked"}</strong>
           <p>
             {result.available
               ? "All required online CE gates pass. Optional clinical support is shown separately and excluded from gate computation."
@@ -1014,7 +1509,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
               <p className="eyebrow">Required gates only</p>
               <h3>Gate Evaluation</h3>
             </div>
-            <span className="tag">Prototype only</span>
+            <span className="tag">Mock only</span>
           </div>
           <div className="gate-list">
             {gateDefinitions.map((gate) => (
@@ -1049,7 +1544,7 @@ function GateCommandCenter({ setView }: { setView: (view: View) => void }) {
 
       <article className="certificate-preview command-certificate">
         <div className="watermark">STAGING / PROTOTYPE ONLY - NOT A LIVE CE CERTIFICATE</div>
-        <h2>{result.available ? "Mock Certificate Available - Prototype Only" : "Certificate Locked"}</h2>
+        <h2>{result.available ? "Mock Certificate Available - Review Only" : "Certificate Locked"}</h2>
         <p>Scenario: {selectedScenario.name}</p>
         <p>
           {result.available
@@ -1157,7 +1652,7 @@ function AuditPreview({ state, gates }: { state: LearnerState; gates: Gate[] }) 
         </div>
       </article>
       <div className="panel">
-        <h3>Prototype Evidence Snapshot</h3>
+        <h3>Review Evidence Snapshot</h3>
         <pre>{JSON.stringify({ learnerProfile: maskProfile(state), gates: gates.map(({ label, pass }) => ({ label, pass })) }, null, 2)}</pre>
       </div>
     </section>
@@ -1411,6 +1906,28 @@ function SeededModuleDetails({ module }: { module?: SeededModuleContent }) {
       </div>
     </details>
   );
+}
+
+function getModuleCompletion(moduleId: string, state: LearnerState, module0Complete: boolean, module1Complete: boolean) {
+  if (moduleId === "m0") return module0Complete;
+  if (moduleId === "m1") return module1Complete;
+  return state.remainingTheorySimulated;
+}
+
+function buildTerminology(module: SeededModuleContent) {
+  const fromSections = module.lessonSections.slice(0, 6).map((section) => ({
+    label: section.title,
+    detail: section.summary,
+  }));
+  const reviewTerms = module.reviewFlags.slice(0, 3).map((flag) => ({
+    label: `${flag.kind} review`,
+    detail: flag.note,
+  }));
+  const fallback = module.objectives.slice(0, 3).map((objective) => ({
+    label: objective.split(" ").slice(0, 5).join(" "),
+    detail: objective,
+  }));
+  return [...fromSections, ...reviewTerms, ...fallback].slice(0, 9);
 }
 
 type Gate = { id: string; label: string; pass: boolean; source: string };
