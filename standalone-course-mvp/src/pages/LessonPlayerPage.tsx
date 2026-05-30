@@ -1,21 +1,15 @@
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { ArrowLeft, Check, Clock, FileText, Pause, Play } from "lucide-react";
+import { ArrowLeft, Check, Clock } from "lucide-react";
 import { useLearner } from "../lib/learnerState";
 import { useUiState, formatHoursAndMins } from "../lib/uiState";
 import { withLessonCompleted } from "../lib/v2state";
 import { paths } from "../app/routes";
 import { getGeneratedLesson } from "../data/contentV2Adapter";
-import { MediaPanel } from "../components/v2/primitives";
-
-type Challenge = {
-  prompt: string;
-  choices: { id: string; label: string }[];
-  correct_id_internal?: string;
-  rationale_internal?: string;
-  learner_feedback_correct?: string;
-  learner_feedback_incorrect?: string;
-};
+import { buildLessonRemediation, type RemediationChallenge } from "../data/remediation";
+import { MediaSlot } from "../components/v2/primitives";
+import { NarrationPlayer } from "../components/v2/NarrationPlayer";
+import { ChallengeDebrief } from "../components/v2/ChallengeDebrief";
 
 function cardLabel(cardId: string) {
   return cardId.replace(/_/g, " ").replace(/^C0?/, "Card ");
@@ -31,9 +25,11 @@ export function LessonPlayerPage() {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState(false);
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [showTranscript, setShowTranscript] = useState(false);
-  const [openedRationales, setOpenedRationales] = useState<string[]>([]);
+  const [openedOptions, setOpenedOptions] = useState<string[]>([]);
+
+  const challengeCard = useMemo(() => cards.find((card) => card.internal_challenge), [cards]);
+  const challenge = (challengeCard?.internal_challenge ?? null) as RemediationChallenge | null;
+  const remediation = useMemo(() => (challenge ? buildLessonRemediation(challenge) : null), [challenge]);
 
   if (!lesson || cards.length === 0) {
     return (
@@ -44,20 +40,29 @@ export function LessonPlayerPage() {
   }
 
   const currentCard = cards[currentIdx];
-  const challenge = (currentCard.internal_challenge ?? null) as Challenge | null;
-  const deliveryCards = cards.filter((card) => card.card_type === "delivery").length;
-  const isChallengeCard = Boolean(challenge);
-  const canContinue = !isChallengeCard || submitted;
+  const isChallengeCard = Boolean(currentCard.internal_challenge);
+  const isDebriefCard = currentCard.card_type === "debrief";
+  const isLast = currentIdx === cards.length - 1;
+
+  // Read-before-continue: on the debrief, the learner must open the safest
+  // response and their own choice (at minimum the safest response).
+  const requiredReads = remediation
+    ? Array.from(new Set([remediation.safestId, selectedAnswer].filter(Boolean) as string[]))
+    : [];
+  const debriefReadDone = requiredReads.every((id) => openedOptions.includes(id));
+
+  const canContinue = isChallengeCard ? submitted : isDebriefCard ? debriefReadDone : true;
 
   const handleNext = () => {
     if (currentIdx < cards.length - 1) {
       setCurrentIdx((idx) => idx + 1);
-      setShowTranscript(false);
       return;
     }
     setState((s) => withLessonCompleted(s));
     navigate(paths.module1);
   };
+
+  const challengeChoices = (challenge?.choices ?? []) as { id: string; label: string }[];
 
   return (
     <div className="space-y-6">
@@ -100,14 +105,7 @@ export function LessonPlayerPage() {
             <p className="text-[11px] text-stone-500 font-mono mt-1">{currentCard.app.location}</p>
           </div>
 
-          <MediaPanel
-            label={`Visual Blueprint ${currentCard.card_id}`}
-            caption={currentCard.media_prompt_placeholder.scene_title}
-          >
-            <div className="w-28 h-28 rounded-full border border-amber-500/30 bg-[#1c0d0d] flex items-center justify-center text-amber-500/70">
-              <FileText size={40} />
-            </div>
-          </MediaPanel>
+          <MediaSlot appLocation={currentCard.app.location} sceneTitle={currentCard.media_prompt_placeholder.scene_title} />
 
           {currentCard.card_type === "overview" && (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -127,9 +125,7 @@ export function LessonPlayerPage() {
           {currentCard.card_type === "delivery" && (
             <div className="space-y-4">
               <div className="space-y-2">
-                <h4 className="text-xs uppercase font-bold text-stone-400 font-mono tracking-wider">
-                  Delivery Segment {deliveryCards > 1 ? currentCard.card_id.split("_")[0] : ""}
-                </h4>
+                <h4 className="text-xs uppercase font-bold text-stone-400 font-mono tracking-wider">Lesson Content</h4>
                 <p className="text-xs text-stone-400 leading-relaxed whitespace-pre-line">{currentCard.learner_facing_content}</p>
               </div>
               <div className="p-3 bg-[#1c0d0d] border border-[#5c1111]/30 rounded">
@@ -144,7 +140,7 @@ export function LessonPlayerPage() {
             <div className="space-y-4">
               <p className="text-xs text-stone-300 leading-relaxed font-semibold">{challenge.prompt}</p>
               <div className="grid grid-cols-1 gap-2.5">
-                {challenge.choices.map((ans) => (
+                {challengeChoices.map((ans) => (
                   <button
                     key={ans.id}
                     onClick={() => !submitted && setSelectedAnswer(ans.id)}
@@ -158,102 +154,65 @@ export function LessonPlayerPage() {
                   </button>
                 ))}
               </div>
-              {!submitted && selectedAnswer && (
-                <button onClick={() => setSubmitted(true)} className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors">
-                  Submit Decision Pattern
+              {!submitted && (
+                <button
+                  onClick={() => setSubmitted(true)}
+                  disabled={!selectedAnswer}
+                  className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+                >
+                  Submit Response
                 </button>
               )}
-              {submitted && <p className="text-[11px] text-amber-500/80 font-mono">Decision submitted. Continue to the debrief for rationale review.</p>}
-            </div>
-          )}
-
-          {currentCard.card_type === "debrief" && (
-            <div className="space-y-4">
-              <p className="text-xs text-stone-400 leading-relaxed whitespace-pre-line">{currentCard.learner_facing_content}</p>
-              {currentCard.debrief_rationale && (
-                <div className="p-4 rounded border border-stone-900 bg-stone-950/60">
-                  <h4 className="text-[10px] uppercase font-bold text-stone-300 font-mono mb-2">ContentV2 Debrief Rationale</h4>
-                  <p className="text-[11px] text-stone-400 leading-relaxed whitespace-pre-line">{currentCard.debrief_rationale}</p>
-                </div>
-              )}
-              {cards.find((card) => card.internal_challenge)?.internal_challenge && (
-                <div className="space-y-3">
-                  {((cards.find((card) => card.internal_challenge)?.internal_challenge ?? null) as Challenge | null)?.choices.map((item) => {
-                    const open = openedRationales.includes(item.id);
-                    const sourceChallenge = (cards.find((card) => card.internal_challenge)?.internal_challenge ?? null) as Challenge | null;
-                    const correct = item.id === sourceChallenge?.correct_id_internal;
-                    return (
-                      <button
-                        key={item.id}
-                        type="button"
-                        onClick={() => setOpenedRationales((current) => (current.includes(item.id) ? current : [...current, item.id]))}
-                        className={`w-full text-left p-4 rounded border text-xs transition-all ${open ? "bg-[#080404] border-[#5c1111]/60" : "bg-stone-950/40 border-stone-900/60 opacity-75 hover:opacity-100"}`}
-                      >
-                        <div className="flex items-center justify-between mb-2">
-                          <div className="flex items-center gap-2">
-                            <span className={`px-2 py-0.5 rounded text-[9px] font-mono font-bold ${correct ? "bg-amber-950/60 text-amber-300" : "bg-red-950/60 text-red-400"}`}>
-                              {item.id} - {correct ? "CORRECT OPTION" : "REVIEW OPTION"}
-                            </span>
-                            <h4 className="font-semibold text-stone-200">{item.label}</h4>
-                          </div>
-                          <span className="text-[10px] text-amber-500 font-mono font-semibold">{open ? "Read" : "Click to Review"}</span>
-                        </div>
-                        {open && (
-                          <p className="text-stone-400 leading-relaxed pl-1">
-                            {correct ? sourceChallenge?.learner_feedback_correct : sourceChallenge?.learner_feedback_incorrect}
-                          </p>
-                        )}
-                      </button>
-                    );
-                  })}
-                </div>
+              {submitted && (
+                <p className="text-[11px] text-amber-500/80 font-mono">Your response has been submitted. Continue to the Challenge Debrief.</p>
               )}
             </div>
           )}
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2">
-            {currentCard.key_terms.slice(0, 3).map((term) => (
-              <div key={term.term} className="bg-[#080404] border border-stone-900 rounded p-3">
-                <h4 className="text-[10px] uppercase font-bold text-amber-500 font-mono">{term.term}</h4>
-                <p className="text-[11px] text-stone-500 leading-relaxed mt-1">{term.definition}</p>
-              </div>
-            ))}
-          </div>
-        </div>
+          {isDebriefCard && remediation && (
+            <>
+              <ChallengeDebrief
+                remediation={remediation}
+                selectedId={selectedAnswer}
+                openedIds={openedOptions}
+                onOpen={(id) => setOpenedOptions((cur) => (cur.includes(id) ? cur : [...cur, id]))}
+              />
+              {!debriefReadDone && (
+                <p className="text-[11px] text-stone-500 font-mono">
+                  Review the safest response{selectedAnswer && selectedAnswer !== remediation.safestId ? " and your own choice" : ""} in the option review to unlock lesson completion.
+                </p>
+              )}
+            </>
+          )}
 
-        <div className="px-6 py-4 bg-[#0a0505] border-t border-stone-850 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
-            <button onClick={() => setIsPlaying((p) => !p)} className="w-10 h-10 rounded-full bg-[#1c0d0d] border border-[#5c1111]/40 flex items-center justify-center text-amber-500 hover:bg-[#2c1212] transition-colors shrink-0">
-              {isPlaying ? <Pause size={16} className="fill-current" /> : <Play size={16} className="fill-current ml-0.5" />}
-            </button>
-            <div>
-              <span className="text-xs font-semibold text-stone-200 block">Required Core Narration Audio</span>
-              <span className="text-[10px] text-stone-500 font-mono block">
-                {isPlaying ? "Active Playback" : "Playback Standby"} ({currentCard.estimated_narration_seconds}s planning clip)
-              </span>
+          {!isDebriefCard && (
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2">
+              {currentCard.key_terms.slice(0, 3).map((term) => (
+                <div key={term.term} className="bg-[#080404] border border-stone-900 rounded p-3">
+                  <h4 className="text-[10px] uppercase font-bold text-amber-500 font-mono">{term.term}</h4>
+                  <p className="text-[11px] text-stone-500 leading-relaxed mt-1">{term.definition}</p>
+                </div>
+              ))}
             </div>
-          </div>
-          <button onClick={() => setShowTranscript((t) => !t)} className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded border text-xs font-mono transition-all ${showTranscript ? "bg-amber-950/40 text-amber-400 border-amber-500/30" : "bg-transparent border-stone-900 text-stone-500 hover:text-stone-300"}`}>
-            <FileText size={12} /> Transcript Text
-          </button>
+          )}
         </div>
 
-        {showTranscript && (
-          <div className="px-6 py-4 bg-stone-950 text-stone-400 text-xs italic leading-relaxed border-t border-stone-900 whitespace-pre-line">
-            {currentCard.transcript_text}
-          </div>
-        )}
+        <NarrationPlayer
+          appLocation={currentCard.app.location}
+          transcript={isDebriefCard && remediation ? remediation.transcript : currentCard.transcript_text}
+          label={isDebriefCard ? "Challenge Debrief Narration" : "Lesson Narration"}
+          estSeconds={currentCard.estimated_narration_seconds}
+        />
 
         <div className="px-6 py-4 bg-stone-950 border-t border-stone-850 flex items-center justify-between">
           <button onClick={() => setCurrentIdx((idx) => Math.max(0, idx - 1))} disabled={currentIdx === 0} className="px-4 py-2 text-xs font-semibold text-stone-500 hover:text-stone-300 disabled:opacity-35 disabled:cursor-not-allowed uppercase tracking-wider">
             &larr; Previous Card
           </button>
           <button onClick={handleNext} disabled={!canContinue} className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-2.5 rounded text-xs uppercase tracking-wider transition-colors disabled:opacity-40 disabled:cursor-not-allowed">
-            {currentIdx === cards.length - 1 ? "Complete Theory Lesson" : "Continue"} &rarr;
+            {isLast ? "Complete Theory Lesson" : isDebriefCard ? remediation?.continueLabel ?? "Continue" : "Continue"} &rarr;
           </button>
         </div>
       </div>
     </div>
   );
 }
-

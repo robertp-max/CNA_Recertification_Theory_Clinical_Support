@@ -15,13 +15,17 @@ function appLessonId(lessonId: string): string {
 
 function toKnowledgeCheck(question: GeneratedQuestion | null | undefined): KnowledgeCheck | undefined {
   if (!question) return undefined;
+  // NOTE: learner-facing remediation is rendered via the course-extension model
+  // in src/data/remediation.ts (Challenge Debrief). These fields are retained
+  // only for internal scoring/back-compat and are NOT shown to learners. We do
+  // not surface answer-key or internal phrases here.
   return {
     prompt: question.prompt,
     choices: question.choices.map((choice) => ({ id: choice.id, label: choice.label })),
     correctId: question.correct_id_internal,
-    feedbackCorrect: question.learner_feedback_correct || "Correct. Continue to the next item.",
-    feedbackIncorrect: question.learner_feedback_incorrect || "Review the related lesson and try again.",
-    remediation: "Review the related ContentV2 lesson cards before retrying.",
+    feedbackCorrect: "",
+    feedbackIncorrect: "",
+    remediation: undefined,
   };
 }
 

@@ -38,5 +38,62 @@
     "source_manifest": {
       "type": "array"
     }
+  },
+  "$defs": {
+    "mediaPromptPlaceholder": {
+      "type": "object",
+      "description": "Per-card media readiness slot. No assets are generated for the MVP; a safe 16:9 placeholder with alt text is always available.",
+      "properties": {
+        "app_location": { "type": "string" },
+        "scene_title": { "type": "string" },
+        "image_16_9_prompt": { "type": "string" },
+        "optional_video_prompt": { "type": "string" },
+        "negative_prompt": { "type": "string" },
+        "alt_text": { "type": "string" },
+        "media_status": { "type": "string", "enum": ["asset-ready", "placeholder-pending"] },
+        "asset_path": { "type": "string" },
+        "required_for_mvp": { "type": "boolean" },
+        "phi_safety_note": { "type": "string" },
+        "status": { "type": "string" }
+      }
+    },
+    "remediation": {
+      "type": "object",
+      "description": "Course-extension remediation for a lesson challenge debrief card. Never exposes final-exam answer keys or internal scoring language to learners.",
+      "properties": {
+        "remediation_model": { "type": "string", "const": "course_extension" },
+        "safety_principle": { "type": "string" },
+        "safest_response": {
+          "type": "object",
+          "properties": {
+            "option_id": { "type": "string", "description": "Internal-only; never rendered as an answer key." },
+            "text": { "type": "string" }
+          }
+        },
+        "selected_response": { "type": ["string", "null"], "description": "Runtime learner selection; null in canonical data." },
+        "why_correct": { "type": "string" },
+        "why_incorrect": { "type": "object", "additionalProperties": { "type": "string" } },
+        "option_rationales": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string" },
+              "label": { "type": "string" },
+              "status": { "type": "string", "enum": ["safest", "needs-review"] },
+              "why": { "type": "string" },
+              "remember": { "type": "string" }
+            }
+          }
+        },
+        "resident_safety_note": { "type": "string" },
+        "cna_scope_note": { "type": "string" },
+        "remember_this": { "type": "string" },
+        "remediation_narration": { "type": "string" },
+        "remediation_transcript": { "type": "string" },
+        "remediation_media_prompt": { "$ref": "#/$defs/mediaPromptPlaceholder" },
+        "remediation_completion_condition": { "type": "string" }
+      }
+    }
   }
 }
