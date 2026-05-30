@@ -1,0 +1,72 @@
+/* ============================================================================
+   Design Tokens — Dark Premium Cinematic (CI Institute of Nursing)
+   Phase 3 refinement: warmer charcoal, layered surfaces, selective gold,
+   richer elevation. Brand-kit sans-serif typography only (no serif in UI).
+   ============================================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Montserrat:wght@600;700;800&family=Open+Sans:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Roboto+Mono&display=swap");
+
+:root {
+  /* Surfaces — slightly warm charcoal, never pure black */
+  --bg: #100e0f;
+  --bg-2: #161213;
+  --surface: #1d1819;
+  --surface-2: #221c1e;
+  --surface-raised: #2a2224;
+  --surface-soft: #1a1516;
+
+  /* Brand */
+  --burgundy: #7a1026;
+  --burgundy-bright: #97162f;
+  --oxblood: #5a0f1d;
+  --gold: #d2a84c;
+  --gold-bright: #e6c477;
+  --gold-deep: #b7892b;
+
+  /* Text */
+  --text: #f7eedc;
+  --text-2: #d9cfc2;
+  --muted: #9c9189;
+  --muted-2: #7c726b;
+
+  /* Lines / structure */
+  --line: #3a3133;
+  --line-soft: rgba(247, 238, 220, 0.08);
+  --line-warm: rgba(210, 168, 76, 0.16);
+
+  /* Status */
+  --status-complete: #5cc185;
+  --status-complete-soft: rgba(70, 180, 110, 0.14);
+  --status-pending: #d2a84c;
+  --status-blocked: #d07a4a;
+  --status-info: #6bb6cd;
+
+  /* Typography — brand kit authority */
+  --font-heading: "Poppins", "Montserrat", sans-serif;
+  --font-display: "Montserrat", "Poppins", sans-serif;
+  --font-body: "Open Sans", "Inter", sans-serif;
+  --font-mono: "Roboto Mono", monospace;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+
+  /* Elevation — depth via shadow + inset top highlight (works on dark) */
+  --elev-1: 0 1px 0 rgba(247, 238, 220, 0.04) inset, 0 6px 18px rgba(0, 0, 0, 0.38);
+  --elev-2: 0 1px 0 rgba(247, 238, 220, 0.05) inset, 0 18px 44px rgba(0, 0, 0, 0.5);
+  --glow-gold: 0 0 0 1px rgba(210, 168, 76, 0.35), 0 10px 30px rgba(210, 168, 76, 0.12);
+
+  /* Gradients */
+  --grad-surface: linear-gradient(160deg, var(--surface-2) 0%, var(--surface) 100%);
+  --grad-gold: linear-gradient(135deg, var(--gold-bright) 0%, var(--gold) 45%, var(--gold-deep) 100%);
+  --grad-burgundy: linear-gradient(135deg, var(--burgundy-bright) 0%, var(--burgundy) 55%, var(--oxblood) 100%);
+  --grad-hero: radial-gradient(115% 120% at 8% 0%, rgba(122, 16, 38, 0.42) 0%, transparent 52%),
+    radial-gradient(90% 110% at 100% 0%, rgba(90, 15, 29, 0.32) 0%, transparent 50%);
+
+  /* Layout */
+  --content-max: 1280px;
+  --tap-min: 44px;
+  --space: 1rem;
+}

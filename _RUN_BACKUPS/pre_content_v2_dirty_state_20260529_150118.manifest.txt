@@ -1,0 +1,262 @@
+﻿# Dirty state backup created 20260529_150118
+# Working directory: C:\AI\Git\CNA_Recertification_Theory_Clinical_Support
+# Branch: implementation-v2-design
+
+## git status --short --branch
+## implementation-v2-design
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (1).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (2).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (3).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (4).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (5).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (6).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (7).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (8).jpg"
+ D "CNA-Recert-Course/Branding_Kit/Stock/CNA (9).jpg"
+ M CNA-Recert-Course/Branding_Kit/logos/ci-ion-logo-original.svg
+ M standalone-course-mvp/index.html
+ M standalone-course-mvp/package-lock.json
+ M standalone-course-mvp/package.json
+ D standalone-course-mvp/src/data/auditAndMigrationData.ts
+ D standalone-course-mvp/src/data/clinicalSupportContent.ts
+ D standalone-course-mvp/src/data/courseData.ts
+ D standalone-course-mvp/src/data/gateCommandCenterData.ts
+ D standalone-course-mvp/src/data/moduleContent.ts
+ M standalone-course-mvp/src/main.tsx
+ D standalone-course-mvp/src/styles.css
+ M standalone-course-mvp/src/vite-env.d.ts
+ M standalone-course-mvp/vercel.json
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (1).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (10).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (2).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (3).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (4).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (5).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (6).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (7).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (8).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (9).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (1).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (10).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (11).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (12).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (13).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (14).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (15).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (16).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (17).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (18).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (19).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (2).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (20).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (21).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (22).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (23).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (24).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (25).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (26).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (27).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (28).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (29).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (3).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (30).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (5).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (6).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (7).png"
+?? "CNA-Recert-Course/Branding_Kit/Stock/Student(s) (9).png"
+?? CNA-Recert-Course/Branding_Kit/logos/ci-ion-logo-white.svg
+?? CNA-Recert-Course/Content/theory/tts/production_workbooks/~$CNA_RECERT_ALL_MODULES_NARRATION_MEDIA_PRODUCTION.xlsx
+?? CNA-Recert-Course/ContentV2/
+?? CNA-Recert-Course/MVP/
+?? _RUN_BACKUPS/
+?? standalone-course-mvp/playwright-login-desktop.png
+?? standalone-course-mvp/playwright-login-mobile.png
+?? standalone-course-mvp/playwright.v2-screenshot.config.ts
+?? standalone-course-mvp/postcss.config.cjs
+?? standalone-course-mvp/public/brand/favicons/android-chrome-192x192.png
+?? standalone-course-mvp/public/brand/logos/ci-ion-logo-login.svg
+?? standalone-course-mvp/public/brand/logos/ci-ion-logo-white.svg
+?? standalone-course-mvp/public/brand/stock/login-bg-user-upload.png
+?? standalone-course-mvp/public/brand/stock/login-students-group-4k.png
+?? standalone-course-mvp/public/brand/stock/login-students-group-flux-2.png
+?? standalone-course-mvp/public/brand/stock/login-students-group-flux.png
+?? standalone-course-mvp/public/brand/stock/login-students-group.png
+?? standalone-course-mvp/public/brand/stock/student-stock-03.png
+?? standalone-course-mvp/public/brand/stock/student-stock-12.png
+?? standalone-course-mvp/public/brand/stock/student-stock-18.png
+?? standalone-course-mvp/public/brand/stock/student-stock-22.png
+?? standalone-course-mvp/public/brand/stock/student-stock-24.png
+?? standalone-course-mvp/public/brand/stock/studentb-stock-01.png
+?? standalone-course-mvp/public/brand/stock/studentb-stock-05.png
+?? standalone-course-mvp/public/brand/stock/studentb-stock-07.png
+?? standalone-course-mvp/public/brand/stock/studentb-stock-10.png
+?? standalone-course-mvp/public/v2-screenshot-tailwind.css
+?? standalone-course-mvp/src/app/
+?? standalone-course-mvp/src/components/
+?? standalone-course-mvp/src/data/__tests__/
+?? standalone-course-mvp/src/data/courseModules.ts
+?? standalone-course-mvp/src/data/examPool.ts
+?? standalone-course-mvp/src/data/lessonModel.ts
+?? standalone-course-mvp/src/data/modules/
+?? standalone-course-mvp/src/data/phase1Module1.ts
+?? standalone-course-mvp/src/data/v2ModuleQuiz.ts
+?? standalone-course-mvp/src/lib/
+?? standalone-course-mvp/src/pages/
+?? standalone-course-mvp/src/styles/
+?? standalone-course-mvp/src/v2-screenshot-runner.tsx
+?? standalone-course-mvp/src/v2-screenshot-tailwind.input.css
+?? standalone-course-mvp/tailwind.config.cjs
+?? standalone-course-mvp/tailwind.v2-screenshot.config.cjs
+?? standalone-course-mvp/test-results/
+?? standalone-course-mvp/tests/
+?? standalone-course-mvp/v2-screenshot.html
+?? standalone-course-mvp/vite.v2-screenshot.config.ts
+?? standalone-course-mvp/vitest.config.ts
+
+## Tracked diff stored in patch
+
+## Untracked files
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (1).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (10).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (2).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (3).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (4).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (5).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (6).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (7).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (8).png
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (9).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (1).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (10).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (11).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (12).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (13).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (14).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (15).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (16).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (17).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (18).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (19).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (2).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (20).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (21).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (22).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (23).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (24).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (25).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (26).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (27).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (28).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (29).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (3).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (30).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (5).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (6).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (7).png
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (9).png
+CNA-Recert-Course/Branding_Kit/logos/ci-ion-logo-white.svg
+CNA-Recert-Course/Content/theory/tts/production_workbooks/~$CNA_RECERT_ALL_MODULES_NARRATION_MEDIA_PRODUCTION.xlsx
+CNA-Recert-Course/ContentV2/masterprompt.md
+CNA-Recert-Course/MVP/00_CURRENT_STATE_REVIEW.md
+CNA-Recert-Course/MVP/01_CONTENT_REVIEW_AND_READINESS.md
+CNA-Recert-Course/MVP/02_ACTIONABLE_ITEM_REGISTRY.md
+CNA-Recert-Course/MVP/03_TWO_PHASE_IMPLEMENTATION_PLAN.md
+CNA-Recert-Course/MVP/04_UIUX_DESIGN_SPECIFICATION.md
+CNA-Recert-Course/MVP/05_ASYNCHRONOUS_LESSON_DELIVERY_BLUEPRINT.md
+CNA-Recert-Course/MVP/06_END_USER_JOURNEY_MAP.md
+CNA-Recert-Course/MVP/07_MODULE_LESSON_DELIVERY_MAP.md
+CNA-Recert-Course/MVP/08_RECOMMENDATIONS_AND_RISKS.md
+CNA-Recert-Course/MVP/09_EXECUTIVE_SUMMARY_FOR_STAKEHOLDERS.md
+CNA-Recert-Course/MVP/CNA Recertification Asynchronous Training Blueprint.md
+CNA-Recert-Course/MVP/CNA Recertification MVP UI_UX Research.md
+CNA-Recert-Course/MVP/MVP_IMPLEMENTATION_INDEX.md
+CNA-Recert-Course/MVP/UIUX/Assessment.tsx
+CNA-Recert-Course/MVP/UIUX/Courses.tsx
+CNA-Recert-Course/MVP/UIUX/additionalpages.tsx
+CNA-Recert-Course/MVP/UIUX/certificate.tsx
+CNA-Recert-Course/MVP/UIUX/gate.tsx
+CNA-Recert-Course/MVP/UIUX/v1.tsx
+_RUN_BACKUPS/codex_kickoff_prompt.txt
+_RUN_BACKUPS/pre_content_v2_dirty_state_20260529_150118.manifest.txt
+_RUN_BACKUPS/pre_content_v2_dirty_state_20260529_150118.patch
+standalone-course-mvp/playwright-login-desktop.png
+standalone-course-mvp/playwright-login-mobile.png
+standalone-course-mvp/playwright.v2-screenshot.config.ts
+standalone-course-mvp/postcss.config.cjs
+standalone-course-mvp/public/brand/favicons/android-chrome-192x192.png
+standalone-course-mvp/public/brand/logos/ci-ion-logo-login.svg
+standalone-course-mvp/public/brand/logos/ci-ion-logo-white.svg
+standalone-course-mvp/public/brand/stock/login-bg-user-upload.png
+standalone-course-mvp/public/brand/stock/login-students-group-4k.png
+standalone-course-mvp/public/brand/stock/login-students-group-flux-2.png
+standalone-course-mvp/public/brand/stock/login-students-group-flux.png
+standalone-course-mvp/public/brand/stock/login-students-group.png
+standalone-course-mvp/public/brand/stock/student-stock-03.png
+standalone-course-mvp/public/brand/stock/student-stock-12.png
+standalone-course-mvp/public/brand/stock/student-stock-18.png
+standalone-course-mvp/public/brand/stock/student-stock-22.png
+standalone-course-mvp/public/brand/stock/student-stock-24.png
+standalone-course-mvp/public/brand/stock/studentb-stock-01.png
+standalone-course-mvp/public/brand/stock/studentb-stock-05.png
+standalone-course-mvp/public/brand/stock/studentb-stock-07.png
+standalone-course-mvp/public/brand/stock/studentb-stock-10.png
+standalone-course-mvp/public/v2-screenshot-tailwind.css
+standalone-course-mvp/src/app/App.tsx
+standalone-course-mvp/src/app/router.tsx
+standalone-course-mvp/src/app/routes.ts
+standalone-course-mvp/src/components/ui/PhiWarningBlock.tsx
+standalone-course-mvp/src/components/v2/AppShell.tsx
+standalone-course-mvp/src/components/v2/MockCertificate.tsx
+standalone-course-mvp/src/components/v2/QuizRunner.tsx
+standalone-course-mvp/src/components/v2/ReviewerToolsPanel.tsx
+standalone-course-mvp/src/components/v2/TopNav.tsx
+standalone-course-mvp/src/components/v2/primitives.tsx
+standalone-course-mvp/src/data/__tests__/exam.test.ts
+standalone-course-mvp/src/data/courseModules.ts
+standalone-course-mvp/src/data/examPool.ts
+standalone-course-mvp/src/data/lessonModel.ts
+standalone-course-mvp/src/data/modules/m2.ts
+standalone-course-mvp/src/data/modules/m4.ts
+standalone-course-mvp/src/data/modules/m5.ts
+standalone-course-mvp/src/data/modules/m6.ts
+standalone-course-mvp/src/data/phase1Module1.ts
+standalone-course-mvp/src/data/v2ModuleQuiz.ts
+standalone-course-mvp/src/lib/__tests__/gates.test.ts
+standalone-course-mvp/src/lib/__tests__/guardrails.test.ts
+standalone-course-mvp/src/lib/__tests__/progress.test.ts
+standalone-course-mvp/src/lib/activeTime.ts
+standalone-course-mvp/src/lib/auth.ts
+standalone-course-mvp/src/lib/gates.ts
+standalone-course-mvp/src/lib/learnerState.ts
+standalone-course-mvp/src/lib/moduleProgress.ts
+standalone-course-mvp/src/lib/progress.ts
+standalone-course-mvp/src/lib/storage.ts
+standalone-course-mvp/src/lib/uiState.tsx
+standalone-course-mvp/src/lib/v2state.ts
+standalone-course-mvp/src/pages/CertificateGatePage.tsx
+standalone-course-mvp/src/pages/ClinicalHubPage.tsx
+standalone-course-mvp/src/pages/DashboardPage.tsx
+standalone-course-mvp/src/pages/FinalAssessmentQuizPage.tsx
+standalone-course-mvp/src/pages/FinalAssessmentSplashPage.tsx
+standalone-course-mvp/src/pages/FinalResultPage.tsx
+standalone-course-mvp/src/pages/LessonPlayerPage.tsx
+standalone-course-mvp/src/pages/Module0OrientationPage.tsx
+standalone-course-mvp/src/pages/Module1OverviewPage.tsx
+standalone-course-mvp/src/pages/ModuleAssessmentQuizPage.tsx
+standalone-course-mvp/src/pages/ModuleAssessmentSplashPage.tsx
+standalone-course-mvp/src/pages/ModulesPage.tsx
+standalone-course-mvp/src/pages/NotFoundPage.tsx
+standalone-course-mvp/src/pages/ReviewerLogin.tsx
+standalone-course-mvp/src/styles/base.css
+standalone-course-mvp/src/styles/login.css
+standalone-course-mvp/src/styles/tailwind.css
+standalone-course-mvp/src/styles/tokens.css
+standalone-course-mvp/src/v2-screenshot-runner.tsx
+standalone-course-mvp/src/v2-screenshot-tailwind.input.css
+standalone-course-mvp/tailwind.config.cjs
+standalone-course-mvp/tailwind.v2-screenshot.config.cjs
+standalone-course-mvp/test-results/.last-run.json
+standalone-course-mvp/tests/v2-screenshots.spec.ts
+standalone-course-mvp/v2-screenshot.html
+standalone-course-mvp/vite.v2-screenshot.config.ts
+standalone-course-mvp/vitest.config.ts

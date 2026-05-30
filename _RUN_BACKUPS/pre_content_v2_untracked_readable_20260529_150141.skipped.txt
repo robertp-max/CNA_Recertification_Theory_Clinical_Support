@@ -1,0 +1,282 @@
+﻿CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (1).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (10).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (2).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (3).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (4).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (5).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (6).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (7).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (8).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/STUDENNTB (9).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (1).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (10).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (11).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (12).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (13).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (14).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (15).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (16).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (17).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (18).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (19).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (2).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (20).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (21).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (22).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (23).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (24).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (25).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (26).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (27).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (28).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (29).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (3).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (30).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (5).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (6).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (7).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/Stock/Student(s) (9).png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Branding_Kit/logos/ci-ion-logo-white.svg	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/Content/theory/tts/production_workbooks/~$CNA_RECERT_ALL_MODULES_NARRATION_MEDIA_PRODUCTION.xlsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/ContentV2/masterprompt.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/00_CURRENT_STATE_REVIEW.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/01_CONTENT_REVIEW_AND_READINESS.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/02_ACTIONABLE_ITEM_REGISTRY.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/03_TWO_PHASE_IMPLEMENTATION_PLAN.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/04_UIUX_DESIGN_SPECIFICATION.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/05_ASYNCHRONOUS_LESSON_DELIVERY_BLUEPRINT.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/06_END_USER_JOURNEY_MAP.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/07_MODULE_LESSON_DELIVERY_MAP.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/08_RECOMMENDATIONS_AND_RISKS.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/09_EXECUTIVE_SUMMARY_FOR_STAKEHOLDERS.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/CNA Recertification Asynchronous Training Blueprint.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/CNA Recertification MVP UI_UX Research.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/MVP_IMPLEMENTATION_INDEX.md	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/Assessment.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/Courses.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/additionalpages.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/certificate.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/gate.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+CNA-Recert-Course/MVP/UIUX/v1.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/playwright-login-desktop.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/playwright-login-mobile.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/playwright.v2-screenshot.config.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/postcss.config.cjs	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/favicons/android-chrome-192x192.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/logos/ci-ion-logo-login.svg	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/logos/ci-ion-logo-white.svg	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/login-bg-user-upload.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/login-students-group-4k.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/login-students-group-flux-2.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/login-students-group-flux.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/login-students-group.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/student-stock-03.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/student-stock-12.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/student-stock-18.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/student-stock-22.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/student-stock-24.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/studentb-stock-01.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/studentb-stock-05.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/studentb-stock-07.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/brand/stock/studentb-stock-10.png	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/public/v2-screenshot-tailwind.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/app/App.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/app/router.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/app/routes.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/ui/PhiWarningBlock.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/AppShell.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/MockCertificate.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/QuizRunner.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/ReviewerToolsPanel.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/TopNav.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/components/v2/primitives.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/__tests__/exam.test.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/courseModules.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/examPool.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/lessonModel.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/modules/m2.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/modules/m4.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/modules/m5.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/modules/m6.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/phase1Module1.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/data/v2ModuleQuiz.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/__tests__/gates.test.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/__tests__/guardrails.test.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/__tests__/progress.test.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/activeTime.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/auth.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/gates.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/learnerState.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/moduleProgress.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/progress.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/storage.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/uiState.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/lib/v2state.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/CertificateGatePage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/ClinicalHubPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/DashboardPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/FinalAssessmentQuizPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/FinalAssessmentSplashPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/FinalResultPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/LessonPlayerPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/Module0OrientationPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/Module1OverviewPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/ModuleAssessmentQuizPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/ModuleAssessmentSplashPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/ModulesPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/NotFoundPage.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/pages/ReviewerLogin.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/styles/base.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/styles/login.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/styles/tailwind.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/styles/tokens.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/v2-screenshot-runner.tsx	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/src/v2-screenshot-tailwind.input.css	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/tailwind.config.cjs	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/tailwind.v2-screenshot.config.cjs	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/test-results/.last-run.json	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/tests/v2-screenshots.spec.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/v2-screenshot.html	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/vite.v2-screenshot.config.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
+standalone-course-mvp/vitest.config.ts	Exception calling "CreateEntryFromFile" with "4" argument(s): "Value cannot be null.
+Parameter name: destination"
