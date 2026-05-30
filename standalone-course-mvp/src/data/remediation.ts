@@ -21,7 +21,7 @@ export type RemediationChallenge = {
   id?: string;
   app_location?: string;
   prompt: string;
-  choices: RemediationChoice[];
+  choices: readonly RemediationChoice[];
   correct_id_internal?: string;
   rationale_internal?: string;
 };

@@ -22,7 +22,16 @@
 *Certificate*.pdf
 
 _RUN_BACKUPS/
+**/_agent_runs/
+**/CODEX_STDOUT.txt
+**/CODEX_STDERR.txt
+**/CODEX_EXITCODE.txt
+**/WORKER_PROMPT.md
+**/~$*
+*.zip
 
 standalone-course-mvp/test-results/
-
 standalone-course-mvp/playwright-report/
+standalone-course-mvp/screenshots/content-v2-wired/
+standalone-course-mvp/screenshots/mvp-verify/
+standalone-course-mvp/playwright-login-*.png
