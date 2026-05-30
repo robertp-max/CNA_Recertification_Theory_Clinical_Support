@@ -1,0 +1,17 @@
+﻿## 03_CLINICAL_SUPPORT_SYLLABUS_TABLE.md
+
+| Module Number | Module Title | Learning Objectives | Estimated Minutes | Activity Types | Assessment Types | Required or Optional | Certificate Gate Impact | Primary Source Files | Notes |
+|---|---|---|---:|---|---|---|---|---|---|
+| CS-1 | Clinical Orientation | 1. Understand purpose of clinical support hub. 2. Acknowledge non-credit boundary. 3. Navigate support resources. | 30 | Page (orientation), Feedback (acknowledgement) | Acknowledgement (ungraded) | Optional | **No** â€” explicitly NOT a certificate gate | OPTIONAL_CLINICAL_HUB_STUB_SPEC.md; FINAL_UNIFIED_IMPLEMENTATION_BLUEPRINT.md Sec 7 | Must display "This section is optional clinical support. It does not count toward your online CE certificate." |
+| CS-2 | Skills Refresh Menu | 1. Review CNA skills by topic area. 2. Access job aids for common procedures. 3. Self-assess knowledge gaps. | 120 | Book/Page (skill area job aids), File (downloadable job aids) | None â€” access-only | Optional | **No** | NATP Modules 10â€“14 (procedural content); Legacy build specs (formatting reference) | Content labeled "practice support" or "skills refresh." No grades. |
+| CS-3 | Scheduling Guidance | 1. Understand options for clinical practice (lab, workplace, preceptor). 2. Express scheduling preferences. | 60 | Page (scheduling info), Choice (preference submission), Calendar | Choice submission (ungraded) | Optional | **No** | FINAL_UNIFIED_IMPLEMENTATION_BLUEPRINT.md Sec 7 | Start with core Calendar/Choice. Scheduler plugin only after validation. |
+| CS-4 | Optional Confidence Checks | 1. Self-identify areas needing additional practice. 2. Complete ungraded practice scenarios. | 120 | Ungraded Quiz/Feedback/H5P | Ungraded self-assessment | Optional | **No** | NATP Modules 10â€“17 (scenario content); Legacy question banks (scenario style reference) | Learner must not perceive these as graded. No scores reported to gradebook. |
+| CS-5 | Practice Documentation Support | 1. Practice objective documentation without PHI. 2. Upload minimal non-PHI evidence if requested. | 180 | Assignment/Database (structured fields, no free PHI narrative) | Completeness review (no grade) | Optional | **No** | NATP Module 15 (documentation principles); FINAL_UNIFIED_IMPLEMENTATION_BLUEPRINT.md Sec 7 | PHI warning before every upload. Admin reviews completeness and rejects PHI. |
+| CS-6 | RN/Preceptor Support Signoff Workflow | 1. Understand signoff process. 2. Submit or upload signoff documentation. | 120 | Downloadable form + Assignment (upload) or structured form | Signoff artifact review (no grade) | Optional | **No** | FINAL_UNIFIED_IMPLEMENTATION_BLUEPRINT.md Sec 7 | Simple signoff: name/title/date/contact/signature only. Not for clinical-hour credit. |
+| CS-7 | Support Follow-up and Help Path | 1. Request additional support without penalty. 2. Access office hours or messaging. | 90 | Feedback form, Forum/Message, Page (office hours info) | Support request submission (no grade) | Optional | **No** | FINAL_UNIFIED_IMPLEMENTATION_BLUEPRINT.md Sec 7 | SLA test with sample support request. Unstaffed support queue is a risk. |
+
+**Total Clinical Support Time: 720 minutes = 12.0 hours**
+Due to the massive scope of this request (23 deliverable files across 16 sections), I need to continue section by section. Let me proceed with Sections 4â€“5 (Full Sample Content and Templates), which are the most content-heavy deliverables.
+
+SECTION 4 â€” FULL SAMPLE CONTENT
+04_THEORY_MODULE_00_ORIENTATION_FULL.md

@@ -1,0 +1,15 @@
+﻿field_key,field_label,source_type,source_name,required_yes_no,staging_allowed_yes_no,production_allowed_before_approval_yes_no,notes
+legal_name,Learner Legal Name,user_profile,legal_name_field,Yes,Yes,No,Must match CNA certificate name
+cna_cert_number,CNA Certificate Number,user_profile,cna_cert_number_field,Yes,Yes,No,Registrar verifies
+course_title,Course Title,course_setting,course_full_name,Yes,Yes,No,Must match CDPH-approved course title â€” DRAFT ONLY
+ce_hours,CE Hours Awarded,course_setting,configured_hours,Yes,Yes,No,Up to 12.0 â€” must match approved hours
+completion_date,Date of Completion,system,course_completion_date,Yes,Yes,No,Auto-generated
+provider_name,Provider Name,static_text,"CI Institute of Nursing",Yes,Yes,No,Must match CDPH-approved provider name
+provider_approval_number,Provider Approval/NAC Number,static_text,TBD_PENDING_APPROVAL,Yes,Yes,No,BLOCKED â€” cannot issue production certificate without this
+certificate_number,Certificate Unique ID,system,auto_generated_id,Yes,Yes,No,For verification and audit
+partial_credit_disclaimer,Partial Credit Disclaimer,static_text,"This certificate represents partial California CNA renewal credit only. It does not complete the full 48-hour renewal requirement.",Yes,Yes,No,DRAFT â€” needs legal review
+online_cap_disclaimer,Online Cap Disclaimer,static_text,"California limits online CNA CE to 24 of 48 required renewal hours.",Yes,Yes,No,DRAFT â€” needs legal review
+affidavit_date,Affidavit/Statement Date,system,affidavit_completion_timestamp,Yes,Yes,No,Timestamp of affidavit submission
+exam_score,Final Exam Score,gradebook,final_exam_grade,Yes,Yes,No,Minimum 80%
+clinical_hours,Clinical Hours,NOT_INCLUDED,NOT_INCLUDED,No,No,No,DO NOT include clinical hours on online CE certificate
+staging_watermark,STAGING/TEST WATERMARK,static_text,"STAGING â€” NOT A VALID CE CERTIFICATE",No,Yes,No,Required on all staging certificates

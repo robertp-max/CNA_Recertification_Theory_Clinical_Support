@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-05-29T23:08:07+00:00",
+  "source_folder": "C:/AI/Git/CNA_Recertification_Theory_Clinical_Support/CNA-Recert-Course/Content",
+  "total_clips": 393,
+  "total_estimated_seconds": 11154,
+  "total_estimated_minutes": 185.9,
+  "clips_over_target": 0,
+  "unique_app_locations": 393,
+  "modules_covered": [
+    "APP",
+    "FINAL",
+    "M00",
+    "M01",
+    "M02",
+    "M03",
+    "M04",
+    "M05",
+    "M06",
+    "M07"
+  ],
+  "validation_status": "Generated - coordinator validation passed"
+}

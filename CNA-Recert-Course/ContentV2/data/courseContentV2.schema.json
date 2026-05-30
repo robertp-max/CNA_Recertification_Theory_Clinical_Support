@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CNA Recertification ContentV2 Schema",
+  "type": "object",
+  "required": [
+    "generated_at",
+    "project",
+    "modules",
+    "assessments",
+    "clinical_support",
+    "source_manifest"
+  ],
+  "properties": {
+    "generated_at": {
+      "type": "string"
+    },
+    "project": {
+      "type": "string"
+    },
+    "modules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "module_id",
+          "module_title",
+          "estimated_minutes",
+          "lessons"
+        ]
+      }
+    },
+    "assessments": {
+      "type": "object"
+    },
+    "clinical_support": {
+      "type": "object"
+    },
+    "source_manifest": {
+      "type": "array"
+    }
+  }
+}
