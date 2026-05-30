@@ -20,3 +20,9 @@
 *.mbz
 *certificate*.pdf
 *Certificate*.pdf
+
+_RUN_BACKUPS/
+
+standalone-course-mvp/test-results/
+
+standalone-course-mvp/playwright-report/
