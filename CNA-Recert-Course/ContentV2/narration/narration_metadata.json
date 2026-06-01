@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-05-29T23:08:07+00:00",
+  "generated_at": "2026-06-01T22:01:27+00:00",
   "source_folder": "C:/AI/Git/CNA_Recertification_Theory_Clinical_Support/CNA-Recert-Course/Content",
-  "total_clips": 393,
-  "total_estimated_seconds": 12071,
-  "total_estimated_minutes": 201.18,
+  "generator": "CNA-Recert-Course/ContentV2/tools/rebuild_contentv2_from_json.py",
+  "total_clips": 338,
+  "total_estimated_seconds": 11493,
+  "total_estimated_minutes": 191.55,
   "clips_over_target": 0,
-  "unique_app_locations": 393,
+  "unique_app_locations": 445,
   "modules_covered": [
-    "APP",
-    "FINAL",
     "M00",
     "M01",
     "M02",
@@ -18,5 +17,6 @@
     "M06",
     "M07"
   ],
-  "validation_status": "Remediation hardening pass - additive update of debrief/remediation cards"
+  "audio_production": "Not authorized. Transcripts/manifest are planning artifacts only; no audio generated.",
+  "validation_status": "Regenerated from canonical courseContentV2.json by single-source pipeline."
 }
