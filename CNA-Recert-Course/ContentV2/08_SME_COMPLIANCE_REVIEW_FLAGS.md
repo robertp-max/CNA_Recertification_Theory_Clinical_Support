@@ -1,6 +1,6 @@
 # 08_SME_COMPLIANCE_REVIEW_FLAGS — Open Review Flags
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T22:01:28+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
 
 
 ## Module-level flags

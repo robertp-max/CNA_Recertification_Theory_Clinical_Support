@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T22:01:28+00:00",
+  "generated_at": "2026-06-01T23:54:23+00:00",
   "modules_count": 8,
   "lessons_count": 41,
   "cards_count": 338,
@@ -14,8 +14,11 @@
   "sme_review_flag_count": 134,
   "compliance_flag_count": 338,
   "placeholder_media_count": 338,
-  "instructional_minutes_total": 570,
+  "instructional_minutes_total": 720,
+  "required_theory_instructional_minutes_total": 720,
   "module_assessment_minutes_excluded": 95,
-  "course_final_assessment_minutes_excluded": 0,
-  "warnings_count": 0
+  "course_final_assessment_minutes_excluded": 25,
+  "narration_model_minutes": 191.5,
+  "content_depth_gap_minutes": 83,
+  "warnings_count": 5
 }

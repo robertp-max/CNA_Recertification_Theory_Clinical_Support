@@ -221,20 +221,34 @@ def compute_metrics(data: dict) -> dict:
         1 for c in cards if (c.get("media_prompt_placeholder") or {}).get("media_status") == "placeholder-pending"
     )
 
-    # Instructional vs assessment time split (Task 8 time model).
-    instructional_minutes = 0
-    for m in modules:
-        if m.get("counts_toward_720_instructional_minutes", m.get("counts_toward_theory")) and m.get("status") != "source-repair":
-            instructional_minutes += int(
-                m.get("instructional_minutes", m.get("estimated_minutes") or 0)
-            )
+    # Explicit time model (inherited from ContentV1 syllabus; NOT recomputed from
+    # narration/card count). Source-repair status does NOT remove a module from the
+    # required 720 allocation - it is a content-depth flag, not a removal.
+    required_theory_minutes = sum(
+        int(m.get("instructional_minutes") or 0)
+        for m in modules
+        if m.get("counts_toward_720_instructional_minutes") is True
+    )
+    instructional_minutes = required_theory_minutes  # back-compat alias
     module_assessment_minutes = sum(
-        int(b.get("estimated_minutes") or 0)
+        int(b.get("estimated_assessment_minutes", b.get("estimated_minutes") or 0) or 0)
         for b in data.get("assessments", {}).get("module_assessments", {}).values()
     )
     final_assessment_minutes = int(
-        data.get("assessments", {}).get("final_assessment", {}).get("estimated_minutes") or 0
+        data.get("assessments", {}).get("final_assessment", {}).get("estimated_assessment_minutes")
+        or data.get("assessments", {}).get("final_assessment", {}).get("estimated_minutes")
+        or 0
     )
+    # Sum of separately-tracked descriptive component minutes (theory modules only).
+    narration_model_minutes = round(
+        sum(float(m.get("estimated_narration_minutes") or 0) for m in modules), 1
+    )
+    # Content-depth gap: allocation minus what lesson cards currently allocate.
+    depth_gap_minutes = 0
+    for m in modules:
+        if m.get("counts_toward_720_instructional_minutes") is True:
+            lesson_alloc = sum(int(l.get("instructional_minutes", l.get("estimated_minutes") or 0) or 0) for l in m.get("lessons", []))
+            depth_gap_minutes += max(0, int(m.get("instructional_minutes") or 0) - lesson_alloc)
 
     return {
         "modules_count": len(modules),
@@ -252,8 +266,11 @@ def compute_metrics(data: dict) -> dict:
         "compliance_flag_count": compliance_flags,
         "placeholder_media_count": placeholder_media,
         "instructional_minutes_total": instructional_minutes,
+        "required_theory_instructional_minutes_total": required_theory_minutes,
         "module_assessment_minutes_excluded": module_assessment_minutes,
         "course_final_assessment_minutes_excluded": final_assessment_minutes,
+        "narration_model_minutes": narration_model_minutes,
+        "content_depth_gap_minutes": depth_gap_minutes,
     }
 
 
@@ -265,6 +282,70 @@ def run_guardrails(data: dict, metrics: dict) -> tuple[list[str], list[str]]:
     # 1. Duplicate app.location.
     if metrics["duplicate_app_locations"]:
         hard.append(f"Duplicate app.location values: {metrics['duplicate_app_locations'][:10]}")
+
+    # --- Time-model guardrails -------------------------------------------------
+    modules = data.get("modules", [])
+    TIME_MODEL_FIELDS = [
+        "instructional_minutes",
+        "estimated_narration_minutes",
+        "estimated_reading_minutes",
+        "estimated_interaction_minutes",
+        "estimated_assessment_minutes",
+        "assessment_minutes_excluded_from_instructional_total",
+        "counts_toward_720_instructional_minutes",
+        "counts_toward_certificate_gate",
+        "counts_toward_optional_clinical_support",
+        "source_time_basis",
+        "time_model_status",
+        "time_model_notes",
+    ]
+    # T-5. Every module must carry explicit time-model fields.
+    for m in modules:
+        missing = [f for f in TIME_MODEL_FIELDS if f not in m]
+        if missing:
+            hard.append(f"Module {m.get('module_id')} lacks explicit time-model field(s): {missing}")
+    # T-1. Required theory total must equal exactly 720.
+    if metrics["required_theory_instructional_minutes_total"] != 720:
+        hard.append(
+            f"Required theory instructional total is {metrics['required_theory_instructional_minutes_total']}, must equal 720."
+        )
+    # T-2. Optional clinical support must never contribute to 720.
+    cs = data.get("clinical_support", {})
+    if cs.get("counts_toward_720_instructional_minutes") is True or cs.get("counts_toward_optional_clinical_support") is False:
+        hard.append("Optional Clinical Support must be flagged non-720 / optional in the time model.")
+    if int(cs.get("instructional_minutes") or 0) != 0:
+        hard.append("Optional Clinical Support must have 0 instructional_minutes (never counts toward 720).")
+    # T-3. Assessment-only time must never be counted as instructional.
+    assess_blocks = list(data.get("assessments", {}).get("module_assessments", {}).values())
+    fa_block = data.get("assessments", {}).get("final_assessment", {})
+    for b in assess_blocks + [fa_block]:
+        if not b:
+            continue
+        if b.get("counts_toward_720_instructional_minutes") is True:
+            hard.append(f"Assessment block '{b.get('title', b.get('module_id', '?'))}' must not count toward 720.")
+        if b.get("assessment_minutes_excluded_from_instructional_total") is not True:
+            hard.append(f"Assessment block '{b.get('title', b.get('module_id', '?'))}' must mark assessment minutes excluded.")
+    # T-4. Narration minutes must not be treated as full instructional time.
+    #      Enforced at module level (robust): module narration must be strictly less
+    #      than the module's syllabus instructional allocation. Per-lesson equality is
+    #      surfaced as a warning (flags under-allocated legacy lesson minutes).
+    for m in modules:
+        if m.get("counts_toward_720_instructional_minutes") is not True:
+            continue
+        m_inst = float(m.get("instructional_minutes") or 0)
+        m_narr = float(m.get("estimated_narration_minutes") or 0)
+        if m_inst > 0 and m_narr >= m_inst:
+            hard.append(
+                f"Module {m.get('module_id')} treats narration ({m_narr}m) as the full instructional allocation ({m_inst}m)."
+            )
+        for l in m.get("lessons", []):
+            inst = float(l.get("instructional_minutes", l.get("estimated_minutes") or 0) or 0)
+            narr = float(l.get("estimated_narration_minutes") or 0)
+            if inst > 0 and narr >= inst:
+                warn.append(
+                    f"Lesson {m.get('module_id')}/{l.get('lesson_id')} narration ({narr}m) >= its allocation ({inst}m); "
+                    "lesson minutes look under-allocated vs ContentV1 (review/expand)."
+                )
 
     # 5. Final-assessment learner-facing answer keys must not be exposed.
     fa = data.get("assessments", {}).get("final_assessment", {})
@@ -473,17 +554,20 @@ def write_xlsx(data: dict, metrics: dict, rows: list[dict]) -> None:
     ws_mod = wb.active
     ws_mod.title = "Modules"
     ws_mod.append([
-        "Module ID", "Title", "Counts toward 720", "Instructional min", "Declared min",
-        "Lessons", "Cards", "Status", "SME Flag", "Compliance Flag",
+        "Module ID", "Title", "Counts toward 720", "Instructional min",
+        "Narration min", "Reading min", "Interaction min", "Assessment min (excl.)",
+        "Lessons", "Cards", "Time-model status", "SME Flag", "Compliance Flag",
     ])
     for m in data.get("modules", []):
         lessons = m.get("lessons", [])
         ncards = sum(len(l.get("cards", [])) for l in lessons)
         ws_mod.append([
             m.get("module_id", ""), m.get("module_title", ""),
-            bool(m.get("counts_toward_720_instructional_minutes", m.get("counts_toward_theory"))),
+            m.get("counts_toward_720_instructional_minutes") is True,
             m.get("instructional_minutes", m.get("estimated_minutes", "")),
-            m.get("estimated_minutes", ""), len(lessons), ncards, m.get("status", ""),
+            m.get("estimated_narration_minutes", ""), m.get("estimated_reading_minutes", ""),
+            m.get("estimated_interaction_minutes", ""), m.get("estimated_assessment_minutes", ""),
+            len(lessons), ncards, m.get("time_model_status", ""),
             m.get("sme_review_flag", ""), m.get("compliance_review_flag", ""),
         ])
 
@@ -522,8 +606,10 @@ def write_xlsx(data: dict, metrics: dict, rows: list[dict]) -> None:
         "modules_count", "lessons_count", "cards_count", "narration_clip_count",
         "total_narration_seconds", "total_narration_minutes", "clips_over_75_seconds",
         "unique_app_location_count", "source_repair_flag_count", "sme_review_flag_count",
-        "compliance_flag_count", "placeholder_media_count", "instructional_minutes_total",
-        "module_assessment_minutes_excluded", "course_final_assessment_minutes_excluded",
+        "compliance_flag_count", "placeholder_media_count",
+        "required_theory_instructional_minutes_total", "module_assessment_minutes_excluded",
+        "course_final_assessment_minutes_excluded", "narration_model_minutes",
+        "content_depth_gap_minutes",
     ]:
         ws_sum.append([key, metrics[key]])
     ws_sum.append(["generated_at", now_iso()])
@@ -626,39 +712,57 @@ def write_flags_md(data: dict) -> None:
 
 
 def write_coverage_md(data: dict, metrics: dict) -> None:
+    tm = data.get("time_model", {})
     lines = [md_header("10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION — Coverage & Time")]
-    lines.append("## Instructional time model (assessment time excluded)\n")
-    lines.append("| Module | Counts toward 720 | Instructional min | Declared min | Lessons | Cards | Narrated min |")
-    lines.append("|---|---|---:|---:|---:|---:|---:|")
+    lines.append(
+        "Instructional minutes are inherited from the ContentV1 syllabus "
+        "(`02_THEORY_SYLLABUS_TABLE.md`). The 720-minute total is **not** recomputed from narration length or card "
+        "count. Narration, reading/review, interaction, and assessment minutes are tracked **separately** and never "
+        "replace the authoritative allocation. Optional Clinical Support and all assessment time are excluded.\n"
+    )
+    lines.append("## Required theory instructional allocation (counts toward 720)\n")
+    lines.append("| Module | Counts→720 | Instructional min | Lesson-allocated min | Depth gap | Narration min | Reading min | Interaction min | Assessment min (excl.) | Status |")
+    lines.append("|---|:--:|---:|---:|---:|---:|---:|---:|---:|---|")
     inst_total = 0
+    gap_total = 0
     for m in data.get("modules", []):
         lessons = m.get("lessons", [])
-        ncards = sum(len(l.get("cards", [])) for l in lessons)
-        narr = round(sum(int(c.get("estimated_narration_seconds") or 0) for l in lessons for c in l.get("cards", [])) / 60.0, 1)
-        counts = bool(m.get("counts_toward_720_instructional_minutes", m.get("counts_toward_theory"))) and m.get("status") != "source-repair"
-        inst = int(m.get("instructional_minutes", m.get("estimated_minutes") or 0))
+        counts = m.get("counts_toward_720_instructional_minutes") is True
+        inst = int(m.get("instructional_minutes") or 0)
+        lesson_alloc = sum(int(l.get("instructional_minutes", l.get("estimated_minutes") or 0) or 0) for l in lessons)
+        gap = max(0, inst - lesson_alloc)
         if counts:
             inst_total += inst
+            gap_total += gap
         lines.append(
-            f"| {m.get('module_id')} | {counts} | {inst} | {m.get('estimated_minutes')} | "
-            f"{len(lessons)} | {ncards} | {narr} |"
+            f"| {m.get('module_id')} | {'yes' if counts else 'no'} | {inst} | {lesson_alloc} | {gap} | "
+            f"{m.get('estimated_narration_minutes', 0)} | {m.get('estimated_reading_minutes', 0)} | "
+            f"{m.get('estimated_interaction_minutes', 0)} | {m.get('estimated_assessment_minutes', 0)} | "
+            f"{sanitize_cell(m.get('time_model_status', ''))} |"
         )
-    lines.append(f"\n**Instructional minutes counted toward 720:** {inst_total}")
-    lines.append(f"\n**Module assessment minutes (excluded):** {metrics['module_assessment_minutes_excluded']}")
-    lines.append(f"\n**Course final assessment minutes (excluded):** {metrics['course_final_assessment_minutes_excluded']}")
-    lines.append(f"\n**Total narrated lesson minutes (current authored depth):** {metrics['total_narration_minutes']}")
+    lines.append(f"\n**Required theory instructional minutes counted toward 720:** {inst_total}  (target 720)")
+    lines.append(f"\n**Module assessment minutes (tracked separately, excluded):** {metrics['module_assessment_minutes_excluded']}")
+    lines.append(f"\n**Course final assessment minutes (tracked separately, excluded):** {metrics['course_final_assessment_minutes_excluded']}")
+    lines.append(f"\n**Optional Clinical Support counts toward 720:** {tm.get('optional_clinical_support_counts_toward_720', False)}")
+    lines.append(f"\n**Total authored narrated lesson minutes (descriptive only):** {metrics['total_narration_minutes']}")
+    lines.append(f"\n**Open content-depth gap (allocation minus authored lesson minutes):** {gap_total} min")
     lines.append(
-        "\n> Narrated minutes reflect currently authored learner-facing narration only and will be below the "
-        "declared instructional minutes until source-supported depth authoring is complete. Time gaps are reported, "
-        "not padded; missing source is flagged 'Source Repair Required'.\n"
+        "\n> Narration minutes are descriptive and are far below the instructional allocation by design; they are NOT "
+        "the full lesson time and must not be used to reduce the 720 model. Content-depth gaps above are reported, not "
+        "padded; expand only from ContentV1 source. SME/source-repair flags are preserved.\n"
     )
-    lines.append("## Pipeline counts\n")
+    lines.append("## Time-model rules (enforced by the rebuild pipeline)\n")
+    for rule in tm.get("rules", []):
+        lines.append(f"- {rule}")
+    lines.append("\n## Pipeline counts\n")
     for k in [
         "modules_count", "lessons_count", "cards_count", "narration_clip_count",
+        "required_theory_instructional_minutes_total", "module_assessment_minutes_excluded",
+        "course_final_assessment_minutes_excluded", "content_depth_gap_minutes",
         "total_narration_minutes", "clips_over_75_seconds", "unique_app_location_count",
         "source_repair_flag_count", "sme_review_flag_count", "compliance_flag_count",
     ]:
-        lines.append(f"- **{k}**: {metrics[k]}")
+        lines.append(f"- **{k}**: {metrics.get(k)}")
     COVERAGE_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 

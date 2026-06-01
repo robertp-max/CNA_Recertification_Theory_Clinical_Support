@@ -1,30 +1,45 @@
 # 10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION — Coverage & Time
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T22:01:28+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
 
 
-## Instructional time model (assessment time excluded)
+Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLLABUS_TABLE.md`). The 720-minute total is **not** recomputed from narration length or card count. Narration, reading/review, interaction, and assessment minutes are tracked **separately** and never replace the authoritative allocation. Optional Clinical Support and all assessment time are excluded.
 
-| Module | Counts toward 720 | Instructional min | Declared min | Lessons | Cards | Narrated min |
-|---|---|---:|---:|---:|---:|---:|
-| M00 | True | 30 | 30 | 5 | 20 | 8.8 |
-| M01 | True | 90 | 90 | 6 | 33 | 19.5 |
-| M02 | True | 120 | 120 | 5 | 55 | 32.7 |
-| M03 | False | 120 | 120 | 5 | 37 | 20.5 |
-| M04 | True | 120 | 120 | 5 | 55 | 31.4 |
-| M05 | True | 120 | 120 | 5 | 49 | 28.6 |
-| M06 | True | 90 | 90 | 5 | 43 | 25.0 |
-| M07 | False | 30 | 30 | 5 | 46 | 25.0 |
+## Required theory instructional allocation (counts toward 720)
 
-**Instructional minutes counted toward 720:** 570
+| Module | Counts→720 | Instructional min | Lesson-allocated min | Depth gap | Narration min | Reading min | Interaction min | Assessment min (excl.) | Status |
+|---|:--:|---:|---:|---:|---:|---:|---:|---:|---|
+| M00 | yes | 30 | 30 | 0 | 8.8 | 9.9 | 17.5 | 5 | authored |
+| M01 | yes | 90 | 90 | 0 | 19.5 | 21.7 | 21.0 | 15 | authored |
+| M02 | yes | 120 | 105 | 15 | 32.7 | 33.7 | 17.5 | 15 | authored-partial |
+| M03 | yes | 120 | 105 | 15 | 20.5 | 21.6 | 17.5 | 15 | source-repair |
+| M04 | yes | 120 | 105 | 15 | 31.4 | 32.4 | 17.5 | 15 | authored-partial |
+| M05 | yes | 120 | 105 | 15 | 28.6 | 29.4 | 17.5 | 15 | authored-partial |
+| M06 | yes | 90 | 80 | 10 | 25.0 | 25.9 | 17.5 | 15 | authored-partial |
+| M07 | yes | 30 | 17 | 13 | 25.0 | 25.7 | 17.5 | 0 | authored-partial |
 
-**Module assessment minutes (excluded):** 95
+**Required theory instructional minutes counted toward 720:** 720  (target 720)
 
-**Course final assessment minutes (excluded):** 0
+**Module assessment minutes (tracked separately, excluded):** 95
 
-**Total narrated lesson minutes (current authored depth):** 191.55
+**Course final assessment minutes (tracked separately, excluded):** 25
 
-> Narrated minutes reflect currently authored learner-facing narration only and will be below the declared instructional minutes until source-supported depth authoring is complete. Time gaps are reported, not padded; missing source is flagged 'Source Repair Required'.
+**Optional Clinical Support counts toward 720:** False
+
+**Total authored narrated lesson minutes (descriptive only):** 191.55
+
+**Open content-depth gap (allocation minus authored lesson minutes):** 83 min
+
+> Narration minutes are descriptive and are far below the instructional allocation by design; they are NOT the full lesson time and must not be used to reduce the 720 model. Content-depth gaps above are reported, not padded; expand only from ContentV1 source. SME/source-repair flags are preserved.
+
+## Time-model rules (enforced by the rebuild pipeline)
+
+- Instructional minutes inherit from the ContentV1 syllabus allocation; the 720 total is not recomputed from narration or card count.
+- Narration, reading/review, interaction/challenge/remediation, and assessment minutes are tracked separately.
+- Module assessments and the final exam are excluded from the 720 instructional total.
+- Optional Clinical Support never counts toward the 720 required theory minutes.
+- Content-depth gaps are reported, not padded; SME/source-repair flags are preserved.
+- No clinical-hour credit is claimed; production certificate remains disabled; no PHI.
 
 ## Pipeline counts
 
@@ -32,6 +47,10 @@
 - **lessons_count**: 41
 - **cards_count**: 338
 - **narration_clip_count**: 338
+- **required_theory_instructional_minutes_total**: 720
+- **module_assessment_minutes_excluded**: 95
+- **course_final_assessment_minutes_excluded**: 25
+- **content_depth_gap_minutes**: 83
 - **total_narration_minutes**: 191.55
 - **clips_over_75_seconds**: 0
 - **unique_app_location_count**: 445

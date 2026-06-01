@@ -106,7 +106,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -157,7 +165,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.28,
+              "estimated_reading_minutes": 0.26,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M00",
@@ -239,7 +255,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.15,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -354,9 +378,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.99,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.73,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 5,
+          "estimated_narration_minutes": 1.7,
+          "estimated_reading_minutes": 1.9,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 7.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 5 min (ContentV1). Narration 1.7 min, reading 1.9 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L01",
@@ -414,7 +459,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -465,7 +518,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.29,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.61,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M00",
@@ -547,7 +608,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.19,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -662,9 +731,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 1.02,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.77,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 8,
+          "estimated_narration_minutes": 1.8,
+          "estimated_reading_minutes": 2.0,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 7.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 8 min (ContentV1). Narration 1.8 min, reading 2.0 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -722,7 +812,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.31,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -773,7 +871,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.27,
+              "estimated_reading_minutes": 0.25,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M00",
@@ -855,7 +961,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.37,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -970,9 +1084,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 1.05,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.82,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 5,
+          "estimated_narration_minutes": 1.8,
+          "estimated_reading_minutes": 2.0,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 7.2,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 5 min (ContentV1). Narration 1.8 min, reading 2.0 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -1030,7 +1165,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -1081,7 +1224,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.27,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.57,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M00",
@@ -1163,7 +1314,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.43,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.36,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -1278,9 +1437,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 1.09,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.89,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 5,
+          "estimated_narration_minutes": 1.9,
+          "estimated_reading_minutes": 2.1,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 7.5,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 5 min (ContentV1). Narration 1.9 min, reading 2.1 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -1338,7 +1518,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -1389,7 +1577,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.28,
+              "estimated_reading_minutes": 0.26,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M00",
@@ -1471,7 +1667,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.15,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M00",
@@ -1586,11 +1790,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.99,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.73,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 7,
+          "estimated_narration_minutes": 1.7,
+          "estimated_reading_minutes": 1.9,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 7.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 7 min (ContentV1). Narration 1.7 min, reading 1.9 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 30,
+      "estimated_active_learning_minutes": 36.2,
+      "estimated_narration_minutes": 8.8,
+      "estimated_reading_minutes": 9.9,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 5,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored",
+      "time_model_notes": "Instructional allocation 30 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 30 min. Narration 8.8 min and module-assessment 5 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M01",
@@ -1662,7 +1900,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.71,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -1717,7 +1963,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 1 - Healthcare-Associated Infections",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.66,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.3,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -1767,7 +2021,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 2 - Your Role in Infection Control",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.48,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.99,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -1817,7 +2079,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 3 - Why LTC is Different",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.19,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -1899,7 +2169,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.53,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.58,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2014,9 +2292,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 1.12,
+              "estimated_reading_minutes": 1.56,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.67,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.7,
+          "estimated_reading_minutes": 4.2,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 11.4,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.7 min, reading 4.2 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -2074,7 +2373,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2133,7 +2440,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 4 - The Six Links",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.9,
+              "estimated_reading_minutes": 0.93,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.83,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2183,7 +2498,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 5 - Breaking the Chain",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.49,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2265,7 +2588,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2380,9 +2711,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 1.14,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.99,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.4,
+          "estimated_reading_minutes": 3.7,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 10.6,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.4 min, reading 3.7 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -2440,7 +2792,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.69,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2495,7 +2855,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 6 - WHO 5 Moments for Hand Hygiene",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2545,7 +2913,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 7 - Handwashing vs. Hand Sanitizer",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.26,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2627,7 +3003,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.55,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.6,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2742,9 +3126,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 1.13,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.98,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.0,
+          "estimated_reading_minutes": 3.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 9.7,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.0 min, reading 3.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -2802,7 +3207,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2857,7 +3270,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 8 - Standard Precautions",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.42,
+              "estimated_reading_minutes": 0.43,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.85,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2907,7 +3328,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 9 - PPE Selection Guide",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.72,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -2962,7 +3391,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 10 - Donning and Doffing Order",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.46,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.91,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3044,7 +3481,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.42,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.35,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3159,9 +3604,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 1.09,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.9,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.1,
+          "estimated_reading_minutes": 3.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 10.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.1 min, reading 3.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -3219,7 +3685,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3269,7 +3743,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 11 - Common Signs of Infection",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.78,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.53,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3324,7 +3806,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 12 - Reporting: What, When, How",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.11,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3406,7 +3896,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.53,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3521,9 +4019,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.21,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.09,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.1,
+          "estimated_reading_minutes": 3.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 10.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.1 min, reading 3.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L06",
@@ -3581,7 +4100,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3631,7 +4158,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 13 - Environmental Cleaning",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.46,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.91,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3681,7 +4216,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 14 - Safe Linen Handling",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.46,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.91,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3731,7 +4274,15 @@ export const courseContentV2 = {
               "source_module": "ContentV1 Module 01 - Infection Control (no dedicated NATP 10-17 source)",
               "source_section": "Screen 15 - Sharps and Waste",
               "source_confidence": "medium",
-              "transformation_type": "split"
+              "transformation_type": "split",
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3813,7 +4364,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M01",
@@ -3928,11 +4487,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 1.12,
+              "estimated_reading_minutes": 1.56,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.67,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 3.2,
+          "estimated_reading_minutes": 3.6,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 10.4,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 3.2 min, reading 3.6 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 90,
+      "estimated_active_learning_minutes": 62.2,
+      "estimated_narration_minutes": 19.5,
+      "estimated_reading_minutes": 21.7,
+      "estimated_interaction_minutes": 21.0,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored",
+      "time_model_notes": "Instructional allocation 90 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 90 min. Narration 19.5 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M02",
@@ -4013,7 +4606,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.71,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4064,7 +4665,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.38,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4115,7 +4724,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4166,7 +4783,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.52,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.07,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4217,7 +4842,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.65,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.34,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4268,7 +4901,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.22,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4319,7 +4960,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.24,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4370,7 +5019,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.67,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.35,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4421,7 +5078,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.67,
+              "estimated_reading_minutes": 0.66,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4472,7 +5137,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.59,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.19,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4523,7 +5196,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.25,
+              "estimated_reading_minutes": 0.24,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.49,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4574,7 +5255,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4625,7 +5314,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.05,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4707,7 +5404,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.4,
+              "estimated_reading_minutes": 0.39,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.29,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4822,9 +5527,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 1.01,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 8.2,
+          "estimated_reading_minutes": 8.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 20.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 8.2 min, reading 8.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -4882,7 +5608,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.74,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4933,7 +5667,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.83,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -4984,7 +5726,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.73,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.48,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5035,7 +5785,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.4,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5086,7 +5844,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.53,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5137,7 +5903,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.97,
+              "estimated_reading_minutes": 0.95,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.92,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5188,7 +5962,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.82,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5239,7 +6021,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.67,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5290,7 +6080,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.73,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.46,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5341,7 +6139,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.83,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5423,7 +6229,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.58,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5538,9 +6352,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 1.13,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.95,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 8.4,
+          "estimated_reading_minutes": 8.7,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 20.6,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 8.4 min, reading 8.7 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -5598,7 +6433,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5649,7 +6492,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.65,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.29,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5700,7 +6551,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.25,
+              "estimated_reading_minutes": 0.25,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.5,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5751,7 +6610,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.59,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.21,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5802,7 +6669,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.67,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.31,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5853,7 +6728,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.81,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5904,7 +6787,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.57,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.13,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -5986,7 +6877,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.16,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6101,9 +7000,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 1.08,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.85,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 5.0,
+          "estimated_reading_minutes": 5.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.8,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 5.0 min, reading 5.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -6161,7 +7081,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.71,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6212,7 +7140,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.75,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6263,7 +7199,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.48,
+              "estimated_reading_minutes": 0.47,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.95,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6314,7 +7258,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.68,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.37,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6365,7 +7317,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.71,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.44,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6416,7 +7376,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.1,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6467,7 +7435,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.5,
+              "estimated_reading_minutes": 0.49,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.99,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6518,7 +7494,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.72,
+              "estimated_reading_minutes": 0.72,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.44,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6569,7 +7553,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.3,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.6,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6651,7 +7643,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.73,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6766,9 +7766,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.17,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.04,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 6.2,
+          "estimated_reading_minutes": 6.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 16.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 6.2 min, reading 6.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -6826,7 +7847,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6877,7 +7906,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.2,
+              "estimated_reading_minutes": 0.19,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.39,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6928,7 +7965,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -6979,7 +8024,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -7030,7 +8083,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.8,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -7081,7 +8142,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance/legal/CDPH review required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.22,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -7163,7 +8232,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M02",
@@ -7278,11 +8355,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 1.11,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.92,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 4.8,
+          "estimated_reading_minutes": 5.0,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 4.8 min, reading 5.0 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 120,
+      "estimated_active_learning_minutes": 83.9,
+      "estimated_narration_minutes": 32.7,
+      "estimated_reading_minutes": 33.7,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored-partial",
+      "time_model_notes": "Instructional allocation 120 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 105 min. CONTENT-DEPTH GAP: 15 min of the 120-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  Narration 32.7 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M03",
@@ -7363,7 +8474,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7414,7 +8533,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.53,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7465,7 +8592,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.45,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.9,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7516,7 +8651,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.54,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7567,7 +8710,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.25,
+              "estimated_reading_minutes": 0.24,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.49,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7618,7 +8769,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 0.86,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.73,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7669,7 +8828,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.2,
+              "estimated_reading_minutes": 0.19,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.39,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7720,7 +8887,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.74,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.51,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7771,7 +8946,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.74,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.47,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7822,7 +9005,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.23,
+              "estimated_reading_minutes": 0.23,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.46,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7873,7 +9064,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.17,
+              "estimated_reading_minutes": 0.15,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7924,7 +9123,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.71,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.41,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -7975,7 +9182,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.67,
+              "estimated_reading_minutes": 0.65,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8026,7 +9241,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.44,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.87,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8108,7 +9331,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.77,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8223,9 +9454,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.83,
+              "estimated_reading_minutes": 1.13,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.96,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 8.9,
+          "estimated_reading_minutes": 9.0,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 21.4,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "source-repair",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 8.9 min, reading 9.0 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -8283,7 +9535,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8334,7 +9594,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.15,
+              "estimated_reading_minutes": 0.14,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.29,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8385,7 +9653,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.95,
+              "estimated_reading_minutes": 0.94,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.89,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8436,7 +9712,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.72,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8487,7 +9771,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.75,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8538,7 +9830,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.15,
+              "estimated_reading_minutes": 0.16,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.31,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8589,7 +9889,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.38,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8671,7 +9979,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.63,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -8786,9 +10102,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.83,
+              "estimated_reading_minutes": 1.12,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.95,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 4.9,
+          "estimated_reading_minutes": 5.2,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.6,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "source-repair",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 4.9 min, reading 5.2 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -8846,7 +10183,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.15,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -8897,7 +10242,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.27,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.57,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -8979,7 +10332,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.52,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -9094,9 +10455,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 1.06,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.86,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 2.2,
+          "estimated_reading_minutes": 2.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 8.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "source-repair",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 2.2 min, reading 2.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -9154,7 +10536,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.15,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -9205,7 +10595,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.27,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.57,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -9287,7 +10685,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.52,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.57,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -9402,9 +10808,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.03,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 2.3,
+          "estimated_reading_minutes": 2.5,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 8.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "source-repair",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 2.3 min, reading 2.5 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -9462,7 +10889,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.14,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -9513,7 +10948,15 @@ export const courseContentV2 = {
               "sme_review_flag": "SME/source repair required",
               "compliance_review_flag": "Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.26,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "source-repair"
             },
             {
               "module_id": "M03",
@@ -9595,7 +11038,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.48,
+              "estimated_reading_minutes": 0.46,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.44,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M03",
@@ -9710,11 +11161,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 1.14,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.99,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 10,
+          "estimated_narration_minutes": 2.2,
+          "estimated_reading_minutes": 2.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 8.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "source-repair",
+          "time_model_notes": "Lesson allocation 10 min (ContentV1). Narration 2.2 min, reading 2.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 120,
+      "estimated_active_learning_minutes": 59.6,
+      "estimated_narration_minutes": 20.5,
+      "estimated_reading_minutes": 21.6,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "source-repair",
+      "time_model_notes": "Instructional allocation 120 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 105 min. CONTENT-DEPTH GAP: 15 min of the 120-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  Narration 20.5 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M04",
@@ -9795,7 +11280,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -9846,7 +11339,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.4,
+              "estimated_reading_minutes": 0.39,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.79,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -9897,7 +11398,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.9,
+              "estimated_reading_minutes": 0.89,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.79,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -9948,7 +11457,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.68,
+              "estimated_reading_minutes": 0.67,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.35,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -9999,7 +11516,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.24,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10050,7 +11575,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.62,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10101,7 +11634,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.03,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10152,7 +11693,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.4,
+              "estimated_reading_minutes": 0.41,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.81,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10234,7 +11783,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10349,9 +11906,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.21,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.07,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 5.9,
+          "estimated_reading_minutes": 6.2,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 15.6,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 5.9 min, reading 6.2 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -10409,7 +11987,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.71,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10460,7 +12046,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.07,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.2,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10511,7 +12105,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.69,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10562,7 +12164,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.16,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10613,7 +12223,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10664,7 +12282,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.66,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.36,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10715,7 +12341,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10766,7 +12400,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.45,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.9,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10817,7 +12459,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.43,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.88,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10868,7 +12518,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.38,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -10919,7 +12577,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.5,
+              "estimated_reading_minutes": 0.47,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.97,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11001,7 +12667,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.55,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.6,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11116,9 +12790,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.03,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 7.3,
+          "estimated_reading_minutes": 7.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 18.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 7.3 min, reading 7.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -11176,7 +12871,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.74,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11227,7 +12930,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.77,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11278,7 +12989,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.09,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11329,7 +13048,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.61,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11380,7 +13107,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.39,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11431,7 +13166,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.78,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.58,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11482,7 +13225,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.4,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11564,7 +13315,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.42,
+              "estimated_reading_minutes": 0.41,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.33,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11679,9 +13438,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 1.09,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.89,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 6.0,
+          "estimated_reading_minutes": 6.1,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 15.6,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 6.0 min, reading 6.1 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -11739,7 +13519,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11790,7 +13578,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11841,7 +13637,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.28,
+              "estimated_reading_minutes": 0.28,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11892,7 +13696,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.07,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.2,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11943,7 +13755,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -11994,7 +13814,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.3,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12045,7 +13873,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.04,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12096,7 +13932,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.83,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12147,7 +13991,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.48,
+              "estimated_reading_minutes": 0.47,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.95,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12198,7 +14050,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.42,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.85,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12280,7 +14140,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.63,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12395,9 +14263,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.02,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 5.9,
+          "estimated_reading_minutes": 5.9,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 15.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 5.9 min, reading 5.9 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -12455,7 +14344,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12506,7 +14403,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.33,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12557,7 +14462,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.8,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12608,7 +14521,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12659,7 +14580,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.68,
+              "estimated_reading_minutes": 0.67,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.35,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12710,7 +14639,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.11,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12761,7 +14698,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.17,
+              "estimated_reading_minutes": 0.15,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12812,7 +14757,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.8,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.6,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12863,7 +14816,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; no clinical competency or clinical-hour claim.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.07,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -12945,7 +14906,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.48,
+              "estimated_reading_minutes": 0.48,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.46,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M04",
@@ -13060,11 +15029,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.83,
+              "estimated_reading_minutes": 1.17,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.0,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 6.4,
+          "estimated_reading_minutes": 6.8,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 16.8,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 6.4 min, reading 6.8 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 120,
+      "estimated_active_learning_minutes": 81.3,
+      "estimated_narration_minutes": 31.4,
+      "estimated_reading_minutes": 32.4,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored-partial",
+      "time_model_notes": "Instructional allocation 120 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 105 min. CONTENT-DEPTH GAP: 15 min of the 120-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  Narration 31.4 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M05",
@@ -13145,7 +15148,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13196,7 +15207,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.66,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13247,7 +15266,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.72,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.45,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13298,7 +15325,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.65,
+              "estimated_reading_minutes": 0.64,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.29,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13349,7 +15384,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13400,7 +15443,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.11,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.24,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13451,7 +15502,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.74,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.48,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13502,7 +15561,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.69,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13553,7 +15620,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.58,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.2,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13635,7 +15710,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.53,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13750,9 +15833,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.01,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 6.4,
+          "estimated_reading_minutes": 6.6,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 16.5,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 6.4 min, reading 6.6 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -13810,7 +15914,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13861,7 +15973,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.09,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13912,7 +16032,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.83,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -13963,7 +16091,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.04,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14014,7 +16150,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.57,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.13,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14065,7 +16209,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.68,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.37,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14116,7 +16268,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.74,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.47,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14167,7 +16327,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.5,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.02,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14249,7 +16417,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.42,
+              "estimated_reading_minutes": 0.41,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14364,9 +16540,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 1.08,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.86,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 5.2,
+          "estimated_reading_minutes": 5.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 14.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 5.2 min, reading 5.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -14424,7 +16621,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.37,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14475,7 +16680,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.73,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.46,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14526,7 +16739,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.71,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.44,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14577,7 +16798,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.08,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.21,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14628,7 +16857,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.75,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14679,7 +16916,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.72,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14730,7 +16975,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.09,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.22,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14781,7 +17034,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.83,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.65,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14832,7 +17093,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.61,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -14914,7 +17183,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.22,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15029,9 +17306,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 1.04,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.81,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 6.4,
+          "estimated_reading_minutes": 6.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 16.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 6.4 min, reading 6.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -15089,7 +17387,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.37,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15140,7 +17446,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.77,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15191,7 +17505,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.45,
+              "estimated_reading_minutes": 0.44,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.89,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15242,7 +17564,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.59,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.21,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15293,7 +17623,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.77,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15344,7 +17682,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.82,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15395,7 +17741,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.22,
+              "estimated_reading_minutes": 0.21,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15446,7 +17800,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.53,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15497,7 +17859,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.17,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15579,7 +17949,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.31,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.14,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15694,9 +18072,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 1.01,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.76,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 25,
+          "estimated_narration_minutes": 6.6,
+          "estimated_reading_minutes": 6.6,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 16.7,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 25 min (ContentV1). Narration 6.6 min, reading 6.6 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -15754,7 +18153,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.74,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15805,7 +18212,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.51,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15856,7 +18271,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.74,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.51,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15907,7 +18330,15 @@ export const courseContentV2 = {
               "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
               "compliance_review_flag": "Compliance review required; keep CNA role as observe/report, not independent staging/treatment.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.81,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.61,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -15989,7 +18420,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.57,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M05",
@@ -16104,11 +18543,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 1.19,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 10,
+          "estimated_narration_minutes": 4.1,
+          "estimated_reading_minutes": 4.4,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 12.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 10 min (ContentV1). Narration 4.1 min, reading 4.4 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 120,
+      "estimated_active_learning_minutes": 75.5,
+      "estimated_narration_minutes": 28.6,
+      "estimated_reading_minutes": 29.4,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored-partial",
+      "time_model_notes": "Instructional allocation 120 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 105 min. CONTENT-DEPTH GAP: 15 min of the 120-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  Narration 28.6 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M06",
@@ -16189,7 +18662,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16240,7 +18721,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.59,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.19,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16291,7 +18780,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16342,7 +18839,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.57,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.15,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16393,7 +18898,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.78,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16475,7 +18988,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.53,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16590,9 +19111,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.19,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.07,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 4.3,
+          "estimated_reading_minutes": 4.5,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 12.3,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 4.3 min, reading 4.5 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -16650,7 +19192,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.35,
+              "estimated_reading_minutes": 0.34,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.69,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16701,7 +19251,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.23,
+              "estimated_reading_minutes": 0.22,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.45,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16752,7 +19310,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.97,
+              "estimated_reading_minutes": 0.94,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.91,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16803,7 +19369,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.41,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.85,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16854,7 +19428,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.54,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16905,7 +19487,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.04,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -16956,7 +19546,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.82,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17007,7 +19605,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.51,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.03,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17089,7 +19695,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17204,9 +19818,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.2,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.08,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 5.7,
+          "estimated_reading_minutes": 5.8,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 15.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 5.7 min, reading 5.8 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -17264,7 +19899,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.37,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17315,7 +19958,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.37,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17366,7 +20017,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17417,7 +20076,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.29,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17468,7 +20135,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.72,
+              "estimated_reading_minutes": 0.7,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17519,7 +20194,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.21,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17570,7 +20253,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.58,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.18,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17621,7 +20312,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.82,
+              "estimated_reading_minutes": 0.8,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17703,7 +20402,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.58,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.68,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17818,9 +20525,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.85,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.01,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 20,
+          "estimated_narration_minutes": 6.0,
+          "estimated_reading_minutes": 6.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 15.8,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 20 min (ContentV1). Narration 6.0 min, reading 6.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -17878,7 +20606,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17929,7 +20665,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.7,
+              "estimated_reading_minutes": 0.69,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.39,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -17980,7 +20724,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.24,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18031,7 +20783,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.3,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.62,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18082,7 +20842,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.56,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18133,7 +20901,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.56,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.11,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18184,7 +20960,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.33,
+              "estimated_reading_minutes": 0.33,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.66,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18266,7 +21050,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.42,
+              "estimated_reading_minutes": 0.41,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.32,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18381,9 +21173,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 1.08,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.88,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 15,
+          "estimated_narration_minutes": 4.9,
+          "estimated_reading_minutes": 5.1,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.5,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 15 min (ContentV1). Narration 4.9 min, reading 5.1 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -18441,7 +21254,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.37,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.72,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18492,7 +21313,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.75,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18543,7 +21372,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.73,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.48,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18594,7 +21431,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.44,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.87,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18645,7 +21490,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Compliance review required; PHI/no-upload and CNA scope guardrails apply.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.57,
+              "estimated_reading_minutes": 0.54,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.11,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18727,7 +21580,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.47,
+              "estimated_reading_minutes": 0.46,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.43,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M06",
@@ -18842,11 +21703,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.75,
+              "estimated_reading_minutes": 0.99,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 3.74,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 10,
+          "estimated_narration_minutes": 4.1,
+          "estimated_reading_minutes": 4.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 11.9,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 10 min (ContentV1). Narration 4.1 min, reading 4.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 90,
+      "estimated_active_learning_minutes": 68.4,
+      "estimated_narration_minutes": 25.0,
+      "estimated_reading_minutes": 25.9,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 15,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored-partial",
+      "time_model_notes": "Instructional allocation 90 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 80 min. CONTENT-DEPTH GAP: 10 min of the 90-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  Narration 25.0 min and module-assessment 15 min are tracked separately and excluded from the 720 instructional total."
     },
     {
       "module_id": "M07",
@@ -18924,7 +21819,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -18975,7 +21878,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.1,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19026,7 +21937,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.71,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19077,7 +21996,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.22,
+              "estimated_reading_minutes": 0.2,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19128,7 +22055,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.12,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19179,7 +22114,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.84,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19230,7 +22173,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.12,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19281,7 +22232,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.97,
+              "estimated_reading_minutes": 0.97,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.94,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19363,7 +22322,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.47,
+              "estimated_reading_minutes": 0.45,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19478,9 +22445,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 5,
+          "estimated_narration_minutes": 5.0,
+          "estimated_reading_minutes": 5.2,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.7,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 5 min (ContentV1). Narration 5.0 min, reading 5.2 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L02",
@@ -19538,7 +22526,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19589,7 +22585,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.12,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19640,7 +22644,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.9,
+              "estimated_reading_minutes": 0.87,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.77,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19691,7 +22703,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.3,
+              "estimated_reading_minutes": 0.31,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.61,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19742,7 +22762,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.87,
+              "estimated_reading_minutes": 0.82,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.69,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19793,7 +22821,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.15,
+              "estimated_reading_minutes": 0.13,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.28,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19844,7 +22880,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.92,
+              "estimated_reading_minutes": 0.91,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.83,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -19926,7 +22970,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.47,
+              "estimated_reading_minutes": 0.45,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20041,9 +23093,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 5,
+          "estimated_narration_minutes": 5.0,
+          "estimated_reading_minutes": 5.2,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 13.7,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 5 min (ContentV1). Narration 5.0 min, reading 5.2 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L03",
@@ -20101,7 +23174,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.36,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.75,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20152,7 +23233,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.13,
+              "estimated_reading_minutes": 0.11,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20203,7 +23292,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.54,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20254,7 +23351,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.31,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.63,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20305,7 +23410,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.22,
+              "estimated_reading_minutes": 0.16,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.38,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20387,7 +23500,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.47,
+              "estimated_reading_minutes": 0.45,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.42,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20502,9 +23623,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 3,
+          "estimated_narration_minutes": 3.2,
+          "estimated_reading_minutes": 3.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 10.0,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 3 min (ContentV1). Narration 3.2 min, reading 3.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L04",
@@ -20562,7 +23704,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.38,
+              "estimated_reading_minutes": 0.35,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.73,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20613,7 +23763,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.32,
+              "estimated_reading_minutes": 0.32,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.64,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20664,7 +23822,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.8,
+              "estimated_reading_minutes": 0.79,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.59,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20715,7 +23881,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.62,
+              "estimated_reading_minutes": 0.63,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.25,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20766,7 +23940,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.52,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.04,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20817,7 +23999,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.53,
+              "estimated_reading_minutes": 0.53,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.06,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -20899,7 +24089,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.43,
+              "estimated_reading_minutes": 0.42,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.35,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21014,9 +24212,30 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 2,
+          "estimated_narration_minutes": 4.5,
+          "estimated_reading_minutes": 4.7,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 12.7,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 2 min (ContentV1). Narration 4.5 min, reading 4.7 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         },
         {
           "lesson_id": "L05",
@@ -21074,7 +24293,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.42,
+              "estimated_reading_minutes": 0.38,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.8,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21125,7 +24352,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.77,
+              "estimated_reading_minutes": 0.76,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.52,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21176,7 +24411,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.78,
+              "estimated_reading_minutes": 0.77,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.55,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21227,7 +24470,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.25,
+              "estimated_reading_minutes": 0.25,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.5,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21278,7 +24529,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.6,
+              "estimated_reading_minutes": 0.61,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.21,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21329,7 +24588,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.63,
+              "estimated_reading_minutes": 0.6,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.23,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21380,7 +24647,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.73,
+              "estimated_reading_minutes": 0.67,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.4,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21431,7 +24706,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.55,
+              "estimated_reading_minutes": 0.52,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.07,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21482,7 +24765,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.25,
+              "estimated_reading_minutes": 0.26,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 0.51,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21533,7 +24824,15 @@ export const courseContentV2 = {
               "sme_review_flag": "None identified",
               "compliance_review_flag": "Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled.",
               "internal_challenge": null,
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.95,
+              "estimated_reading_minutes": 0.83,
+              "estimated_interaction_minutes": 0.0,
+              "estimated_active_learning_minutes": 1.78,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21615,7 +24914,15 @@ export const courseContentV2 = {
                 "learner_feedback_correct": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why.",
                 "learner_feedback_incorrect": "Your response has been submitted. Continue to the Challenge Debrief to review the safest response and why."
               },
-              "debrief_rationale": null
+              "debrief_rationale": null,
+              "estimated_narration_minutes": 0.52,
+              "estimated_reading_minutes": 0.48,
+              "estimated_interaction_minutes": 1.5,
+              "estimated_active_learning_minutes": 2.5,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             },
             {
               "module_id": "M07",
@@ -21730,11 +25037,45 @@ export const courseContentV2 = {
                   "status": "Placeholder only - no media generated."
                 },
                 "remediation_completion_condition": "Submit a response, then review the safest response and your own choice before completing the lesson."
-              }
+              },
+              "estimated_narration_minutes": 0.88,
+              "estimated_reading_minutes": 1.16,
+              "estimated_interaction_minutes": 2.0,
+              "estimated_active_learning_minutes": 4.05,
+              "counts_toward_720_instructional_minutes": true,
+              "counts_toward_certificate_gate": true,
+              "counts_toward_optional_clinical_support": false,
+              "time_model_status": "modeled"
             }
-          ]
+          ],
+          "instructional_minutes": 2,
+          "estimated_narration_minutes": 7.3,
+          "estimated_reading_minutes": 7.3,
+          "estimated_interaction_minutes": 3.5,
+          "estimated_active_learning_minutes": 18.1,
+          "estimated_assessment_minutes": 0,
+          "assessment_minutes_excluded_from_instructional_total": true,
+          "counts_toward_720_instructional_minutes": true,
+          "counts_toward_certificate_gate": true,
+          "counts_toward_optional_clinical_support": false,
+          "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+          "time_model_status": "modeled",
+          "time_model_notes": "Lesson allocation 2 min (ContentV1). Narration 7.3 min, reading 7.3 min, interaction 3.5 min are descriptive components tracked separately; narration is NOT the full lesson time."
         }
-      ]
+      ],
+      "instructional_minutes": 30,
+      "estimated_active_learning_minutes": 68.2,
+      "estimated_narration_minutes": 25.0,
+      "estimated_reading_minutes": 25.7,
+      "estimated_interaction_minutes": 17.5,
+      "estimated_assessment_minutes": 0,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": true,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+      "time_model_status": "authored-partial",
+      "time_model_notes": "Instructional allocation 30 min inherited from ContentV1 syllabus (not recomputed from narration). Lessons currently allocate 17 min. CONTENT-DEPTH GAP: 13 min of the 30-min allocation is not yet covered by authored lesson cards; expand only from ContentV1 source (do not pad).  M07 retains its 30-min required final-review theory allocation per ContentV1; the graded final exam and affidavit are tracked separately under assessments.final_assessment and are NOT double-counted here. Narration 25.0 min and module-assessment 0 min are tracked separately and excluded from the 720 instructional total."
     }
   ],
   "assessments": {
@@ -21887,7 +25228,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "None identified",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 5,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M00 module assessment (5 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M01": {
         "module_id": "M01",
@@ -22070,7 +25419,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "Module 1 infection-control content requires SME/source review.",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M01 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M02": {
         "module_id": "M02",
@@ -22284,7 +25641,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "None identified",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M02 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M03": {
         "module_id": "M03",
@@ -22498,7 +25863,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review.",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M03 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M04": {
         "module_id": "M04",
@@ -22712,7 +26085,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "None identified",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M04 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M05": {
         "module_id": "M05",
@@ -22926,7 +26307,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "Skin integrity / pressure injury content requires SME/source review.",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M05 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       },
       "M06": {
         "module_id": "M06",
@@ -23140,7 +26529,15 @@ export const courseContentV2 = {
         ],
         "status": "Draft - source-supported where questions exist",
         "sme_review_flag": "None identified",
-        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden."
+        "compliance_review_flag": "Learner-facing module assessment feedback may explain practice rationales; final exam answer key remains hidden.",
+        "estimated_assessment_minutes": 15,
+        "assessment_minutes_excluded_from_instructional_total": true,
+        "counts_toward_720_instructional_minutes": false,
+        "counts_toward_certificate_gate": true,
+        "counts_toward_optional_clinical_support": false,
+        "source_time_basis": "CNA-Recert-Course/Content/08_MODULE_KNOWLEDGE_CHECK_BLUEPRINT.md",
+        "time_model_status": "assessment",
+        "time_model_notes": "M06 module assessment (15 min) is tracked separately and excluded from the 720 instructional total. May gate the certificate but is not instructional theory time."
       }
     },
     "final_assessment": {
@@ -24766,7 +28163,15 @@ export const courseContentV2 = {
         }
       ],
       "sme_review_flag": "Module 1 Q01, Q02, Q03, Q41 and skin integrity Q21, Q38 remain SME/source-review flagged.",
-      "compliance_review_flag": "Final answer key is internal. Do not expose full answer key to learner-facing results."
+      "compliance_review_flag": "Final answer key is internal. Do not expose full answer key to learner-facing results.",
+      "estimated_assessment_minutes": 25,
+      "assessment_minutes_excluded_from_instructional_total": true,
+      "counts_toward_720_instructional_minutes": false,
+      "counts_toward_certificate_gate": true,
+      "counts_toward_optional_clinical_support": false,
+      "source_time_basis": "Final exam attempt_size (25 Q) at ~1 min/question (planning estimate)",
+      "time_model_status": "assessment",
+      "time_model_notes": "Final exam time is tracked separately and excluded from the 720 instructional total. It must not inflate lesson narration time, and learner-facing results never reveal answer keys."
     }
   },
   "clinical_support": {
@@ -25117,7 +28522,16 @@ export const courseContentV2 = {
         "sme_review_flag": "None identified",
         "compliance_review_flag": "Do not store as CE evidence; do not label as competency validation."
       }
-    ]
+    ],
+    "instructional_minutes": 0,
+    "estimated_assessment_minutes": 0,
+    "assessment_minutes_excluded_from_instructional_total": true,
+    "counts_toward_720_instructional_minutes": false,
+    "counts_toward_certificate_gate": false,
+    "counts_toward_optional_clinical_support": true,
+    "source_time_basis": "CNA-Recert-Course/Content/03_CLINICAL_SUPPORT_SYLLABUS_TABLE.md (optional, non-credit)",
+    "time_model_status": "optional-non-credit",
+    "time_model_notes": "Optional Clinical Support is optional, non-credit, non-gating, and never counts toward the 720 required theory instructional minutes. No clinical-hour credit is claimed."
   },
   "app_copy": {
     "dashboard": {
@@ -25666,6 +29080,32 @@ export const courseContentV2 = {
       "M07"
     ],
     "validation_status": "Remediation hardening pass - additive update of debrief/remediation cards"
+  },
+  "time_model": {
+    "source_basis": "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)",
+    "required_theory_instructional_minutes_total": 720,
+    "required_theory_hours": 12.0,
+    "module_allocation": {
+      "M00": 30,
+      "M01": 90,
+      "M02": 120,
+      "M03": 120,
+      "M04": 120,
+      "M05": 120,
+      "M06": 90,
+      "M07": 30
+    },
+    "module_assessment_minutes_excluded": 95,
+    "course_final_assessment_minutes_excluded": 25,
+    "optional_clinical_support_counts_toward_720": false,
+    "rules": [
+      "Instructional minutes inherit from the ContentV1 syllabus allocation; the 720 total is not recomputed from narration or card count.",
+      "Narration, reading/review, interaction/challenge/remediation, and assessment minutes are tracked separately.",
+      "Module assessments and the final exam are excluded from the 720 instructional total.",
+      "Optional Clinical Support never counts toward the 720 required theory minutes.",
+      "Content-depth gaps are reported, not padded; SME/source-repair flags are preserved.",
+      "No clinical-hour credit is claimed; production certificate remains disabled; no PHI."
+    ]
   }
 } as const;
 export default courseContentV2;

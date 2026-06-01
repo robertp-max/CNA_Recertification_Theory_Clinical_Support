@@ -25,7 +25,12 @@
           "module_id",
           "module_title",
           "estimated_minutes",
-          "lessons"
+          "lessons",
+          "instructional_minutes",
+          "counts_toward_720_instructional_minutes",
+          "assessment_minutes_excluded_from_instructional_total",
+          "source_time_basis",
+          "time_model_status"
         ]
       }
     },
@@ -37,9 +42,50 @@
     },
     "source_manifest": {
       "type": "array"
+    },
+    "time_model": {
+      "$ref": "#/$defs/timeModel"
     }
   },
   "$defs": {
+    "timeModelFields": {
+      "type": "object",
+      "description": "Explicit time-model fields. Instructional minutes are inherited from the ContentV1 syllabus allocation and are NOT recomputed from narration length or card count. Narration, reading/review, interaction, and assessment minutes are tracked separately and never replace the instructional allocation.",
+      "properties": {
+        "instructional_minutes": { "type": "number", "description": "Required theory allocation inherited from ContentV1 syllabus." },
+        "estimated_active_learning_minutes": { "type": "number" },
+        "estimated_narration_minutes": { "type": "number", "description": "Descriptive narration estimate; never treated as full lesson/module time." },
+        "estimated_reading_minutes": { "type": "number" },
+        "estimated_interaction_minutes": { "type": "number" },
+        "estimated_assessment_minutes": { "type": "number", "description": "Assessment time tracked separately; excluded from the 720 instructional total." },
+        "assessment_minutes_excluded_from_instructional_total": { "type": "boolean" },
+        "counts_toward_720_instructional_minutes": { "type": "boolean" },
+        "counts_toward_certificate_gate": { "type": "boolean" },
+        "counts_toward_optional_clinical_support": { "type": "boolean" },
+        "source_time_basis": { "type": "string" },
+        "time_model_status": { "type": "string" },
+        "time_model_notes": { "type": "string" }
+      }
+    },
+    "timeModel": {
+      "type": "object",
+      "description": "Top-level required-theory time model. The 720 total is authoritative from the ContentV1 syllabus; optional clinical support and assessment time are excluded.",
+      "required": [
+        "required_theory_instructional_minutes_total",
+        "module_allocation",
+        "optional_clinical_support_counts_toward_720"
+      ],
+      "properties": {
+        "source_basis": { "type": "string" },
+        "required_theory_instructional_minutes_total": { "type": "number", "const": 720 },
+        "required_theory_hours": { "type": "number" },
+        "module_allocation": { "type": "object", "additionalProperties": { "type": "number" } },
+        "module_assessment_minutes_excluded": { "type": "number" },
+        "course_final_assessment_minutes_excluded": { "type": "number" },
+        "optional_clinical_support_counts_toward_720": { "type": "boolean", "const": false },
+        "rules": { "type": "array", "items": { "type": "string" } }
+      }
+    },
     "mediaPromptPlaceholder": {
       "type": "object",
       "description": "Per-card media readiness slot. No assets are generated for the MVP; a safe 16:9 placeholder with alt text is always available.",

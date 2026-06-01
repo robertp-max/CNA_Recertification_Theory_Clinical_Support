@@ -1,6 +1,6 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T22:01:28+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
 
 
 ## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
@@ -489,7 +489,7 @@
 | C03_CHALLENGE | challenge | Professionalism, Ethics, and Delegation Challenge | 28 | NATP Module 15 (Observation and Charting) | None identified |
 | C04A_DEBRIEF | debrief | Professionalism, Ethics, and Delegation - Challenge Debrief | 45 | NATP Module 15 (Observation and Charting) | None identified |
 
-## M07 — Final Review, Exam/Test, Affidavit, and Certificate Status (30 min, counts_toward_720=False)
+## M07 — Final Review, Exam/Test, Affidavit, and Certificate Status (30 min, counts_toward_720=True)
 
 ### L01 — Cumulative Review - Modules 1-3 (5 min, 10 cards)
 
