@@ -1,6 +1,6 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
 
 
 ## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
@@ -117,120 +117,89 @@
 
 ## M02 — Resident Rights, Abuse Prevention, and Boundaries (120 min, counts_toward_720=True)
 
-### L01 — Resident Rights Foundation (20 min, 15 cards)
+### L01 — Resident Rights Foundation (20 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Resident Rights Foundation | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | What Are Resident Rights? | 23 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.1 | None identified |
-| C02B_DELIVERY | delivery | What Are Resident Rights? | 47 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.1 | None identified |
-| C02C_DELIVERY | delivery | What Are Resident Rights? | 33 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.1 | None identified |
-| C02D_DELIVERY | delivery | Why Rights Matter in Daily Care | 39 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.2 | None identified |
-| C02E_DELIVERY | delivery | Why Rights Matter in Daily Care | 37 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.2 | None identified |
-| C02F_DELIVERY | delivery | The Ombudsman and Resident Council | 38 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
-| C02G_DELIVERY | delivery | The Ombudsman and Resident Council | 40 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
-| C02H_DELIVERY | delivery | The Ombudsman and Resident Council | 40 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
-| C02I_DELIVERY | delivery | Advance Directives and DNR | 36 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
-| C02J_DELIVERY | delivery | Advance Directives and DNR | 15 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
-| C02K_DELIVERY | delivery | Advance Directives and DNR | 48 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
-| C02L_DELIVERY | delivery | Advance Directives and DNR | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
+| C02A_DELIVERY | delivery | What Are Resident Rights? | 63 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.1 | None identified |
+| C02B_DELIVERY | delivery | Why Rights Matter in Daily Care | 36 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.2 | None identified |
+| C02C_DELIVERY | delivery | The Ombudsman and Resident Council | 30 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
+| C02D_DELIVERY | delivery | The Ombudsman and Resident Council | 10 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
+| C02E_DELIVERY | delivery | Advance Directives and DNR | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
 | C03_CHALLENGE | challenge | Resident Rights Foundation Challenge | 24 | NATP Module 17 (Patient/Resident Abuse) Objective 2B | None identified |
 | C04A_DEBRIEF | debrief | Resident Rights Foundation - Challenge Debrief | 45 | NATP Module 17 (Patient/Resident Abuse) Objective 2B | None identified |
 
-### L02 — Types of Abuse and Neglect (25 min, 12 cards)
+### L02 — Types of Abuse and Neglect (25 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Types of Abuse and Neglect | 23 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Defining Abuse | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.1 | None identified |
-| C02B_DELIVERY | delivery | Defining Abuse | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.1 | None identified |
-| C02C_DELIVERY | delivery | Eight Types of Elder Abuse | 42 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
-| C02D_DELIVERY | delivery | Eight Types of Elder Abuse | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
-| C02E_DELIVERY | delivery | Eight Types of Elder Abuse | 58 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
-| C02F_DELIVERY | delivery | Interactive: Match the Abuse Type | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.3 | None identified |
-| C02G_DELIVERY | delivery | Interactive: Match the Abuse Type | 20 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.3 | None identified |
-| C02H_DELIVERY | delivery | Neglect vs. Negligence | 44 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.4 | None identified |
-| C02I_DELIVERY | delivery | Neglect vs. Negligence | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.4 | None identified |
+| C02A_DELIVERY | delivery | Defining Abuse | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.1 | None identified |
+| C02B_DELIVERY | delivery | Eight Types of Elder Abuse | 75 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
+| C02C_DELIVERY | delivery | Eight Types of Elder Abuse | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
+| C02D_DELIVERY | delivery | Interactive: Match the Abuse Type | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.3 | None identified |
+| C02E_DELIVERY | delivery | Neglect vs. Negligence | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.4 | None identified |
 | C03_CHALLENGE | challenge | Types of Abuse and Neglect Challenge | 32 | NATP Module 17 (Patient/Resident Abuse) Objective 5 | None identified |
 | C04A_DEBRIEF | debrief | Types of Abuse and Neglect - Challenge Debrief | 49 | NATP Module 17 (Patient/Resident Abuse) Objective 5 | None identified |
 
-### L03 — Signs, Symptoms, and Evidence of Abuse (20 min, 9 cards)
+### L03 — Signs, Symptoms, and Evidence of Abuse (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Signs, Symptoms, and Evidence of Abuse | 23 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Recognizing Signs and Symptoms | 39 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.1 | None identified |
-| C02B_DELIVERY | delivery | Recognizing Signs and Symptoms | 15 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.1 | None identified |
-| C02C_DELIVERY | delivery | Recognizing Signs and Symptoms | 37 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.1 | None identified |
-| C02D_DELIVERY | delivery | Objective vs. Subjective Observations | 40 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
-| C02E_DELIVERY | delivery | Objective vs. Subjective Observations | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
-| C02F_DELIVERY | delivery | Objective vs. Subjective Observations | 34 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
+| C02A_DELIVERY | delivery | Recognizing Signs and Symptoms | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.1 | None identified |
+| C02B_DELIVERY | delivery | Objective vs. Subjective Observations | 48 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
+| C02C_DELIVERY | delivery | Objective vs. Subjective Observations | 10 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
 | C03_CHALLENGE | challenge | Signs, Symptoms, and Evidence of Abuse Challenge | 20 | NATP Module 17 (Patient/Resident Abuse) Objective 2B.5 | None identified |
 | C04A_DEBRIEF | debrief | Signs, Symptoms, and Evidence of Abuse - Challenge Debrief | 46 | NATP Module 17 (Patient/Resident Abuse) Objective 2B.5 | None identified |
 
-### L04 — Mandated Reporter Obligations (20 min, 11 cards)
+### L04 — Mandated Reporter Obligations (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Mandated Reporter Obligations | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | You Are a Mandated Reporter | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.1 | None identified |
-| C02B_DELIVERY | delivery | You Are a Mandated Reporter | 29 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.1 | None identified |
-| C02C_DELIVERY | delivery | You Are a Mandated Reporter | 41 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.1 | None identified |
-| C02D_DELIVERY | delivery | Reporting Decision Path | 44 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.2 | None identified |
-| C02E_DELIVERY | delivery | Reporting Decision Path | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.2 | None identified |
-| C02F_DELIVERY | delivery | Scenario: The Reporting Decision (Branching) | 30 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.3 | None identified |
-| C02G_DELIVERY | delivery | Scenario: The Reporting Decision (Branching) | 43 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.3 | None identified |
-| C02H_DELIVERY | delivery | Scenario: The Reporting Decision (Branching) | 18 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.3 | None identified |
+| C02A_DELIVERY | delivery | You Are a Mandated Reporter | 64 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.1 | None identified |
+| C02B_DELIVERY | delivery | Reporting Decision Path | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.2 | None identified |
+| C02C_DELIVERY | delivery | Scenario: The Reporting Decision (Branching) | 35 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.3 | None identified |
 | C03_CHALLENGE | challenge | Mandated Reporter Obligations Challenge | 37 | NATP Module 17 (Patient/Resident Abuse) Objective 3 | None identified |
 | C04A_DEBRIEF | debrief | Mandated Reporter Obligations - Challenge Debrief | 52 | NATP Module 17 (Patient/Resident Abuse) Objective 3 | None identified |
 
-### L05 — Prevention, Boundaries, and Safety (20 min, 8 cards)
+### L05 — Prevention, Boundaries, and Safety (20 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Prevention, Boundaries, and Safety | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Abuse Prevention Strategies | 12 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.1 | None identified |
-| C02B_DELIVERY | delivery | Abuse Prevention Strategies | 47 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.1 | None identified |
-| C02C_DELIVERY | delivery | Abuse Prevention Strategies | 37 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.1 | None identified |
-| C02D_DELIVERY | delivery | Professional Boundaries | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.2 | None identified |
-| C02E_DELIVERY | delivery | HIPAA and Confidentiality in Abuse Situations | 37 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.3 | None identified |
+| C02A_DELIVERY | delivery | Abuse Prevention Strategies | 50 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.1 | None identified |
+| C02B_DELIVERY | delivery | Professional Boundaries | 41 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.2 | None identified |
+| C02C_DELIVERY | delivery | HIPAA and Confidentiality in Abuse Situations | 67 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.3 | None identified |
+| C02D_DELIVERY | delivery | HIPAA and Confidentiality in Abuse Situations | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.3 | None identified |
 | C03_CHALLENGE | challenge | Prevention, Boundaries, and Safety Challenge | 35 | NATP Module 17 (Patient/Resident Abuse); NATP Module 13 (Long Term Care Residents) | None identified |
 | C04A_DEBRIEF | debrief | Prevention, Boundaries, and Safety - Challenge Debrief | 49 | NATP Module 17 (Patient/Resident Abuse); NATP Module 13 (Long Term Care Residents) | None identified |
 
 ## M03 — Dementia, Communication, and Respectful Care (120 min, counts_toward_720=True)
 
-### L01 — Understanding Dementia and Cognitive Conditions (25 min, 16 cards)
+### L01 — Understanding Dementia and Cognitive Conditions (25 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Understanding Dementia and Cognitive Conditions | 22 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L01 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | What Is Dementia? | 46 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02B_DELIVERY | delivery | What Is Dementia? | 27 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02C_DELIVERY | delivery | What Is Dementia? | 47 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02D_DELIVERY | delivery | Behavioral Symptoms of Dementia | 15 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02E_DELIVERY | delivery | Behavioral Symptoms of Dementia | 52 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02F_DELIVERY | delivery | Behavioral Symptoms of Dementia | 12 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02G_DELIVERY | delivery | Behavioral Symptoms of Dementia | 46 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02H_DELIVERY | delivery | Alzheimer's Disease Stages | 44 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02I_DELIVERY | delivery | Alzheimer's Disease Stages | 14 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02J_DELIVERY | delivery | Other Cognitive Conditions | 10 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02K_DELIVERY | delivery | Other Cognitive Conditions | 42 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02L_DELIVERY | delivery | Other Cognitive Conditions | 40 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02M_DELIVERY | delivery | Other Cognitive Conditions | 26 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02A_DELIVERY | delivery | What Is Dementia? | 66 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02B_DELIVERY | delivery | Behavioral Symptoms of Dementia | 70 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02C_DELIVERY | delivery | Alzheimer's Disease Stages | 51 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02D_DELIVERY | delivery | Other Cognitive Conditions | 55 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02E_DELIVERY | delivery | Other Cognitive Conditions | 11 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 | C03_CHALLENGE | challenge | Understanding Dementia and Cognitive Conditions Challenge | 38 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 | C04A_DEBRIEF | debrief | Understanding Dementia and Cognitive Conditions - Challenge Debrief | 50 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 
-### L02 — Communication Strategies for Cognitive Impairment (25 min, 9 cards)
+### L02 — Communication Strategies for Cognitive Impairment (25 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Communication Strategies for Cognitive Impairment | 22 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L02 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | Core Communication Principles | 9 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02B_DELIVERY | delivery | Core Communication Principles | 57 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02C_DELIVERY | delivery | Core Communication Principles | 43 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02D_DELIVERY | delivery | The Best Friends Approach | 46 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02E_DELIVERY | delivery | The Best Friends Approach | 9 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02F_DELIVERY | delivery | Scenario: Communication Choices | 23 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02A_DELIVERY | delivery | Core Communication Principles | 60 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02B_DELIVERY | delivery | The Best Friends Approach | 46 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C02C_DELIVERY | delivery | Scenario: Communication Choices | 29 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 | C03_CHALLENGE | challenge | Communication Strategies for Cognitive Impairment Challenge | 37 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 | C04A_DEBRIEF | debrief | Communication Strategies for Cognitive Impairment - Challenge Debrief | 50 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
 
@@ -263,148 +232,113 @@
 
 ## M04 — Mobility, Falls, and Workplace Safety (120 min, counts_toward_720=True)
 
-### L01 — Body Mechanics and Injury Prevention (20 min, 10 cards)
+### L01 — Body Mechanics and Injury Prevention (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Body Mechanics and Injury Prevention | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | What Are Body Mechanics? | 24 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.1 | None identified |
-| C02B_DELIVERY | delivery | What Are Body Mechanics? | 54 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.1 | None identified |
-| C02C_DELIVERY | delivery | What Are Body Mechanics? | 41 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.1 | None identified |
-| C02D_DELIVERY | delivery | Common Workplace Injuries for CNAs | 36 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
-| C02E_DELIVERY | delivery | Common Workplace Injuries for CNAs | 38 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
-| C02F_DELIVERY | delivery | Common Workplace Injuries for CNAs | 31 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
-| C02G_DELIVERY | delivery | Common Workplace Injuries for CNAs | 24 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
+| C02A_DELIVERY | delivery | What Are Body Mechanics? | 72 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.1 | None identified |
+| C02B_DELIVERY | delivery | Common Workplace Injuries for CNAs | 53 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
+| C02C_DELIVERY | delivery | Common Workplace Injuries for CNAs | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
 | C03_CHALLENGE | challenge | Body Mechanics and Injury Prevention Challenge | 31 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
 | C04A_DEBRIEF | debrief | Body Mechanics and Injury Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
 
-### L02 — Safe Transfers and Ambulation (25 min, 13 cards)
+### L02 — Safe Transfers and Ambulation (25 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Safe Transfers and Ambulation | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Transfer Principles | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.1 | None identified |
-| C02B_DELIVERY | delivery | Transfer Principles | 51 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.1 | None identified |
-| C02C_DELIVERY | delivery | Transfer Principles | 36 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.1 | None identified |
-| C02D_DELIVERY | delivery | Common Transfer Types | 48 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
-| C02E_DELIVERY | delivery | Common Transfer Types | 42 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
-| C02F_DELIVERY | delivery | Ambulation Assistance | 38 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.3 | None identified |
-| C02G_DELIVERY | delivery | Ambulation Assistance | 27 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.3 | None identified |
-| C02H_DELIVERY | delivery | Scenario: Transfer Safety Decision | 27 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.4 | None identified |
-| C02I_DELIVERY | delivery | Scenario: Transfer Safety Decision | 23 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.4 | None identified |
-| C02J_DELIVERY | delivery | Scenario: Transfer Safety Decision | 30 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.4 | None identified |
+| C02A_DELIVERY | delivery | Transfer Principles | 51 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.1 | None identified |
+| C02B_DELIVERY | delivery | Common Transfer Types | 75 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
+| C02C_DELIVERY | delivery | Common Transfer Types | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
+| C02D_DELIVERY | delivery | Ambulation Assistance | 58 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.3 | None identified |
+| C02E_DELIVERY | delivery | Scenario: Transfer Safety Decision | 31 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.4 | None identified |
 | C03_CHALLENGE | challenge | Safe Transfers and Ambulation Challenge | 33 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
 | C04A_DEBRIEF | debrief | Safe Transfers and Ambulation - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
 
-### L03 — Range of Motion and Restorative Care (20 min, 9 cards)
+### L03 — Range of Motion and Restorative Care (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Range of Motion and Restorative Care | 23 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Range of Motion (ROM) | 47 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.1 | None identified |
-| C02B_DELIVERY | delivery | Range of Motion (ROM) | 33 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.1 | None identified |
-| C02C_DELIVERY | delivery | Range of Motion (ROM) | 49 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.1 | None identified |
-| C02D_DELIVERY | delivery | Restorative Care Programs | 42 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
-| C02E_DELIVERY | delivery | Restorative Care Programs | 48 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
-| C02F_DELIVERY | delivery | Restorative Care Programs | 42 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
+| C02A_DELIVERY | delivery | Range of Motion (ROM) | 71 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.1 | None identified |
+| C02B_DELIVERY | delivery | Restorative Care Programs | 65 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
+| C02C_DELIVERY | delivery | Restorative Care Programs | 10 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
 | C03_CHALLENGE | challenge | Range of Motion and Restorative Care Challenge | 25 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
 | C04A_DEBRIEF | debrief | Range of Motion and Restorative Care - Challenge Debrief | 48 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
 
-### L04 — Fall Prevention (20 min, 12 cards)
+### L04 — Fall Prevention (20 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Fall Prevention | 21 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | Fall Risk Factors | 38 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.1 | None identified |
-| C02B_DELIVERY | delivery | Fall Risk Factors | 17 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.1 | None identified |
-| C02C_DELIVERY | delivery | Fall Prevention Strategies | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
-| C02D_DELIVERY | delivery | Fall Prevention Strategies | 48 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
-| C02E_DELIVERY | delivery | Fall Prevention Strategies | 19 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
-| C02F_DELIVERY | delivery | Fall Prevention Strategies | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
-| C02G_DELIVERY | delivery | What to Do When a Resident Falls | 49 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
-| C02H_DELIVERY | delivery | What to Do When a Resident Falls | 29 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
-| C02I_DELIVERY | delivery | What to Do When a Resident Falls | 26 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
+| C02A_DELIVERY | delivery | Fall Risk Factors | 45 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.1 | None identified |
+| C02B_DELIVERY | delivery | Fall Prevention Strategies | 65 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
+| C02C_DELIVERY | delivery | What to Do When a Resident Falls | 44 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
+| C02D_DELIVERY | delivery | What to Do When a Resident Falls | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
 | C03_CHALLENGE | challenge | Fall Prevention Challenge | 38 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
 | C04A_DEBRIEF | debrief | Fall Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
 
-### L05 — Emergency Procedures - Fire, Choking, Disaster (20 min, 11 cards)
+### L05 — Emergency Procedures - Fire, Choking, Disaster (20 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Emergency Procedures - Fire, Choking, Disaster | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Fire Safety: RACE and PASS | 38 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
-| C02B_DELIVERY | delivery | Fire Safety: RACE and PASS | 45 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
-| C02C_DELIVERY | delivery | Fire Safety: RACE and PASS | 37 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
-| C02D_DELIVERY | delivery | Choking Response | 41 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.2 | None identified |
-| C02E_DELIVERY | delivery | Choking Response | 33 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.2 | None identified |
-| C02F_DELIVERY | delivery | Disaster Preparedness | 10 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
-| C02G_DELIVERY | delivery | Disaster Preparedness | 48 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
-| C02H_DELIVERY | delivery | Disaster Preparedness | 32 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
+| C02A_DELIVERY | delivery | Fire Safety: RACE and PASS | 74 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
+| C02B_DELIVERY | delivery | Fire Safety: RACE and PASS | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
+| C02C_DELIVERY | delivery | Choking Response | 64 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.2 | None identified |
+| C02D_DELIVERY | delivery | Disaster Preparedness | 49 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
+| C02E_DELIVERY | delivery | Disaster Preparedness | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
 | C03_CHALLENGE | challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | 29 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
 | C04A_DEBRIEF | debrief | Emergency Procedures - Fire, Choking, Disaster - Challenge Debrief | 50 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
 
 ## M05 — Nutrition, Skin Integrity, Vital Signs, and Observation (120 min, counts_toward_720=True)
 
-### L01 — Nutrition and Hydration (25 min, 11 cards)
+### L01 — Nutrition and Hydration (25 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Nutrition and Hydration | 22 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L01 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | The Six Basic Nutrients | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | The Six Basic Nutrients | 44 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Hydration and Dehydration | 39 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Hydration and Dehydration | 35 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Modified Diets | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Modified Diets | 44 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Modified Diets | 21 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | Modified Diets | 37 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | The Six Basic Nutrients | 58 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.1 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Hydration and Dehydration | 67 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Modified Diets | 65 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Nutrition and Hydration Challenge | 32 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Nutrition and Hydration - Challenge Debrief | 51 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 
-### L02 — Feeding Assistance and Aspiration Prevention (20 min, 10 cards)
+### L02 — Feeding Assistance and Aspiration Prevention (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Feeding Assistance and Aspiration Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L02 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Feeding Assistance | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Feeding Assistance | 50 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Feeding Assistance | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 34 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 41 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 44 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 31 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Feeding Assistance | 53 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.1 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 65 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 28 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Feeding Assistance and Aspiration Prevention Challenge | 25 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Feeding Assistance and Aspiration Prevention - Challenge Debrief | 47 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 
-### L03 — Skin Integrity and Pressure Injury Prevention (25 min, 11 cards)
+### L03 — Skin Integrity and Pressure Injury Prevention (25 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Skin Integrity and Pressure Injury Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L03 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | What Is a Pressure Injury? | 44 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | What Is a Pressure Injury? | 44 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | What Is a Pressure Injury? | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Pressure Injury Stages | 48 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Pressure Injury Stages | 43 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Prevention Strategies | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Prevention Strategies | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | Prevention Strategies | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | What Is a Pressure Injury? | 54 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.1 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Pressure Injury Stages | 72 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Pressure Injury Stages | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Prevention Strategies | 51 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | Prevention Strategies | 24 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Skin Integrity and Pressure Injury Prevention Challenge | 22 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | SME review required |
 | C04A_DEBRIEF | debrief | Skin Integrity and Pressure Injury Prevention - Challenge Debrief | 46 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | SME review required |
 
-### L04 — Vital Signs - Measurement and Reporting (25 min, 11 cards)
+### L04 — Vital Signs - Measurement and Reporting (25 min, 8 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Vital Signs - Measurement and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L04 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | What Are Vital Signs? | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | What Are Vital Signs? | 27 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | What Are Vital Signs? | 37 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Temperature | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Pulse and Respirations | 49 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Pulse and Respirations | 13 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 46 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 37 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | What Are Vital Signs? | 64 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.1 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Temperature | 43 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Pulse and Respirations | 58 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.3 | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 64 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Vital Signs - Measurement and Reporting Challenge | 20 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Vital Signs - Measurement and Reporting - Challenge Debrief | 45 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 
@@ -413,79 +347,67 @@
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Monitoring, Documentation, and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L05 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Intake and Output (I&O) | 45 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Weight Monitoring | 46 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Weight Monitoring | 48 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Intake and Output (I&O) | 42 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.1 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Weight Monitoring | 28 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Weight Monitoring | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Monitoring, Documentation, and Reporting Challenge | 32 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Monitoring, Documentation, and Reporting - Challenge Debrief | 52 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 
 ## M06 — Documentation, Reporting, PHI Avoidance, and Scope (90 min, counts_toward_720=True)
 
-### L01 — Observation - Objective vs. Subjective (15 min, 7 cards)
+### L01 — Observation - Objective vs. Subjective (15 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Observation - Objective vs. Subjective | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | The CNA as Observer | 36 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.1 | None identified |
-| C02B_DELIVERY | delivery | The CNA as Observer | 32 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.1 | None identified |
-| C02C_DELIVERY | delivery | The CNA as Observer | 35 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.1 | None identified |
-| C02D_DELIVERY | delivery | Practice: Objective or Subjective? | 47 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.2 | None identified |
+| C02A_DELIVERY | delivery | The CNA as Observer | 59 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.1 | None identified |
+| C02B_DELIVERY | delivery | Practice: Objective or Subjective? | 30 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.2 | None identified |
 | C03_CHALLENGE | challenge | Observation - Objective vs. Subjective Challenge | 32 | NATP Module 15 (Observation and Charting) Objective 1 | None identified |
 | C04A_DEBRIEF | debrief | Observation - Objective vs. Subjective - Challenge Debrief | 53 | NATP Module 15 (Observation and Charting) Objective 1 | None identified |
 
-### L02 — Documentation Standards (20 min, 10 cards)
+### L02 — Documentation Standards (20 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Documentation Standards | 21 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Rules of Legal Documentation | 14 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.1 | None identified |
-| C02B_DELIVERY | delivery | Rules of Legal Documentation | 58 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.1 | None identified |
-| C02C_DELIVERY | delivery | Rules of Legal Documentation | 26 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.1 | None identified |
-| C02D_DELIVERY | delivery | Common Approved Abbreviations | 47 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.2 | None identified |
-| C02E_DELIVERY | delivery | Common Approved Abbreviations | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.2 | None identified |
-| C02F_DELIVERY | delivery | Documentation Scenario | 49 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.3 | None identified |
-| C02G_DELIVERY | delivery | Documentation Scenario | 31 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.3 | None identified |
+| C02A_DELIVERY | delivery | Rules of Legal Documentation | 65 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.1 | None identified |
+| C02B_DELIVERY | delivery | Common Approved Abbreviations | 42 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.2 | None identified |
+| C02C_DELIVERY | delivery | Documentation Scenario | 33 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.3 | None identified |
 | C03_CHALLENGE | challenge | Documentation Standards Challenge | 33 | NATP Module 15 (Observation and Charting) Objective 3 | None identified |
 | C04A_DEBRIEF | debrief | Documentation Standards - Challenge Debrief | 53 | NATP Module 15 (Observation and Charting) Objective 3 | None identified |
 
-### L03 — Change of Condition - What to Report (20 min, 10 cards)
+### L03 — Change of Condition - What to Report (20 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Change of Condition - What to Report | 23 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | What Is a Change of Condition? | 23 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02B_DELIVERY | delivery | What Is a Change of Condition? | 48 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02C_DELIVERY | delivery | What Is a Change of Condition? | 18 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02D_DELIVERY | delivery | What Is a Change of Condition? | 43 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02E_DELIVERY | delivery | How to Report a Change of Condition | 36 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
-| C02F_DELIVERY | delivery | How to Report a Change of Condition | 36 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
-| C02G_DELIVERY | delivery | How to Report a Change of Condition | 49 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
+| C02A_DELIVERY | delivery | What Is a Change of Condition? | 70 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
+| C02B_DELIVERY | delivery | What Is a Change of Condition? | 21 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
+| C02C_DELIVERY | delivery | How to Report a Change of Condition | 49 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
+| C02D_DELIVERY | delivery | How to Report a Change of Condition | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
 | C03_CHALLENGE | challenge | Change of Condition - What to Report Challenge | 35 | NATP Module 15 (Observation and Charting) Objective 5 | None identified |
 | C04A_DEBRIEF | debrief | Change of Condition - What to Report - Challenge Debrief | 51 | NATP Module 15 (Observation and Charting) Objective 5 | None identified |
 
-### L04 — CNA Scope of Practice (15 min, 9 cards)
+### L04 — CNA Scope of Practice (15 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | CNA Scope of Practice | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | What CNAs CAN Do | 42 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.1 | None identified |
-| C02B_DELIVERY | delivery | What CNAs CANNOT Do | 38 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.2 | None identified |
-| C02C_DELIVERY | delivery | What CNAs CANNOT Do | 19 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.2 | None identified |
-| C02D_DELIVERY | delivery | Responding to Out-of-Scope Requests | 48 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
-| C02E_DELIVERY | delivery | Responding to Out-of-Scope Requests | 33 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
-| C02F_DELIVERY | delivery | Responding to Out-of-Scope Requests | 20 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
+| C02A_DELIVERY | delivery | What CNAs CAN Do | 35 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.1 | None identified |
+| C02B_DELIVERY | delivery | What CNAs CANNOT Do | 48 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.2 | None identified |
+| C02C_DELIVERY | delivery | Responding to Out-of-Scope Requests | 39 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
+| C02D_DELIVERY | delivery | Responding to Out-of-Scope Requests | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
 | C03_CHALLENGE | challenge | CNA Scope of Practice Challenge | 25 | NATP Module 13 (Long Term Care Residents) Objective 1 | None identified |
 | C04A_DEBRIEF | debrief | CNA Scope of Practice - Challenge Debrief | 48 | NATP Module 13 (Long Term Care Residents) Objective 1 | None identified |
 
-### L05 — Professionalism, Ethics, and Delegation (10 min, 7 cards)
+### L05 — Professionalism, Ethics, and Delegation (10 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Professionalism, Ethics, and Delegation | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Professional Behavior | 46 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.1 | None identified |
-| C02B_DELIVERY | delivery | Delegation | 45 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
-| C02C_DELIVERY | delivery | Delegation | 26 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
-| C02D_DELIVERY | delivery | Delegation | 34 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
+| C02A_DELIVERY | delivery | Professional Behavior | 39 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.1 | None identified |
+| C02B_DELIVERY | delivery | Delegation | 64 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
+| C02C_DELIVERY | delivery | Delegation | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
 | C03_CHALLENGE | challenge | Professionalism, Ethics, and Delegation Challenge | 28 | NATP Module 15 (Observation and Charting) | None identified |
 | C04A_DEBRIEF | debrief | Professionalism, Ethics, and Delegation - Challenge Debrief | 45 | NATP Module 15 (Observation and Charting) | None identified |
 

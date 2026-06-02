@@ -77,6 +77,20 @@ FORBIDDEN_LEARNER_PHRASES = [
     "rationale_internal",
 ]
 
+# Source-document scaffolding and embedded check-activity answer-key phrases that
+# must never appear inside a learner-facing DELIVERY card. The source transformation
+# (author_delivery_from_source.py) strips these; this guardrail prevents regression.
+DELIVERY_SCAFFOLD_PHRASES = [
+    "On-Screen Text:",
+    "TTS/Transcript-Ready Text:",
+    "Pronunciation Notes:",
+    "Correct Answer:",
+    "Correct Feedback:",
+    "Incorrect Feedback",
+    "Feedback (all correct)",
+    "Feedback (any incorrect)",
+]
+
 # Internal-only fields that may carry scoring/answer data but must never be
 # placed inside a learner-facing text field.
 INTERNAL_ONLY_FIELDS = {"correct_id_internal", "rationale_internal"}
@@ -425,6 +439,34 @@ def run_guardrails(data: dict, metrics: dict) -> tuple[list[str], list[str]]:
             f"{len(leak_cards)} learner-facing card(s) still contain answer-key-style phrasing (Task 3 cleanup): "
             + ", ".join(f"{loc} ~ '{p}'" for loc, p in leak_cards[:8])
             + (" ..." if len(leak_cards) > 8 else "")
+        )
+
+    # Delivery cards must not leak source scaffolding or embedded check answer keys.
+    # Hard-fail for the source-rebuilt modules (M01-M06); surface remaining legacy
+    # modules (M00 orientation, M07 review/affidavit) as warnings for follow-up.
+    REBUILT_MODULES = {"M01", "M02", "M03", "M04", "M05", "M06"}
+    scaffold_legacy = []
+    for module, _l, card in iter_cards(data):
+        if card.get("card_type") != "delivery":
+            continue
+        blob = "\n".join(
+            str(card.get(f) or "") for f in ("learner_facing_content", "narration_script", "transcript_text")
+        )
+        hit = next((p for p in DELIVERY_SCAFFOLD_PHRASES if p in blob), None)
+        if not hit:
+            continue
+        if module.get("module_id") in REBUILT_MODULES:
+            hard.append(
+                f"Delivery card {card_location(card)} leaks source scaffolding / answer-key phrase '{hit}'."
+            )
+        else:
+            scaffold_legacy.append((card_location(card), hit))
+    if scaffold_legacy:
+        warn.append(
+            f"{len(scaffold_legacy)} legacy delivery card(s) (M00/M07, out of M02-M06 scope) still contain source "
+            f"scaffolding labels; flagged for a later source rebuild: "
+            + ", ".join(f"{loc} ~ '{p}'" for loc, p in scaffold_legacy[:6])
+            + (" ..." if len(scaffold_legacy) > 6 else "")
         )
 
     return hard, warn

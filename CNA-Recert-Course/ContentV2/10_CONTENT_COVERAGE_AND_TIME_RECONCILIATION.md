@@ -1,6 +1,6 @@
 # 10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION — Coverage & Time
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
 
 
 Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLLABUS_TABLE.md`). The 720-minute total is **not** recomputed from narration length or card count. Narration, reading/review, interaction, and assessment minutes are tracked **separately** and never replace the authoritative allocation. Optional Clinical Support and all assessment time are excluded.
@@ -11,11 +11,11 @@ Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLL
 |---|:--:|---:|---:|---:|---:|---:|---:|---:|---|
 | M00 | yes | 30 | 30 | 0 | 8.8 | 9.9 | 17.5 | 5 | authored |
 | M01 | yes | 90 | 90 | 0 | 19.5 | 21.7 | 21.0 | 15 | authored |
-| M02 | yes | 120 | 105 | 15 | 32.7 | 33.7 | 17.5 | 15 | authored-partial |
-| M03 | yes | 120 | 105 | 15 | 20.5 | 21.6 | 17.5 | 15 | source-repair |
-| M04 | yes | 120 | 105 | 15 | 31.4 | 32.4 | 17.5 | 15 | authored-partial |
-| M05 | yes | 120 | 105 | 15 | 28.6 | 29.4 | 17.5 | 15 | authored-partial |
-| M06 | yes | 90 | 80 | 10 | 25.0 | 25.9 | 17.5 | 15 | authored-partial |
+| M02 | yes | 120 | 105 | 15 | 22.0 | 23.8 | 17.5 | 15 | authored-partial |
+| M03 | yes | 120 | 105 | 15 | 16.9 | 18.3 | 17.5 | 15 | source-repair |
+| M04 | yes | 120 | 105 | 15 | 23.1 | 25.0 | 17.5 | 15 | authored-partial |
+| M05 | yes | 120 | 105 | 15 | 22.7 | 24.6 | 17.5 | 15 | authored-partial |
+| M06 | yes | 90 | 80 | 10 | 18.8 | 20.6 | 17.5 | 15 | authored-partial |
 | M07 | yes | 30 | 17 | 13 | 25.0 | 25.7 | 17.5 | 0 | authored-partial |
 
 **Required theory instructional minutes counted toward 720:** 720  (target 720)
@@ -26,7 +26,7 @@ Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLL
 
 **Optional Clinical Support counts toward 720:** False
 
-**Total authored narrated lesson minutes (descriptive only):** 191.55
+**Total authored narrated lesson minutes (descriptive only):** 156.82
 
 **Open content-depth gap (allocation minus authored lesson minutes):** 83 min
 
@@ -45,15 +45,15 @@ Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLL
 
 - **modules_count**: 8
 - **lessons_count**: 41
-- **cards_count**: 338
-- **narration_clip_count**: 338
+- **cards_count**: 260
+- **narration_clip_count**: 260
 - **required_theory_instructional_minutes_total**: 720
 - **module_assessment_minutes_excluded**: 95
 - **course_final_assessment_minutes_excluded**: 25
 - **content_depth_gap_minutes**: 83
-- **total_narration_minutes**: 191.55
+- **total_narration_minutes**: 156.82
 - **clips_over_75_seconds**: 0
-- **unique_app_location_count**: 445
+- **unique_app_location_count**: 367
 - **source_repair_flag_count**: 11
-- **sme_review_flag_count**: 134
-- **compliance_flag_count**: 338
+- **sme_review_flag_count**: 108
+- **compliance_flag_count**: 260

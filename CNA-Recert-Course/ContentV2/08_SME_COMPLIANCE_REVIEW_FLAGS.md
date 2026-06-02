@@ -1,6 +1,6 @@
 # 08_SME_COMPLIANCE_REVIEW_FLAGS — Open Review Flags
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-01T23:54:23+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
 
 
 ## Module-level flags
@@ -64,23 +64,12 @@
 | module.m03.lesson.l01.card.c02c_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l01.card.c02d_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l01.card.c02e_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02f_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02g_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02h_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02i_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02j_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02k_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02l_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l01.card.c02m_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l01.card.c03_challenge | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l01.card.c04a_debrief | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c01_overview | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c02a_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c02b_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c02c_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l02.card.c02d_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l02.card.c02e_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
-| module.m03.lesson.l02.card.c02f_delivery | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c03_challenge | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l02.card.c04a_debrief | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. |  |
 | module.m03.lesson.l03.card.c01_overview | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. | YES |
@@ -99,21 +88,12 @@
 | module.m05.lesson.l01.card.c02a_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l01.card.c02b_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l01.card.c02c_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l01.card.c02d_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l01.card.c02e_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l01.card.c02f_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l01.card.c02g_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l01.card.c02h_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l01.card.c03_challenge | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l01.card.c04a_debrief | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c01_overview | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c02a_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c02b_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c02c_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l02.card.c02d_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l02.card.c02e_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l02.card.c02f_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l02.card.c02g_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c03_challenge | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l02.card.c04a_debrief | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l03.card.c01_overview | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
@@ -122,9 +102,6 @@
 | module.m05.lesson.l03.card.c02c_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l03.card.c02d_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l03.card.c02e_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l03.card.c02f_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l03.card.c02g_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l03.card.c02h_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l03.card.c03_challenge | SME review required | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l03.card.c04a_debrief | SME review required | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l04.card.c01_overview | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
@@ -133,9 +110,6 @@
 | module.m05.lesson.l04.card.c02c_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l04.card.c02d_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l04.card.c02e_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l04.card.c02f_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l04.card.c02g_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
-| module.m05.lesson.l04.card.c02h_delivery | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l04.card.c03_challenge | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l04.card.c04a_debrief | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
 | module.m05.lesson.l05.card.c01_overview | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, not independent staging/treatment. |  |
