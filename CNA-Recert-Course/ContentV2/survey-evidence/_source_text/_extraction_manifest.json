@@ -1,0 +1,77 @@
+{
+  "source_dir": "CNA-Recert-Course/CNA_Modules",
+  "modules": [
+    {
+      "module": 10,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-10.pdf",
+      "pages": 46,
+      "chars": 61748,
+      "words": 9368,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-10.txt"
+    },
+    {
+      "module": 11,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-11.pdf",
+      "pages": 31,
+      "chars": 40828,
+      "words": 6110,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-11.txt"
+    },
+    {
+      "module": 12,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-12.pdf",
+      "pages": 23,
+      "chars": 31494,
+      "words": 4821,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-12.txt"
+    },
+    {
+      "module": 13,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-13.pdf",
+      "pages": 86,
+      "chars": 114189,
+      "words": 17231,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-13.txt"
+    },
+    {
+      "module": 14,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-14.pdf",
+      "pages": 27,
+      "chars": 39499,
+      "words": 5723,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-14.txt"
+    },
+    {
+      "module": 15,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-15.pdf",
+      "pages": 20,
+      "chars": 27836,
+      "words": 4252,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-15.txt"
+    },
+    {
+      "module": 16,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-16.pdf",
+      "pages": 18,
+      "chars": 25898,
+      "words": 4090,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-16.txt"
+    },
+    {
+      "module": 17,
+      "status": "OK",
+      "pdf": "cccco-na-model-curriculum-module-17.pdf",
+      "pages": 14,
+      "chars": 20987,
+      "words": 3089,
+      "out": "CNA-Recert-Course/ContentV2/survey-evidence/_source_text/module-17.txt"
+    }
+  ]
+}

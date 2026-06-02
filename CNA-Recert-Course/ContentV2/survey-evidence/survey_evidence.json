@@ -1,0 +1,2346 @@
+{
+  "disclaimer": "Evidence mapping only; does not claim or guarantee survey/audit approval.",
+  "source_hierarchy": [
+    "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-{10..17}.pdf (highest)",
+    "CNA-Recert-Course/Content (crosswalk/implementation)",
+    "CNA-Recert-Course/ContentV2/data/courseContentV2.json (runtime target)"
+  ],
+  "total_objectives": 72,
+  "status_counts": {
+    "Covered": 27,
+    "Assessed": 8,
+    "Partial": 18,
+    "Deferred": 8,
+    "Source Repair": 7,
+    "Out of Scope": 1,
+    "SME Review": 3
+  },
+  "source_repair_lessons": [
+    "M00/L00",
+    "M00/L01",
+    "M00/L02",
+    "M00/L03",
+    "M00/L04",
+    "M03/L03",
+    "M03/L04",
+    "M03/L05"
+  ],
+  "rows": [
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Vital-signs terminology taught in M05/L04."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 2,
+      "objective": "Describe what is meant by vital signs, their purpose, and observations made while performing the procedures",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + challenge/debrief",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Meaning/purpose of vital signs and observations taught and exercised in M05/L04 challenge."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 3,
+      "objective": "Discuss the use of temperature as an indicator of body function",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Temperature as an indicator of body function."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 4,
+      "objective": "Describe nursing measures to raise and lower the temperature of the body",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Comfort measures to raise/lower temperature touched; nursing-measure depth limited (expand from CCCCO M10)."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 5,
+      "objective": "Describe the circulatory system as it relates to pulse, and identify the pulse sites",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Pulse sites covered; circulatory-system anatomy depth limited (CCCCO M10 / M13 A&P)."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 6,
+      "objective": "Describe factors that increase and decrease pulse, and the qualities to observe in taking a pulse",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Factors affecting pulse and pulse qualities."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 7,
+      "objective": "Define and describe respiration and factors that affect respiratory rate",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Respiration and factors affecting respiratory rate."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 8,
+      "objective": "Describe observations to be made when measuring respirations",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Observations when measuring respirations."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 9,
+      "objective": "Describe abnormal breathing patterns",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Abnormal breathing patterns introduced; pattern catalog (Cheyne-Stokes, etc.) thin (expand from CCCCO M10)."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 10,
+      "objective": "Describe the process for taking TPR as a combined procedure",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Deferred to clinical (hands-on)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "TPR as a combined hands-on procedure; theory introduces, performance is a clinical skill."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 11,
+      "objective": "Describe what happens in the circulatory system to produce blood pressure",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "How blood pressure is produced introduced; physiology depth limited."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 12,
+      "objective": "Identify factors that increase or decrease blood pressure",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Factors increasing/decreasing blood pressure."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 13,
+      "objective": "Identify parts of the blood pressure equipment",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Deferred to clinical (hands-on)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Identifying/handling BP equipment parts is a hands-on clinical competency."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 14,
+      "objective": "Discuss the procedure for taking a blood pressure reading",
+      "content_v2_refs": [
+        "M05/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Deferred to clinical (hands-on)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Performing a BP reading is a graded clinical skill; theory introduces the procedure."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 15,
+      "objective": "Discuss observation and reporting of patient’s/resident’s pain",
+      "content_v2_refs": [
+        "M05/L04",
+        "M05/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L04",
+          "title": "Vital Signs - Measurement and Reporting",
+          "app_location_prefix": "module.m05.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M05/L05",
+          "title": "Monitoring, Documentation, and Reporting",
+          "app_location_prefix": "module.m05.lesson.l05",
+          "under_depth": false,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Pain observation and reporting covered in M05/L04-L05."
+    },
+    {
+      "cccco_module": 10,
+      "cccco_module_title": "Module 10: Vital Signs",
+      "objective_n": 16,
+      "objective": "Record vital signs on chart, graph, and Nursing Assistant notes",
+      "content_v2_refs": [
+        "M05/L05",
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L05",
+          "title": "Monitoring, Documentation, and Reporting",
+          "app_location_prefix": "module.m05.lesson.l05",
+          "under_depth": false,
+          "placeholder": false
+        },
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + module check",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check",
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash",
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Recording vital signs on chart/graph/notes; documentation taught and assessed in M06."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Nutrition terminology in M05/L01."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 2,
+      "objective": "Discuss the body’s need for food and fluids",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Body's need for food and fluids."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 3,
+      "objective": "List common nutrients and their food sources",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Common nutrients and food sources introduced; per-nutrient breadth limited (expand from CCCCO M11)."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 4,
+      "objective": "Describe the My Pyramid food guidance system",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "SME Review",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "CCCCO cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 5,
+      "objective": "Describe the vegan basic four food groups",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Vegan/vegetarian dietary framing thin; expand from CCCCO M11."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 6,
+      "objective": "Discuss nutritional and fluid needs of the elderly",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Nutrition/fluid needs of the elderly."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 7,
+      "objective": "Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+      "content_v2_refs": [
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + module check",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Therapeutic diets and NA responsibilities taught and assessed."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 8,
+      "objective": "Describe proper techniques for feeding patients/residents",
+      "content_v2_refs": [
+        "M05/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L02",
+          "title": "Feeding Assistance and Aspiration Prevention",
+          "app_location_prefix": "module.m05.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Theory delivery + deferred clinical",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Feeding techniques taught; safe hands-on feeding/positioning is a clinical skill (aspiration prevention covered in M05/L02)."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 9,
+      "objective": "Discuss cultural and religious influences on dietary practices",
+      "content_v2_refs": [
+        "M05/L01",
+        "M03/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M03/L03",
+          "title": "Cultural Sensitivity and Spiritual Respect",
+          "app_location_prefix": "module.m03.lesson.l03",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check",
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash",
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Cultural/religious dietary influences; ties to M03/L03 (cultural respect) which is a source-repair placeholder."
+    },
+    {
+      "cccco_module": 11,
+      "cccco_module_title": "Module 11: Nutrition",
+      "objective_n": 10,
+      "objective": "Identify alternative ways to administer nutrition",
+      "content_v2_refs": [
+        "M05/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L02",
+          "title": "Feeding Assistance and Aspiration Prevention",
+          "app_location_prefix": "module.m05.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Alternative nutrition (e.g., tube feeding) at NA observation/scope level only; NAs do not administer."
+    },
+    {
+      "cccco_module": 12,
+      "cccco_module_title": "Module 12: Emergency Procedures",
+      "objective_n": 1,
+      "objective": "Define key terminology.",
+      "content_v2_refs": [
+        "M04/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L05",
+          "title": "Emergency Procedures - Fire, Choking, Disaster",
+          "app_location_prefix": "module.m04.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Emergency terminology in M04/L05."
+    },
+    {
+      "cccco_module": 12,
+      "cccco_module_title": "Module 12: Emergency Procedures",
+      "objective_n": 2,
+      "objective": "Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant’s role and responsibility in preventing and/or responding.",
+      "content_v2_refs": [
+        "M04/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L05",
+          "title": "Emergency Procedures - Fire, Choking, Disaster",
+          "app_location_prefix": "module.m04.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + challenge/debrief",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Signs/symptoms of distress and NA prevent/respond role taught and exercised."
+    },
+    {
+      "cccco_module": 12,
+      "cccco_module_title": "Module 12: Emergency Procedures",
+      "objective_n": 3,
+      "objective": "Describe the immediate interventions in a medical emergency.",
+      "content_v2_refs": [
+        "M04/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L05",
+          "title": "Emergency Procedures - Fire, Choking, Disaster",
+          "app_location_prefix": "module.m04.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12)."
+    },
+    {
+      "cccco_module": 12,
+      "cccco_module_title": "Module 12: Emergency Procedures",
+      "objective_n": 4,
+      "objective": "List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.",
+      "content_v2_refs": [
+        "M04/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L05",
+          "title": "Emergency Procedures - Fire, Choking, Disaster",
+          "app_location_prefix": "module.m04.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Theory delivery + deferred clinical",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill."
+    },
+    {
+      "cccco_module": 12,
+      "cccco_module_title": "Module 12: Emergency Procedures",
+      "objective_n": 5,
+      "objective": "Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment",
+      "content_v2_refs": [
+        "M04/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L05",
+          "title": "Emergency Procedures - Fire, Choking, Disaster",
+          "app_location_prefix": "module.m04.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Common LTC emergency codes. (CCCCO notes may be taught with Module 4: Safe Environment.)"
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M03/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "LTC-resident terminology in M03/L01."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 2,
+      "objective": "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+      "content_v2_refs": [
+        "M03/L01",
+        "M03/L03",
+        "M02/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M03/L03",
+          "title": "Cultural Sensitivity and Spiritual Respect",
+          "app_location_prefix": "module.m03.lesson.l03",
+          "under_depth": true,
+          "placeholder": true
+        },
+        {
+          "ref": "M02/L01",
+          "title": "Resident Rights Foundation",
+          "app_location_prefix": "module.m02.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check",
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash",
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Basic human needs (environmental/psychological/social/recreational/spiritual); recreational/spiritual depth thin and partly in M03/L03 placeholder."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 3,
+      "objective": "Describe common community resources to meet the needs of the elderly",
+      "content_v2_refs": [
+        "M03/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "SME Review",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope)."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 4,
+      "objective": "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+      "content_v2_refs": [
+        "M03/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L05",
+          "title": "Trauma-Informed Care and De-escalation",
+          "app_location_prefix": "module.m03.lesson.l05",
+          "under_depth": false,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "ok",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Special needs (developmental/mental disorders: ID, CP, epilepsy, Parkinson's, mental illness) map to M03/L05, currently a Source Repair placeholder."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 5,
+      "objective": "Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+      "content_v2_refs": [
+        "M03/L01",
+        "M03/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M03/L02",
+          "title": "Communication Strategies for Cognitive Impairment",
+          "app_location_prefix": "module.m03.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Alzheimer's/related dementias are the core of M03/L01-L02 (authored)."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 6,
+      "objective": "Describe the body’s basic organization and composition",
+      "content_v2_refs": [
+        "M05/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M05/L03",
+          "title": "Skin Integrity and Pressure Injury Prevention",
+          "app_location_prefix": "module.m05.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Out of Scope",
+      "evidence_type": "Disposition",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Body's basic organization/composition (intro A&P). CCCCO 'B' anatomy minimum is clinical-foundational; recert theory addresses applied A&P only (skin in M05/L03). SME to confirm."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 7,
+      "objective": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+      "content_v2_refs": [
+        "M04/L01",
+        "M04/L03",
+        "M05/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L01",
+          "title": "Body Mechanics and Injury Prevention",
+          "app_location_prefix": "module.m04.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M05/L03",
+          "title": "Skin Integrity and Pressure Injury Prevention",
+          "app_location_prefix": "module.m05.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash",
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Body systems / immobility complications applied in M04 (body mechanics, ROM) and M05/L03 (skin); systematic A&P not the recert-theory focus."
+    },
+    {
+      "cccco_module": 13,
+      "cccco_module_title": "Module 13: Long Term Care Resident",
+      "objective_n": 8,
+      "objective": "Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/ICF providers need to complete A1 Special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness (2 hours); A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours); and B Introduction to anatomy and physiology (B-F minimum 1 hour). **Non-SNF/ICF providers may complete A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours), or two (2) hours of training from another module in order to meet the sixty (60) hours minimum theory training requirement and B Introduction to anatomy and physiology (B-F minimum 1 hour).",
+      "content_v2_refs": [
+        "M03/L01",
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check",
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash",
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Restorative-care terminology in M04/L03."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 2,
+      "objective": "Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential",
+      "content_v2_refs": [
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Restorative care promotes independence/potential."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 3,
+      "objective": "State goals of restorative care that promote independence and patient/resident potential",
+      "content_v2_refs": [
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Goals of restorative care."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 4,
+      "objective": "Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team",
+      "content_v2_refs": [
+        "M04/L03",
+        "M06/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M06/L05",
+          "title": "Professionalism, Ethics, and Delegation",
+          "app_location_prefix": "module.m06.lesson.l05",
+          "under_depth": false,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash",
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Rehabilitation team and NA role; interdisciplinary-team depth limited (also M06/L05 delegation)."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 5,
+      "objective": "List the responsibilities of the Nurse Assistant in promoting patient/resident self-care",
+      "content_v2_refs": [
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "NA responsibilities promoting self-care."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 6,
+      "objective": "List activities that make up Activities of Daily Living (ADLs)",
+      "content_v2_refs": [
+        "M04/L03",
+        "M05/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M05/L01",
+          "title": "Nutrition and Hydration",
+          "app_location_prefix": "module.m05.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash",
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Activities of Daily Living (ADLs)."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 7,
+      "objective": "List common comfort and adaptive devices and explain the purposes of each",
+      "content_v2_refs": [
+        "M04/L02",
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L02",
+          "title": "Safe Transfers and Ambulation",
+          "app_location_prefix": "module.m04.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Comfort/adaptive devices introduced; device catalog/purpose breadth limited."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 8,
+      "objective": "Identify steps to prevent complications from inactivity",
+      "content_v2_refs": [
+        "M04/L03",
+        "M05/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M05/L03",
+          "title": "Skin Integrity and Pressure Injury Prevention",
+          "app_location_prefix": "module.m05.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
+        "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash",
+        "module.m05.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Preventing complications of inactivity/immobility (ROM, skin)."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 9,
+      "objective": "Describe range-of-motion exercises (ROM)",
+      "content_v2_refs": [
+        "M04/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Theory delivery + deferred clinical",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "ROM exercises taught; performing ROM is a hands-on clinical skill."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 10,
+      "objective": "Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment",
+      "content_v2_refs": [
+        "M04/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M04/L02",
+          "title": "Safe Transfers and Ambulation",
+          "app_location_prefix": "module.m04.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m04.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14)."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 11,
+      "objective": "Discuss relationship between patient’s/resident’s self-esteem and family involvement in care",
+      "content_v2_refs": [
+        "M03/L01",
+        "M06/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L01",
+          "title": "Understanding Dementia and Cognitive Conditions",
+          "app_location_prefix": "module.m03.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M06/L05",
+          "title": "Professionalism, Ethics, and Delegation",
+          "app_location_prefix": "module.m06.lesson.l05",
+          "under_depth": false,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check",
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash",
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Self-esteem and family involvement in care; psychosocial depth thin."
+    },
+    {
+      "cccco_module": 14,
+      "cccco_module_title": "Module 14- Rehabilitative Nursing",
+      "objective_n": 12,
+      "objective": "Discuss the process of documentation and the Nurse Assistant role in care plan meeting",
+      "content_v2_refs": [
+        "M06/L02",
+        "M06/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M06/L05",
+          "title": "Professionalism, Ethics, and Delegation",
+          "app_location_prefix": "module.m06.lesson.l05",
+          "under_depth": false,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Documentation and NA role in the care-plan meeting."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M06/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L01",
+          "title": "Observation - Objective vs. Subjective",
+          "app_location_prefix": "module.m06.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Observation/charting terminology in M06/L01."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 2,
+      "objective": "Identify word elements used in medical terms",
+      "content_v2_refs": [
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "SME Review",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Medical word-elements (prefix/root/suffix) not emphasized; SME to confirm necessity for recert theory."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 3,
+      "objective": "Identify medical terminology and abbreviations commonly used in medical facilities",
+      "content_v2_refs": [
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Common medical terms/abbreviations introduced via documentation standards; standardized-abbreviation list thin."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 4,
+      "objective": "Define observation and list the senses used to observe a patient/resident.",
+      "content_v2_refs": [
+        "M06/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L01",
+          "title": "Observation - Objective vs. Subjective",
+          "app_location_prefix": "module.m06.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Definition of observation and the senses used."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 5,
+      "objective": "Describe objective and subjective observations",
+      "content_v2_refs": [
+        "M06/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L01",
+          "title": "Observation - Objective vs. Subjective",
+          "app_location_prefix": "module.m06.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + challenge/debrief",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Objective vs subjective observation taught and exercised (core M06/L01)."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 6,
+      "objective": "List types of charting documents and the use for each",
+      "content_v2_refs": [
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Types of charting documents and their use."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 7,
+      "objective": "Explain how to accurately complete ADL assessment for MDS",
+      "content_v2_refs": [
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Disposition / facility-specific",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "ADL assessment for the MDS is facility/EHR-specific; theory explains purpose, completion is on-the-job. SME to confirm."
+    },
+    {
+      "cccco_module": 15,
+      "cccco_module_title": "Module 15: Observation and Charting",
+      "objective_n": 8,
+      "objective": "Discuss procedures to use when recording on a patient’s/resident’s chart",
+      "content_v2_refs": [
+        "M06/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M06/L02",
+          "title": "Documentation Standards",
+          "app_location_prefix": "module.m06.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m06.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Procedures for recording on the chart (incl. correction/PHI rules in M06)."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Death/dying terminology maps to M03/L04, currently a Source Repair placeholder."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 2,
+      "objective": "Describe the five stages of the grieving process according to Dr. Kubler-Ross",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Kubler-Ross five stages of grief: M03/L04 placeholder; author from CCCCO M16."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 3,
+      "objective": "Describe approaches to meet common emotional and spiritual needs of terminally ill patients/residents and their families",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Emotional/spiritual needs of the terminally ill and families: M03/L04 placeholder."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 4,
+      "objective": "List the rights of the dying patient/resident",
+      "content_v2_refs": [
+        "M03/L04",
+        "M02/L01"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        },
+        {
+          "ref": "M02/L01",
+          "title": "Resident Rights Foundation",
+          "app_location_prefix": "module.m02.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Partial",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check",
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash",
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Rights of the dying patient/resident overlap resident-rights (M02/L01, authored); dying-specific framing in M03/L04 placeholder."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 5,
+      "objective": "Differentiate between common signs of approaching death and biological death",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Signs of approaching death vs biological death: M03/L04 placeholder; author from CCCCO M16."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 6,
+      "objective": "Identify care and comfort measures for dying patients/residents",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Care/comfort measures for dying patients/residents: M03/L04 placeholder."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 7,
+      "objective": "Identify the philosophy and goals of hospice and the Nurse Assistant’s role when the patient/resident is cared for by a licensed hospice nurse",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Source Repair",
+      "evidence_type": "Placeholder pending SME",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Hospice philosophy/goals and NA role: M03/L04 placeholder; author from CCCCO M16."
+    },
+    {
+      "cccco_module": 16,
+      "cccco_module_title": "Module 16: Death and Dying",
+      "objective_n": 8,
+      "objective": "Describe procedures and responsibilities for postmortem care",
+      "content_v2_refs": [
+        "M03/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M03/L04",
+          "title": "End-of-Life Care, Grief, and Hospice",
+          "app_location_prefix": "module.m03.lesson.l04",
+          "under_depth": true,
+          "placeholder": true
+        }
+      ],
+      "coverage_status": "Deferred",
+      "evidence_type": "Placeholder + deferred clinical",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": true,
+      "assessed_module_checks": [
+        "Dementia, Communication, and Respectful Care Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m03.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Postmortem care is a hands-on clinical procedure; M03/L04 theory placeholder pending SME."
+    },
+    {
+      "cccco_module": 17,
+      "cccco_module_title": "Module 17: Patient/Resident Abuse",
+      "objective_n": 1,
+      "objective": "Define key terminology",
+      "content_v2_refs": [
+        "M02/L01",
+        "M02/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M02/L01",
+          "title": "Resident Rights Foundation",
+          "app_location_prefix": "module.m02.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M02/L02",
+          "title": "Types of Abuse and Neglect",
+          "app_location_prefix": "module.m02.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery (key terms)",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Abuse terminology in M02/L01-L02."
+    },
+    {
+      "cccco_module": 17,
+      "cccco_module_title": "Module 17: Patient/Resident Abuse",
+      "objective_n": 2,
+      "objective": "Identify and discuss types of elder abuse",
+      "content_v2_refs": [
+        "M02/L02"
+      ],
+      "ref_details": [
+        {
+          "ref": "M02/L02",
+          "title": "Types of Abuse and Neglect",
+          "app_location_prefix": "module.m02.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + challenge/debrief",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Types of elder abuse taught and exercised (core M02/L02)."
+    },
+    {
+      "cccco_module": 17,
+      "cccco_module_title": "Module 17: Patient/Resident Abuse",
+      "objective_n": 3,
+      "objective": "Discuss the issues related to elder abuse",
+      "content_v2_refs": [
+        "M02/L03"
+      ],
+      "ref_details": [
+        {
+          "ref": "M02/L03",
+          "title": "Signs, Symptoms, and Evidence of Abuse",
+          "app_location_prefix": "module.m02.lesson.l03",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Covered",
+      "evidence_type": "Theory delivery",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "Issues related to elder abuse (signs/symptoms/evidence in M02/L03)."
+    },
+    {
+      "cccco_module": 17,
+      "cccco_module_title": "Module 17: Patient/Resident Abuse",
+      "objective_n": 4,
+      "objective": "Explain the Nurse Assistant role in preventing elder abuse",
+      "content_v2_refs": [
+        "M02/L05"
+      ],
+      "ref_details": [
+        {
+          "ref": "M02/L05",
+          "title": "Prevention, Boundaries, and Safety",
+          "app_location_prefix": "module.m02.lesson.l05",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + module check",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "NA role in preventing abuse (boundaries/safety, M02/L05) taught and assessed."
+    },
+    {
+      "cccco_module": 17,
+      "cccco_module_title": "Module 17: Patient/Resident Abuse",
+      "objective_n": 5,
+      "objective": "Describe the Nurse Assistant role in reporting elder abuse",
+      "content_v2_refs": [
+        "M02/L04"
+      ],
+      "ref_details": [
+        {
+          "ref": "M02/L04",
+          "title": "Mandated Reporter Obligations",
+          "app_location_prefix": "module.m02.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
+        }
+      ],
+      "coverage_status": "Assessed",
+      "evidence_type": "Theory delivery + module check",
+      "depth_status": "under-depth",
+      "source_repair_placeholder": false,
+      "assessed_module_checks": [
+        "Resident Rights, Abuse Prevention, and Boundaries Knowledge Check"
+      ],
+      "assessed_module_locations": [
+        "module.m02.assessment.a00_splash"
+      ],
+      "final_exam_pool": true,
+      "note": "NA role in reporting abuse / mandated-reporter duties (M02/L04) taught and assessed."
+    }
+  ]
+}
