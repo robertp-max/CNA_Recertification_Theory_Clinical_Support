@@ -1,6 +1,6 @@
 # 07_MEDIA_PROMPT_PLACEHOLDERS — Per-Card Media Placeholders
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T01:57:05+00:00. Do not hand-edit.
 
 
 No media assets are generated for the MVP. Every card carries a safe 16:9 placeholder with alt text and a PHI-safety note. No real charts, facility names, patient identifiers, gore, or unsafe actions.

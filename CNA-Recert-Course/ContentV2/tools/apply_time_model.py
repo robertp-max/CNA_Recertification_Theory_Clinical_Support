@@ -17,10 +17,19 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from audit_time_depth import card_minutes as estimate_card_minutes  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[3]
 CANON = ROOT / "CNA-Recert-Course" / "ContentV2" / "data" / "courseContentV2.json"
+
+# A lesson is flagged under-depth when its honest estimated active-learning time is
+# below this fraction of its displayed minutes (matches audit_time_depth thresholds).
+UNDER_DEPTH_FRACTION = 0.70
+MODULE_UNDER_DEPTH_FRACTION = 0.75
 
 SYLLABUS_BASIS = "CNA-Recert-Course/Content/02_THEORY_SYLLABUS_TABLE.md (required theory allocation)"
 
@@ -61,17 +70,20 @@ def card_component_minutes(card: dict) -> tuple[float, float, float]:
     return narration, reading, interaction
 
 
-def apply_card_time(card: dict, counts_720: bool, gate: bool, status: str) -> tuple[float, float, float]:
+def apply_card_time(card: dict, counts_720: bool, gate: bool, status: str) -> tuple[float, float, float, float]:
     n, rd, it = card_component_minutes(card)
+    # Honest active-learning estimate (no double-count of identical narration/reading);
+    # single source of truth shared with audit_time_depth.py.
+    honest_active = float(estimate_card_minutes(card)["active"])
     card["estimated_narration_minutes"] = r2(n)
     card["estimated_reading_minutes"] = r2(rd)
     card["estimated_interaction_minutes"] = r2(it)
-    card["estimated_active_learning_minutes"] = r2(n + rd + it)
+    card["estimated_active_learning_minutes"] = r2(honest_active)
     card["counts_toward_720_instructional_minutes"] = bool(counts_720)
     card["counts_toward_certificate_gate"] = bool(gate)
     card["counts_toward_optional_clinical_support"] = False
     card["time_model_status"] = status
-    return n, rd, it
+    return n, rd, it, honest_active
 
 
 def main() -> int:
@@ -86,61 +98,87 @@ def main() -> int:
         gate = True                                       # all required theory gates the certificate
         is_repair = (module.get("status") == "source-repair")
 
-        mod_narr = mod_read = mod_int = 0.0
+        mod_narr = mod_read = mod_int = mod_active = 0.0
         lesson_allocated = 0
         for lesson in module.get("lessons", []):
-            l_narr = l_read = l_int = 0.0
+            l_narr = l_read = l_int = l_active = 0.0
             for card in lesson.get("cards", []):
                 c_status = "source-repair" if "source repair" in (
                     (card.get("display_title", "") + card.get("learner_facing_content", "")).lower()
                 ) else "modeled"
-                n, rd, it = apply_card_time(card, counts_720, gate, c_status)
-                l_narr += n; l_read += rd; l_int += it
+                n, rd, it, active = apply_card_time(card, counts_720, gate, c_status)
+                l_narr += n; l_read += rd; l_int += it; l_active += active
             lesson_min = lesson.get("estimated_minutes", 0) or 0
             lesson_allocated += lesson_min
+            l_gap = max(0.0, lesson_min - l_active)
+            l_under = bool(lesson_min > 0 and l_active < UNDER_DEPTH_FRACTION * lesson_min)
             lesson["instructional_minutes"] = lesson_min
             lesson["estimated_narration_minutes"] = r1(l_narr)
             lesson["estimated_reading_minutes"] = r1(l_read)
             lesson["estimated_interaction_minutes"] = r1(l_int)
-            lesson["estimated_active_learning_minutes"] = r1(l_narr + l_read + l_int)
+            # Honest, no-double-count active-learning estimate (shared with audit_time_depth.py).
+            lesson["estimated_active_learning_minutes"] = r1(l_active)
+            lesson["content_depth_gap_minutes"] = r1(l_gap)
+            lesson["under_depth"] = l_under
             lesson["estimated_assessment_minutes"] = 0
             lesson["assessment_minutes_excluded_from_instructional_total"] = True
             lesson["counts_toward_720_instructional_minutes"] = counts_720
             lesson["counts_toward_certificate_gate"] = gate
             lesson["counts_toward_optional_clinical_support"] = False
             lesson["source_time_basis"] = SYLLABUS_BASIS
-            lesson["time_model_status"] = "source-repair" if is_repair else "modeled"
-            lesson["time_model_notes"] = (
-                f"Lesson allocation {lesson_min} min (ContentV1). Narration {r1(l_narr)} min, reading {r1(l_read)} min, "
-                f"interaction {r1(l_int)} min are descriptive components tracked separately; narration is NOT the full lesson time."
+            lesson["time_model_status"] = (
+                "source-repair" if is_repair else ("under-depth" if l_under else "modeled")
             )
-            mod_narr += l_narr; mod_read += l_read; mod_int += l_int
+            lesson["time_model_notes"] = (
+                f"Lesson allocation {lesson_min} min (ContentV1). Honest active-learning estimate {r1(l_active)} min "
+                f"(narration {r1(l_narr)} / reading {r1(l_read)} / interaction {r1(l_int)} min, identical narration+reading "
+                f"NOT double-counted). "
+                + (
+                    f"UNDER-DEPTH: estimated active learning is below {int(UNDER_DEPTH_FRACTION*100)}% of the allocation "
+                    f"(gap {r1(l_gap)} min); close only from approved source, do not pad."
+                    if l_under else
+                    "Narration is NOT treated as the full lesson time."
+                )
+            )
+            mod_narr += l_narr; mod_read += l_read; mod_int += l_int; mod_active += l_active
 
         ma = data.get("assessments", {}).get("module_assessments", {}).get(mid, {})
         mod_assessment_min = ma.get("estimated_minutes", 0) or 0
         gap = alloc - lesson_allocated
 
+        mod_gap = max(0.0, alloc - mod_active)
+        mod_under = bool(alloc > 0 and mod_active < MODULE_UNDER_DEPTH_FRACTION * alloc)
         module["instructional_minutes"] = alloc
-        module["estimated_active_learning_minutes"] = r1(mod_narr + mod_read + mod_int)
+        module["estimated_active_learning_minutes"] = r1(mod_active)
         module["estimated_narration_minutes"] = r1(mod_narr)
         module["estimated_reading_minutes"] = r1(mod_read)
         module["estimated_interaction_minutes"] = r1(mod_int)
         module["estimated_assessment_minutes"] = mod_assessment_min
         module["assessment_minutes_excluded_from_instructional_total"] = True
+        module["content_depth_gap_minutes"] = r1(mod_gap)
+        module["under_depth"] = mod_under
         module["counts_toward_720_instructional_minutes"] = counts_720
         module["counts_toward_certificate_gate"] = gate
         module["counts_toward_optional_clinical_support"] = False
         module["source_time_basis"] = SYLLABUS_BASIS
         if is_repair:
             module["time_model_status"] = "source-repair"
+        elif mod_under:
+            module["time_model_status"] = "under-depth"
         elif gap > 0 or mod_narr < 1:
             module["time_model_status"] = "authored-partial"
         else:
             module["time_model_status"] = "authored"
         notes = (
             f"Instructional allocation {alloc} min inherited from ContentV1 syllabus (not recomputed from narration). "
-            f"Lessons currently allocate {lesson_allocated} min."
+            f"Lessons currently allocate {lesson_allocated} min. Honest active-learning estimate {r1(mod_active)} min "
+            f"(~{int(round(100*mod_active/alloc)) if alloc else 0}% of allocation)."
         )
+        if mod_under:
+            notes += (
+                f" UNDER-DEPTH: estimated active learning is below {int(MODULE_UNDER_DEPTH_FRACTION*100)}% of the allocation "
+                f"(depth gap {r1(mod_gap)} min); expand only from approved source material, do not pad. "
+            )
         if gap > 0:
             notes += (
                 f" CONTENT-DEPTH GAP: {gap} min of the {alloc}-min allocation is not yet covered by authored lesson cards; "

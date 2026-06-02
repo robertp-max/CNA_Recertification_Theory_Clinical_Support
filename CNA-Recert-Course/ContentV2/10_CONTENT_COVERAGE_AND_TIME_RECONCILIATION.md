@@ -1,6 +1,6 @@
 # 10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION — Coverage & Time
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T01:57:05+00:00. Do not hand-edit.
 
 
 Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLLABUS_TABLE.md`). The 720-minute total is **not** recomputed from narration length or card count. Narration, reading/review, interaction, and assessment minutes are tracked **separately** and never replace the authoritative allocation. Optional Clinical Support and all assessment time are excluded.
@@ -10,12 +10,12 @@ Instructional minutes are inherited from the ContentV1 syllabus (`02_THEORY_SYLL
 | Module | Counts→720 | Instructional min | Lesson-allocated min | Depth gap | Narration min | Reading min | Interaction min | Assessment min (excl.) | Status |
 |---|:--:|---:|---:|---:|---:|---:|---:|---:|---|
 | M00 | yes | 30 | 30 | 0 | 8.8 | 9.9 | 17.5 | 5 | authored |
-| M01 | yes | 90 | 90 | 0 | 19.5 | 21.7 | 21.0 | 15 | authored |
-| M02 | yes | 120 | 105 | 15 | 22.0 | 23.8 | 17.5 | 15 | authored-partial |
+| M01 | yes | 90 | 90 | 0 | 19.5 | 21.7 | 21.0 | 15 | under-depth |
+| M02 | yes | 120 | 105 | 15 | 22.0 | 23.8 | 17.5 | 15 | under-depth |
 | M03 | yes | 120 | 105 | 15 | 16.9 | 18.3 | 17.5 | 15 | source-repair |
-| M04 | yes | 120 | 105 | 15 | 23.1 | 25.0 | 17.5 | 15 | authored-partial |
-| M05 | yes | 120 | 105 | 15 | 22.7 | 24.6 | 17.5 | 15 | authored-partial |
-| M06 | yes | 90 | 80 | 10 | 18.8 | 20.6 | 17.5 | 15 | authored-partial |
+| M04 | yes | 120 | 105 | 15 | 23.1 | 25.0 | 17.5 | 15 | under-depth |
+| M05 | yes | 120 | 105 | 15 | 22.7 | 24.6 | 17.5 | 15 | under-depth |
+| M06 | yes | 90 | 80 | 10 | 18.8 | 20.6 | 17.5 | 15 | under-depth |
 | M07 | yes | 30 | 17 | 13 | 25.0 | 25.7 | 17.5 | 0 | authored-partial |
 
 **Required theory instructional minutes counted toward 720:** 720  (target 720)

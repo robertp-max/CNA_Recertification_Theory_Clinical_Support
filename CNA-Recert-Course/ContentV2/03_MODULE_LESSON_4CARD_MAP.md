@@ -1,6 +1,6 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T00:31:57+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T01:57:05+00:00. Do not hand-edit.
 
 
 ## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
