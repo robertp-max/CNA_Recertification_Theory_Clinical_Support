@@ -7,9 +7,9 @@
   ],
   "total_objectives": 72,
   "status_counts": {
-    "Covered": 27,
+    "Covered": 35,
     "Assessed": 8,
-    "Partial": 18,
+    "Partial": 10,
     "Deferred": 8,
     "Source Repair": 7,
     "Out of Scope": 1,
@@ -39,13 +39,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery (key terms)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -69,13 +69,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Assessed",
       "evidence_type": "Theory delivery + challenge/debrief",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -99,13 +99,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -129,13 +129,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -144,7 +144,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Comfort measures to raise/lower temperature touched; nursing-measure depth limited (expand from CCCCO M10)."
+      "note": "Expanded from CCCCO M10: measures to raise/lower temperature with CNA scope/reporting boundaries."
     },
     {
       "cccco_module": 10,
@@ -159,13 +159,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -174,7 +174,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Pulse sites covered; circulatory-system anatomy depth limited (CCCCO M10 / M13 A&P)."
+      "note": "Expanded from CCCCO M10: pulse as arterial-wall expansion plus major pulse sites."
     },
     {
       "cccco_module": 10,
@@ -189,13 +189,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -219,13 +219,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -249,13 +249,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -279,13 +279,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -294,7 +294,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Abnormal breathing patterns introduced; pattern catalog (Cheyne-Stokes, etc.) thin (expand from CCCCO M10)."
+      "note": "Expanded from CCCCO M10: labored, orthopnea, stertorous, shallow, dyspnea, tachypnea, bradypnea, apnea, and Cheyne-Stokes reporting."
     },
     {
       "cccco_module": 10,
@@ -309,13 +309,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
-      "evidence_type": "Deferred to clinical (hands-on)",
-      "depth_status": "under-depth",
+      "evidence_type": "Theory delivery + deferred clinical",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -324,7 +324,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "TPR as a combined hands-on procedure; theory introduces, performance is a clinical skill."
+      "note": "TPR sequence and reporting expanded from CCCCO M10; hands-on performance remains a clinical skill."
     },
     {
       "cccco_module": 10,
@@ -339,13 +339,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -354,7 +354,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "How blood pressure is produced introduced; physiology depth limited."
+      "note": "Expanded from CCCCO M10: systolic/diastolic pressure, pulse pressure, normal/abnormal ranges."
     },
     {
       "cccco_module": 10,
@@ -369,13 +369,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -399,13 +399,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
       "evidence_type": "Deferred to clinical (hands-on)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -429,13 +429,13 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
       "evidence_type": "Deferred to clinical (hands-on)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -460,7 +460,7 @@
           "ref": "M05/L04",
           "title": "Vital Signs - Measurement and Reporting",
           "app_location_prefix": "module.m05.lesson.l04",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         },
         {
@@ -473,7 +473,7 @@
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -537,13 +537,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery (key terms)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -567,13 +567,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -597,13 +597,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -612,7 +612,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Common nutrients and food sources introduced; per-nutrient breadth limited (expand from CCCCO M11)."
+      "note": "Expanded from CCCCO M11: nutrients, food sources, functions, fluids, and fiber."
     },
     {
       "cccco_module": 11,
@@ -627,13 +627,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "SME Review",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -657,13 +657,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -672,7 +672,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Vegan/vegetarian dietary framing thin; expand from CCCCO M11."
+      "note": "Expanded from CCCCO M11: vegetarian/vegan exclusions and vegan basic four food groups."
     },
     {
       "cccco_module": 11,
@@ -687,13 +687,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -717,13 +717,13 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Assessed",
       "evidence_type": "Theory delivery + module check",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -747,13 +747,13 @@
           "ref": "M05/L02",
           "title": "Feeding Assistance and Aspiration Prevention",
           "app_location_prefix": "module.m05.lesson.l02",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
       "evidence_type": "Theory delivery + deferred clinical",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -762,7 +762,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Feeding techniques taught; safe hands-on feeding/positioning is a clinical skill (aspiration prevention covered in M05/L02)."
+      "note": "Feeding theory expanded from CCCCO M11 (dignity, pace, dysphagia signs, ordered consistency); hands-on feeding performance remains clinical."
     },
     {
       "cccco_module": 11,
@@ -778,7 +778,7 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         },
         {
@@ -789,7 +789,7 @@
           "placeholder": true
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
       "depth_status": "under-depth",
       "source_repair_placeholder": true,
@@ -802,7 +802,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Cultural/religious dietary influences; ties to M03/L03 (cultural respect) which is a source-repair placeholder."
+      "note": "Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder."
     },
     {
       "cccco_module": 11,
@@ -817,13 +817,13 @@
           "ref": "M05/L02",
           "title": "Feeding Assistance and Aspiration Prevention",
           "app_location_prefix": "module.m05.lesson.l02",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -832,7 +832,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Alternative nutrition (e.g., tube feeding) at NA observation/scope level only; NAs do not administer."
+      "note": "Expanded from CCCCO M11: tube feeding and IV infusion observation/reporting boundaries; CNAs do not administer or adjust."
     },
     {
       "cccco_module": 12,
@@ -1173,13 +1173,13 @@
           "ref": "M05/L03",
           "title": "Skin Integrity and Pressure Injury Prevention",
           "app_location_prefix": "module.m05.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Out of Scope",
       "evidence_type": "Disposition",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check"
@@ -1188,7 +1188,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Body's basic organization/composition (intro A&P). CCCCO 'B' anatomy minimum is clinical-foundational; recert theory addresses applied A&P only (skin in M05/L03). SME to confirm."
+      "note": "Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise."
     },
     {
       "cccco_module": 13,
@@ -1219,7 +1219,7 @@
           "ref": "M05/L03",
           "title": "Skin Integrity and Pressure Injury Prevention",
           "app_location_prefix": "module.m05.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
@@ -1236,7 +1236,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Body systems / immobility complications applied in M04 (body mechanics, ROM) and M05/L03 (skin); systematic A&P not the recert-theory focus."
+      "note": "M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion."
     },
     {
       "cccco_module": 13,
@@ -1459,7 +1459,7 @@
           "ref": "M05/L01",
           "title": "Nutrition and Hydration",
           "app_location_prefix": "module.m05.lesson.l01",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
@@ -1537,7 +1537,7 @@
           "ref": "M05/L03",
           "title": "Skin Integrity and Pressure Injury Prevention",
           "app_location_prefix": "module.m05.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
@@ -1554,7 +1554,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Preventing complications of inactivity/immobility (ROM, skin)."
+      "note": "Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13."
     },
     {
       "cccco_module": 14,

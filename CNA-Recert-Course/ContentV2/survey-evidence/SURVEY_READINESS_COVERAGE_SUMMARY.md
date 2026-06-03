@@ -11,9 +11,9 @@
 
 | Coverage status | Count |
 |---|--:|
-| Covered | 27 |
+| Covered | 35 |
 | Assessed | 8 |
-| Partial | 18 |
+| Partial | 10 |
 | Deferred | 8 |
 | Source Repair | 7 |
 | Out of Scope | 1 |
@@ -22,8 +22,8 @@
 ## Honest depth context (from the time-depth audit)
 
 - Course declared theory model: **720 min**
-- Estimated active-learning: **426.57 min (~7.11 h)**
-- Failing/under-depth lessons: **33**
+- Estimated active-learning: **447.12 min (~7.45 h)**
+- Failing/under-depth lessons: **29**
 - Modules currently under-depth or source-repair (objectives addressed but expansion pending):
 
   - M01: under-depth

@@ -23,10 +23,10 @@
 
 | CCCCO obj | Objective | ContentV2 | Disposition note |
 |---|---|---|---|
-| M10.10 | Describe the process for taking TPR as a combined procedure | M05/L04 | TPR as a combined hands-on procedure; theory introduces, performance is a clinical skill. |
+| M10.10 | Describe the process for taking TPR as a combined procedure | M05/L04 | TPR sequence and reporting expanded from CCCCO M10; hands-on performance remains a clinical skill. |
 | M10.13 | Identify parts of the blood pressure equipment | M05/L04 | Identifying/handling BP equipment parts is a hands-on clinical competency. |
 | M10.14 | Discuss the procedure for taking a blood pressure reading | M05/L04 | Performing a BP reading is a graded clinical skill; theory introduces the procedure. |
-| M11.8 | Describe proper techniques for feeding patients/residents | M05/L02 | Feeding techniques taught; safe hands-on feeding/positioning is a clinical skill (aspiration prevention covered in M05/L02). |
+| M11.8 | Describe proper techniques for feeding patients/residents | M05/L02 | Feeding theory expanded from CCCCO M11 (dignity, pace, dysphagia signs, ordered consistency); hands-on feeding performance remains clinical. |
 | M12.4 | List the causes and signs of choking and discuss the use of abdominal thrusts fo | M04/L05 | Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill. |
 | M14.9 | Describe range-of-motion exercises (ROM) | M04/L03 | ROM exercises taught; performing ROM is a hands-on clinical skill. |
 | M15.7 | Explain how to accurately complete ADL assessment for MDS | M06/L02 | ADL assessment for the MDS is facility/EHR-specific; theory explains purpose, completion is on-the-job. SME to confirm. |
@@ -36,7 +36,7 @@
 
 | CCCCO obj | Objective | ContentV2 | Disposition note |
 |---|---|---|---|
-| M13.6 | Describe the body’s basic organization and composition | M05/L03 | Body's basic organization/composition (intro A&P). CCCCO 'B' anatomy minimum is clinical-foundational; recert theory addresses applied A&P only (skin in M05/L03). SME to confirm. |
+| M13.6 | Describe the body’s basic organization and composition | M05/L03 | Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise. |
 
 ## SME Review (scope/currency)  (3)
 
@@ -46,36 +46,12 @@
 | M13.3 | Describe common community resources to meet the needs of the elderly | M03/L01 | Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope). |
 | M15.2 | Identify word elements used in medical terms | M06/L02 | Medical word-elements (prefix/root/suffix) not emphasized; SME to confirm necessity for recert theory. |
 
-## Partial / under-depth (expand from approved source)  (71)
+## Partial / under-depth (expand from approved source)  (46)
 
 | CCCCO obj | Objective | ContentV2 | Disposition note |
 |---|---|---|---|
-| M10.1 | Define key terminology | M05/L04 | Vital-signs terminology taught in M05/L04. |
-| M10.2 | Describe what is meant by vital signs, their purpose, and observations made whil | M05/L04 | Meaning/purpose of vital signs and observations taught and exercised in M05/L04 challenge. |
-| M10.3 | Discuss the use of temperature as an indicator of body function | M05/L04 | Temperature as an indicator of body function. |
-| M10.4 | Describe nursing measures to raise and lower the temperature of the body | M05/L04 | Comfort measures to raise/lower temperature touched; nursing-measure depth limited (expand from CCCCO M10). |
-| M10.5 | Describe the circulatory system as it relates to pulse, and identify the pulse s | M05/L04 | Pulse sites covered; circulatory-system anatomy depth limited (CCCCO M10 / M13 A&P). |
-| M10.6 | Describe factors that increase and decrease pulse, and the qualities to observe  | M05/L04 | Factors affecting pulse and pulse qualities. |
-| M10.7 | Define and describe respiration and factors that affect respiratory rate | M05/L04 | Respiration and factors affecting respiratory rate. |
-| M10.8 | Describe observations to be made when measuring respirations | M05/L04 | Observations when measuring respirations. |
-| M10.9 | Describe abnormal breathing patterns | M05/L04 | Abnormal breathing patterns introduced; pattern catalog (Cheyne-Stokes, etc.) thin (expand from CCCCO M10). |
-| M10.10 | Describe the process for taking TPR as a combined procedure | M05/L04 | TPR as a combined hands-on procedure; theory introduces, performance is a clinical skill. |
-| M10.11 | Describe what happens in the circulatory system to produce blood pressure | M05/L04 | How blood pressure is produced introduced; physiology depth limited. |
-| M10.12 | Identify factors that increase or decrease blood pressure | M05/L04 | Factors increasing/decreasing blood pressure. |
-| M10.13 | Identify parts of the blood pressure equipment | M05/L04 | Identifying/handling BP equipment parts is a hands-on clinical competency. |
-| M10.14 | Discuss the procedure for taking a blood pressure reading | M05/L04 | Performing a BP reading is a graded clinical skill; theory introduces the procedure. |
-| M10.15 | Discuss observation and reporting of patient’s/resident’s pain | M05/L04; M05/L05 | Pain observation and reporting covered in M05/L04-L05. |
 | M10.16 | Record vital signs on chart, graph, and Nursing Assistant notes | M05/L05; M06/L02 | Recording vital signs on chart/graph/notes; documentation taught and assessed in M06. |
-| M11.1 | Define key terminology | M05/L01 | Nutrition terminology in M05/L01. |
-| M11.2 | Discuss the body’s need for food and fluids | M05/L01 | Body's need for food and fluids. |
-| M11.3 | List common nutrients and their food sources | M05/L01 | Common nutrients and food sources introduced; per-nutrient breadth limited (expand from CCCCO M11). |
-| M11.4 | Describe the My Pyramid food guidance system | M05/L01 | CCCCO cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here. |
-| M11.5 | Describe the vegan basic four food groups | M05/L01 | Vegan/vegetarian dietary framing thin; expand from CCCCO M11. |
-| M11.6 | Discuss nutritional and fluid needs of the elderly | M05/L01 | Nutrition/fluid needs of the elderly. |
-| M11.7 | Describe therapeutic diets commonly ordered for patients/residents and the respo | M05/L01 | Therapeutic diets and NA responsibilities taught and assessed. |
-| M11.8 | Describe proper techniques for feeding patients/residents | M05/L02 | Feeding techniques taught; safe hands-on feeding/positioning is a clinical skill (aspiration prevention covered in M05/L02). |
-| M11.9 | Discuss cultural and religious influences on dietary practices | M05/L01; M03/L03 | Cultural/religious dietary influences; ties to M03/L03 (cultural respect) which is a source-repair placeholder. |
-| M11.10 | Identify alternative ways to administer nutrition | M05/L02 | Alternative nutrition (e.g., tube feeding) at NA observation/scope level only; NAs do not administer. |
+| M11.9 | Discuss cultural and religious influences on dietary practices | M05/L01; M03/L03 | Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder. |
 | M12.1 | Define key terminology. | M04/L05 | Emergency terminology in M04/L05. |
 | M12.2 | Identify common signs and symptoms of conditions associated with patient/residen | M04/L05 | Signs/symptoms of distress and NA prevent/respond role taught and exercised. |
 | M12.3 | Describe the immediate interventions in a medical emergency. | M04/L05 | Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12). |
@@ -85,8 +61,7 @@
 | M13.2 | Describe common basic human needs and interventions for the elderly patient/resi | M03/L01; M03/L03; M02/L01 | Basic human needs (environmental/psychological/social/recreational/spiritual); recreational/spiritual depth thin and partly in M03/L03 placeholder. |
 | M13.3 | Describe common community resources to meet the needs of the elderly | M03/L01 | Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope). |
 | M13.5 | Describe the special needs of persons with Alzheimer’s Disease and other related | M03/L01; M03/L02 | Alzheimer's/related dementias are the core of M03/L01-L02 (authored). |
-| M13.6 | Describe the body’s basic organization and composition | M05/L03 | Body's basic organization/composition (intro A&P). CCCCO 'B' anatomy minimum is clinical-foundational; recert theory addresses applied A&P only (skin in M05/L03). SME to confirm. |
-| M13.7 | List the body systems, including basic anatomy and physiology, common diseases o | M04/L01; M04/L03; M05/L03 | Body systems / immobility complications applied in M04 (body mechanics, ROM) and M05/L03 (skin); systematic A&P not the recert-theory focus. |
+| M13.7 | List the body systems, including basic anatomy and physiology, common diseases o | M04/L01; M04/L03; M05/L03 | M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion. |
 | M13.8 | Describe changes in body systems associated with aging Refer to CDPH 276C form:  | M03/L01; M04/L03 | Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.) |
 | M14.1 | Define key terminology | M04/L03 | Restorative-care terminology in M04/L03. |
 | M14.2 | Discuss rehabilitation (restorative care) and how it promotes independence and p | M04/L03 | Restorative care promotes independence/potential. |
@@ -95,7 +70,7 @@
 | M14.5 | List the responsibilities of the Nurse Assistant in promoting patient/resident s | M04/L03 | NA responsibilities promoting self-care. |
 | M14.6 | List activities that make up Activities of Daily Living (ADLs) | M04/L03; M05/L01 | Activities of Daily Living (ADLs). |
 | M14.7 | List common comfort and adaptive devices and explain the purposes of each | M04/L02; M04/L03 | Comfort/adaptive devices introduced; device catalog/purpose breadth limited. |
-| M14.8 | Identify steps to prevent complications from inactivity | M04/L03; M05/L03 | Preventing complications of inactivity/immobility (ROM, skin). |
+| M14.8 | Identify steps to prevent complications from inactivity | M04/L03; M05/L03 | Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13. |
 | M14.9 | Describe range-of-motion exercises (ROM) | M04/L03 | ROM exercises taught; performing ROM is a hands-on clinical skill. |
 | M14.10 | Identify procedures and devices used to promote mobility and ambulation for pati | M04/L02 | Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14). |
 | M14.11 | Discuss relationship between patient’s/resident’s self-esteem and family involve | M03/L01; M06/L05 | Self-esteem and family involvement in care; psychosocial depth thin. |

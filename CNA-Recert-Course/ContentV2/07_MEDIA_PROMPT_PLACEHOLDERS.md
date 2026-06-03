@@ -1,6 +1,6 @@
 # 07_MEDIA_PROMPT_PLACEHOLDERS — Per-Card Media Placeholders
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T01:57:05+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T19:51:44+00:00. Do not hand-edit.
 
 
 No media assets are generated for the MVP. Every card carries a safe 16:9 placeholder with alt text and a PHI-safety note. No real charts, facility names, patient identifiers, gore, or unsafe actions.
@@ -157,37 +157,54 @@ No media assets are generated for the MVP. Every card carries a safe 16:9 placeh
 | module.m04.lesson.l05.card.c03_challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c03_challenge.png |
 | module.m04.lesson.l05.card.c04a_debrief | Emergency Procedures - Fire, Choking, Disaster challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c04a_debrief.png |
 | module.m05.lesson.l01.card.c01_overview | Nutrition and Hydration | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c01_overview.png |
-| module.m05.lesson.l01.card.c02a_delivery | The Six Basic Nutrients | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02a_delivery.png |
-| module.m05.lesson.l01.card.c02b_delivery | Hydration and Dehydration | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02b_delivery.png |
-| module.m05.lesson.l01.card.c02c_delivery | Modified Diets | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02c_delivery.png |
+| module.m05.lesson.l01.card.c02a_delivery | Why Food and Fluids Matter | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02a_delivery.png |
+| module.m05.lesson.l01.card.c02b_delivery | Common Nutrients and Food Sources | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02b_delivery.png |
+| module.m05.lesson.l01.card.c02c_delivery | Food Guidance and Balanced Choices | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02c_delivery.png |
+| module.m05.lesson.l01.card.c02d_delivery | Nutrition and Fluid Needs in Older Adults | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02d_delivery.png |
+| module.m05.lesson.l01.card.c02e_delivery | Fluids, Minimum Intake, and Water Functions | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02e_delivery.png |
+| module.m05.lesson.l01.card.c02f_delivery | Therapeutic Diets and Texture Orders | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02f_delivery.png |
+| module.m05.lesson.l01.card.c02g_delivery | Food Preferences, Allergies, Culture, and Religion | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02g_delivery.png |
+| module.m05.lesson.l01.card.c02h_delivery | Vegetarian and Vegan Basics | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02h_delivery.png |
+| module.m05.lesson.l01.card.c02i_delivery | Meal Refusal, Intake Percent, and What to Report | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02i_delivery.png |
 | module.m05.lesson.l01.card.c03_challenge | Nutrition and Hydration Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c03_challenge.png |
 | module.m05.lesson.l01.card.c04a_debrief | Nutrition and Hydration challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c04a_debrief.png |
 | module.m05.lesson.l02.card.c01_overview | Feeding Assistance and Aspiration Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c01_overview.png |
-| module.m05.lesson.l02.card.c02a_delivery | Feeding Assistance | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02a_delivery.png |
-| module.m05.lesson.l02.card.c02b_delivery | Aspiration: Risk Factors and Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02b_delivery.png |
-| module.m05.lesson.l02.card.c02c_delivery | Aspiration: Risk Factors and Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02c_delivery.png |
+| module.m05.lesson.l02.card.c02a_delivery | Feeding Assistance: Dignity and Pace | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02a_delivery.png |
+| module.m05.lesson.l02.card.c02b_delivery | Dysphagia and Choking Risk | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02b_delivery.png |
+| module.m05.lesson.l02.card.c02c_delivery | Ordered Textures and Thickened Liquids | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02c_delivery.png |
+| module.m05.lesson.l02.card.c02d_delivery | Tube Feeding: CNA Observation Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02d_delivery.png |
+| module.m05.lesson.l02.card.c02e_delivery | IV Fluids and Nutrition: What the CNA Reports | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02e_delivery.png |
+| module.m05.lesson.l02.card.c02f_delivery | When Feeding Becomes a Reportable Change | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02f_delivery.png |
 | module.m05.lesson.l02.card.c03_challenge | Feeding Assistance and Aspiration Prevention Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c03_challenge.png |
 | module.m05.lesson.l02.card.c04a_debrief | Feeding Assistance and Aspiration Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c04a_debrief.png |
 | module.m05.lesson.l03.card.c01_overview | Skin Integrity and Pressure Injury Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c01_overview.png |
-| module.m05.lesson.l03.card.c02a_delivery | What Is a Pressure Injury? | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02a_delivery.png |
-| module.m05.lesson.l03.card.c02b_delivery | Pressure Injury Stages | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02b_delivery.png |
-| module.m05.lesson.l03.card.c02c_delivery | Pressure Injury Stages | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02c_delivery.png |
-| module.m05.lesson.l03.card.c02d_delivery | Prevention Strategies | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02d_delivery.png |
-| module.m05.lesson.l03.card.c02e_delivery | Prevention Strategies | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02e_delivery.png |
+| module.m05.lesson.l03.card.c02a_delivery | Skin Layers and Why Integrity Matters | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02a_delivery.png |
+| module.m05.lesson.l03.card.c02b_delivery | Aging Skin and Immobility Risk | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02b_delivery.png |
+| module.m05.lesson.l03.card.c02c_delivery | High-Risk Skin Areas | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02c_delivery.png |
+| module.m05.lesson.l03.card.c02d_delivery | Skin Lesions and Wounds: What to Report | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02d_delivery.png |
+| module.m05.lesson.l03.card.c02e_delivery | Pressure Injuries: Recognize Risk, Do Not Diagnose | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02e_delivery.png |
+| module.m05.lesson.l03.card.c02f_delivery | Pressure Injury Prevention Bundle | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02f_delivery.png |
+| module.m05.lesson.l03.card.c02g_delivery | Devices, Tubing, Braces, and Bed Position | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02g_delivery.png |
+| module.m05.lesson.l03.card.c02h_delivery | Objective Skin Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02h_delivery.png |
+| module.m05.lesson.l03.card.c02i_delivery | Skin Safety Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02i_delivery.png |
 | module.m05.lesson.l03.card.c03_challenge | Skin Integrity and Pressure Injury Prevention Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c03_challenge.png |
 | module.m05.lesson.l03.card.c04a_debrief | Skin Integrity and Pressure Injury Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c04a_debrief.png |
 | module.m05.lesson.l04.card.c01_overview | Vital Signs - Measurement and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c01_overview.png |
-| module.m05.lesson.l04.card.c02a_delivery | What Are Vital Signs? | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02a_delivery.png |
-| module.m05.lesson.l04.card.c02b_delivery | Temperature | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02b_delivery.png |
-| module.m05.lesson.l04.card.c02c_delivery | Pulse and Respirations | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02c_delivery.png |
-| module.m05.lesson.l04.card.c02d_delivery | Blood Pressure and Oxygen Saturation | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02d_delivery.png |
-| module.m05.lesson.l04.card.c02e_delivery | Blood Pressure and Oxygen Saturation | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02e_delivery.png |
+| module.m05.lesson.l04.card.c02a_delivery | Vital Signs: Purpose and Observation | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02a_delivery.png |
+| module.m05.lesson.l04.card.c02b_delivery | Temperature Regulation and Measurement Sites | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02b_delivery.png |
+| module.m05.lesson.l04.card.c02c_delivery | Comfort Measures for Temperature Changes | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02c_delivery.png |
+| module.m05.lesson.l04.card.c02d_delivery | Pulse Sites, Factors, and Qualities | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02d_delivery.png |
+| module.m05.lesson.l04.card.c02e_delivery | Respirations and Abnormal Patterns | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02e_delivery.png |
+| module.m05.lesson.l04.card.c02f_delivery | Blood Pressure: What the Numbers Mean | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02f_delivery.png |
+| module.m05.lesson.l04.card.c02g_delivery | Blood Pressure Accuracy and Safety Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02g_delivery.png |
+| module.m05.lesson.l04.card.c02h_delivery | TPR Sequence and When to Escalate | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02h_delivery.png |
+| module.m05.lesson.l04.card.c02i_delivery | Pain Observation and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02i_delivery.png |
 | module.m05.lesson.l04.card.c03_challenge | Vital Signs - Measurement and Reporting Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c03_challenge.png |
 | module.m05.lesson.l04.card.c04a_debrief | Vital Signs - Measurement and Reporting challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c04a_debrief.png |
 | module.m05.lesson.l05.card.c01_overview | Monitoring, Documentation, and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c01_overview.png |
 | module.m05.lesson.l05.card.c02a_delivery | Intake and Output (I&O) | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02a_delivery.png |
-| module.m05.lesson.l05.card.c02b_delivery | Weight Monitoring | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02b_delivery.png |
-| module.m05.lesson.l05.card.c02c_delivery | Weight Monitoring | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02c_delivery.png |
+| module.m05.lesson.l05.card.c02b_delivery | Vital Sign Recording | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02b_delivery.png |
+| module.m05.lesson.l05.card.c02c_delivery | Weight Monitoring and Change Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02c_delivery.png |
 | module.m05.lesson.l05.card.c03_challenge | Monitoring, Documentation, and Reporting Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c03_challenge.png |
 | module.m05.lesson.l05.card.c04a_debrief | Monitoring, Documentation, and Reporting challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c04a_debrief.png |
 | module.m06.lesson.l01.card.c01_overview | Observation - Objective vs. Subjective | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c01_overview.png |

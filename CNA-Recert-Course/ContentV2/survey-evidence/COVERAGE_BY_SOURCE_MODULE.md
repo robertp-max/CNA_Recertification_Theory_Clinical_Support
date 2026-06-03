@@ -5,8 +5,8 @@
 
 | CCCCO module | Objectives | Covered | Assessed | Partial | Deferred | Source Repair | Out of Scope | SME Review |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|
-| Module 10: Vital Signs | 16 | 7 | 2 | 4 | 3 | 0 | 0 | 0 |
-| Module 11: Nutrition | 10 | 3 | 1 | 4 | 1 | 0 | 0 | 1 |
+| Module 10: Vital Signs | 16 | 11 | 2 | 0 | 3 | 0 | 0 | 0 |
+| Module 11: Nutrition | 10 | 7 | 1 | 0 | 1 | 0 | 0 | 1 |
 | Module 12: Emergency Procedures | 5 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |
 | Module 13: Long Term Care Resident | 8 | 2 | 0 | 3 | 0 | 1 | 1 | 1 |
 | Module 14- Rehabilitative Nursing | 12 | 7 | 0 | 4 | 1 | 0 | 0 | 0 |
@@ -17,36 +17,13 @@
 ## Notes by module
 
 ### Module 10: Vital Signs
-- Objectives: 16; flagged for attention: 16
-  - Obj 1 [Covered/under-depth]: Vital-signs terminology taught in M05/L04.
-  - Obj 2 [Assessed/under-depth]: Meaning/purpose of vital signs and observations taught and exercised in M05/L04 challenge.
-  - Obj 3 [Covered/under-depth]: Temperature as an indicator of body function.
-  - Obj 4 [Partial/under-depth]: Comfort measures to raise/lower temperature touched; nursing-measure depth limited (expand from CCCCO M10).
-  - Obj 5 [Partial/under-depth]: Pulse sites covered; circulatory-system anatomy depth limited (CCCCO M10 / M13 A&P).
-  - Obj 6 [Covered/under-depth]: Factors affecting pulse and pulse qualities.
-  - Obj 7 [Covered/under-depth]: Respiration and factors affecting respiratory rate.
-  - Obj 8 [Covered/under-depth]: Observations when measuring respirations.
-  - Obj 9 [Partial/under-depth]: Abnormal breathing patterns introduced; pattern catalog (Cheyne-Stokes, etc.) thin (expand from CCCCO M10).
-  - Obj 10 [Deferred/under-depth]: TPR as a combined hands-on procedure; theory introduces, performance is a clinical skill.
-  - Obj 11 [Partial/under-depth]: How blood pressure is produced introduced; physiology depth limited.
-  - Obj 12 [Covered/under-depth]: Factors increasing/decreasing blood pressure.
-  - Obj 13 [Deferred/under-depth]: Identifying/handling BP equipment parts is a hands-on clinical competency.
-  - Obj 14 [Deferred/under-depth]: Performing a BP reading is a graded clinical skill; theory introduces the procedure.
-  - Obj 15 [Covered/under-depth]: Pain observation and reporting covered in M05/L04-L05.
+- Objectives: 16; flagged for attention: 1
   - Obj 16 [Assessed/under-depth]: Recording vital signs on chart/graph/notes; documentation taught and assessed in M06.
 
 ### Module 11: Nutrition
-- Objectives: 10; flagged for attention: 10
-  - Obj 1 [Covered/under-depth]: Nutrition terminology in M05/L01.
-  - Obj 2 [Covered/under-depth]: Body's need for food and fluids.
-  - Obj 3 [Partial/under-depth]: Common nutrients and food sources introduced; per-nutrient breadth limited (expand from CCCCO M11).
-  - Obj 4 [SME Review/under-depth]: CCCCO cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here.
-  - Obj 5 [Partial/under-depth]: Vegan/vegetarian dietary framing thin; expand from CCCCO M11.
-  - Obj 6 [Covered/under-depth]: Nutrition/fluid needs of the elderly.
-  - Obj 7 [Assessed/under-depth]: Therapeutic diets and NA responsibilities taught and assessed.
-  - Obj 8 [Deferred/under-depth]: Feeding techniques taught; safe hands-on feeding/positioning is a clinical skill (aspiration prevention covered in M05/L02).
-  - Obj 9 [Partial/under-depth]: Cultural/religious dietary influences; ties to M03/L03 (cultural respect) which is a source-repair placeholder.
-  - Obj 10 [Partial/under-depth]: Alternative nutrition (e.g., tube feeding) at NA observation/scope level only; NAs do not administer.
+- Objectives: 10; flagged for attention: 2
+  - Obj 4 [SME Review/ok]: CCCCO cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here.
+  - Obj 9 [Covered/under-depth]: Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder.
 
 ### Module 12: Emergency Procedures
 - Objectives: 5; flagged for attention: 5
@@ -63,8 +40,8 @@
   - Obj 3 [SME Review/under-depth]: Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope).
   - Obj 4 [Source Repair/ok]: Special needs (developmental/mental disorders: ID, CP, epilepsy, Parkinson's, mental illness) map to M03/L05, currently a Source Repair placeholder.
   - Obj 5 [Covered/under-depth]: Alzheimer's/related dementias are the core of M03/L01-L02 (authored).
-  - Obj 6 [Out of Scope/under-depth]: Body's basic organization/composition (intro A&P). CCCCO 'B' anatomy minimum is clinical-foundational; recert theory addresses applied A&P only (skin in M05/L03). SME to confirm.
-  - Obj 7 [Partial/under-depth]: Body systems / immobility complications applied in M04 (body mechanics, ROM) and M05/L03 (skin); systematic A&P not the recert-theory focus.
+  - Obj 6 [Out of Scope/ok]: Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise.
+  - Obj 7 [Partial/under-depth]: M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion.
   - Obj 8 [Partial/under-depth]: Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)
 
 ### Module 14- Rehabilitative Nursing
@@ -76,7 +53,7 @@
   - Obj 5 [Covered/under-depth]: NA responsibilities promoting self-care.
   - Obj 6 [Covered/under-depth]: Activities of Daily Living (ADLs).
   - Obj 7 [Partial/under-depth]: Comfort/adaptive devices introduced; device catalog/purpose breadth limited.
-  - Obj 8 [Covered/under-depth]: Preventing complications of inactivity/immobility (ROM, skin).
+  - Obj 8 [Covered/under-depth]: Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13.
   - Obj 9 [Deferred/under-depth]: ROM exercises taught; performing ROM is a hands-on clinical skill.
   - Obj 10 [Partial/under-depth]: Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14).
   - Obj 11 [Partial/under-depth]: Self-esteem and family involvement in care; psychosocial depth thin.

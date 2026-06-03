@@ -1,6 +1,6 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-02T01:57:05+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T19:51:44+00:00. Do not hand-edit.
 
 
 ## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
@@ -294,51 +294,68 @@
 
 ## M05 — Nutrition, Skin Integrity, Vital Signs, and Observation (120 min, counts_toward_720=True)
 
-### L01 — Nutrition and Hydration (25 min, 6 cards)
+### L01 — Nutrition and Hydration (25 min, 12 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Nutrition and Hydration | 22 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L01 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | The Six Basic Nutrients | 58 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Hydration and Dehydration | 67 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Modified Diets | 65 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.1.3 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Why Food and Fluids Matter | 41 | CCCCO Module 11, Objective 2, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Common Nutrients and Food Sources | 42 | CCCCO Module 11, Objective 3, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Food Guidance and Balanced Choices | 43 | CCCCO Module 11, Objective 4, Content Outline A-F | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Nutrition and Fluid Needs in Older Adults | 42 | CCCCO Module 11, Objective 6, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | Fluids, Minimum Intake, and Water Functions | 48 | CCCCO Module 11, Objectives 2 and 3, Content Outline C and Objective 3 item 7 | Skin integrity / pressure injury content requires SME/source review. |
+| C02F_DELIVERY | delivery | Therapeutic Diets and Texture Orders | 44 | CCCCO Module 11, Objective 7, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02G_DELIVERY | delivery | Food Preferences, Allergies, Culture, and Religion | 45 | CCCCO Module 11, Objectives 6 and 9, Content Outline B-C and A-E | Skin integrity / pressure injury content requires SME/source review. |
+| C02H_DELIVERY | delivery | Vegetarian and Vegan Basics | 43 | CCCCO Module 11, Objective 5, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02I_DELIVERY | delivery | Meal Refusal, Intake Percent, and What to Report | 48 | CCCCO Module 11, Objective 7, Content Outline C | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Nutrition and Hydration Challenge | 32 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Nutrition and Hydration - Challenge Debrief | 51 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 
-### L02 — Feeding Assistance and Aspiration Prevention (20 min, 6 cards)
+### L02 — Feeding Assistance and Aspiration Prevention (20 min, 9 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Feeding Assistance and Aspiration Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L02 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Feeding Assistance | 53 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 65 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Aspiration: Risk Factors and Prevention | 28 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.2.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Feeding Assistance: Dignity and Pace | 44 | CCCCO Module 11, Objective 8, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Dysphagia and Choking Risk | 38 | CCCCO Module 11, Objective 8, Content Outline B-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Ordered Textures and Thickened Liquids | 43 | CCCCO Module 11, Objectives 7 and 8, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Tube Feeding: CNA Observation Boundaries | 45 | CCCCO Module 11, Objective 10, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | IV Fluids and Nutrition: What the CNA Reports | 42 | CCCCO Module 11, Objective 10, Content Outline B | Skin integrity / pressure injury content requires SME/source review. |
+| C02F_DELIVERY | delivery | When Feeding Becomes a Reportable Change | 40 | CCCCO Module 11, Objectives 7 and 8, Content Outline C and B | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Feeding Assistance and Aspiration Prevention Challenge | 25 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Feeding Assistance and Aspiration Prevention - Challenge Debrief | 47 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
 
-### L03 — Skin Integrity and Pressure Injury Prevention (25 min, 8 cards)
+### L03 — Skin Integrity and Pressure Injury Prevention (25 min, 12 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Skin Integrity and Pressure Injury Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L03 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | What Is a Pressure Injury? | 54 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Pressure Injury Stages | 72 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Pressure Injury Stages | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Prevention Strategies | 51 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Prevention Strategies | 24 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.3.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Skin Integrity and Pressure Injury Prevention Challenge | 22 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | SME review required |
-| C04A_DEBRIEF | debrief | Skin Integrity and Pressure Injury Prevention - Challenge Debrief | 46 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | SME review required |
+| C02A_DELIVERY | delivery | Skin Layers and Why Integrity Matters | 44 | CCCCO Module 13, Objective 7, Integumentary System anatomy/functions | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Aging Skin and Immobility Risk | 41 | CCCCO Module 13, Objective 8, Effects of Aging handout; Objective 7 immobility complications | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | High-Risk Skin Areas | 42 | CCCCO Module 13, Objective 7, Pressure Sores signs/symptoms and duties | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Skin Lesions and Wounds: What to Report | 44 | CCCCO Module 13, Objective 7, Skin Lesions/Wounds duties and observations | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | Pressure Injuries: Recognize Risk, Do Not Diagnose | 45 | CCCCO Module 13, Objective 7, Pressure Sores signs/symptoms and duties | Skin integrity / pressure injury content requires SME/source review. |
+| C02F_DELIVERY | delivery | Pressure Injury Prevention Bundle | 45 | CCCCO Module 13, Objective 7, Pressure Sores duties and observations | Skin integrity / pressure injury content requires SME/source review. |
+| C02G_DELIVERY | delivery | Devices, Tubing, Braces, and Bed Position | 43 | CCCCO Module 13, Objective 7, Pressure Sores duties j-o | Skin integrity / pressure injury content requires SME/source review. |
+| C02H_DELIVERY | delivery | Objective Skin Reporting | 42 | CCCCO Module 13, Objective 7, duties and observations; ContentV2 M06 documentation crosswalk | Skin integrity / pressure injury content requires SME/source review. |
+| C02I_DELIVERY | delivery | Skin Safety Boundaries | 43 | CCCCO Module 13, Objective 7, Skin Lesions/Wounds duties and Pressure Sores duties | Skin integrity / pressure injury content requires SME/source review. |
+| C03_CHALLENGE | challenge | Skin Integrity and Pressure Injury Prevention Challenge | 22 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | Skin integrity / pressure injury content requires SME/source review. |
+| C04A_DEBRIEF | debrief | Skin Integrity and Pressure Injury Prevention - Challenge Debrief | 46 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | Skin integrity / pressure injury content requires SME/source review. |
 
-### L04 — Vital Signs - Measurement and Reporting (25 min, 8 cards)
+### L04 — Vital Signs - Measurement and Reporting (25 min, 12 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Vital Signs - Measurement and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L04 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | What Are Vital Signs? | 64 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Temperature | 43 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Pulse and Respirations | 58 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.3 | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 64 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Blood Pressure and Oxygen Saturation | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.4.4 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Vital Signs: Purpose and Observation | 44 | CCCCO Module 10, Objective 2, Content Outline A-D | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Temperature Regulation and Measurement Sites | 40 | CCCCO Module 10, Objective 3, Content Outline A-G | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Comfort Measures for Temperature Changes | 41 | CCCCO Module 10, Objective 4, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
+| C02D_DELIVERY | delivery | Pulse Sites, Factors, and Qualities | 43 | CCCCO Module 10, Objectives 5 and 6, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02E_DELIVERY | delivery | Respirations and Abnormal Patterns | 41 | CCCCO Module 10, Objectives 7, 8, and 9, Content Outline A-J | Skin integrity / pressure injury content requires SME/source review. |
+| C02F_DELIVERY | delivery | Blood Pressure: What the Numbers Mean | 45 | CCCCO Module 10, Objective 11, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
+| C02G_DELIVERY | delivery | Blood Pressure Accuracy and Safety Boundaries | 46 | CCCCO Module 10, Objectives 12, 13, and 14, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
+| C02H_DELIVERY | delivery | TPR Sequence and When to Escalate | 46 | CCCCO Module 10, Objective 10, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
+| C02I_DELIVERY | delivery | Pain Observation and Reporting | 43 | CCCCO Module 10, Objective 15, Content Outline A-D | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Vital Signs - Measurement and Reporting Challenge | 20 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Vital Signs - Measurement and Reporting - Challenge Debrief | 45 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 
@@ -347,9 +364,9 @@
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Monitoring, Documentation, and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L05 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Intake and Output (I&O) | 42 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.1 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Weight Monitoring | 28 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Weight Monitoring | 8 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#Screen 5.5.2 | Skin integrity / pressure injury content requires SME/source review. |
+| C02A_DELIVERY | delivery | Intake and Output (I&O) | 43 | CCCCO Module 11, Objective 7, Content Outline C; ContentV1 M05 L05 | Skin integrity / pressure injury content requires SME/source review. |
+| C02B_DELIVERY | delivery | Vital Sign Recording | 43 | CCCCO Module 10, Objective 16, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
+| C02C_DELIVERY | delivery | Weight Monitoring and Change Reporting | 39 | ContentV1 M05 L05; CCCCO Module 11 nutrition/fluid monitoring rationale | Skin integrity / pressure injury content requires SME/source review. |
 | C03_CHALLENGE | challenge | Monitoring, Documentation, and Reporting Challenge | 32 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 | C04A_DEBRIEF | debrief | Monitoring, Documentation, and Reporting - Challenge Debrief | 52 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
 

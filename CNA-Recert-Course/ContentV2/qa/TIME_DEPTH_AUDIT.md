@@ -16,12 +16,12 @@
 ## Course totals
 - Required theory model (declared): **720 min** (12.0 h)
 - Displayed lesson minutes (sum): **637.0 min**
-- Estimated active-learning: **426.57 min (~7.11 h)**
+- Estimated active-learning: **447.12 min (~7.45 h)**
 - Module-assessment minutes excluded: 95
 - Final-assessment minutes excluded: 25
 - Optional clinical support counts toward 720: False
 - Certificate production enabled: False
-- Failing lessons: **33**
+- Failing lessons: **29**
 
 ## Per-module summary
 
@@ -32,7 +32,7 @@
 | M02 | 120 | 57.19 | 62.81 | 48% | YES | draft |
 | M03 | 120 | 46.07 | 73.93 | 38% | YES | source-repair |
 | M04 | 120 | 58.28 | 61.72 | 49% | YES | draft |
-| M05 | 120 | 57.93 | 62.07 | 48% | YES | sme-review |
+| M05 | 120 | 78.49 | 41.51 | 65% | YES | sme-review |
 | M06 | 90 | 51.82 | 38.18 | 58% | YES | draft |
 | M07 | 30 | 64.41 | 0.0 | 215% | no | draft |
 
@@ -141,26 +141,18 @@
     - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
 
 ### M05 - Nutrition, Skin Integrity, Vital Signs, and Observation
-- **Module flags:** active 57.93min < 75% of declared 120min
+- **Module flags:** active 78.49min < 75% of declared 120min
 - SME flag: Skin integrity / pressure injury content requires SME/source review.
-- Source status: Skin integrity source gap active.
+- Source status: Skin integrity source review active; CCCCO Module 13 skin source mapped but SME review retained.
 
 | Lesson | Disp | Instr | Cards | Dlv | Chl | Dbf | Words | Narr | Read | Intr | Chl-m | Rem-m | Active | Gap | Fail | Expand? |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|:--:|:--:|
-| L01 | 25.0 | 25.0 | 6 | 3 | 1 | 1 | 745 | 4.92 | 5.73 | 1.5 | 1.91 | 4.0 | 11.45 | 13.55 | Y | N |
-| L02 | 20.0 | 20.0 | 6 | 3 | 1 | 1 | 611 | 4.02 | 4.7 | 1.5 | 1.82 | 4.0 | 10.52 | 9.48 | Y | N |
-| L03 | 25.0 | 25.0 | 8 | 5 | 1 | 1 | 757 | 5.0 | 5.82 | 2.5 | 1.77 | 4.0 | 12.8 | 12.2 | Y | N |
-| L04 | 25.0 | 25.0 | 8 | 5 | 1 | 1 | 850 | 5.67 | 6.54 | 2.5 | 1.74 | 4.0 | 13.8 | 11.2 | Y | N |
-| L05 | 10.0 | 10.0 | 6 | 3 | 1 | 1 | 479 | 3.08 | 3.68 | 1.5 | 1.92 | 4.0 | 9.36 | 0.64 |  | N |
+| L01 | 25.0 | 25.0 | 12 | 9 | 1 | 1 | 1241 | 8.35 | 9.55 | 4.5 | 1.91 | 4.0 | 18.26 | 6.74 |  | N |
+| L02 | 20.0 | 20.0 | 9 | 6 | 1 | 1 | 868 | 5.78 | 6.68 | 3.0 | 1.82 | 4.0 | 14.0 | 6.0 |  | N |
+| L03 | 25.0 | 25.0 | 12 | 9 | 1 | 1 | 1187 | 8.0 | 9.13 | 4.5 | 1.77 | 4.0 | 18.0 | 7.0 |  | N |
+| L04 | 25.0 | 25.0 | 12 | 9 | 1 | 1 | 1176 | 7.95 | 9.05 | 4.5 | 1.74 | 4.0 | 17.97 | 7.03 |  | N |
+| L05 | 10.0 | 10.0 | 6 | 3 | 1 | 1 | 594 | 3.87 | 4.57 | 1.5 | 1.92 | 4.0 | 10.25 | 0.0 |  | N |
 
-  - L01 flags: active 11.45min < 70% of displayed 25.0min; only 3 delivery cards for 25.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L02 flags: active 10.52min < 70% of displayed 20.0min; only 3 delivery cards for 20.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L03 flags: active 12.8min < 70% of displayed 25.0min; only 5 delivery cards for 25.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L04 flags: active 13.8min < 70% of displayed 25.0min; only 5 delivery cards for 25.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
 
 ### M06 - Documentation, Reporting, PHI Avoidance, and Scope
 - **Module flags:** active 51.82min < 75% of declared 90min
