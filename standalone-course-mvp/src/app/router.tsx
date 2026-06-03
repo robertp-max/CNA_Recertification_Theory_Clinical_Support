@@ -21,10 +21,10 @@ export function AppRoutes() {
       <Route path={paths.dashboard} element={<DashboardPage />} />
       <Route path={paths.modules} element={<ModulesPage />} />
       <Route path={paths.module0} element={<Module0OrientationPage />} />
-      <Route path={paths.module1} element={<Module1OverviewPage />} />
-      <Route path={paths.lesson} element={<LessonPlayerPage />} />
-      <Route path={paths.moduleAssessment} element={<ModuleAssessmentSplashPage />} />
-      <Route path={paths.moduleAssessmentQuiz} element={<ModuleAssessmentQuizPage />} />
+      <Route path={paths.moduleRoute} element={<Module1OverviewPage />} />
+      <Route path={paths.lessonRoute} element={<LessonPlayerPage />} />
+      <Route path={paths.moduleAssessmentRoute} element={<ModuleAssessmentSplashPage />} />
+      <Route path={paths.moduleAssessmentQuizRoute} element={<ModuleAssessmentQuizPage />} />
       <Route path={paths.finalSplash} element={<FinalAssessmentSplashPage />} />
       <Route path={paths.finalQuiz} element={<FinalAssessmentQuizPage />} />
       <Route path={paths.finalResult} element={<FinalResultPage />} />

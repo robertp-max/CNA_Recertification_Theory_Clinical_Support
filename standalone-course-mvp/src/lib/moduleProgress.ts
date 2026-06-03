@@ -1,10 +1,9 @@
-// Derived module/lesson completion (Phase 2) - real per-module progress.
-// M0 = orientation acknowledgements; M1-M6 = ContentV2 lesson flows;
-// M3 remains source-repair flagged until canonical source repair is complete; M7 = final exam + affidavit.
+// Derived module/lesson completion - real per-module progress.
+// M0 = orientation acknowledgements; M10-M17 = CCCCO ContentV2 lesson flows.
 
 import { hasLegalName, type LearnerState } from "./learnerState";
 import { ACTIVE_TIME } from "./activeTime";
-import { courseModules, getModuleDef, requiredTheoryModuleIds } from "../data/courseModules";
+import { courseModules, getModuleDef, moduleSequence, requiredTheoryModuleIds } from "../data/courseModules";
 import type { ModuleDef } from "../data/lessonModel";
 
 export function pct(parts: boolean[]): number {
@@ -75,14 +74,13 @@ export function moduleProgressPct(state: LearnerState, moduleId: string): number
   return Math.round((completedLessonCount(state, def) / def.lessons.length) * 100);
 }
 
-// Sequential unlock order follows the ContentV2 required-theory sequence.
-const unlockChain = ["m0", "m1", "m2", "m3", "m4", "m5", "m6", "m7"];
+// Sequential unlock order follows the generated ContentV2 module sequence.
+const unlockChain = moduleSequence;
 
 export function isModuleUnlocked(state: LearnerState, moduleId: string): boolean {
   if (state.unlockMode) return true;
   const def = getModuleDef(moduleId);
-  if (def?.kind === "locked") return false; // M3 stays locked until source repaired
-  if (moduleId === "m7") return requiredTheoryComplete(state);
+  if (def?.kind === "locked") return false;
   const idx = unlockChain.indexOf(moduleId);
   if (idx <= 0) return true;
   const prev = unlockChain[idx - 1];
@@ -110,8 +108,8 @@ export function activeTimeMet(state: LearnerState): boolean {
 }
 
 export function requiredInteractionComplete(state: LearnerState): boolean {
-  // No-PHI ack + at least Module 1 lesson interactions complete.
-  return state.phiAck && isModuleComplete(state, "m1");
+  // No-PHI ack + first required CCCCO theory module interactions complete.
+  return state.phiAck && isModuleComplete(state, requiredTheoryModuleIds[0]);
 }
 
 // Reviewer/demo helper: mark every build-ready lesson viewed + checked + over the

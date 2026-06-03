@@ -13,6 +13,11 @@ function appLessonId(lessonId: string): string {
   return `l${Number(lessonId.slice(1))}`;
 }
 
+function canonicalModuleId(moduleId: string): string {
+  if (moduleId.toUpperCase().startsWith("M") && moduleId.length >= 3) return moduleId.toUpperCase();
+  return `M${String(Number(moduleId.replace("m", ""))).padStart(2, "0")}`;
+}
+
 function toKnowledgeCheck(question: GeneratedQuestion | null | undefined): KnowledgeCheck | undefined {
   if (!question) return undefined;
   // NOTE: learner-facing remediation is rendered via the course-extension model
@@ -57,20 +62,20 @@ function toLesson(lesson: GeneratedLesson): ModuleLesson {
 }
 
 function toModuleDef(module: GeneratedModule): ModuleDef {
-  const n = Number(module.module_id.slice(1));
+  const status = module.status as string;
   return {
     id: appModuleId(module.module_id),
-    code: module.module_id.replace(/^M0?/, "M"),
-    title: `Module ${n}: ${module.module_title}`,
+    code: module.module_id === "M00" ? "M0" : module.module_id,
+    title: module.module_title,
     shortTitle: module.short_title,
     time: `${(module.estimated_minutes / 60).toFixed(module.estimated_minutes % 60 ? 1 : 0)} hr`,
     summary: module.lessons.map((lesson) => lesson.lesson_title).join("; "),
-    kind: module.module_id === "M00" ? "orientation" : module.module_id === "M07" ? "final" : module.status === "source-repair" ? "locked" : "lesson",
-    status: module.status === "source-repair" ? "source-repair" : module.status === "sme-review" ? "sme-review" : "ready",
-    countsTowardTheory: module.counts_toward_theory && module.status !== "source-repair",
+    kind: module.module_id === "M00" ? "orientation" : status === "source-repair" ? "locked" : "lesson",
+    status: status === "source-repair" ? "source-repair" : status === "sme-review" ? "sme-review" : "ready",
+    countsTowardTheory: Boolean(module.counts_toward_theory) && status !== "source-repair",
     reviewerNote: [module.source_status_flag, module.sme_review_flag, module.compliance_review_flag].filter(Boolean).join(" "),
     learningObjectives: [...module.learning_objectives],
-    lessons: module.module_id === "M00" || module.module_id === "M07" ? [] : module.lessons.map(toLesson),
+    lessons: module.module_id === "M00" ? [] : module.lessons.map(toLesson),
   };
 }
 
@@ -91,7 +96,7 @@ export const requiredTheoryModuleIds = courseModules.filter((m) => m.countsTowar
 export const moduleSequence = courseModules.map((m) => m.id);
 
 export function getGeneratedModule(moduleId: string) {
-  const canonical = moduleId.toUpperCase().startsWith("M") && moduleId.length === 3 ? moduleId.toUpperCase() : `M${String(Number(moduleId.replace("m", ""))).padStart(2, "0")}`;
+  const canonical = canonicalModuleId(moduleId);
   return courseContentV2.modules.find((m) => m.module_id === canonical);
 }
 
@@ -101,18 +106,34 @@ export function getGeneratedLesson(moduleId: string, lessonId: string) {
   return mod?.lessons.find((lesson) => lesson.lesson_id === canonicalLesson);
 }
 
-export const module1Assessment = courseContentV2.assessments.module_assessments.M01;
-export const moduleQuizItems = module1Assessment.questions.map((question) => ({
-  id: question.id,
-  prompt: question.prompt,
-  choices: question.choices.map((choice) => ({ id: choice.id, label: choice.label })),
-  correctId: question.correct_id_internal,
-}));
-export const MODULE_QUIZ_PASS_PCT = module1Assessment.pass_percent ?? 80;
-export function scoreModuleQuiz(answers: Record<string, string>): { pct: number; passed: boolean } {
-  const correct = moduleQuizItems.filter((q) => answers[q.id] === q.correctId).length;
-  const pct = Math.round((correct / moduleQuizItems.length) * 100);
-  return { pct, passed: pct >= MODULE_QUIZ_PASS_PCT };
+export function getModuleAssessment(moduleId: string) {
+  const canonical = canonicalModuleId(moduleId);
+  return courseContentV2.assessments.module_assessments[canonical as keyof typeof courseContentV2.assessments.module_assessments];
+}
+
+export function getModuleQuizItems(moduleId = "m10") {
+  const assessment = getModuleAssessment(moduleId);
+  return (assessment?.questions ?? []).map((question) => ({
+    id: question.id,
+    prompt: question.prompt,
+    choices: question.choices.map((choice) => ({ id: choice.id, label: choice.label })),
+    correctId: question.correct_id_internal,
+  }));
+}
+
+export function getModuleQuizPassPct(moduleId = "m10") {
+  return getModuleAssessment(moduleId)?.pass_percent ?? 80;
+}
+
+export const module1Assessment = getModuleAssessment("m10")!;
+export const moduleQuizItems = getModuleQuizItems("m10");
+export const MODULE_QUIZ_PASS_PCT = getModuleQuizPassPct("m10");
+export function scoreModuleQuiz(answers: Record<string, string>, moduleId = "m10"): { pct: number; passed: boolean } {
+  const items = getModuleQuizItems(moduleId);
+  const passPct = getModuleQuizPassPct(moduleId);
+  const correct = items.filter((q) => answers[q.id] === q.correctId).length;
+  const pct = Math.round((correct / items.length) * 100);
+  return { pct, passed: pct >= passPct };
 }
 
 export type ExamItem = {

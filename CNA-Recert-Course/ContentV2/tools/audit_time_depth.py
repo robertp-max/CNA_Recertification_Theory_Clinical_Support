@@ -18,7 +18,8 @@ ESTIMATION MODEL (documented, deterministic)
     is treated as an audio fallback, never as automatic extra time.
   Per-card active-learning time:
     overview  : clamp(max(narration, reading), 0.5, 1.0)
-    delivery  : max(narration, reading) + 0.5 reflection/check
+    delivery  : max(narration, reading) + 0.5 reflection/check + optional
+                source_backed_activity_minutes for authored CCCCO activities
     challenge : clamp(1.5 + words/180, 1.5, 3.0)   (read scenario + decide)
     debrief   : clamp(2.0 + words/180, 2.0, 4.0)   (rationale review)
   Assessment time (module + final) is reported SEPARATELY and never added to
@@ -73,9 +74,10 @@ def card_minutes(card: dict) -> dict:
                 "interaction": 0.0, "challenge": 0.0, "remediation": 0.0, "active": active}
     if ctype == "delivery":
         consumption = max(narr_min, read_min)  # no double-count of identical text
-        active = consumption + 0.5
+        source_activity = float(card.get("source_backed_activity_minutes") or 0)
+        active = consumption + 0.5 + source_activity
         return {"type": ctype, "wc": wc, "narration": narr_min, "reading": read_min,
-                "interaction": 0.5, "challenge": 0.0, "remediation": 0.0, "active": active}
+                "interaction": 0.5 + source_activity, "challenge": 0.0, "remediation": 0.0, "active": active}
     if ctype == "challenge":
         mins = clamp(1.5 + wc / 180.0, 1.5, 3.0)
         return {"type": ctype, "wc": wc, "narration": narr_min, "reading": read_min,
@@ -172,8 +174,8 @@ def audit(data: dict) -> dict:
                 gap_reason = "No canonical ContentV1 source (truncated/contaminated after Screen 3.2.3); Source Repair Required."
             else:
                 expansion = False
-                gap_reason = ("ContentV1 teaching screens for this lesson are already fully transformed; "
-                              "remaining gap requires NEW SME-authored source (not available) - not padded.")
+            gap_reason = ("CCCCO source-backed lesson cards and activities are already transformed; "
+                          "remaining gap, if any, must be closed only from CCCCO Modules 10-17 source - not padded.")
 
             status = l.get("time_model_status") or ("source-repair" if is_repair_mod else "modeled")
             if failing and status not in ("source-repair",):

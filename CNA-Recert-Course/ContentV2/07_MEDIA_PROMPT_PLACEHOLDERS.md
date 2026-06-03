@@ -1,300 +1,590 @@
 # 07_MEDIA_PROMPT_PLACEHOLDERS — Per-Card Media Placeholders
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T21:27:42+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T23:36:29+00:00. Do not hand-edit.
 
 
 No media assets are generated for the MVP. Every card carries a safe 16:9 placeholder with alt text and a PHI-safety note. No real charts, facility names, patient identifiers, gore, or unsafe actions.
 
 | app.location | Scene Title | Media Status | Required for MVP | Asset Path |
 |---|---|---|---|---|
-| module.m00.lesson.l00.card.c01_overview | Welcome and Course Purpose | placeholder-pending | False | /assets/media/module.m00.lesson.l00.card.c01_overview.png |
-| module.m00.lesson.l00.card.c02a_delivery | Welcome and Course Purpose - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m00.lesson.l00.card.c02a_delivery.png |
-| module.m00.lesson.l00.card.c03_challenge | Welcome and Course Purpose Challenge | placeholder-pending | False | /assets/media/module.m00.lesson.l00.card.c03_challenge.png |
-| module.m00.lesson.l00.card.c04a_debrief | Welcome and Course Purpose challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m00.lesson.l00.card.c04a_debrief.png |
-| module.m00.lesson.l01.card.c01_overview | What This Course Covers and Does Not Cover | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c01_overview.png |
-| module.m00.lesson.l01.card.c02a_delivery | What This Course Covers and Does Not Cover - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c02a_delivery.png |
-| module.m00.lesson.l01.card.c03_challenge | What This Course Covers and Does Not Cover Challenge | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c03_challenge.png |
-| module.m00.lesson.l01.card.c04a_debrief | What This Course Covers and Does Not Cover challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c04a_debrief.png |
-| module.m00.lesson.l02.card.c01_overview | Identity Confirmation | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c01_overview.png |
-| module.m00.lesson.l02.card.c02a_delivery | Identity Confirmation - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c02a_delivery.png |
-| module.m00.lesson.l02.card.c03_challenge | Identity Confirmation Challenge | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c03_challenge.png |
-| module.m00.lesson.l02.card.c04a_debrief | Identity Confirmation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c04a_debrief.png |
-| module.m00.lesson.l03.card.c01_overview | Course Navigation and Progress Tracking | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c01_overview.png |
-| module.m00.lesson.l03.card.c02a_delivery | Course Navigation and Progress Tracking - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c02a_delivery.png |
-| module.m00.lesson.l03.card.c03_challenge | Course Navigation and Progress Tracking Challenge | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c03_challenge.png |
-| module.m00.lesson.l03.card.c04a_debrief | Course Navigation and Progress Tracking challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c04a_debrief.png |
-| module.m00.lesson.l04.card.c01_overview | Acknowledgement and Compliance Check | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c01_overview.png |
-| module.m00.lesson.l04.card.c02a_delivery | Acknowledgement and Compliance Check - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c02a_delivery.png |
-| module.m00.lesson.l04.card.c03_challenge | Acknowledgement and Compliance Check Challenge | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c03_challenge.png |
-| module.m00.lesson.l04.card.c04a_debrief | Acknowledgement and Compliance Check challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c04a_debrief.png |
-| module.m01.lesson.l01.card.c01_overview | Why Infection Control Matters in Long-Term Care | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c01_overview.png |
-| module.m01.lesson.l01.card.c02a_delivery | Healthcare-Associated Infections in Long-Term Care | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c02a_delivery.png |
-| module.m01.lesson.l01.card.c02b_delivery | Your Everyday Role in Infection Control | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c02b_delivery.png |
-| module.m01.lesson.l01.card.c02c_delivery | Why Long-Term Care Carries Unique Infection Risk | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c02c_delivery.png |
-| module.m01.lesson.l01.card.c03_challenge | Why Infection Control Matters in Long-Term Care Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c03_challenge.png |
-| module.m01.lesson.l01.card.c04a_debrief | Why Infection Control Matters in Long-Term Care challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l01.card.c04a_debrief.png |
-| module.m01.lesson.l02.card.c01_overview | The Chain of Infection | placeholder-pending | False | /assets/media/module.m01.lesson.l02.card.c01_overview.png |
-| module.m01.lesson.l02.card.c02a_delivery | The Six Links in the Chain of Infection | placeholder-pending | False | /assets/media/module.m01.lesson.l02.card.c02a_delivery.png |
-| module.m01.lesson.l02.card.c02b_delivery | How CNAs Break the Chain Every Day | placeholder-pending | False | /assets/media/module.m01.lesson.l02.card.c02b_delivery.png |
-| module.m01.lesson.l02.card.c03_challenge | The Chain of Infection Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l02.card.c03_challenge.png |
-| module.m01.lesson.l02.card.c04a_debrief | The Chain of Infection challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l02.card.c04a_debrief.png |
-| module.m01.lesson.l03.card.c01_overview | Hand Hygiene - Your Most Important Tool | placeholder-pending | False | /assets/media/module.m01.lesson.l03.card.c01_overview.png |
-| module.m01.lesson.l03.card.c02a_delivery | The WHO Five Moments for Hand Hygiene | placeholder-pending | False | /assets/media/module.m01.lesson.l03.card.c02a_delivery.png |
-| module.m01.lesson.l03.card.c02b_delivery | Soap and Water vs. Alcohol-Based Sanitizer | placeholder-pending | False | /assets/media/module.m01.lesson.l03.card.c02b_delivery.png |
-| module.m01.lesson.l03.card.c03_challenge | Hand Hygiene - Your Most Important Tool Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l03.card.c03_challenge.png |
-| module.m01.lesson.l03.card.c04a_debrief | Hand Hygiene - Your Most Important Tool challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l03.card.c04a_debrief.png |
-| module.m01.lesson.l04.card.c01_overview | Personal Protective Equipment (PPE) | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c01_overview.png |
-| module.m01.lesson.l04.card.c02a_delivery | Standard Precautions: Protect Every Time | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c02a_delivery.png |
-| module.m01.lesson.l04.card.c02b_delivery | Selecting the Right PPE for the Task | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c02b_delivery.png |
-| module.m01.lesson.l04.card.c02c_delivery | Donning and Doffing PPE in the Correct Order | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c02c_delivery.png |
-| module.m01.lesson.l04.card.c03_challenge | Personal Protective Equipment (PPE) Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c03_challenge.png |
-| module.m01.lesson.l04.card.c04a_debrief | Personal Protective Equipment (PPE) challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l04.card.c04a_debrief.png |
-| module.m01.lesson.l05.card.c01_overview | Recognizing and Reporting Infection Signs | placeholder-pending | False | /assets/media/module.m01.lesson.l05.card.c01_overview.png |
-| module.m01.lesson.l05.card.c02a_delivery | Common Signs of Infection to Watch For | placeholder-pending | False | /assets/media/module.m01.lesson.l05.card.c02a_delivery.png |
-| module.m01.lesson.l05.card.c02b_delivery | Reporting Infection Concerns: What, When, How | placeholder-pending | False | /assets/media/module.m01.lesson.l05.card.c02b_delivery.png |
-| module.m01.lesson.l05.card.c03_challenge | Recognizing and Reporting Infection Signs Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l05.card.c03_challenge.png |
-| module.m01.lesson.l05.card.c04a_debrief | Recognizing and Reporting Infection Signs challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l05.card.c04a_debrief.png |
-| module.m01.lesson.l06.card.c01_overview | Environmental Cleaning and Safe Practices | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c01_overview.png |
-| module.m01.lesson.l06.card.c02a_delivery | Environmental Cleaning Principles | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c02a_delivery.png |
-| module.m01.lesson.l06.card.c02b_delivery | Safe Linen Handling | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c02b_delivery.png |
-| module.m01.lesson.l06.card.c02c_delivery | Sharps and Biohazard Waste Safety | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c02c_delivery.png |
-| module.m01.lesson.l06.card.c03_challenge | Environmental Cleaning and Safe Practices Challenge | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c03_challenge.png |
-| module.m01.lesson.l06.card.c04a_debrief | Environmental Cleaning and Safe Practices challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m01.lesson.l06.card.c04a_debrief.png |
-| module.m02.lesson.l01.card.c01_overview | Resident Rights Foundation | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c01_overview.png |
-| module.m02.lesson.l01.card.c02a_delivery | What Are Resident Rights? | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c02a_delivery.png |
-| module.m02.lesson.l01.card.c02b_delivery | Why Rights Matter in Daily Care | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c02b_delivery.png |
-| module.m02.lesson.l01.card.c02c_delivery | The Ombudsman and Resident Council | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c02c_delivery.png |
-| module.m02.lesson.l01.card.c02d_delivery | The Ombudsman and Resident Council | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c02d_delivery.png |
-| module.m02.lesson.l01.card.c02e_delivery | Advance Directives and DNR | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c02e_delivery.png |
-| module.m02.lesson.l01.card.c03_challenge | Resident Rights Foundation Challenge | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c03_challenge.png |
-| module.m02.lesson.l01.card.c04a_debrief | Resident Rights Foundation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m02.lesson.l01.card.c04a_debrief.png |
-| module.m02.lesson.l02.card.c01_overview | Types of Abuse and Neglect | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c01_overview.png |
-| module.m02.lesson.l02.card.c02a_delivery | Defining Abuse | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c02a_delivery.png |
-| module.m02.lesson.l02.card.c02b_delivery | Eight Types of Elder Abuse | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c02b_delivery.png |
-| module.m02.lesson.l02.card.c02c_delivery | Eight Types of Elder Abuse | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c02c_delivery.png |
-| module.m02.lesson.l02.card.c02d_delivery | Interactive: Match the Abuse Type | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c02d_delivery.png |
-| module.m02.lesson.l02.card.c02e_delivery | Neglect vs. Negligence | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c02e_delivery.png |
-| module.m02.lesson.l02.card.c03_challenge | Types of Abuse and Neglect Challenge | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c03_challenge.png |
-| module.m02.lesson.l02.card.c04a_debrief | Types of Abuse and Neglect challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m02.lesson.l02.card.c04a_debrief.png |
-| module.m02.lesson.l03.card.c01_overview | Signs, Symptoms, and Evidence of Abuse | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c01_overview.png |
-| module.m02.lesson.l03.card.c02a_delivery | Recognizing Signs and Symptoms | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c02a_delivery.png |
-| module.m02.lesson.l03.card.c02b_delivery | Objective vs. Subjective Observations | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c02b_delivery.png |
-| module.m02.lesson.l03.card.c02c_delivery | Objective vs. Subjective Observations | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c02c_delivery.png |
-| module.m02.lesson.l03.card.c03_challenge | Signs, Symptoms, and Evidence of Abuse Challenge | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c03_challenge.png |
-| module.m02.lesson.l03.card.c04a_debrief | Signs, Symptoms, and Evidence of Abuse challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m02.lesson.l03.card.c04a_debrief.png |
-| module.m02.lesson.l04.card.c01_overview | Mandated Reporter Obligations | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c01_overview.png |
-| module.m02.lesson.l04.card.c02a_delivery | You Are a Mandated Reporter | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c02a_delivery.png |
-| module.m02.lesson.l04.card.c02b_delivery | Reporting Decision Path | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c02b_delivery.png |
-| module.m02.lesson.l04.card.c02c_delivery | Scenario: The Reporting Decision (Branching) | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c02c_delivery.png |
-| module.m02.lesson.l04.card.c03_challenge | Mandated Reporter Obligations Challenge | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c03_challenge.png |
-| module.m02.lesson.l04.card.c04a_debrief | Mandated Reporter Obligations challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m02.lesson.l04.card.c04a_debrief.png |
-| module.m02.lesson.l05.card.c01_overview | Prevention, Boundaries, and Safety | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c01_overview.png |
-| module.m02.lesson.l05.card.c02a_delivery | Abuse Prevention Strategies | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c02a_delivery.png |
-| module.m02.lesson.l05.card.c02b_delivery | Professional Boundaries | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c02b_delivery.png |
-| module.m02.lesson.l05.card.c02c_delivery | HIPAA and Confidentiality in Abuse Situations | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c02c_delivery.png |
-| module.m02.lesson.l05.card.c02d_delivery | HIPAA and Confidentiality in Abuse Situations | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c02d_delivery.png |
-| module.m02.lesson.l05.card.c03_challenge | Prevention, Boundaries, and Safety Challenge | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c03_challenge.png |
-| module.m02.lesson.l05.card.c04a_debrief | Prevention, Boundaries, and Safety challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m02.lesson.l05.card.c04a_debrief.png |
-| module.m03.lesson.l01.card.c01_overview | Understanding Dementia and Cognitive Conditions | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c01_overview.png |
-| module.m03.lesson.l01.card.c02a_delivery | What Is Dementia? | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c02a_delivery.png |
-| module.m03.lesson.l01.card.c02b_delivery | Behavioral Symptoms of Dementia | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c02b_delivery.png |
-| module.m03.lesson.l01.card.c02c_delivery | Alzheimer's Disease Stages | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c02c_delivery.png |
-| module.m03.lesson.l01.card.c02d_delivery | Other Cognitive Conditions | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c02d_delivery.png |
-| module.m03.lesson.l01.card.c02e_delivery | Other Cognitive Conditions | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c02e_delivery.png |
-| module.m03.lesson.l01.card.c03_challenge | Understanding Dementia and Cognitive Conditions Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c03_challenge.png |
-| module.m03.lesson.l01.card.c04a_debrief | Understanding Dementia and Cognitive Conditions challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l01.card.c04a_debrief.png |
-| module.m03.lesson.l02.card.c01_overview | Communication Strategies for Cognitive Impairment | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c01_overview.png |
-| module.m03.lesson.l02.card.c02a_delivery | Core Communication Principles | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c02a_delivery.png |
-| module.m03.lesson.l02.card.c02b_delivery | The Best Friends Approach | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c02b_delivery.png |
-| module.m03.lesson.l02.card.c02c_delivery | Scenario: Communication Choices | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c02c_delivery.png |
-| module.m03.lesson.l02.card.c03_challenge | Communication Strategies for Cognitive Impairment Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c03_challenge.png |
-| module.m03.lesson.l02.card.c04a_debrief | Communication Strategies for Cognitive Impairment challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l02.card.c04a_debrief.png |
-| module.m03.lesson.l03.card.c01_overview | Cultural Sensitivity and Spiritual Respect | placeholder-pending | False | /assets/media/module.m03.lesson.l03.card.c01_overview.png |
-| module.m03.lesson.l03.card.c02a_delivery | Cultural Sensitivity and Spiritual Respect - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m03.lesson.l03.card.c02a_delivery.png |
-| module.m03.lesson.l03.card.c03_challenge | Cultural Sensitivity and Spiritual Respect Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l03.card.c03_challenge.png |
-| module.m03.lesson.l03.card.c04a_debrief | Cultural Sensitivity and Spiritual Respect challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l03.card.c04a_debrief.png |
-| module.m03.lesson.l04.card.c01_overview | End-of-Life Care, Grief, and Hospice | placeholder-pending | False | /assets/media/module.m03.lesson.l04.card.c01_overview.png |
-| module.m03.lesson.l04.card.c02a_delivery | End-of-Life Care, Grief, and Hospice - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m03.lesson.l04.card.c02a_delivery.png |
-| module.m03.lesson.l04.card.c03_challenge | End-of-Life Care, Grief, and Hospice Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l04.card.c03_challenge.png |
-| module.m03.lesson.l04.card.c04a_debrief | End-of-Life Care, Grief, and Hospice challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l04.card.c04a_debrief.png |
-| module.m03.lesson.l05.card.c01_overview | Trauma-Informed Care and De-escalation | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c01_overview.png |
-| module.m03.lesson.l05.card.c02a_delivery | Trauma-Informed Care and De-escalation - Source Repair Placeholder | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c02a_delivery.png |
-| module.m03.lesson.l05.card.c03_challenge | Trauma-Informed Care and De-escalation Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c03_challenge.png |
-| module.m03.lesson.l05.card.c04a_debrief | Trauma-Informed Care and De-escalation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c04a_debrief.png |
-| module.m04.lesson.l01.card.c01_overview | Body Mechanics and Injury Prevention | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c01_overview.png |
-| module.m04.lesson.l01.card.c02a_delivery | Why Alignment Protects the Body | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02a_delivery.png |
-| module.m04.lesson.l01.card.c02b_delivery | Aging, Strength, and Injury Risk | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02b_delivery.png |
-| module.m04.lesson.l01.card.c02c_delivery | Complications of Inactivity | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02c_delivery.png |
-| module.m04.lesson.l01.card.c02d_delivery | Preventing Inactivity Complications | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02d_delivery.png |
-| module.m04.lesson.l01.card.c02e_delivery | Pain, Arthritis, and Fracture Clues | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02e_delivery.png |
-| module.m04.lesson.l01.card.c02f_delivery | CNA Workplace Safety Boundaries | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02f_delivery.png |
-| module.m04.lesson.l01.card.c03_challenge | Body Mechanics and Injury Prevention Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c03_challenge.png |
-| module.m04.lesson.l01.card.c04a_debrief | Body Mechanics and Injury Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c04a_debrief.png |
-| module.m04.lesson.l02.card.c01_overview | Safe Transfers and Ambulation | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c01_overview.png |
-| module.m04.lesson.l02.card.c02a_delivery | Readiness for Mobility Assistance | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02a_delivery.png |
-| module.m04.lesson.l02.card.c02b_delivery | Transfer Safety and Help Requirements | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02b_delivery.png |
-| module.m04.lesson.l02.card.c02c_delivery | Gait Belt and Ambulation Checks | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02c_delivery.png |
-| module.m04.lesson.l02.card.c02d_delivery | Assistive Devices for Mobility | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02d_delivery.png |
-| module.m04.lesson.l02.card.c02e_delivery | Visual Impairment and Environment Support | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02e_delivery.png |
-| module.m04.lesson.l02.card.c02f_delivery | Osteoporosis and Fracture Precautions | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02f_delivery.png |
-| module.m04.lesson.l02.card.c02g_delivery | When Ambulation Must Stop | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02g_delivery.png |
-| module.m04.lesson.l02.card.c03_challenge | Safe Transfers and Ambulation Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c03_challenge.png |
-| module.m04.lesson.l02.card.c04a_debrief | Safe Transfers and Ambulation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c04a_debrief.png |
-| module.m04.lesson.l03.card.c01_overview | Range of Motion and Restorative Care | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c01_overview.png |
-| module.m04.lesson.l03.card.c02a_delivery | Restorative Care Promotes Potential | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02a_delivery.png |
-| module.m04.lesson.l03.card.c02b_delivery | The Rehabilitation Team and CNA Role | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02b_delivery.png |
-| module.m04.lesson.l03.card.c02c_delivery | Promoting Self-Care and ADLs | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02c_delivery.png |
-| module.m04.lesson.l03.card.c02d_delivery | Comfort and Adaptive Devices | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02d_delivery.png |
-| module.m04.lesson.l03.card.c02e_delivery | ROM Purpose and Types | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02e_delivery.png |
-| module.m04.lesson.l03.card.c02f_delivery | ROM Safety Rules | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02f_delivery.png |
-| module.m04.lesson.l03.card.c02g_delivery | Care Plan Meetings and Restorative Documentation | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02g_delivery.png |
-| module.m04.lesson.l03.card.c02h_delivery | Self-Esteem, Family, and Progress | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02h_delivery.png |
-| module.m04.lesson.l03.card.c03_challenge | Range of Motion and Restorative Care Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c03_challenge.png |
-| module.m04.lesson.l03.card.c04a_debrief | Range of Motion and Restorative Care challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c04a_debrief.png |
-| module.m04.lesson.l04.card.c01_overview | Fall Prevention | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c01_overview.png |
-| module.m04.lesson.l04.card.c02a_delivery | Why Falls Increase With Aging | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02a_delivery.png |
-| module.m04.lesson.l04.card.c02b_delivery | Environment Controls That Prevent Falls | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02b_delivery.png |
-| module.m04.lesson.l04.card.c02c_delivery | Position Changes and Fainting Risk | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02c_delivery.png |
-| module.m04.lesson.l04.card.c02d_delivery | Falls, Osteoporosis, and Fractured Hip Warning Signs | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02d_delivery.png |
-| module.m04.lesson.l04.card.c02e_delivery | Assistive Devices Are Part of the Fall Plan | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02e_delivery.png |
-| module.m04.lesson.l04.card.c02f_delivery | Reporting a Near-Fall | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02f_delivery.png |
-| module.m04.lesson.l04.card.c03_challenge | Fall Prevention Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c03_challenge.png |
-| module.m04.lesson.l04.card.c04a_debrief | Fall Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c04a_debrief.png |
-| module.m04.lesson.l05.card.c01_overview | Emergency Procedures - Fire, Choking, Disaster | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c01_overview.png |
-| module.m04.lesson.l05.card.c02a_delivery | Recognizing Distress Early | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02a_delivery.png |
-| module.m04.lesson.l05.card.c02b_delivery | General Emergency Response Sequence | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02b_delivery.png |
-| module.m04.lesson.l05.card.c02c_delivery | Advance Directives and Code Status Boundaries | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02c_delivery.png |
-| module.m04.lesson.l05.card.c02d_delivery | Choking: Causes, Signs, and Deferred Skill | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02d_delivery.png |
-| module.m04.lesson.l05.card.c02e_delivery | Seizure Safety | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02e_delivery.png |
-| module.m04.lesson.l05.card.c02f_delivery | Bleeding, Shock, and Respiratory Distress | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02f_delivery.png |
-| module.m04.lesson.l05.card.c02g_delivery | Emergency Codes and Special Considerations | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02g_delivery.png |
-| module.m04.lesson.l05.card.c03_challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c03_challenge.png |
-| module.m04.lesson.l05.card.c04a_debrief | Emergency Procedures - Fire, Choking, Disaster challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c04a_debrief.png |
-| module.m05.lesson.l01.card.c01_overview | Nutrition and Hydration | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c01_overview.png |
-| module.m05.lesson.l01.card.c02a_delivery | Why Food and Fluids Matter | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02a_delivery.png |
-| module.m05.lesson.l01.card.c02b_delivery | Common Nutrients and Food Sources | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02b_delivery.png |
-| module.m05.lesson.l01.card.c02c_delivery | Food Guidance and Balanced Choices | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02c_delivery.png |
-| module.m05.lesson.l01.card.c02d_delivery | Nutrition and Fluid Needs in Older Adults | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02d_delivery.png |
-| module.m05.lesson.l01.card.c02e_delivery | Fluids, Minimum Intake, and Water Functions | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02e_delivery.png |
-| module.m05.lesson.l01.card.c02f_delivery | Therapeutic Diets and Texture Orders | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02f_delivery.png |
-| module.m05.lesson.l01.card.c02g_delivery | Food Preferences, Allergies, Culture, and Religion | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02g_delivery.png |
-| module.m05.lesson.l01.card.c02h_delivery | Vegetarian and Vegan Basics | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02h_delivery.png |
-| module.m05.lesson.l01.card.c02i_delivery | Meal Refusal, Intake Percent, and What to Report | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c02i_delivery.png |
-| module.m05.lesson.l01.card.c03_challenge | Nutrition and Hydration Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c03_challenge.png |
-| module.m05.lesson.l01.card.c04a_debrief | Nutrition and Hydration challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c04a_debrief.png |
-| module.m05.lesson.l02.card.c01_overview | Feeding Assistance and Aspiration Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c01_overview.png |
-| module.m05.lesson.l02.card.c02a_delivery | Feeding Assistance: Dignity and Pace | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02a_delivery.png |
-| module.m05.lesson.l02.card.c02b_delivery | Dysphagia and Choking Risk | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02b_delivery.png |
-| module.m05.lesson.l02.card.c02c_delivery | Ordered Textures and Thickened Liquids | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02c_delivery.png |
-| module.m05.lesson.l02.card.c02d_delivery | Tube Feeding: CNA Observation Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02d_delivery.png |
-| module.m05.lesson.l02.card.c02e_delivery | IV Fluids and Nutrition: What the CNA Reports | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02e_delivery.png |
-| module.m05.lesson.l02.card.c02f_delivery | When Feeding Becomes a Reportable Change | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c02f_delivery.png |
-| module.m05.lesson.l02.card.c03_challenge | Feeding Assistance and Aspiration Prevention Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c03_challenge.png |
-| module.m05.lesson.l02.card.c04a_debrief | Feeding Assistance and Aspiration Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l02.card.c04a_debrief.png |
-| module.m05.lesson.l03.card.c01_overview | Skin Integrity and Pressure Injury Prevention | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c01_overview.png |
-| module.m05.lesson.l03.card.c02a_delivery | Skin Layers and Why Integrity Matters | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02a_delivery.png |
-| module.m05.lesson.l03.card.c02b_delivery | Aging Skin and Immobility Risk | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02b_delivery.png |
-| module.m05.lesson.l03.card.c02c_delivery | High-Risk Skin Areas | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02c_delivery.png |
-| module.m05.lesson.l03.card.c02d_delivery | Skin Lesions and Wounds: What to Report | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02d_delivery.png |
-| module.m05.lesson.l03.card.c02e_delivery | Pressure Injuries: Recognize Risk, Do Not Diagnose | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02e_delivery.png |
-| module.m05.lesson.l03.card.c02f_delivery | Pressure Injury Prevention Bundle | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02f_delivery.png |
-| module.m05.lesson.l03.card.c02g_delivery | Devices, Tubing, Braces, and Bed Position | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02g_delivery.png |
-| module.m05.lesson.l03.card.c02h_delivery | Objective Skin Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02h_delivery.png |
-| module.m05.lesson.l03.card.c02i_delivery | Skin Safety Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c02i_delivery.png |
-| module.m05.lesson.l03.card.c03_challenge | Skin Integrity and Pressure Injury Prevention Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c03_challenge.png |
-| module.m05.lesson.l03.card.c04a_debrief | Skin Integrity and Pressure Injury Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l03.card.c04a_debrief.png |
-| module.m05.lesson.l04.card.c01_overview | Vital Signs - Measurement and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c01_overview.png |
-| module.m05.lesson.l04.card.c02a_delivery | Vital Signs: Purpose and Observation | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02a_delivery.png |
-| module.m05.lesson.l04.card.c02b_delivery | Temperature Regulation and Measurement Sites | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02b_delivery.png |
-| module.m05.lesson.l04.card.c02c_delivery | Comfort Measures for Temperature Changes | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02c_delivery.png |
-| module.m05.lesson.l04.card.c02d_delivery | Pulse Sites, Factors, and Qualities | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02d_delivery.png |
-| module.m05.lesson.l04.card.c02e_delivery | Respirations and Abnormal Patterns | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02e_delivery.png |
-| module.m05.lesson.l04.card.c02f_delivery | Blood Pressure: What the Numbers Mean | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02f_delivery.png |
-| module.m05.lesson.l04.card.c02g_delivery | Blood Pressure Accuracy and Safety Boundaries | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02g_delivery.png |
-| module.m05.lesson.l04.card.c02h_delivery | TPR Sequence and When to Escalate | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02h_delivery.png |
-| module.m05.lesson.l04.card.c02i_delivery | Pain Observation and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c02i_delivery.png |
-| module.m05.lesson.l04.card.c03_challenge | Vital Signs - Measurement and Reporting Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c03_challenge.png |
-| module.m05.lesson.l04.card.c04a_debrief | Vital Signs - Measurement and Reporting challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l04.card.c04a_debrief.png |
-| module.m05.lesson.l05.card.c01_overview | Monitoring, Documentation, and Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c01_overview.png |
-| module.m05.lesson.l05.card.c02a_delivery | Intake and Output (I&O) | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02a_delivery.png |
-| module.m05.lesson.l05.card.c02b_delivery | Vital Sign Recording | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02b_delivery.png |
-| module.m05.lesson.l05.card.c02c_delivery | Weight Monitoring and Change Reporting | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c02c_delivery.png |
-| module.m05.lesson.l05.card.c03_challenge | Monitoring, Documentation, and Reporting Challenge | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c03_challenge.png |
-| module.m05.lesson.l05.card.c04a_debrief | Monitoring, Documentation, and Reporting challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m05.lesson.l05.card.c04a_debrief.png |
-| module.m06.lesson.l01.card.c01_overview | Observation - Objective vs. Subjective | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c01_overview.png |
-| module.m06.lesson.l01.card.c02a_delivery | The CNA as Observer | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c02a_delivery.png |
-| module.m06.lesson.l01.card.c02b_delivery | Practice: Objective or Subjective? | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c02b_delivery.png |
-| module.m06.lesson.l01.card.c03_challenge | Observation - Objective vs. Subjective Challenge | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c03_challenge.png |
-| module.m06.lesson.l01.card.c04a_debrief | Observation - Objective vs. Subjective challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m06.lesson.l01.card.c04a_debrief.png |
-| module.m06.lesson.l02.card.c01_overview | Documentation Standards | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c01_overview.png |
-| module.m06.lesson.l02.card.c02a_delivery | Rules of Legal Documentation | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c02a_delivery.png |
-| module.m06.lesson.l02.card.c02b_delivery | Common Approved Abbreviations | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c02b_delivery.png |
-| module.m06.lesson.l02.card.c02c_delivery | Documentation Scenario | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c02c_delivery.png |
-| module.m06.lesson.l02.card.c03_challenge | Documentation Standards Challenge | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c03_challenge.png |
-| module.m06.lesson.l02.card.c04a_debrief | Documentation Standards challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m06.lesson.l02.card.c04a_debrief.png |
-| module.m06.lesson.l03.card.c01_overview | Change of Condition - What to Report | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c01_overview.png |
-| module.m06.lesson.l03.card.c02a_delivery | What Is a Change of Condition? | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c02a_delivery.png |
-| module.m06.lesson.l03.card.c02b_delivery | What Is a Change of Condition? | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c02b_delivery.png |
-| module.m06.lesson.l03.card.c02c_delivery | How to Report a Change of Condition | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c02c_delivery.png |
-| module.m06.lesson.l03.card.c02d_delivery | How to Report a Change of Condition | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c02d_delivery.png |
-| module.m06.lesson.l03.card.c03_challenge | Change of Condition - What to Report Challenge | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c03_challenge.png |
-| module.m06.lesson.l03.card.c04a_debrief | Change of Condition - What to Report challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m06.lesson.l03.card.c04a_debrief.png |
-| module.m06.lesson.l04.card.c01_overview | CNA Scope of Practice | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c01_overview.png |
-| module.m06.lesson.l04.card.c02a_delivery | What CNAs CAN Do | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c02a_delivery.png |
-| module.m06.lesson.l04.card.c02b_delivery | What CNAs CANNOT Do | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c02b_delivery.png |
-| module.m06.lesson.l04.card.c02c_delivery | Responding to Out-of-Scope Requests | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c02c_delivery.png |
-| module.m06.lesson.l04.card.c02d_delivery | Responding to Out-of-Scope Requests | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c02d_delivery.png |
-| module.m06.lesson.l04.card.c03_challenge | CNA Scope of Practice Challenge | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c03_challenge.png |
-| module.m06.lesson.l04.card.c04a_debrief | CNA Scope of Practice challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m06.lesson.l04.card.c04a_debrief.png |
-| module.m06.lesson.l05.card.c01_overview | Professionalism, Ethics, and Delegation | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c01_overview.png |
-| module.m06.lesson.l05.card.c02a_delivery | Professional Behavior | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c02a_delivery.png |
-| module.m06.lesson.l05.card.c02b_delivery | Delegation | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c02b_delivery.png |
-| module.m06.lesson.l05.card.c02c_delivery | Delegation | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c02c_delivery.png |
-| module.m06.lesson.l05.card.c03_challenge | Professionalism, Ethics, and Delegation Challenge | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c03_challenge.png |
-| module.m06.lesson.l05.card.c04a_debrief | Professionalism, Ethics, and Delegation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m06.lesson.l05.card.c04a_debrief.png |
-| module.m07.lesson.l01.card.c01_overview | Cumulative Review - Modules 1-3 | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c01_overview.png |
-| module.m07.lesson.l01.card.c02a_delivery | Module 1 Review: Infection Control | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02a_delivery.png |
-| module.m07.lesson.l01.card.c02b_delivery | Module 1 Review: Infection Control | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02b_delivery.png |
-| module.m07.lesson.l01.card.c02c_delivery | Module 1 Review: Infection Control | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02c_delivery.png |
-| module.m07.lesson.l01.card.c02d_delivery | Module 2 Review: Resident Rights and Abuse Prevention | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02d_delivery.png |
-| module.m07.lesson.l01.card.c02e_delivery | Module 2 Review: Resident Rights and Abuse Prevention | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02e_delivery.png |
-| module.m07.lesson.l01.card.c02f_delivery | Module 3 Review: Dementia, Communication, and Cultural Respect | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02f_delivery.png |
-| module.m07.lesson.l01.card.c02g_delivery | Module 3 Review: Dementia, Communication, and Cultural Respect | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c02g_delivery.png |
-| module.m07.lesson.l01.card.c03_challenge | Cumulative Review - Modules 1-3 Challenge | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c03_challenge.png |
-| module.m07.lesson.l01.card.c04a_debrief | Cumulative Review - Modules 1-3 challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m07.lesson.l01.card.c04a_debrief.png |
-| module.m07.lesson.l02.card.c01_overview | Cumulative Review - Modules 4-6 | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c01_overview.png |
-| module.m07.lesson.l02.card.c02a_delivery | Module 4 Review: Mobility, Falls, and Workplace Safety | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02a_delivery.png |
-| module.m07.lesson.l02.card.c02b_delivery | Module 4 Review: Mobility, Falls, and Workplace Safety | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02b_delivery.png |
-| module.m07.lesson.l02.card.c02c_delivery | Module 5 Review: Nutrition, Skin Integrity, and Vital Signs | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02c_delivery.png |
-| module.m07.lesson.l02.card.c02d_delivery | Module 5 Review: Nutrition, Skin Integrity, and Vital Signs | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02d_delivery.png |
-| module.m07.lesson.l02.card.c02e_delivery | Module 6 Review: Documentation, Change of Condition, and Scope | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02e_delivery.png |
-| module.m07.lesson.l02.card.c02f_delivery | Module 6 Review: Documentation, Change of Condition, and Scope | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c02f_delivery.png |
-| module.m07.lesson.l02.card.c03_challenge | Cumulative Review - Modules 4-6 Challenge | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c03_challenge.png |
-| module.m07.lesson.l02.card.c04a_debrief | Cumulative Review - Modules 4-6 challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m07.lesson.l02.card.c04a_debrief.png |
-| module.m07.lesson.l03.card.c01_overview | Final Exam Preparation and Instructions | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c01_overview.png |
-| module.m07.lesson.l03.card.c02a_delivery | Before You Begin the Final Exam | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c02a_delivery.png |
-| module.m07.lesson.l03.card.c02b_delivery | Before You Begin the Final Exam | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c02b_delivery.png |
-| module.m07.lesson.l03.card.c02c_delivery | Before You Begin the Final Exam | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c02c_delivery.png |
-| module.m07.lesson.l03.card.c02d_delivery | Before You Begin the Final Exam | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c02d_delivery.png |
-| module.m07.lesson.l03.card.c03_challenge | Final Exam Preparation and Instructions Challenge | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c03_challenge.png |
-| module.m07.lesson.l03.card.c04a_debrief | Final Exam Preparation and Instructions challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m07.lesson.l03.card.c04a_debrief.png |
-| module.m07.lesson.l04.card.c01_overview | Affidavit of Completion | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c01_overview.png |
-| module.m07.lesson.l04.card.c02a_delivery | What Is This Affidavit? | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c02a_delivery.png |
-| module.m07.lesson.l04.card.c02b_delivery | What Is This Affidavit? | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c02b_delivery.png |
-| module.m07.lesson.l04.card.c02c_delivery | Affidavit Form (Questionnaire Fields) | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c02c_delivery.png |
-| module.m07.lesson.l04.card.c02d_delivery | Affidavit Form (Questionnaire Fields) | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c02d_delivery.png |
-| module.m07.lesson.l04.card.c02e_delivery | Affidavit Form (Questionnaire Fields) | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c02e_delivery.png |
-| module.m07.lesson.l04.card.c03_challenge | Affidavit of Completion Challenge | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c03_challenge.png |
-| module.m07.lesson.l04.card.c04a_debrief | Affidavit of Completion challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m07.lesson.l04.card.c04a_debrief.png |
-| module.m07.lesson.l05.card.c01_overview | Certificate Status, Next Steps, and Post-Course Guidance | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c01_overview.png |
-| module.m07.lesson.l05.card.c02a_delivery | Your Certificate Status | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02a_delivery.png |
-| module.m07.lesson.l05.card.c02b_delivery | What Your Certificate Says | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02b_delivery.png |
-| module.m07.lesson.l05.card.c02c_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02c_delivery.png |
-| module.m07.lesson.l05.card.c02d_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02d_delivery.png |
-| module.m07.lesson.l05.card.c02e_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02e_delivery.png |
-| module.m07.lesson.l05.card.c02f_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02f_delivery.png |
-| module.m07.lesson.l05.card.c02g_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02g_delivery.png |
-| module.m07.lesson.l05.card.c02h_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02h_delivery.png |
-| module.m07.lesson.l05.card.c02i_delivery | Your Next Steps for Full Renewal | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c02i_delivery.png |
-| module.m07.lesson.l05.card.c03_challenge | Certificate Status, Next Steps, and Post-Course Guidance Challenge | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c03_challenge.png |
-| module.m07.lesson.l05.card.c04a_debrief | Certificate Status, Next Steps, and Post-Course Guidance challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m07.lesson.l05.card.c04a_debrief.png |
+| module.m00.lesson.l01.card.c01_overview | Course Purpose and CCCCO Source Basis | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c01_overview.png |
+| module.m00.lesson.l01.card.c02_01_delivery | Course Purpose and CCCCO Source Basis | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c02_01_delivery.png |
+| module.m00.lesson.l01.card.c90_challenge | Orientation Practice | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c90_challenge.png |
+| module.m00.lesson.l01.card.c91_debrief | Orientation Debrief | placeholder-pending | False | /assets/media/module.m00.lesson.l01.card.c91_debrief.png |
+| module.m00.lesson.l02.card.c01_overview | Learner Identity and Completion Evidence | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c01_overview.png |
+| module.m00.lesson.l02.card.c02_01_delivery | Learner Identity and Completion Evidence | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c02_01_delivery.png |
+| module.m00.lesson.l02.card.c90_challenge | Orientation Practice | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c90_challenge.png |
+| module.m00.lesson.l02.card.c91_debrief | Orientation Debrief | placeholder-pending | False | /assets/media/module.m00.lesson.l02.card.c91_debrief.png |
+| module.m00.lesson.l03.card.c01_overview | CNA Scope and No Clinical-Hour Credit | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c01_overview.png |
+| module.m00.lesson.l03.card.c02_01_delivery | CNA Scope and No Clinical-Hour Credit | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c02_01_delivery.png |
+| module.m00.lesson.l03.card.c90_challenge | Orientation Practice | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c90_challenge.png |
+| module.m00.lesson.l03.card.c91_debrief | Orientation Debrief | placeholder-pending | False | /assets/media/module.m00.lesson.l03.card.c91_debrief.png |
+| module.m00.lesson.l04.card.c01_overview | No PHI and Safe Practice Scenarios | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c01_overview.png |
+| module.m00.lesson.l04.card.c02_01_delivery | No PHI and Safe Practice Scenarios | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c02_01_delivery.png |
+| module.m00.lesson.l04.card.c90_challenge | Orientation Practice | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c90_challenge.png |
+| module.m00.lesson.l04.card.c91_debrief | Orientation Debrief | placeholder-pending | False | /assets/media/module.m00.lesson.l04.card.c91_debrief.png |
+| module.m00.lesson.l05.card.c01_overview | Certificate Gate and Final Assessment Boundaries | placeholder-pending | False | /assets/media/module.m00.lesson.l05.card.c01_overview.png |
+| module.m00.lesson.l05.card.c02_01_delivery | Certificate Gate and Final Assessment Boundaries | placeholder-pending | False | /assets/media/module.m00.lesson.l05.card.c02_01_delivery.png |
+| module.m00.lesson.l05.card.c90_challenge | Orientation Practice | placeholder-pending | False | /assets/media/module.m00.lesson.l05.card.c90_challenge.png |
+| module.m00.lesson.l05.card.c91_debrief | Orientation Debrief | placeholder-pending | False | /assets/media/module.m00.lesson.l05.card.c91_debrief.png |
+| module.m10.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m10.lesson.l01.card.c01_overview.png |
+| module.m10.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l01.card.c02_01_delivery.png |
+| module.m10.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l01.card.c70_01_activity.png |
+| module.m10.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l01.card.c90_challenge.png |
+| module.m10.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l01.card.c91_debrief.png |
+| module.m10.lesson.l02.card.c01_overview | Objective 2: Describe what is meant by vital signs, their purpose, and observations made while perf | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c01_overview.png |
+| module.m10.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c02_01_delivery.png |
+| module.m10.lesson.l02.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c02_02_delivery.png |
+| module.m10.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c70_01_activity.png |
+| module.m10.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c90_challenge.png |
+| module.m10.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l02.card.c91_debrief.png |
+| module.m10.lesson.l03.card.c01_overview | Objective 3: Discuss the use of temperature as an indicator of body function | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c01_overview.png |
+| module.m10.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_01_delivery.png |
+| module.m10.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_02_delivery.png |
+| module.m10.lesson.l03.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_03_delivery.png |
+| module.m10.lesson.l03.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_04_delivery.png |
+| module.m10.lesson.l03.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_05_delivery.png |
+| module.m10.lesson.l03.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_06_delivery.png |
+| module.m10.lesson.l03.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c02_07_delivery.png |
+| module.m10.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c90_challenge.png |
+| module.m10.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l03.card.c91_debrief.png |
+| module.m10.lesson.l04.card.c01_overview | Objective 4: Describe nursing measures to raise and lower the temperature of the body | placeholder-pending | False | /assets/media/module.m10.lesson.l04.card.c01_overview.png |
+| module.m10.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l04.card.c02_01_delivery.png |
+| module.m10.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l04.card.c70_01_activity.png |
+| module.m10.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l04.card.c90_challenge.png |
+| module.m10.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l04.card.c91_debrief.png |
+| module.m10.lesson.l05.card.c01_overview | Objective 5: Describe the circulatory system as it relates to pulse, and identify the pulse sites | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c01_overview.png |
+| module.m10.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c02_01_delivery.png |
+| module.m10.lesson.l05.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c02_02_delivery.png |
+| module.m10.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c70_01_activity.png |
+| module.m10.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c90_challenge.png |
+| module.m10.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l05.card.c91_debrief.png |
+| module.m10.lesson.l06.card.c01_overview | Objective 6: Describe factors that increase and decrease pulse, and the qualities to observe in tak | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c01_overview.png |
+| module.m10.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c02_01_delivery.png |
+| module.m10.lesson.l06.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c02_02_delivery.png |
+| module.m10.lesson.l06.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c70_01_activity.png |
+| module.m10.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c90_challenge.png |
+| module.m10.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l06.card.c91_debrief.png |
+| module.m10.lesson.l07.card.c01_overview | Objective 7: Define and describe respiration and factors that affect respiratory rate | placeholder-pending | False | /assets/media/module.m10.lesson.l07.card.c01_overview.png |
+| module.m10.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l07.card.c02_01_delivery.png |
+| module.m10.lesson.l07.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l07.card.c70_01_activity.png |
+| module.m10.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l07.card.c90_challenge.png |
+| module.m10.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l07.card.c91_debrief.png |
+| module.m10.lesson.l08.card.c01_overview | Objective 8: Describe observations to be made when measuring respirations | placeholder-pending | False | /assets/media/module.m10.lesson.l08.card.c01_overview.png |
+| module.m10.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l08.card.c02_01_delivery.png |
+| module.m10.lesson.l08.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l08.card.c70_01_activity.png |
+| module.m10.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l08.card.c90_challenge.png |
+| module.m10.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l08.card.c91_debrief.png |
+| module.m10.lesson.l09.card.c01_overview | Objective 9: Describe abnormal breathing patterns | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c01_overview.png |
+| module.m10.lesson.l09.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c02_01_delivery.png |
+| module.m10.lesson.l09.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c02_02_delivery.png |
+| module.m10.lesson.l09.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c70_01_activity.png |
+| module.m10.lesson.l09.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c90_challenge.png |
+| module.m10.lesson.l09.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l09.card.c91_debrief.png |
+| module.m10.lesson.l10.card.c01_overview | Objective 10: Describe the process for taking TPR as a combined procedure | placeholder-pending | False | /assets/media/module.m10.lesson.l10.card.c01_overview.png |
+| module.m10.lesson.l10.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l10.card.c02_01_delivery.png |
+| module.m10.lesson.l10.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l10.card.c70_01_activity.png |
+| module.m10.lesson.l10.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l10.card.c90_challenge.png |
+| module.m10.lesson.l10.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l10.card.c91_debrief.png |
+| module.m10.lesson.l11.card.c01_overview | Objective 11: Describe what happens in the circulatory system to produce blood pressure | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c01_overview.png |
+| module.m10.lesson.l11.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c02_01_delivery.png |
+| module.m10.lesson.l11.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c02_02_delivery.png |
+| module.m10.lesson.l11.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c02_03_delivery.png |
+| module.m10.lesson.l11.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c02_04_delivery.png |
+| module.m10.lesson.l11.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c90_challenge.png |
+| module.m10.lesson.l11.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l11.card.c91_debrief.png |
+| module.m10.lesson.l12.card.c01_overview | Objective 12: Identify factors that increase or decrease blood pressure | placeholder-pending | False | /assets/media/module.m10.lesson.l12.card.c01_overview.png |
+| module.m10.lesson.l12.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l12.card.c02_01_delivery.png |
+| module.m10.lesson.l12.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l12.card.c70_01_activity.png |
+| module.m10.lesson.l12.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l12.card.c90_challenge.png |
+| module.m10.lesson.l12.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l12.card.c91_debrief.png |
+| module.m10.lesson.l13.card.c01_overview | Objective 13: Identify parts of the blood pressure equipment | placeholder-pending | False | /assets/media/module.m10.lesson.l13.card.c01_overview.png |
+| module.m10.lesson.l13.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l13.card.c02_01_delivery.png |
+| module.m10.lesson.l13.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l13.card.c70_01_activity.png |
+| module.m10.lesson.l13.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l13.card.c90_challenge.png |
+| module.m10.lesson.l13.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l13.card.c91_debrief.png |
+| module.m10.lesson.l14.card.c01_overview | Objective 14: Discuss the procedure for taking a blood pressure reading | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c01_overview.png |
+| module.m10.lesson.l14.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c02_01_delivery.png |
+| module.m10.lesson.l14.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c02_02_delivery.png |
+| module.m10.lesson.l14.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c02_03_delivery.png |
+| module.m10.lesson.l14.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c90_challenge.png |
+| module.m10.lesson.l14.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l14.card.c91_debrief.png |
+| module.m10.lesson.l15.card.c01_overview | Objective 15: Discuss observation and reporting of patient’s/resident’s pain | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c01_overview.png |
+| module.m10.lesson.l15.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c02_01_delivery.png |
+| module.m10.lesson.l15.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c02_02_delivery.png |
+| module.m10.lesson.l15.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c02_03_delivery.png |
+| module.m10.lesson.l15.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c02_04_delivery.png |
+| module.m10.lesson.l15.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c90_challenge.png |
+| module.m10.lesson.l15.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l15.card.c91_debrief.png |
+| module.m10.lesson.l16.card.c01_overview | Objective 16: Record vital signs on chart, graph, and Nursing Assistant notes | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c01_overview.png |
+| module.m10.lesson.l16.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c02_01_delivery.png |
+| module.m10.lesson.l16.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c02_02_delivery.png |
+| module.m10.lesson.l16.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c70_01_activity.png |
+| module.m10.lesson.l16.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c90_challenge.png |
+| module.m10.lesson.l16.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m10.lesson.l16.card.c91_debrief.png |
+| module.m11.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m11.lesson.l01.card.c01_overview.png |
+| module.m11.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l01.card.c02_01_delivery.png |
+| module.m11.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l01.card.c70_01_activity.png |
+| module.m11.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l01.card.c90_challenge.png |
+| module.m11.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l01.card.c91_debrief.png |
+| module.m11.lesson.l02.card.c01_overview | Objective 2: Discuss the body’s need for food and fluids | placeholder-pending | False | /assets/media/module.m11.lesson.l02.card.c01_overview.png |
+| module.m11.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l02.card.c02_01_delivery.png |
+| module.m11.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l02.card.c70_01_activity.png |
+| module.m11.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l02.card.c90_challenge.png |
+| module.m11.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l02.card.c91_debrief.png |
+| module.m11.lesson.l03.card.c01_overview | Objective 3: List common nutrients and their food sources | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c01_overview.png |
+| module.m11.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c02_01_delivery.png |
+| module.m11.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c02_02_delivery.png |
+| module.m11.lesson.l03.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c02_03_delivery.png |
+| module.m11.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c70_01_activity.png |
+| module.m11.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c90_challenge.png |
+| module.m11.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l03.card.c91_debrief.png |
+| module.m11.lesson.l04.card.c01_overview | Objective 4: Describe the My Pyramid food guidance system | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c01_overview.png |
+| module.m11.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c02_01_delivery.png |
+| module.m11.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c02_02_delivery.png |
+| module.m11.lesson.l04.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c02_03_delivery.png |
+| module.m11.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c70_01_activity.png |
+| module.m11.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c90_challenge.png |
+| module.m11.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l04.card.c91_debrief.png |
+| module.m11.lesson.l05.card.c01_overview | Objective 5: Describe the vegan basic four food groups | placeholder-pending | False | /assets/media/module.m11.lesson.l05.card.c01_overview.png |
+| module.m11.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l05.card.c02_01_delivery.png |
+| module.m11.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l05.card.c70_01_activity.png |
+| module.m11.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l05.card.c90_challenge.png |
+| module.m11.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l05.card.c91_debrief.png |
+| module.m11.lesson.l06.card.c01_overview | Objective 6: Discuss nutritional and fluid needs of the elderly | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c01_overview.png |
+| module.m11.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c02_01_delivery.png |
+| module.m11.lesson.l06.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c02_02_delivery.png |
+| module.m11.lesson.l06.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c02_03_delivery.png |
+| module.m11.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c90_challenge.png |
+| module.m11.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l06.card.c91_debrief.png |
+| module.m11.lesson.l07.card.c01_overview | Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibil | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c01_overview.png |
+| module.m11.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c02_01_delivery.png |
+| module.m11.lesson.l07.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c02_02_delivery.png |
+| module.m11.lesson.l07.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c02_03_delivery.png |
+| module.m11.lesson.l07.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c02_04_delivery.png |
+| module.m11.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c90_challenge.png |
+| module.m11.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l07.card.c91_debrief.png |
+| module.m11.lesson.l08.card.c01_overview | Objective 8: Describe proper techniques for feeding patients/residents | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c01_overview.png |
+| module.m11.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_01_delivery.png |
+| module.m11.lesson.l08.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_02_delivery.png |
+| module.m11.lesson.l08.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_03_delivery.png |
+| module.m11.lesson.l08.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_04_delivery.png |
+| module.m11.lesson.l08.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_05_delivery.png |
+| module.m11.lesson.l08.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c02_06_delivery.png |
+| module.m11.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c90_challenge.png |
+| module.m11.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l08.card.c91_debrief.png |
+| module.m11.lesson.l09.card.c01_overview | Objective 9: Discuss cultural and religious influences on dietary practices | placeholder-pending | False | /assets/media/module.m11.lesson.l09.card.c01_overview.png |
+| module.m11.lesson.l09.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l09.card.c02_01_delivery.png |
+| module.m11.lesson.l09.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m11.lesson.l09.card.c70_01_activity.png |
+| module.m11.lesson.l09.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l09.card.c90_challenge.png |
+| module.m11.lesson.l09.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l09.card.c91_debrief.png |
+| module.m11.lesson.l10.card.c01_overview | Objective 10: Identify alternative ways to administer nutrition | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c01_overview.png |
+| module.m11.lesson.l10.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c02_01_delivery.png |
+| module.m11.lesson.l10.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c02_02_delivery.png |
+| module.m11.lesson.l10.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c02_03_delivery.png |
+| module.m11.lesson.l10.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c90_challenge.png |
+| module.m11.lesson.l10.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m11.lesson.l10.card.c91_debrief.png |
+| module.m12.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c01_overview.png |
+| module.m12.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c02_01_delivery.png |
+| module.m12.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c70_01_activity.png |
+| module.m12.lesson.l01.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c70_02_activity.png |
+| module.m12.lesson.l01.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c70_03_activity.png |
+| module.m12.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c90_challenge.png |
+| module.m12.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m12.lesson.l01.card.c91_debrief.png |
+| module.m12.lesson.l02.card.c01_overview | Objective 2: Identify common signs and symptoms of conditions associated with patient/resident dist | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c01_overview.png |
+| module.m12.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c02_01_delivery.png |
+| module.m12.lesson.l02.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c02_02_delivery.png |
+| module.m12.lesson.l02.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c02_03_delivery.png |
+| module.m12.lesson.l02.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c02_04_delivery.png |
+| module.m12.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c70_01_activity.png |
+| module.m12.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c90_challenge.png |
+| module.m12.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m12.lesson.l02.card.c91_debrief.png |
+| module.m12.lesson.l03.card.c01_overview | Objective 3: Describe the immediate interventions in a medical emergency | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c01_overview.png |
+| module.m12.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_01_delivery.png |
+| module.m12.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_02_delivery.png |
+| module.m12.lesson.l03.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_03_delivery.png |
+| module.m12.lesson.l03.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_04_delivery.png |
+| module.m12.lesson.l03.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_05_delivery.png |
+| module.m12.lesson.l03.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_06_delivery.png |
+| module.m12.lesson.l03.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_07_delivery.png |
+| module.m12.lesson.l03.card.c02_08_delivery | Source Detail 8 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_08_delivery.png |
+| module.m12.lesson.l03.card.c02_09_delivery | Source Detail 9 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_09_delivery.png |
+| module.m12.lesson.l03.card.c02_10_delivery | Source Detail 10 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_10_delivery.png |
+| module.m12.lesson.l03.card.c02_11_delivery | Source Detail 11 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_11_delivery.png |
+| module.m12.lesson.l03.card.c02_12_delivery | Source Detail 12 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_12_delivery.png |
+| module.m12.lesson.l03.card.c02_13_delivery | Source Detail 13 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_13_delivery.png |
+| module.m12.lesson.l03.card.c02_14_delivery | Source Detail 14 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_14_delivery.png |
+| module.m12.lesson.l03.card.c02_15_delivery | Source Detail 15 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_15_delivery.png |
+| module.m12.lesson.l03.card.c02_16_delivery | Source Detail 16 | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c02_16_delivery.png |
+| module.m12.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c90_challenge.png |
+| module.m12.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m12.lesson.l03.card.c91_debrief.png |
+| module.m12.lesson.l04.card.c01_overview | Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for reli | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c01_overview.png |
+| module.m12.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c02_01_delivery.png |
+| module.m12.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c02_02_delivery.png |
+| module.m12.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c70_01_activity.png |
+| module.m12.lesson.l04.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c70_02_activity.png |
+| module.m12.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c90_challenge.png |
+| module.m12.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m12.lesson.l04.card.c91_debrief.png |
+| module.m12.lesson.l05.card.c01_overview | Objective 5: Describe common emergency codes used in long-term care facilities. This module may be | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c01_overview.png |
+| module.m12.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c02_01_delivery.png |
+| module.m12.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c70_01_activity.png |
+| module.m12.lesson.l05.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c70_02_activity.png |
+| module.m12.lesson.l05.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c70_03_activity.png |
+| module.m12.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c90_challenge.png |
+| module.m12.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m12.lesson.l05.card.c91_debrief.png |
+| module.m13.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c01_overview.png |
+| module.m13.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c02_01_delivery.png |
+| module.m13.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c70_01_activity.png |
+| module.m13.lesson.l01.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c70_02_activity.png |
+| module.m13.lesson.l01.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c70_03_activity.png |
+| module.m13.lesson.l01.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c70_04_activity.png |
+| module.m13.lesson.l01.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c70_05_activity.png |
+| module.m13.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c90_challenge.png |
+| module.m13.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l01.card.c91_debrief.png |
+| module.m13.lesson.l02.card.c01_overview | Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c01_overview.png |
+| module.m13.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c02_01_delivery.png |
+| module.m13.lesson.l02.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c02_02_delivery.png |
+| module.m13.lesson.l02.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c02_03_delivery.png |
+| module.m13.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c70_01_activity.png |
+| module.m13.lesson.l02.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c70_02_activity.png |
+| module.m13.lesson.l02.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c70_03_activity.png |
+| module.m13.lesson.l02.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c70_04_activity.png |
+| module.m13.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c90_challenge.png |
+| module.m13.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l02.card.c91_debrief.png |
+| module.m13.lesson.l03.card.c01_overview | Objective 3: Describe common community resources to meet the needs of the elderly | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c01_overview.png |
+| module.m13.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c02_01_delivery.png |
+| module.m13.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c02_02_delivery.png |
+| module.m13.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c70_01_activity.png |
+| module.m13.lesson.l03.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c70_02_activity.png |
+| module.m13.lesson.l03.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c70_03_activity.png |
+| module.m13.lesson.l03.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c70_04_activity.png |
+| module.m13.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c90_challenge.png |
+| module.m13.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l03.card.c91_debrief.png |
+| module.m13.lesson.l04.card.c01_overview | Objective 4: Describe the special needs of persons with developmental and mental disorders includin | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c01_overview.png |
+| module.m13.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_01_delivery.png |
+| module.m13.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_02_delivery.png |
+| module.m13.lesson.l04.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_03_delivery.png |
+| module.m13.lesson.l04.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_04_delivery.png |
+| module.m13.lesson.l04.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_05_delivery.png |
+| module.m13.lesson.l04.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_06_delivery.png |
+| module.m13.lesson.l04.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_07_delivery.png |
+| module.m13.lesson.l04.card.c02_08_delivery | Source Detail 8 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_08_delivery.png |
+| module.m13.lesson.l04.card.c02_09_delivery | Source Detail 9 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_09_delivery.png |
+| module.m13.lesson.l04.card.c02_10_delivery | Source Detail 10 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_10_delivery.png |
+| module.m13.lesson.l04.card.c02_11_delivery | Source Detail 11 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_11_delivery.png |
+| module.m13.lesson.l04.card.c02_12_delivery | Source Detail 12 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_12_delivery.png |
+| module.m13.lesson.l04.card.c02_13_delivery | Source Detail 13 | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c02_13_delivery.png |
+| module.m13.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c90_challenge.png |
+| module.m13.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l04.card.c91_debrief.png |
+| module.m13.lesson.l05.card.c01_overview | Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related demen | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c01_overview.png |
+| module.m13.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_01_delivery.png |
+| module.m13.lesson.l05.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_02_delivery.png |
+| module.m13.lesson.l05.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_03_delivery.png |
+| module.m13.lesson.l05.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_04_delivery.png |
+| module.m13.lesson.l05.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_05_delivery.png |
+| module.m13.lesson.l05.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_06_delivery.png |
+| module.m13.lesson.l05.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_07_delivery.png |
+| module.m13.lesson.l05.card.c02_08_delivery | Source Detail 8 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_08_delivery.png |
+| module.m13.lesson.l05.card.c02_09_delivery | Source Detail 9 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_09_delivery.png |
+| module.m13.lesson.l05.card.c02_10_delivery | Source Detail 10 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_10_delivery.png |
+| module.m13.lesson.l05.card.c02_11_delivery | Source Detail 11 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_11_delivery.png |
+| module.m13.lesson.l05.card.c02_12_delivery | Source Detail 12 | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c02_12_delivery.png |
+| module.m13.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c90_challenge.png |
+| module.m13.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l05.card.c91_debrief.png |
+| module.m13.lesson.l06.card.c01_overview | Objective 6: Describe the body’s basic organization and composition | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c01_overview.png |
+| module.m13.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c02_01_delivery.png |
+| module.m13.lesson.l06.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c02_02_delivery.png |
+| module.m13.lesson.l06.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c70_01_activity.png |
+| module.m13.lesson.l06.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c70_02_activity.png |
+| module.m13.lesson.l06.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c70_03_activity.png |
+| module.m13.lesson.l06.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c70_04_activity.png |
+| module.m13.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c90_challenge.png |
+| module.m13.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l06.card.c91_debrief.png |
+| module.m13.lesson.l07.card.c01_overview | Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c01_overview.png |
+| module.m13.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_01_delivery.png |
+| module.m13.lesson.l07.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_02_delivery.png |
+| module.m13.lesson.l07.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_03_delivery.png |
+| module.m13.lesson.l07.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_04_delivery.png |
+| module.m13.lesson.l07.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_05_delivery.png |
+| module.m13.lesson.l07.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_06_delivery.png |
+| module.m13.lesson.l07.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_07_delivery.png |
+| module.m13.lesson.l07.card.c02_08_delivery | Source Detail 8 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_08_delivery.png |
+| module.m13.lesson.l07.card.c02_09_delivery | Source Detail 9 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_09_delivery.png |
+| module.m13.lesson.l07.card.c02_10_delivery | Source Detail 10 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_10_delivery.png |
+| module.m13.lesson.l07.card.c02_11_delivery | Source Detail 11 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_11_delivery.png |
+| module.m13.lesson.l07.card.c02_12_delivery | Source Detail 12 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_12_delivery.png |
+| module.m13.lesson.l07.card.c02_13_delivery | Source Detail 13 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_13_delivery.png |
+| module.m13.lesson.l07.card.c02_14_delivery | Source Detail 14 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_14_delivery.png |
+| module.m13.lesson.l07.card.c02_15_delivery | Source Detail 15 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_15_delivery.png |
+| module.m13.lesson.l07.card.c02_16_delivery | Source Detail 16 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_16_delivery.png |
+| module.m13.lesson.l07.card.c02_17_delivery | Source Detail 17 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_17_delivery.png |
+| module.m13.lesson.l07.card.c02_18_delivery | Source Detail 18 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_18_delivery.png |
+| module.m13.lesson.l07.card.c02_19_delivery | Source Detail 19 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_19_delivery.png |
+| module.m13.lesson.l07.card.c02_20_delivery | Source Detail 20 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_20_delivery.png |
+| module.m13.lesson.l07.card.c02_21_delivery | Source Detail 21 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_21_delivery.png |
+| module.m13.lesson.l07.card.c02_22_delivery | Source Detail 22 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_22_delivery.png |
+| module.m13.lesson.l07.card.c02_23_delivery | Source Detail 23 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_23_delivery.png |
+| module.m13.lesson.l07.card.c02_24_delivery | Source Detail 24 | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c02_24_delivery.png |
+| module.m13.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c90_challenge.png |
+| module.m13.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l07.card.c91_debrief.png |
+| module.m13.lesson.l08.card.c01_overview | Objective 8: Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/I | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c01_overview.png |
+| module.m13.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_01_delivery.png |
+| module.m13.lesson.l08.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_02_delivery.png |
+| module.m13.lesson.l08.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_03_delivery.png |
+| module.m13.lesson.l08.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_04_delivery.png |
+| module.m13.lesson.l08.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_05_delivery.png |
+| module.m13.lesson.l08.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_06_delivery.png |
+| module.m13.lesson.l08.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c02_07_delivery.png |
+| module.m13.lesson.l08.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c70_01_activity.png |
+| module.m13.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c90_challenge.png |
+| module.m13.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m13.lesson.l08.card.c91_debrief.png |
+| module.m14.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m14.lesson.l01.card.c01_overview.png |
+| module.m14.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l01.card.c02_01_delivery.png |
+| module.m14.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l01.card.c70_01_activity.png |
+| module.m14.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l01.card.c90_challenge.png |
+| module.m14.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l01.card.c91_debrief.png |
+| module.m14.lesson.l02.card.c01_overview | Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c01_overview.png |
+| module.m14.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c02_01_delivery.png |
+| module.m14.lesson.l02.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c02_02_delivery.png |
+| module.m14.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c70_01_activity.png |
+| module.m14.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c90_challenge.png |
+| module.m14.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l02.card.c91_debrief.png |
+| module.m14.lesson.l03.card.c01_overview | Objective 3: State goals of restorative care that promote independence and patient/resident potenti | placeholder-pending | False | /assets/media/module.m14.lesson.l03.card.c01_overview.png |
+| module.m14.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l03.card.c02_01_delivery.png |
+| module.m14.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l03.card.c70_01_activity.png |
+| module.m14.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l03.card.c90_challenge.png |
+| module.m14.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l03.card.c91_debrief.png |
+| module.m14.lesson.l04.card.c01_overview | Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c01_overview.png |
+| module.m14.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c02_01_delivery.png |
+| module.m14.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c02_02_delivery.png |
+| module.m14.lesson.l04.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c02_03_delivery.png |
+| module.m14.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c90_challenge.png |
+| module.m14.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l04.card.c91_debrief.png |
+| module.m14.lesson.l05.card.c01_overview | Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-ca | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c01_overview.png |
+| module.m14.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c02_01_delivery.png |
+| module.m14.lesson.l05.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c02_02_delivery.png |
+| module.m14.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c70_01_activity.png |
+| module.m14.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c90_challenge.png |
+| module.m14.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l05.card.c91_debrief.png |
+| module.m14.lesson.l06.card.c01_overview | Objective 6: List activities that make up Activities of Daily Living (ADLs) | placeholder-pending | False | /assets/media/module.m14.lesson.l06.card.c01_overview.png |
+| module.m14.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l06.card.c02_01_delivery.png |
+| module.m14.lesson.l06.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l06.card.c70_01_activity.png |
+| module.m14.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l06.card.c90_challenge.png |
+| module.m14.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l06.card.c91_debrief.png |
+| module.m14.lesson.l07.card.c01_overview | Objective 7: List common comfort and adaptive devices and explain the purposes of each | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c01_overview.png |
+| module.m14.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c02_01_delivery.png |
+| module.m14.lesson.l07.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c02_02_delivery.png |
+| module.m14.lesson.l07.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c70_01_activity.png |
+| module.m14.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c90_challenge.png |
+| module.m14.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l07.card.c91_debrief.png |
+| module.m14.lesson.l08.card.c01_overview | Objective 8: Identify steps to prevent complications from inactivity | placeholder-pending | False | /assets/media/module.m14.lesson.l08.card.c01_overview.png |
+| module.m14.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l08.card.c02_01_delivery.png |
+| module.m14.lesson.l08.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l08.card.c02_02_delivery.png |
+| module.m14.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l08.card.c90_challenge.png |
+| module.m14.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l08.card.c91_debrief.png |
+| module.m14.lesson.l09.card.c01_overview | Objective 9: Describe range-of-motion exercises (ROM) | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c01_overview.png |
+| module.m14.lesson.l09.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c02_01_delivery.png |
+| module.m14.lesson.l09.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c02_02_delivery.png |
+| module.m14.lesson.l09.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c02_03_delivery.png |
+| module.m14.lesson.l09.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c90_challenge.png |
+| module.m14.lesson.l09.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l09.card.c91_debrief.png |
+| module.m14.lesson.l10.card.c01_overview | Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/r | placeholder-pending | False | /assets/media/module.m14.lesson.l10.card.c01_overview.png |
+| module.m14.lesson.l10.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l10.card.c02_01_delivery.png |
+| module.m14.lesson.l10.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l10.card.c02_02_delivery.png |
+| module.m14.lesson.l10.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l10.card.c90_challenge.png |
+| module.m14.lesson.l10.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l10.card.c91_debrief.png |
+| module.m14.lesson.l11.card.c01_overview | Objective 11: Discuss relationship between patient’s/resident’s self-esteem and family involvement i | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c01_overview.png |
+| module.m14.lesson.l11.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c02_01_delivery.png |
+| module.m14.lesson.l11.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c02_02_delivery.png |
+| module.m14.lesson.l11.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c70_01_activity.png |
+| module.m14.lesson.l11.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c90_challenge.png |
+| module.m14.lesson.l11.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l11.card.c91_debrief.png |
+| module.m14.lesson.l12.card.c01_overview | Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c01_overview.png |
+| module.m14.lesson.l12.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c02_01_delivery.png |
+| module.m14.lesson.l12.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c02_02_delivery.png |
+| module.m14.lesson.l12.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c02_03_delivery.png |
+| module.m14.lesson.l12.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c90_challenge.png |
+| module.m14.lesson.l12.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m14.lesson.l12.card.c91_debrief.png |
+| module.m15.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c01_overview.png |
+| module.m15.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c02_01_delivery.png |
+| module.m15.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c70_01_activity.png |
+| module.m15.lesson.l01.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c70_02_activity.png |
+| module.m15.lesson.l01.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c70_03_activity.png |
+| module.m15.lesson.l01.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c70_04_activity.png |
+| module.m15.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c90_challenge.png |
+| module.m15.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l01.card.c91_debrief.png |
+| module.m15.lesson.l02.card.c01_overview | Objective 2: Identify word elements used in medical terms | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c01_overview.png |
+| module.m15.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c02_01_delivery.png |
+| module.m15.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c70_01_activity.png |
+| module.m15.lesson.l02.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c70_02_activity.png |
+| module.m15.lesson.l02.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c70_03_activity.png |
+| module.m15.lesson.l02.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c70_04_activity.png |
+| module.m15.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c90_challenge.png |
+| module.m15.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l02.card.c91_debrief.png |
+| module.m15.lesson.l03.card.c01_overview | Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c01_overview.png |
+| module.m15.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c02_01_delivery.png |
+| module.m15.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c70_01_activity.png |
+| module.m15.lesson.l03.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c70_02_activity.png |
+| module.m15.lesson.l03.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c70_03_activity.png |
+| module.m15.lesson.l03.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c70_04_activity.png |
+| module.m15.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c90_challenge.png |
+| module.m15.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l03.card.c91_debrief.png |
+| module.m15.lesson.l04.card.c01_overview | Objective 4: Define observation and list the senses used to observe a patient/resident | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c01_overview.png |
+| module.m15.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c02_01_delivery.png |
+| module.m15.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c02_02_delivery.png |
+| module.m15.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c70_01_activity.png |
+| module.m15.lesson.l04.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c70_02_activity.png |
+| module.m15.lesson.l04.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c70_03_activity.png |
+| module.m15.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c90_challenge.png |
+| module.m15.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l04.card.c91_debrief.png |
+| module.m15.lesson.l05.card.c01_overview | Objective 5: Describe objective and subjective observations | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c01_overview.png |
+| module.m15.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c02_01_delivery.png |
+| module.m15.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c70_01_activity.png |
+| module.m15.lesson.l05.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c70_02_activity.png |
+| module.m15.lesson.l05.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c70_03_activity.png |
+| module.m15.lesson.l05.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c70_04_activity.png |
+| module.m15.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c90_challenge.png |
+| module.m15.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l05.card.c91_debrief.png |
+| module.m15.lesson.l06.card.c01_overview | Objective 6: List types of charting documents and the use for each | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c01_overview.png |
+| module.m15.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c02_01_delivery.png |
+| module.m15.lesson.l06.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c02_02_delivery.png |
+| module.m15.lesson.l06.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c70_01_activity.png |
+| module.m15.lesson.l06.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c70_02_activity.png |
+| module.m15.lesson.l06.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c70_03_activity.png |
+| module.m15.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c90_challenge.png |
+| module.m15.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l06.card.c91_debrief.png |
+| module.m15.lesson.l07.card.c01_overview | Objective 7: Explain how to accurately complete ADL assessment for MDS | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c01_overview.png |
+| module.m15.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_01_delivery.png |
+| module.m15.lesson.l07.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_02_delivery.png |
+| module.m15.lesson.l07.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_03_delivery.png |
+| module.m15.lesson.l07.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_04_delivery.png |
+| module.m15.lesson.l07.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_05_delivery.png |
+| module.m15.lesson.l07.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_06_delivery.png |
+| module.m15.lesson.l07.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c02_07_delivery.png |
+| module.m15.lesson.l07.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c70_01_activity.png |
+| module.m15.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c90_challenge.png |
+| module.m15.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l07.card.c91_debrief.png |
+| module.m15.lesson.l08.card.c01_overview | Objective 8: Discuss procedures to use when recording on a patient’s/resident’s chart | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c01_overview.png |
+| module.m15.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c02_01_delivery.png |
+| module.m15.lesson.l08.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c02_02_delivery.png |
+| module.m15.lesson.l08.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c02_03_delivery.png |
+| module.m15.lesson.l08.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c02_04_delivery.png |
+| module.m15.lesson.l08.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c70_01_activity.png |
+| module.m15.lesson.l08.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c70_02_activity.png |
+| module.m15.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c90_challenge.png |
+| module.m15.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m15.lesson.l08.card.c91_debrief.png |
+| module.m16.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c01_overview.png |
+| module.m16.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c02_01_delivery.png |
+| module.m16.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c70_01_activity.png |
+| module.m16.lesson.l01.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c70_02_activity.png |
+| module.m16.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c90_challenge.png |
+| module.m16.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l01.card.c91_debrief.png |
+| module.m16.lesson.l02.card.c01_overview | Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c01_overview.png |
+| module.m16.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c02_01_delivery.png |
+| module.m16.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c70_01_activity.png |
+| module.m16.lesson.l02.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c70_02_activity.png |
+| module.m16.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c90_challenge.png |
+| module.m16.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l02.card.c91_debrief.png |
+| module.m16.lesson.l03.card.c01_overview | Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill pat | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c01_overview.png |
+| module.m16.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c02_01_delivery.png |
+| module.m16.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c02_02_delivery.png |
+| module.m16.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c70_01_activity.png |
+| module.m16.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c90_challenge.png |
+| module.m16.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l03.card.c91_debrief.png |
+| module.m16.lesson.l04.card.c01_overview | Objective 4: List the rights of the dying patient/resident | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c01_overview.png |
+| module.m16.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c02_01_delivery.png |
+| module.m16.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c02_02_delivery.png |
+| module.m16.lesson.l04.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c02_03_delivery.png |
+| module.m16.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c70_01_activity.png |
+| module.m16.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c90_challenge.png |
+| module.m16.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l04.card.c91_debrief.png |
+| module.m16.lesson.l05.card.c01_overview | Objective 5: Differentiate between common signs of approaching death and biological death | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c01_overview.png |
+| module.m16.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c02_01_delivery.png |
+| module.m16.lesson.l05.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c02_02_delivery.png |
+| module.m16.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c70_01_activity.png |
+| module.m16.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c90_challenge.png |
+| module.m16.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l05.card.c91_debrief.png |
+| module.m16.lesson.l06.card.c01_overview | Objective 6: Identify care and comfort measures for dying patients/residents | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c01_overview.png |
+| module.m16.lesson.l06.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c02_01_delivery.png |
+| module.m16.lesson.l06.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c70_01_activity.png |
+| module.m16.lesson.l06.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c70_02_activity.png |
+| module.m16.lesson.l06.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c90_challenge.png |
+| module.m16.lesson.l06.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l06.card.c91_debrief.png |
+| module.m16.lesson.l07.card.c01_overview | Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant’s role when the p | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c01_overview.png |
+| module.m16.lesson.l07.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c02_01_delivery.png |
+| module.m16.lesson.l07.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c02_02_delivery.png |
+| module.m16.lesson.l07.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c02_03_delivery.png |
+| module.m16.lesson.l07.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c70_01_activity.png |
+| module.m16.lesson.l07.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c90_challenge.png |
+| module.m16.lesson.l07.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l07.card.c91_debrief.png |
+| module.m16.lesson.l08.card.c01_overview | Objective 8: Describe procedures and responsibilities for postmortem care | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c01_overview.png |
+| module.m16.lesson.l08.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c02_01_delivery.png |
+| module.m16.lesson.l08.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c70_01_activity.png |
+| module.m16.lesson.l08.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c70_02_activity.png |
+| module.m16.lesson.l08.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c90_challenge.png |
+| module.m16.lesson.l08.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m16.lesson.l08.card.c91_debrief.png |
+| module.m17.lesson.l01.card.c01_overview | Objective 1: Define key terminology | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c01_overview.png |
+| module.m17.lesson.l01.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c02_01_delivery.png |
+| module.m17.lesson.l01.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_01_activity.png |
+| module.m17.lesson.l01.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_02_activity.png |
+| module.m17.lesson.l01.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_03_activity.png |
+| module.m17.lesson.l01.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_04_activity.png |
+| module.m17.lesson.l01.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_05_activity.png |
+| module.m17.lesson.l01.card.c70_06_activity | Quick Teach-Back | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c70_06_activity.png |
+| module.m17.lesson.l01.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c90_challenge.png |
+| module.m17.lesson.l01.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m17.lesson.l01.card.c91_debrief.png |
+| module.m17.lesson.l02.card.c01_overview | Objective 2: Identify and discuss types of elder abuse | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c01_overview.png |
+| module.m17.lesson.l02.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_01_delivery.png |
+| module.m17.lesson.l02.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_02_delivery.png |
+| module.m17.lesson.l02.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_03_delivery.png |
+| module.m17.lesson.l02.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_04_delivery.png |
+| module.m17.lesson.l02.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_05_delivery.png |
+| module.m17.lesson.l02.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c02_06_delivery.png |
+| module.m17.lesson.l02.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_01_activity.png |
+| module.m17.lesson.l02.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_02_activity.png |
+| module.m17.lesson.l02.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_03_activity.png |
+| module.m17.lesson.l02.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_04_activity.png |
+| module.m17.lesson.l02.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_05_activity.png |
+| module.m17.lesson.l02.card.c70_06_activity | Quick Teach-Back | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c70_06_activity.png |
+| module.m17.lesson.l02.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c90_challenge.png |
+| module.m17.lesson.l02.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m17.lesson.l02.card.c91_debrief.png |
+| module.m17.lesson.l03.card.c01_overview | Objective 3: Discuss the issues related to elder abuse | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c01_overview.png |
+| module.m17.lesson.l03.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c02_01_delivery.png |
+| module.m17.lesson.l03.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c02_02_delivery.png |
+| module.m17.lesson.l03.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c02_03_delivery.png |
+| module.m17.lesson.l03.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_01_activity.png |
+| module.m17.lesson.l03.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_02_activity.png |
+| module.m17.lesson.l03.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_03_activity.png |
+| module.m17.lesson.l03.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_04_activity.png |
+| module.m17.lesson.l03.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_05_activity.png |
+| module.m17.lesson.l03.card.c70_06_activity | Quick Teach-Back | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c70_06_activity.png |
+| module.m17.lesson.l03.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c90_challenge.png |
+| module.m17.lesson.l03.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m17.lesson.l03.card.c91_debrief.png |
+| module.m17.lesson.l04.card.c01_overview | Objective 4: Explain the Nurse Assistant role in preventing elder abuse | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c01_overview.png |
+| module.m17.lesson.l04.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_01_delivery.png |
+| module.m17.lesson.l04.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_02_delivery.png |
+| module.m17.lesson.l04.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_03_delivery.png |
+| module.m17.lesson.l04.card.c02_04_delivery | Source Detail 4 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_04_delivery.png |
+| module.m17.lesson.l04.card.c02_05_delivery | Source Detail 5 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_05_delivery.png |
+| module.m17.lesson.l04.card.c02_06_delivery | Source Detail 6 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_06_delivery.png |
+| module.m17.lesson.l04.card.c02_07_delivery | Source Detail 7 | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c02_07_delivery.png |
+| module.m17.lesson.l04.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_01_activity.png |
+| module.m17.lesson.l04.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_02_activity.png |
+| module.m17.lesson.l04.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_03_activity.png |
+| module.m17.lesson.l04.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_04_activity.png |
+| module.m17.lesson.l04.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_05_activity.png |
+| module.m17.lesson.l04.card.c70_06_activity | Quick Teach-Back | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c70_06_activity.png |
+| module.m17.lesson.l04.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c90_challenge.png |
+| module.m17.lesson.l04.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m17.lesson.l04.card.c91_debrief.png |
+| module.m17.lesson.l05.card.c01_overview | Objective 5: Describe the Nurse Assistant role in reporting elder abuse | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c01_overview.png |
+| module.m17.lesson.l05.card.c02_01_delivery | Source Detail 1 | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c02_01_delivery.png |
+| module.m17.lesson.l05.card.c02_02_delivery | Source Detail 2 | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c02_02_delivery.png |
+| module.m17.lesson.l05.card.c02_03_delivery | Source Detail 3 | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c02_03_delivery.png |
+| module.m17.lesson.l05.card.c70_01_activity | Source Term Sorting | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_01_activity.png |
+| module.m17.lesson.l05.card.c70_02_activity | Observe-Report-Document Check | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_02_activity.png |
+| module.m17.lesson.l05.card.c70_03_activity | Scope Boundary Decision | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_03_activity.png |
+| module.m17.lesson.l05.card.c70_04_activity | Resident Safety Application | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_04_activity.png |
+| module.m17.lesson.l05.card.c70_05_activity | Care Plan Follow-Through | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_05_activity.png |
+| module.m17.lesson.l05.card.c70_06_activity | Quick Teach-Back | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c70_06_activity.png |
+| module.m17.lesson.l05.card.c90_challenge | Practice Challenge | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c90_challenge.png |
+| module.m17.lesson.l05.card.c91_debrief | Challenge Debrief / Remediation | placeholder-pending | False | /assets/media/module.m17.lesson.l05.card.c91_debrief.png |

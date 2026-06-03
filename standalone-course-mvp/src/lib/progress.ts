@@ -51,7 +51,7 @@ export function getNextStep(state: LearnerState): NextStep {
       label: "Pass the final exam/test",
       note: "Take the preview final exam (25 of 50, 80% to pass).",
       cta: "Open Final Review",
-      to: "/modules/m7",
+      to: "/final",
     };
   }
   if (!state.affidavitComplete) {
@@ -59,7 +59,7 @@ export function getNextStep(state: LearnerState): NextStep {
       label: "Complete the final statement/affidavit",
       note: "Draft only — e-signature method is unresolved.",
       cta: "Open Final Review",
-      to: "/modules/m7",
+      to: "/final",
     };
   }
   return {

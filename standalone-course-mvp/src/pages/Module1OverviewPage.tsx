@@ -1,17 +1,19 @@
-import { useNavigate } from "react-router-dom";
-import { CheckCircle2, Lock, Play } from "lucide-react";
+import { useNavigate, useParams } from "react-router-dom";
+import { CheckCircle2, Play } from "lucide-react";
 import { useLearner } from "../lib/learnerState";
-import { lessonCompleted, moduleAssessmentPassed } from "../lib/v2state";
+import { moduleAssessmentPassed } from "../lib/v2state";
+import { isLessonComplete, isModuleComplete } from "../lib/moduleProgress";
 import { paths } from "../app/routes";
 import { BackLink, StatusBadge } from "../components/v2/primitives";
 import { appCopy, getModuleDef } from "../data/contentV2Adapter";
 
 export function Module1OverviewPage() {
   const navigate = useNavigate();
+  const { moduleId = "m10" } = useParams();
   const { state } = useLearner();
-  const module = getModuleDef("m1");
-  const lesson = lessonCompleted(state);
-  const m1Exam = moduleAssessmentPassed(state);
+  const module = getModuleDef(moduleId);
+  const moduleDone = module ? isModuleComplete(state, module.id) : false;
+  const moduleExam = moduleAssessmentPassed(state, moduleId);
 
   if (!module) return null;
 
@@ -27,8 +29,8 @@ export function Module1OverviewPage() {
             </span>
             <h1 className="text-2xl font-normal text-stone-100 tracking-tight">{module.shortTitle}</h1>
           </div>
-          <StatusBadge tone={m1Exam ? "complete" : module.status === "sme-review" ? "action" : "pending"}>
-            {m1Exam ? "Complete" : module.status === "sme-review" ? "SME Review Flagged" : "Not Attempted"}
+          <StatusBadge tone={moduleExam ? "complete" : module.status === "sme-review" ? "action" : "pending"}>
+            {moduleExam ? "Assessment Passed" : module.status === "sme-review" ? "SME Review Flagged" : "Not Attempted"}
           </StatusBadge>
         </div>
 
@@ -52,19 +54,14 @@ export function Module1OverviewPage() {
         <div className="space-y-3 pt-4 border-t border-stone-800/60">
           <h3 className="text-xs uppercase tracking-wider font-bold text-stone-300">Course Component Lessons</h3>
 
-          {module.lessons.map((item, idx) => {
-            const routeReady = idx === 0;
+          {module.lessons.map((item) => {
+            const complete = isLessonComplete(state, module.id, item.id);
             return (
               <button
                 key={item.id}
                 type="button"
-                onClick={() => routeReady && navigate(paths.lesson)}
-                disabled={!routeReady}
-                className={`w-full p-4 rounded border transition-all flex items-center justify-between text-left ${
-                  routeReady
-                    ? "bg-[#080404] border-stone-800 hover:border-[#5c1111]/80 hover:bg-[#120909]"
-                    : "bg-[#080404]/40 border-stone-900 opacity-70 cursor-not-allowed"
-                }`}
+                onClick={() => navigate(paths.lessonFor(module.id, item.id))}
+                className="w-full p-4 rounded border transition-all flex items-center justify-between text-left bg-[#080404] border-stone-800 hover:border-[#5c1111]/80 hover:bg-[#120909]"
               >
                 <div className="flex items-center gap-3 min-w-0">
                   <div className="w-8 h-8 rounded bg-[#1c0d0d] flex items-center justify-center border border-[#5c1111]/40 text-amber-500 font-bold font-mono text-xs shrink-0">
@@ -73,23 +70,17 @@ export function Module1OverviewPage() {
                   <div className="min-w-0">
                     <h4 className="text-xs font-semibold text-stone-200 truncate">{item.title}</h4>
                     <span className="text-[10px] text-stone-500 font-mono uppercase tracking-wide">
-                      {item.estMinutes} min - ContentV2 4-card model
+                      {item.estMinutes} min - CCCCO source-backed lesson
                     </span>
                   </div>
                 </div>
-                {routeReady ? (
-                  lesson ? (
-                    <span className="text-amber-400 flex items-center gap-1 text-[10px] font-bold shrink-0">
-                      <CheckCircle2 size={12} /> Finished
-                    </span>
-                  ) : (
-                    <span className="text-amber-500 flex items-center gap-1 text-[10px] font-bold shrink-0">
-                      <Play size={12} className="fill-current" /> Play
-                    </span>
-                  )
+                {complete ? (
+                  <span className="text-amber-400 flex items-center gap-1 text-[10px] font-bold shrink-0">
+                    <CheckCircle2 size={12} /> Finished
+                  </span>
                 ) : (
-                  <span className="text-[10px] text-stone-600 font-mono inline-flex items-center gap-1 shrink-0">
-                    <Lock size={10} /> Route Pending
+                  <span className="text-amber-500 flex items-center gap-1 text-[10px] font-bold shrink-0">
+                    <Play size={12} className="fill-current" /> Play
                   </span>
                 )}
               </button>
@@ -99,22 +90,22 @@ export function Module1OverviewPage() {
 
         <div className="pt-8 border-t border-stone-800/60 flex flex-col sm:flex-row items-center gap-4 justify-between">
           <div className="text-xs text-stone-400">
-            {lesson ? "ContentV2 lesson complete. Continue to the module assessment." : "Complete Lesson 1 to unlock the Module Assessment."}
+            {moduleDone ? "All lessons complete. Continue to the module assessment." : "Complete each CCCCO objective lesson to unlock the module assessment."}
           </div>
           <div className="flex gap-3 w-full sm:w-auto">
-            {lesson && (
+            {moduleDone && (
               <button
-                onClick={() => navigate(paths.moduleAssessment)}
+                onClick={() => navigate(paths.moduleAssessmentFor(module.id))}
                 className="w-full sm:w-auto bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
               >
                 Start {appCopy.moduleAssessment.title}
               </button>
             )}
             <button
-              onClick={() => navigate(paths.lesson)}
+              onClick={() => navigate(paths.lessonFor(module.id, module.lessons[0]?.id ?? "l1"))}
               className="w-full sm:w-auto bg-stone-900 hover:bg-stone-850 border border-stone-800 text-stone-300 font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
             >
-              {lesson ? "Review Theory" : "Start Theory"}
+              {moduleDone ? "Review Theory" : "Start Theory"}
             </button>
           </div>
         </div>

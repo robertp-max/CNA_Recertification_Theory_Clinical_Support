@@ -1,517 +1,989 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T21:27:42+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T23:36:29+00:00. Do not hand-edit.
 
 
-## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
+## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=False)
 
-### L00 — Welcome and Course Purpose (5 min, 4 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Welcome and Course Purpose | 20 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L00 | None identified |
-| C02A_DELIVERY | delivery | Welcome and Course Purpose - Source Repair Placeholder | 17 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L00 | SME/source repair required |
-| C03_CHALLENGE | challenge | Welcome and Course Purpose Challenge | 20 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-| C04A_DEBRIEF | debrief | Welcome and Course Purpose - Challenge Debrief | 44 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-
-### L01 — What This Course Covers and Does Not Cover (8 min, 4 cards)
+### L01 — Course Purpose and CCCCO Source Basis (6 min, 4 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | What This Course Covers and Does Not Cover | 22 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | What This Course Covers and Does Not Cover - Source Repair Placeholder | 19 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L01 | SME/source repair required |
-| C03_CHALLENGE | challenge | What This Course Covers and Does Not Cover Challenge | 21 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-| C04A_DEBRIEF | debrief | What This Course Covers and Does Not Cover - Challenge Debrief | 45 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
+| C01_OVERVIEW | overview | Course Purpose and CCCCO Source Basis | 9 | Orientation/compliance exception | None identified |
+| C02_01_DELIVERY | delivery | Course Purpose and CCCCO Source Basis | 14 | Orientation/compliance exception | None identified |
+| C90_CHALLENGE | challenge | Orientation Practice | 24 | Orientation/compliance exception | None identified |
+| C91_DEBRIEF | debrief | Orientation Debrief | 11 | Orientation/compliance exception | None identified |
 
-### L02 — Identity Confirmation (5 min, 4 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Identity Confirmation | 20 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Identity Confirmation - Source Repair Placeholder | 16 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L02 | SME/source repair required |
-| C03_CHALLENGE | challenge | Identity Confirmation Challenge | 23 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-| C04A_DEBRIEF | debrief | Identity Confirmation - Challenge Debrief | 46 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-
-### L03 — Course Navigation and Progress Tracking (5 min, 4 cards)
+### L02 — Learner Identity and Completion Evidence (6 min, 4 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Course Navigation and Progress Tracking | 21 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Course Navigation and Progress Tracking - Source Repair Placeholder | 18 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L03 | SME/source repair required |
-| C03_CHALLENGE | challenge | Course Navigation and Progress Tracking Challenge | 26 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-| C04A_DEBRIEF | debrief | Course Navigation and Progress Tracking - Challenge Debrief | 48 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
+| C01_OVERVIEW | overview | Learner Identity and Completion Evidence | 8 | Orientation/compliance exception | None identified |
+| C02_01_DELIVERY | delivery | Learner Identity and Completion Evidence | 14 | Orientation/compliance exception | None identified |
+| C90_CHALLENGE | challenge | Orientation Practice | 24 | Orientation/compliance exception | None identified |
+| C91_DEBRIEF | debrief | Orientation Debrief | 11 | Orientation/compliance exception | None identified |
 
-### L04 — Acknowledgement and Compliance Check (7 min, 4 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Acknowledgement and Compliance Check | 20 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | Acknowledgement and Compliance Check - Source Repair Placeholder | 17 | CNA-Recert-Course/Content/theory/modules/04_THEORY_MODULE_00_ORIENTATION_FULL.md#L04 | SME/source repair required |
-| C03_CHALLENGE | challenge | Acknowledgement and Compliance Check Challenge | 20 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-| C04A_DEBRIEF | debrief | Acknowledgement and Compliance Check - Challenge Debrief | 44 | 04_THEORY_MODULE_00_ORIENTATION_FULL.md Section 11 | None identified |
-
-## M01 — Infection Control and PPE (90 min, counts_toward_720=True)
-
-### L01 — Why Infection Control Matters in Long-Term Care (15 min, 6 cards)
+### L03 — CNA Scope and No Clinical-Hour Credit (6 min, 4 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Why Infection Control Matters in Long-Term Care | 22 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L01 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | Healthcare-Associated Infections in Long-Term Care | 38 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 1 - Healthcare-Associated Infections | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | Your Everyday Role in Infection Control | 29 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 2 - Your Role in Infection Control | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02C_DELIVERY | delivery | Why Long-Term Care Carries Unique Infection Risk | 35 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 3 - Why LTC is Different | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | Why Infection Control Matters in Long-Term Care Challenge | 33 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-| C04A_DEBRIEF | debrief | Why Infection Control Matters in Long-Term Care - Challenge Debrief | 67 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
+| C01_OVERVIEW | overview | CNA Scope and No Clinical-Hour Credit | 9 | Orientation/compliance exception | None identified |
+| C02_01_DELIVERY | delivery | CNA Scope and No Clinical-Hour Credit | 14 | Orientation/compliance exception | None identified |
+| C90_CHALLENGE | challenge | Orientation Practice | 24 | Orientation/compliance exception | None identified |
+| C91_DEBRIEF | debrief | Orientation Debrief | 11 | Orientation/compliance exception | None identified |
 
-### L02 — The Chain of Infection (15 min, 5 cards)
+### L04 — No PHI and Safe Practice Scenarios (6 min, 4 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | The Chain of Infection | 20 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L02 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | The Six Links in the Chain of Infection | 54 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 4 - The Six Links | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | How CNAs Break the Chain Every Day | 44 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 5 - Breaking the Chain | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | The Chain of Infection Challenge | 35 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-| C04A_DEBRIEF | debrief | The Chain of Infection - Challenge Debrief | 51 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
+| C01_OVERVIEW | overview | No PHI and Safe Practice Scenarios | 8 | Orientation/compliance exception | None identified |
+| C02_01_DELIVERY | delivery | No PHI and Safe Practice Scenarios | 13 | Orientation/compliance exception | None identified |
+| C90_CHALLENGE | challenge | Orientation Practice | 24 | Orientation/compliance exception | None identified |
+| C91_DEBRIEF | debrief | Orientation Debrief | 11 | Orientation/compliance exception | None identified |
 
-### L03 — Hand Hygiene - Your Most Important Tool (15 min, 5 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Hand Hygiene - Your Most Important Tool | 21 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L03 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | The WHO Five Moments for Hand Hygiene | 35 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 6 - WHO 5 Moments for Hand Hygiene | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | Soap and Water vs. Alcohol-Based Sanitizer | 37 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 7 - Handwashing vs. Hand Sanitizer | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | Hand Hygiene - Your Most Important Tool Challenge | 33 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-| C04A_DEBRIEF | debrief | Hand Hygiene - Your Most Important Tool - Challenge Debrief | 51 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-
-### L04 — Personal Protective Equipment (PPE) (15 min, 6 cards)
+### L05 — Certificate Gate and Final Assessment Boundaries (6 min, 4 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Personal Protective Equipment (PPE) | 20 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L04 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | Standard Precautions: Protect Every Time | 25 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 8 - Standard Precautions | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | Selecting the Right PPE for the Task | 42 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 9 - PPE Selection Guide | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02C_DELIVERY | delivery | Donning and Doffing PPE in the Correct Order | 27 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 10 - Donning and Doffing Order | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | Personal Protective Equipment (PPE) Challenge | 26 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-| C04A_DEBRIEF | debrief | Personal Protective Equipment (PPE) - Challenge Debrief | 49 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
+| C01_OVERVIEW | overview | Certificate Gate and Final Assessment Boundaries | 9 | Orientation/compliance exception | None identified |
+| C02_01_DELIVERY | delivery | Certificate Gate and Final Assessment Boundaries | 14 | Orientation/compliance exception | None identified |
+| C90_CHALLENGE | challenge | Orientation Practice | 24 | Orientation/compliance exception | None identified |
+| C91_DEBRIEF | debrief | Orientation Debrief | 11 | Orientation/compliance exception | None identified |
 
-### L05 — Recognizing and Reporting Infection Signs (15 min, 5 cards)
+## M10 — CCCCO Module 10: Vital Signs (83 min, counts_toward_720=True)
 
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Recognizing and Reporting Infection Signs | 21 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L05 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | Common Signs of Infection to Watch For | 45 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 11 - Common Signs of Infection | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | Reporting Infection Concerns: What, When, How | 33 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 12 - Reporting: What, When, How | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | Recognizing and Reporting Infection Signs Challenge | 32 | 05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Knowledge Check 1.6 - NEEDS SME REVIEW | SME review required |
-| C04A_DEBRIEF | debrief | Recognizing and Reporting Infection Signs - Challenge Debrief | 53 | 05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Knowledge Check 1.6 - NEEDS SME REVIEW | SME review required |
-
-### L06 — Environmental Cleaning and Safe Practices (15 min, 6 cards)
+### L01 — Objective 1: Define key terminology (6 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Environmental Cleaning and Safe Practices | 21 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md#L06 | Module 1 infection-control content requires SME/source review. |
-| C02A_DELIVERY | delivery | Environmental Cleaning Principles | 27 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 13 - Environmental Cleaning | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02B_DELIVERY | delivery | Safe Linen Handling | 27 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 14 - Safe Linen Handling | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C02C_DELIVERY | delivery | Sharps and Biohazard Waste Safety | 19 | CNA-Recert-Course/Content/theory/modules/05_THEORY_MODULE_01_INFECTION_CONTROL_FULL.md Screen 15 - Sharps and Waste | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). |
-| C03_CHALLENGE | challenge | Environmental Cleaning and Safe Practices Challenge | 32 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
-| C04A_DEBRIEF | debrief | Environmental Cleaning and Safe Practices - Challenge Debrief | 67 | General CNA infection control curriculum - NEEDS SME REVIEW (Module 1) | SME review required |
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 10, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 44 | CCCCO Module 10, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 1 | None identified |
 
-## M02 — Resident Rights, Abuse Prevention, and Boundaries (120 min, counts_toward_720=True)
-
-### L01 — Resident Rights Foundation (20 min, 8 cards)
+### L02 — Objective 2: Describe what is meant by vital signs, their purpose, and observations made while perf (6 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Resident Rights Foundation | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | What Are Resident Rights? | 63 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.1 | None identified |
-| C02B_DELIVERY | delivery | Why Rights Matter in Daily Care | 36 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.2 | None identified |
-| C02C_DELIVERY | delivery | The Ombudsman and Resident Council | 30 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
-| C02D_DELIVERY | delivery | The Ombudsman and Resident Council | 10 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.3 | None identified |
-| C02E_DELIVERY | delivery | Advance Directives and DNR | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.1.4 | None identified |
-| C03_CHALLENGE | challenge | Resident Rights Foundation Challenge | 24 | NATP Module 17 (Patient/Resident Abuse) Objective 2B | None identified |
-| C04A_DEBRIEF | debrief | Resident Rights Foundation - Challenge Debrief | 45 | NATP Module 17 (Patient/Resident Abuse) Objective 2B | None identified |
+| C01_OVERVIEW | overview | Objective 2: Describe what is meant by vital signs, their purpose, and observations made while perf | 23 | CCCCO Module 10, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 10, Objective 2, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 31 | CCCCO Module 10, Objective 2, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 2 | None identified |
 
-### L02 — Types of Abuse and Neglect (25 min, 8 cards)
+### L03 — Objective 3: Discuss the use of temperature as an indicator of body function (6 min, 10 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Types of Abuse and Neglect | 23 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Defining Abuse | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.1 | None identified |
-| C02B_DELIVERY | delivery | Eight Types of Elder Abuse | 75 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
-| C02C_DELIVERY | delivery | Eight Types of Elder Abuse | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.2 | None identified |
-| C02D_DELIVERY | delivery | Interactive: Match the Abuse Type | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.3 | None identified |
-| C02E_DELIVERY | delivery | Neglect vs. Negligence | 49 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.2.4 | None identified |
-| C03_CHALLENGE | challenge | Types of Abuse and Neglect Challenge | 32 | NATP Module 17 (Patient/Resident Abuse) Objective 5 | None identified |
-| C04A_DEBRIEF | debrief | Types of Abuse and Neglect - Challenge Debrief | 49 | NATP Module 17 (Patient/Resident Abuse) Objective 5 | None identified |
+| C01_OVERVIEW | overview | Objective 3: Discuss the use of temperature as an indicator of body function | 21 | CCCCO Module 10, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 10, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 10, Objective 3, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 10, Objective 3, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 49 | CCCCO Module 10, Objective 3, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 48 | CCCCO Module 10, Objective 3, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 49 | CCCCO Module 10, Objective 3, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 37 | CCCCO Module 10, Objective 3, source detail chunk 7 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 3 | None identified |
 
-### L03 — Signs, Symptoms, and Evidence of Abuse (20 min, 6 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Signs, Symptoms, and Evidence of Abuse | 23 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Recognizing Signs and Symptoms | 46 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.1 | None identified |
-| C02B_DELIVERY | delivery | Objective vs. Subjective Observations | 48 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
-| C02C_DELIVERY | delivery | Objective vs. Subjective Observations | 10 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.3.2 | None identified |
-| C03_CHALLENGE | challenge | Signs, Symptoms, and Evidence of Abuse Challenge | 20 | NATP Module 17 (Patient/Resident Abuse) Objective 2B.5 | None identified |
-| C04A_DEBRIEF | debrief | Signs, Symptoms, and Evidence of Abuse - Challenge Debrief | 46 | NATP Module 17 (Patient/Resident Abuse) Objective 2B.5 | None identified |
-
-### L04 — Mandated Reporter Obligations (20 min, 6 cards)
+### L04 — Objective 4: Describe nursing measures to raise and lower the temperature of the body (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Mandated Reporter Obligations | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | You Are a Mandated Reporter | 64 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.1 | None identified |
-| C02B_DELIVERY | delivery | Reporting Decision Path | 45 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.2 | None identified |
-| C02C_DELIVERY | delivery | Scenario: The Reporting Decision (Branching) | 35 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.4.3 | None identified |
-| C03_CHALLENGE | challenge | Mandated Reporter Obligations Challenge | 37 | NATP Module 17 (Patient/Resident Abuse) Objective 3 | None identified |
-| C04A_DEBRIEF | debrief | Mandated Reporter Obligations - Challenge Debrief | 52 | NATP Module 17 (Patient/Resident Abuse) Objective 3 | None identified |
+| C01_OVERVIEW | overview | Objective 4: Describe nursing measures to raise and lower the temperature of the body | 21 | CCCCO Module 10, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 43 | CCCCO Module 10, Objective 4, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 4 | None identified |
 
-### L05 — Prevention, Boundaries, and Safety (20 min, 7 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Prevention, Boundaries, and Safety | 22 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Abuse Prevention Strategies | 50 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.1 | None identified |
-| C02B_DELIVERY | delivery | Professional Boundaries | 41 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.2 | None identified |
-| C02C_DELIVERY | delivery | HIPAA and Confidentiality in Abuse Situations | 67 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.3 | None identified |
-| C02D_DELIVERY | delivery | HIPAA and Confidentiality in Abuse Situations | 8 | CNA-Recert-Course/Content/theory/modules/24_THEORY_MODULE_02_RESIDENT_RIGHTS_ABUSE_PREVENTION_FULL.md#Screen 2.5.3 | None identified |
-| C03_CHALLENGE | challenge | Prevention, Boundaries, and Safety Challenge | 35 | NATP Module 17 (Patient/Resident Abuse); NATP Module 13 (Long Term Care Residents) | None identified |
-| C04A_DEBRIEF | debrief | Prevention, Boundaries, and Safety - Challenge Debrief | 49 | NATP Module 17 (Patient/Resident Abuse); NATP Module 13 (Long Term Care Residents) | None identified |
-
-## M03 — Dementia, Communication, and Respectful Care (120 min, counts_toward_720=True)
-
-### L01 — Understanding Dementia and Cognitive Conditions (25 min, 8 cards)
+### L05 — Objective 5: Describe the circulatory system as it relates to pulse, and identify the pulse sites (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Understanding Dementia and Cognitive Conditions | 22 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L01 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | What Is Dementia? | 66 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02B_DELIVERY | delivery | Behavioral Symptoms of Dementia | 70 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02C_DELIVERY | delivery | Alzheimer's Disease Stages | 51 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02D_DELIVERY | delivery | Other Cognitive Conditions | 55 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02E_DELIVERY | delivery | Other Cognitive Conditions | 11 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.1.4 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C03_CHALLENGE | challenge | Understanding Dementia and Cognitive Conditions Challenge | 38 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C04A_DEBRIEF | debrief | Understanding Dementia and Cognitive Conditions - Challenge Debrief | 50 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C01_OVERVIEW | overview | Objective 5: Describe the circulatory system as it relates to pulse, and identify the pulse sites | 22 | CCCCO Module 10, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 10, Objective 5, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 36 | CCCCO Module 10, Objective 5, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 5 | None identified |
 
-### L02 — Communication Strategies for Cognitive Impairment (25 min, 6 cards)
+### L06 — Objective 6: Describe factors that increase and decrease pulse, and the qualities to observe in tak (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Communication Strategies for Cognitive Impairment | 22 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L02 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | Core Communication Principles | 60 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.1 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02B_DELIVERY | delivery | The Best Friends Approach | 46 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.2 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02C_DELIVERY | delivery | Scenario: Communication Choices | 29 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#Screen 3.2.3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C03_CHALLENGE | challenge | Communication Strategies for Cognitive Impairment Challenge | 37 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C04A_DEBRIEF | debrief | Communication Strategies for Cognitive Impairment - Challenge Debrief | 50 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C01_OVERVIEW | overview | Objective 6: Describe factors that increase and decrease pulse, and the qualities to observe in tak | 23 | CCCCO Module 10, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 10, Objective 6, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 37 | CCCCO Module 10, Objective 6, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 6, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 6 | None identified |
 
-### L03 — Cultural Sensitivity and Spiritual Respect (20 min, 4 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Cultural Sensitivity and Spiritual Respect | 35 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L03 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | Cultural Sensitivity and Spiritual Respect - Source Repair Placeholder | 18 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L03 | SME/source repair required |
-| C03_CHALLENGE | challenge | Cultural Sensitivity and Spiritual Respect Challenge | 32 | NATP Module 16 (Death and Dying) Objective 2A | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C04A_DEBRIEF | debrief | Cultural Sensitivity and Spiritual Respect - Challenge Debrief | 48 | NATP Module 16 (Death and Dying) Objective 2A | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-
-### L04 — End-of-Life Care, Grief, and Hospice (25 min, 4 cards)
+### L07 — Objective 7: Define and describe respiration and factors that affect respiratory rate (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | End-of-Life Care, Grief, and Hospice | 35 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L04 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | End-of-Life Care, Grief, and Hospice - Source Repair Placeholder | 18 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L04 | SME/source repair required |
-| C03_CHALLENGE | challenge | End-of-Life Care, Grief, and Hospice Challenge | 33 | NATP Module 16 (Death and Dying) Objective 3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C04A_DEBRIEF | debrief | End-of-Life Care, Grief, and Hospice - Challenge Debrief | 52 | NATP Module 16 (Death and Dying) Objective 3 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
+| C01_OVERVIEW | overview | Objective 7: Define and describe respiration and factors that affect respiratory rate | 20 | CCCCO Module 10, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 10, Objective 7, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 7, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 7 | None identified |
 
-### L05 — Trauma-Informed Care and De-escalation (10 min, 4 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Trauma-Informed Care and De-escalation | 35 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L05 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C02A_DELIVERY | delivery | Trauma-Informed Care and De-escalation - Source Repair Placeholder | 18 | CNA-Recert-Course/Content/theory/modules/25_THEORY_MODULE_03_DEMENTIA_COMMUNICATION_CULTURAL_RESPECT_FULL.md#L05 | SME/source repair required |
-| C03_CHALLENGE | challenge | Trauma-Informed Care and De-escalation Challenge | 29 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-| C04A_DEBRIEF | debrief | Trauma-Informed Care and De-escalation - Challenge Debrief | 51 | NATP Module 13 (Long Term Care Residents) Objective 5 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. |
-
-## M04 — Mobility, Falls, and Workplace Safety (120 min, counts_toward_720=True)
-
-### L01 — Body Mechanics and Injury Prevention (20 min, 9 cards)
+### L08 — Objective 8: Describe observations to be made when measuring respirations (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Body Mechanics and Injury Prevention | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | Why Alignment Protects the Body | 41 | CCCCO Module 13, Objective 7, Musculoskeletal System anatomy/functions; CCCCO Module 14, Objective 8 preventive methods | None identified |
-| C02B_DELIVERY | delivery | Aging, Strength, and Injury Risk | 40 | CCCCO Module 13, Objective 8, Musculoskeletal/Nervous System aging changes | None identified |
-| C02C_DELIVERY | delivery | Complications of Inactivity | 33 | CCCCO Module 14, Objective 8, Content Outline A | None identified |
-| C02D_DELIVERY | delivery | Preventing Inactivity Complications | 36 | CCCCO Module 14, Objective 8, Content Outline B | None identified |
-| C02E_DELIVERY | delivery | Pain, Arthritis, and Fracture Clues | 43 | CCCCO Module 13, Objective 7, Musculoskeletal diseases/disorders | None identified |
-| C02F_DELIVERY | delivery | CNA Workplace Safety Boundaries | 39 | CCCCO Module 14, Objectives 5, 8, and 10; ContentV1 M04 body mechanics | None identified |
-| C03_CHALLENGE | challenge | Body Mechanics and Injury Prevention Challenge | 31 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
-| C04A_DEBRIEF | debrief | Body Mechanics and Injury Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
+| C01_OVERVIEW | overview | Objective 8: Describe observations to be made when measuring respirations | 19 | CCCCO Module 10, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 10, Objective 8, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 8, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 8 | None identified |
 
-### L02 — Safe Transfers and Ambulation (25 min, 10 cards)
+### L09 — Objective 9: Describe abnormal breathing patterns (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Safe Transfers and Ambulation | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Readiness for Mobility Assistance | 40 | CCCCO Module 14, Objective 10, Content Outline A | None identified |
-| C02B_DELIVERY | delivery | Transfer Safety and Help Requirements | 41 | CCCCO Module 14, Objective 10, Content Outline B | None identified |
-| C02C_DELIVERY | delivery | Gait Belt and Ambulation Checks | 36 | CCCCO Module 14, Objective 10, Content Outline B | None identified |
-| C02D_DELIVERY | delivery | Assistive Devices for Mobility | 35 | CCCCO Module 14, Objective 10, Content Outline C-D | None identified |
-| C02E_DELIVERY | delivery | Visual Impairment and Environment Support | 33 | CCCCO Module 14, Objective 10, Content Outline C-D | None identified |
-| C02F_DELIVERY | delivery | Osteoporosis and Fracture Precautions | 43 | CCCCO Module 13, Objective 7, Osteoporosis and Fractured Hip duties/observations | None identified |
-| C02G_DELIVERY | delivery | When Ambulation Must Stop | 40 | CCCCO Module 14, Objectives 5 and 10; CCCCO Module 13 musculoskeletal observations | None identified |
-| C03_CHALLENGE | challenge | Safe Transfers and Ambulation Challenge | 33 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
-| C04A_DEBRIEF | debrief | Safe Transfers and Ambulation - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
+| C01_OVERVIEW | overview | Objective 9: Describe abnormal breathing patterns | 18 | CCCCO Module 10, Objective 9 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 10, Objective 9, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 21 | CCCCO Module 10, Objective 9, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 9, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 9 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 9 | None identified |
 
-### L03 — Range of Motion and Restorative Care (20 min, 11 cards)
+### L10 — Objective 10: Describe the process for taking TPR as a combined procedure (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Range of Motion and Restorative Care | 23 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Restorative Care Promotes Potential | 39 | CCCCO Module 14, Objectives 2 and 3, Content Outline A-B | None identified |
-| C02B_DELIVERY | delivery | The Rehabilitation Team and CNA Role | 38 | CCCCO Module 14, Objective 4, Content Outline A-C | None identified |
-| C02C_DELIVERY | delivery | Promoting Self-Care and ADLs | 34 | CCCCO Module 14, Objectives 5 and 6, Content Outline A-B | None identified |
-| C02D_DELIVERY | delivery | Comfort and Adaptive Devices | 46 | CCCCO Module 14, Objective 7, Content Outline A-B | None identified |
-| C02E_DELIVERY | delivery | ROM Purpose and Types | 41 | CCCCO Module 14, Objective 9, Content Outline A-D | None identified |
-| C02F_DELIVERY | delivery | ROM Safety Rules | 36 | CCCCO Module 14, Objective 9, Content Outline E | None identified |
-| C02G_DELIVERY | delivery | Care Plan Meetings and Restorative Documentation | 36 | CCCCO Module 14, Objective 12, Content Outline A-G | None identified |
-| C02H_DELIVERY | delivery | Self-Esteem, Family, and Progress | 36 | CCCCO Module 14, Objective 11, Content Outline A-B | None identified |
-| C03_CHALLENGE | challenge | Range of Motion and Restorative Care Challenge | 25 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
-| C04A_DEBRIEF | debrief | Range of Motion and Restorative Care - Challenge Debrief | 48 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
+| C01_OVERVIEW | overview | Objective 10: Describe the process for taking TPR as a combined procedure | 20 | CCCCO Module 10, Objective 10 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 41 | CCCCO Module 10, Objective 10, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 10, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 10 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 10 | None identified |
 
-### L04 — Fall Prevention (20 min, 9 cards)
+### L11 — Objective 11: Describe what happens in the circulatory system to produce blood pressure (5 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Fall Prevention | 21 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | Why Falls Increase With Aging | 39 | CCCCO Module 13, Objective 8, Musculoskeletal/Nervous System aging changes | None identified |
-| C02B_DELIVERY | delivery | Environment Controls That Prevent Falls | 43 | CCCCO Module 13, Effects of Aging and Nursing Care Measures handout | None identified |
-| C02C_DELIVERY | delivery | Position Changes and Fainting Risk | 39 | CCCCO Module 13 aging handout; CCCCO Module 12 syncope signs/role | None identified |
-| C02D_DELIVERY | delivery | Falls, Osteoporosis, and Fractured Hip Warning Signs | 42 | CCCCO Module 13, Objective 7, Osteoporosis and Fractured Hip | None identified |
-| C02E_DELIVERY | delivery | Assistive Devices Are Part of the Fall Plan | 37 | CCCCO Module 14, Objective 10; CCCCO Module 13 aging handout | None identified |
-| C02F_DELIVERY | delivery | Reporting a Near-Fall | 39 | CCCCO Module 12, Objective 2 distress signs; CCCCO Module 14, Objective 5 reporting changes | None identified |
-| C03_CHALLENGE | challenge | Fall Prevention Challenge | 38 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
-| C04A_DEBRIEF | debrief | Fall Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
+| C01_OVERVIEW | overview | Objective 11: Describe what happens in the circulatory system to produce blood pressure | 21 | CCCCO Module 10, Objective 11 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 10, Objective 11, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 10, Objective 11, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 10, Objective 11, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 24 | CCCCO Module 10, Objective 11, source detail chunk 4 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 11 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 11 | None identified |
 
-### L05 — Emergency Procedures - Fire, Choking, Disaster (20 min, 10 cards)
+### L12 — Objective 12: Identify factors that increase or decrease blood pressure (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Emergency Procedures - Fire, Choking, Disaster | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Recognizing Distress Early | 37 | CCCCO Module 12, Objective 2, Content Outline A-I | None identified |
-| C02B_DELIVERY | delivery | General Emergency Response Sequence | 41 | CCCCO Module 12, Objective 3, Content Outline C | None identified |
-| C02C_DELIVERY | delivery | Advance Directives and Code Status Boundaries | 36 | CCCCO Module 12, Objective 3, Content Outline A | None identified |
-| C02D_DELIVERY | delivery | Choking: Causes, Signs, and Deferred Skill | 43 | CCCCO Module 12, Objective 4, Content Outline A-E | None identified |
-| C02E_DELIVERY | delivery | Seizure Safety | 40 | CCCCO Module 12, Objective 2, Seizure section | None identified |
-| C02F_DELIVERY | delivery | Bleeding, Shock, and Respiratory Distress | 43 | CCCCO Module 12, Objective 2, Hemorrhaging/Shock/Respiratory Distress sections | None identified |
-| C02G_DELIVERY | delivery | Emergency Codes and Special Considerations | 41 | CCCCO Module 12, Objective 5, Content Outline A-C | None identified |
-| C03_CHALLENGE | challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | 29 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
-| C04A_DEBRIEF | debrief | Emergency Procedures - Fire, Choking, Disaster - Challenge Debrief | 50 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
+| C01_OVERVIEW | overview | Objective 12: Identify factors that increase or decrease blood pressure | 19 | CCCCO Module 10, Objective 12 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 34 | CCCCO Module 10, Objective 12, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 12, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 12 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 12 | None identified |
 
-## M05 — Nutrition, Skin Integrity, Vital Signs, and Observation (120 min, counts_toward_720=True)
-
-### L01 — Nutrition and Hydration (25 min, 12 cards)
+### L13 — Objective 13: Identify parts of the blood pressure equipment (5 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Nutrition and Hydration | 22 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L01 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Why Food and Fluids Matter | 41 | CCCCO Module 11, Objective 2, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Common Nutrients and Food Sources | 42 | CCCCO Module 11, Objective 3, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Food Guidance and Balanced Choices | 43 | CCCCO Module 11, Objective 4, Content Outline A-F | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Nutrition and Fluid Needs in Older Adults | 42 | CCCCO Module 11, Objective 6, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Fluids, Minimum Intake, and Water Functions | 48 | CCCCO Module 11, Objectives 2 and 3, Content Outline C and Objective 3 item 7 | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Therapeutic Diets and Texture Orders | 44 | CCCCO Module 11, Objective 7, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Food Preferences, Allergies, Culture, and Religion | 45 | CCCCO Module 11, Objectives 6 and 9, Content Outline B-C and A-E | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | Vegetarian and Vegan Basics | 43 | CCCCO Module 11, Objective 5, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02I_DELIVERY | delivery | Meal Refusal, Intake Percent, and What to Report | 48 | CCCCO Module 11, Objective 7, Content Outline C | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Nutrition and Hydration Challenge | 32 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
-| C04A_DEBRIEF | debrief | Nutrition and Hydration - Challenge Debrief | 51 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
+| C01_OVERVIEW | overview | Objective 13: Identify parts of the blood pressure equipment | 19 | CCCCO Module 10, Objective 13 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 43 | CCCCO Module 10, Objective 13, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 13, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 13 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 13 | None identified |
 
-### L02 — Feeding Assistance and Aspiration Prevention (20 min, 9 cards)
+### L14 — Objective 14: Discuss the procedure for taking a blood pressure reading (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Feeding Assistance and Aspiration Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L02 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Feeding Assistance: Dignity and Pace | 44 | CCCCO Module 11, Objective 8, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Dysphagia and Choking Risk | 38 | CCCCO Module 11, Objective 8, Content Outline B-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Ordered Textures and Thickened Liquids | 43 | CCCCO Module 11, Objectives 7 and 8, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Tube Feeding: CNA Observation Boundaries | 45 | CCCCO Module 11, Objective 10, Content Outline A | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | IV Fluids and Nutrition: What the CNA Reports | 42 | CCCCO Module 11, Objective 10, Content Outline B | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | When Feeding Becomes a Reportable Change | 40 | CCCCO Module 11, Objectives 7 and 8, Content Outline C and B | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Feeding Assistance and Aspiration Prevention Challenge | 25 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
-| C04A_DEBRIEF | debrief | Feeding Assistance and Aspiration Prevention - Challenge Debrief | 47 | NATP Module 11 (Nutrition) | Skin integrity / pressure injury content requires SME/source review. |
+| C01_OVERVIEW | overview | Objective 14: Discuss the procedure for taking a blood pressure reading | 20 | CCCCO Module 10, Objective 14 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 49 | CCCCO Module 10, Objective 14, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 48 | CCCCO Module 10, Objective 14, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 10, Objective 14, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 14 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 14 | None identified |
 
-### L03 — Skin Integrity and Pressure Injury Prevention (25 min, 12 cards)
+### L15 — Objective 15: Discuss observation and reporting of patient’s/resident’s pain (5 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Skin Integrity and Pressure Injury Prevention | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L03 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Skin Layers and Why Integrity Matters | 44 | CCCCO Module 13, Objective 7, Integumentary System anatomy/functions | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Aging Skin and Immobility Risk | 41 | CCCCO Module 13, Objective 8, Effects of Aging handout; Objective 7 immobility complications | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | High-Risk Skin Areas | 42 | CCCCO Module 13, Objective 7, Pressure Sores signs/symptoms and duties | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Skin Lesions and Wounds: What to Report | 44 | CCCCO Module 13, Objective 7, Skin Lesions/Wounds duties and observations | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Pressure Injuries: Recognize Risk, Do Not Diagnose | 45 | CCCCO Module 13, Objective 7, Pressure Sores signs/symptoms and duties | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Pressure Injury Prevention Bundle | 45 | CCCCO Module 13, Objective 7, Pressure Sores duties and observations | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Devices, Tubing, Braces, and Bed Position | 43 | CCCCO Module 13, Objective 7, Pressure Sores duties j-o | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | Objective Skin Reporting | 42 | CCCCO Module 13, Objective 7, duties and observations; ContentV2 M06 documentation crosswalk | Skin integrity / pressure injury content requires SME/source review. |
-| C02I_DELIVERY | delivery | Skin Safety Boundaries | 43 | CCCCO Module 13, Objective 7, Skin Lesions/Wounds duties and Pressure Sores duties | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Skin Integrity and Pressure Injury Prevention Challenge | 22 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | Skin integrity / pressure injury content requires SME/source review. |
-| C04A_DEBRIEF | debrief | Skin Integrity and Pressure Injury Prevention - Challenge Debrief | 46 | General CNA curriculum - NEEDS SME REVIEW (no confirmed standalone NATP skin integrity module uploaded) | Skin integrity / pressure injury content requires SME/source review. |
+| C01_OVERVIEW | overview | Objective 15: Discuss observation and reporting of patient’s/resident’s pain | 19 | CCCCO Module 10, Objective 15 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 10, Objective 15, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 10, Objective 15, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 10, Objective 15, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 43 | CCCCO Module 10, Objective 15, source detail chunk 4 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 15 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 15 | None identified |
 
-### L04 — Vital Signs - Measurement and Reporting (25 min, 12 cards)
+### L16 — Objective 16: Record vital signs on chart, graph, and Nursing Assistant notes (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Vital Signs - Measurement and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L04 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Vital Signs: Purpose and Observation | 44 | CCCCO Module 10, Objective 2, Content Outline A-D | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Temperature Regulation and Measurement Sites | 40 | CCCCO Module 10, Objective 3, Content Outline A-G | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Comfort Measures for Temperature Changes | 41 | CCCCO Module 10, Objective 4, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
-| C02D_DELIVERY | delivery | Pulse Sites, Factors, and Qualities | 43 | CCCCO Module 10, Objectives 5 and 6, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02E_DELIVERY | delivery | Respirations and Abnormal Patterns | 41 | CCCCO Module 10, Objectives 7, 8, and 9, Content Outline A-J | Skin integrity / pressure injury content requires SME/source review. |
-| C02F_DELIVERY | delivery | Blood Pressure: What the Numbers Mean | 45 | CCCCO Module 10, Objective 11, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
-| C02G_DELIVERY | delivery | Blood Pressure Accuracy and Safety Boundaries | 46 | CCCCO Module 10, Objectives 12, 13, and 14, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
-| C02H_DELIVERY | delivery | TPR Sequence and When to Escalate | 46 | CCCCO Module 10, Objective 10, Content Outline A-C | Skin integrity / pressure injury content requires SME/source review. |
-| C02I_DELIVERY | delivery | Pain Observation and Reporting | 43 | CCCCO Module 10, Objective 15, Content Outline A-D | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Vital Signs - Measurement and Reporting Challenge | 20 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
-| C04A_DEBRIEF | debrief | Vital Signs - Measurement and Reporting - Challenge Debrief | 45 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
+| C01_OVERVIEW | overview | Objective 16: Record vital signs on chart, graph, and Nursing Assistant notes | 20 | CCCCO Module 10, Objective 16 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 10, Objective 16, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 41 | CCCCO Module 10, Objective 16, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 10, Objective 16, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 10, Objective 16 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 10, Objective 16 | None identified |
 
-### L05 — Monitoring, Documentation, and Reporting (10 min, 6 cards)
+## M11 — CCCCO Module 11: Nutrition (55 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (6 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Monitoring, Documentation, and Reporting | 23 | CNA-Recert-Course/Content/theory/modules/27_THEORY_MODULE_05_NUTRITION_SKIN_INTEGRITY_VITAL_SIGNS_FULL.md#L05 | Skin integrity / pressure injury content requires SME/source review. |
-| C02A_DELIVERY | delivery | Intake and Output (I&O) | 43 | CCCCO Module 11, Objective 7, Content Outline C; ContentV1 M05 L05 | Skin integrity / pressure injury content requires SME/source review. |
-| C02B_DELIVERY | delivery | Vital Sign Recording | 43 | CCCCO Module 10, Objective 16, Content Outline A-B | Skin integrity / pressure injury content requires SME/source review. |
-| C02C_DELIVERY | delivery | Weight Monitoring and Change Reporting | 39 | ContentV1 M05 L05; CCCCO Module 11 nutrition/fluid monitoring rationale | Skin integrity / pressure injury content requires SME/source review. |
-| C03_CHALLENGE | challenge | Monitoring, Documentation, and Reporting Challenge | 32 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
-| C04A_DEBRIEF | debrief | Monitoring, Documentation, and Reporting - Challenge Debrief | 52 | NATP Module 10 (Vital Signs) | Skin integrity / pressure injury content requires SME/source review. |
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 11, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 45 | CCCCO Module 11, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 1 | None identified |
 
-## M06 — Documentation, Reporting, PHI Avoidance, and Scope (90 min, counts_toward_720=True)
-
-### L01 — Observation - Objective vs. Subjective (15 min, 5 cards)
+### L02 — Objective 2: Discuss the body’s need for food and fluids (6 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Observation - Objective vs. Subjective | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | The CNA as Observer | 59 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.1 | None identified |
-| C02B_DELIVERY | delivery | Practice: Objective or Subjective? | 30 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.1.2 | None identified |
-| C03_CHALLENGE | challenge | Observation - Objective vs. Subjective Challenge | 32 | NATP Module 15 (Observation and Charting) Objective 1 | None identified |
-| C04A_DEBRIEF | debrief | Observation - Objective vs. Subjective - Challenge Debrief | 53 | NATP Module 15 (Observation and Charting) Objective 1 | None identified |
+| C01_OVERVIEW | overview | Objective 2: Discuss the body’s need for food and fluids | 19 | CCCCO Module 11, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 11, Objective 2, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 2 | None identified |
 
-### L02 — Documentation Standards (20 min, 6 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Documentation Standards | 21 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Rules of Legal Documentation | 65 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.1 | None identified |
-| C02B_DELIVERY | delivery | Common Approved Abbreviations | 42 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.2 | None identified |
-| C02C_DELIVERY | delivery | Documentation Scenario | 33 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.2.3 | None identified |
-| C03_CHALLENGE | challenge | Documentation Standards Challenge | 33 | NATP Module 15 (Observation and Charting) Objective 3 | None identified |
-| C04A_DEBRIEF | debrief | Documentation Standards - Challenge Debrief | 53 | NATP Module 15 (Observation and Charting) Objective 3 | None identified |
-
-### L03 — Change of Condition - What to Report (20 min, 7 cards)
+### L03 — Objective 3: List common nutrients and their food sources (6 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Change of Condition - What to Report | 23 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | What Is a Change of Condition? | 70 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02B_DELIVERY | delivery | What Is a Change of Condition? | 21 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.1 | None identified |
-| C02C_DELIVERY | delivery | How to Report a Change of Condition | 49 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
-| C02D_DELIVERY | delivery | How to Report a Change of Condition | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.3.2 | None identified |
-| C03_CHALLENGE | challenge | Change of Condition - What to Report Challenge | 35 | NATP Module 15 (Observation and Charting) Objective 5 | None identified |
-| C04A_DEBRIEF | debrief | Change of Condition - What to Report - Challenge Debrief | 51 | NATP Module 15 (Observation and Charting) Objective 5 | None identified |
+| C01_OVERVIEW | overview | Objective 3: List common nutrients and their food sources | 19 | CCCCO Module 11, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 11, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 11, Objective 3, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 31 | CCCCO Module 11, Objective 3, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 3 | None identified |
 
-### L04 — CNA Scope of Practice (15 min, 7 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | CNA Scope of Practice | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | What CNAs CAN Do | 35 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.1 | None identified |
-| C02B_DELIVERY | delivery | What CNAs CANNOT Do | 48 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.2 | None identified |
-| C02C_DELIVERY | delivery | Responding to Out-of-Scope Requests | 39 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
-| C02D_DELIVERY | delivery | Responding to Out-of-Scope Requests | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.4.3 | None identified |
-| C03_CHALLENGE | challenge | CNA Scope of Practice Challenge | 25 | NATP Module 13 (Long Term Care Residents) Objective 1 | None identified |
-| C04A_DEBRIEF | debrief | CNA Scope of Practice - Challenge Debrief | 48 | NATP Module 13 (Long Term Care Residents) Objective 1 | None identified |
-
-### L05 — Professionalism, Ethics, and Delegation (10 min, 6 cards)
+### L04 — Objective 4: Describe the My Pyramid food guidance system (6 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Professionalism, Ethics, and Delegation | 22 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Professional Behavior | 39 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.1 | None identified |
-| C02B_DELIVERY | delivery | Delegation | 64 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
-| C02C_DELIVERY | delivery | Delegation | 8 | CNA-Recert-Course/Content/theory/modules/28_THEORY_MODULE_06_DOCUMENTATION_CHANGE_OF_CONDITION_SCOPE_FULL.md#Screen 6.5.2 | None identified |
-| C03_CHALLENGE | challenge | Professionalism, Ethics, and Delegation Challenge | 28 | NATP Module 15 (Observation and Charting) | None identified |
-| C04A_DEBRIEF | debrief | Professionalism, Ethics, and Delegation - Challenge Debrief | 45 | NATP Module 15 (Observation and Charting) | None identified |
+| C01_OVERVIEW | overview | Objective 4: Describe the My Pyramid food guidance system | 19 | CCCCO Module 11, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 11, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 11, Objective 4, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 26 | CCCCO Module 11, Objective 4, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 4 | None identified |
 
-## M07 — Final Review, Exam/Test, Affidavit, and Certificate Status (30 min, counts_toward_720=True)
-
-### L01 — Cumulative Review - Modules 1-3 (5 min, 10 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Cumulative Review - Modules 1-3 | 23 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | Module 1 Review: Infection Control | 8 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.1 | None identified |
-| C02B_DELIVERY | delivery | Module 1 Review: Infection Control | 52 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.1 | None identified |
-| C02C_DELIVERY | delivery | Module 1 Review: Infection Control | 13 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.1 | None identified |
-| C02D_DELIVERY | delivery | Module 2 Review: Resident Rights and Abuse Prevention | 8 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.2 | None identified |
-| C02E_DELIVERY | delivery | Module 2 Review: Resident Rights and Abuse Prevention | 48 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.2 | None identified |
-| C02F_DELIVERY | delivery | Module 3 Review: Dementia, Communication, and Cultural Respect | 8 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.3 | None identified |
-| C02G_DELIVERY | delivery | Module 3 Review: Dementia, Communication, and Cultural Respect | 58 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.1.3 | None identified |
-| C03_CHALLENGE | challenge | Cumulative Review - Modules 1-3 Challenge | 28 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-| C04A_DEBRIEF | debrief | Cumulative Review - Modules 1-3 - Challenge Debrief | 53 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-
-### L02 — Cumulative Review - Modules 4-6 (5 min, 9 cards)
+### L05 — Objective 5: Describe the vegan basic four food groups (6 min, 5 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Cumulative Review - Modules 4-6 | 23 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Module 4 Review: Mobility, Falls, and Workplace Safety | 8 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.1 | None identified |
-| C02B_DELIVERY | delivery | Module 4 Review: Mobility, Falls, and Workplace Safety | 54 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.1 | None identified |
-| C02C_DELIVERY | delivery | Module 5 Review: Nutrition, Skin Integrity, and Vital Signs | 18 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.2 | None identified |
-| C02D_DELIVERY | delivery | Module 5 Review: Nutrition, Skin Integrity, and Vital Signs | 52 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.2 | None identified |
-| C02E_DELIVERY | delivery | Module 6 Review: Documentation, Change of Condition, and Scope | 9 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.3 | None identified |
-| C02F_DELIVERY | delivery | Module 6 Review: Documentation, Change of Condition, and Scope | 55 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.2.3 | None identified |
-| C03_CHALLENGE | challenge | Cumulative Review - Modules 4-6 Challenge | 28 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-| C04A_DEBRIEF | debrief | Cumulative Review - Modules 4-6 - Challenge Debrief | 53 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
+| C01_OVERVIEW | overview | Objective 5: Describe the vegan basic four food groups | 19 | CCCCO Module 11, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 11, Objective 5, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 5 | None identified |
 
-### L03 — Final Exam Preparation and Instructions (3 min, 7 cards)
+### L06 — Objective 6: Discuss nutritional and fluid needs of the elderly (5 min, 6 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Final Exam Preparation and Instructions | 23 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Before You Begin the Final Exam | 8 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.3.1 | None identified |
-| C02B_DELIVERY | delivery | Before You Begin the Final Exam | 47 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.3.1 | None identified |
-| C02C_DELIVERY | delivery | Before You Begin the Final Exam | 19 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.3.1 | None identified |
-| C02D_DELIVERY | delivery | Before You Begin the Final Exam | 13 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.3.1 | None identified |
-| C03_CHALLENGE | challenge | Final Exam Preparation and Instructions Challenge | 28 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-| C04A_DEBRIEF | debrief | Final Exam Preparation and Instructions - Challenge Debrief | 53 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
+| C01_OVERVIEW | overview | Objective 6: Discuss nutritional and fluid needs of the elderly | 19 | CCCCO Module 11, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 11, Objective 6, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 11, Objective 6, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 28 | CCCCO Module 11, Objective 6, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 6 | None identified |
 
-### L04 — Affidavit of Completion (2 min, 8 cards)
-
-| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
-|---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Affidavit of Completion | 23 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | What Is This Affidavit? | 19 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.4.1 | None identified |
-| C02B_DELIVERY | delivery | What Is This Affidavit? | 48 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.4.1 | None identified |
-| C02C_DELIVERY | delivery | Affidavit Form (Questionnaire Fields) | 37 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.4.2 | None identified |
-| C02D_DELIVERY | delivery | Affidavit Form (Questionnaire Fields) | 31 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.4.2 | None identified |
-| C02E_DELIVERY | delivery | Affidavit Form (Questionnaire Fields) | 32 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.4.2 | None identified |
-| C03_CHALLENGE | challenge | Affidavit of Completion Challenge | 26 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-| C04A_DEBRIEF | debrief | Affidavit of Completion - Challenge Debrief | 53 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-
-### L05 — Certificate Status, Next Steps, and Post-Course Guidance (2 min, 12 cards)
+### L07 — Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibil (5 min, 7 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
-| C01_OVERVIEW | overview | Certificate Status, Next Steps, and Post-Course Guidance | 25 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Your Certificate Status | 46 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.1 | None identified |
-| C02B_DELIVERY | delivery | What Your Certificate Says | 47 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.2 | None identified |
-| C02C_DELIVERY | delivery | Your Next Steps for Full Renewal | 15 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02D_DELIVERY | delivery | Your Next Steps for Full Renewal | 36 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02E_DELIVERY | delivery | Your Next Steps for Full Renewal | 38 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02F_DELIVERY | delivery | Your Next Steps for Full Renewal | 44 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02G_DELIVERY | delivery | Your Next Steps for Full Renewal | 33 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02H_DELIVERY | delivery | Your Next Steps for Full Renewal | 15 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C02I_DELIVERY | delivery | Your Next Steps for Full Renewal | 57 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md#Screen 7.5.3 | None identified |
-| C03_CHALLENGE | challenge | Certificate Status, Next Steps, and Post-Course Guidance Challenge | 31 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
-| C04A_DEBRIEF | debrief | Certificate Status, Next Steps, and Post-Course Guidance - Challenge Debrief | 53 | CNA-Recert-Course/Content/theory/modules/29_THEORY_MODULE_07_REVIEW_FINAL_EXAM_AFFIDAVIT_FULL.md | SME review required |
+| C01_OVERVIEW | overview | Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibil | 22 | CCCCO Module 11, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 49 | CCCCO Module 11, Objective 7, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 11, Objective 7, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 11, Objective 7, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 36 | CCCCO Module 11, Objective 7, source detail chunk 4 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 7 | None identified |
+
+### L08 — Objective 8: Describe proper techniques for feeding patients/residents (5 min, 9 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 8: Describe proper techniques for feeding patients/residents | 19 | CCCCO Module 11, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 11, Objective 8, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 48 | CCCCO Module 11, Objective 8, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 11, Objective 8, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 48 | CCCCO Module 11, Objective 8, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 48 | CCCCO Module 11, Objective 8, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 23 | CCCCO Module 11, Objective 8, source detail chunk 6 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 8 | None identified |
+
+### L09 — Objective 9: Discuss cultural and religious influences on dietary practices (5 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 9: Discuss cultural and religious influences on dietary practices | 19 | CCCCO Module 11, Objective 9 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 11, Objective 9, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 11, Objective 9, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 9 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 9 | None identified |
+
+### L10 — Objective 10: Identify alternative ways to administer nutrition (5 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 10: Identify alternative ways to administer nutrition | 19 | CCCCO Module 11, Objective 10 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 11, Objective 10, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 11, Objective 10, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 31 | CCCCO Module 11, Objective 10, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 11, Objective 10 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 11, Objective 10 | None identified |
+
+## M12 — CCCCO Module 12: Emergency Procedures (55 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (11 min, 7 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 12, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 45 | CCCCO Module 12, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 12, Objective 1, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 12, Objective 1, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 12, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 12, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 12, Objective 1 | None identified |
+
+### L02 — Objective 2: Identify common signs and symptoms of conditions associated with patient/resident dist (11 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Identify common signs and symptoms of conditions associated with patient/resident dist | 26 | CCCCO Module 12, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 12, Objective 2, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 12, Objective 2, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 12, Objective 2, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 30 | CCCCO Module 12, Objective 2, source detail chunk 4 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 12, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 12, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 12, Objective 2 | None identified |
+
+### L03 — Objective 3: Describe the immediate interventions in a medical emergency (11 min, 19 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: Describe the immediate interventions in a medical emergency | 19 | CCCCO Module 12, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 12, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 47 | CCCCO Module 12, Objective 3, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 12, Objective 3, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 46 | CCCCO Module 12, Objective 3, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 46 | CCCCO Module 12, Objective 3, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 46 | CCCCO Module 12, Objective 3, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 48 | CCCCO Module 12, Objective 3, source detail chunk 7 | None identified |
+| C02_08_DELIVERY | delivery | Source Detail 8 | 46 | CCCCO Module 12, Objective 3, source detail chunk 8 | None identified |
+| C02_09_DELIVERY | delivery | Source Detail 9 | 46 | CCCCO Module 12, Objective 3, source detail chunk 9 | None identified |
+| C02_10_DELIVERY | delivery | Source Detail 10 | 46 | CCCCO Module 12, Objective 3, source detail chunk 10 | None identified |
+| C02_11_DELIVERY | delivery | Source Detail 11 | 46 | CCCCO Module 12, Objective 3, source detail chunk 11 | None identified |
+| C02_12_DELIVERY | delivery | Source Detail 12 | 46 | CCCCO Module 12, Objective 3, source detail chunk 12 | None identified |
+| C02_13_DELIVERY | delivery | Source Detail 13 | 49 | CCCCO Module 12, Objective 3, source detail chunk 13 | None identified |
+| C02_14_DELIVERY | delivery | Source Detail 14 | 48 | CCCCO Module 12, Objective 3, source detail chunk 14 | None identified |
+| C02_15_DELIVERY | delivery | Source Detail 15 | 46 | CCCCO Module 12, Objective 3, source detail chunk 15 | None identified |
+| C02_16_DELIVERY | delivery | Source Detail 16 | 45 | CCCCO Module 12, Objective 3, source detail chunk 16 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 12, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 12, Objective 3 | None identified |
+
+### L04 — Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for reli (11 min, 7 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for reli | 24 | CCCCO Module 12, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 12, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 47 | CCCCO Module 12, Objective 4, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 12, Objective 4, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 12, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 12, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 12, Objective 4 | None identified |
+
+### L05 — Objective 5: Describe common emergency codes used in long-term care facilities. This module may be  (11 min, 7 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: Describe common emergency codes used in long-term care facilities. This module may be | 24 | CCCCO Module 12, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 44 | CCCCO Module 12, Objective 5, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 12, Objective 5, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 12, Objective 5, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 12, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 12, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 12, Objective 5 | None identified |
+
+## M13 — CCCCO Module 13: Long Term Care Resident (138 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (18 min, 9 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 13, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 13, Objective 1, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 13, Objective 1, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 13, Objective 1, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 16 | CCCCO Module 13, Objective 1, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 13, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 1 | None identified |
+
+### L02 — Objective 2: Describe common basic human needs and interventions for the elderly patient/resident;  (18 min, 10 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; | 23 | CCCCO Module 13, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 2, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 13, Objective 2, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 29 | CCCCO Module 13, Objective 2, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 13, Objective 2, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 13, Objective 2, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 13, Objective 2, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 22 | CCCCO Module 13, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 2 | None identified |
+
+### L03 — Objective 3: Describe common community resources to meet the needs of the elderly (17 min, 9 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: Describe common community resources to meet the needs of the elderly | 21 | CCCCO Module 13, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 13, Objective 3, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 13, Objective 3, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 13, Objective 3, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 13, Objective 3, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 19 | CCCCO Module 13, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 3 | None identified |
+
+### L04 — Objective 4: Describe the special needs of persons with developmental and mental disorders includin (17 min, 16 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: Describe the special needs of persons with developmental and mental disorders includin | 25 | CCCCO Module 13, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 13, Objective 4, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 13, Objective 4, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 49 | CCCCO Module 13, Objective 4, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 46 | CCCCO Module 13, Objective 4, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 46 | CCCCO Module 13, Objective 4, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 47 | CCCCO Module 13, Objective 4, source detail chunk 7 | None identified |
+| C02_08_DELIVERY | delivery | Source Detail 8 | 48 | CCCCO Module 13, Objective 4, source detail chunk 8 | None identified |
+| C02_09_DELIVERY | delivery | Source Detail 9 | 46 | CCCCO Module 13, Objective 4, source detail chunk 9 | None identified |
+| C02_10_DELIVERY | delivery | Source Detail 10 | 47 | CCCCO Module 13, Objective 4, source detail chunk 10 | None identified |
+| C02_11_DELIVERY | delivery | Source Detail 11 | 46 | CCCCO Module 13, Objective 4, source detail chunk 11 | None identified |
+| C02_12_DELIVERY | delivery | Source Detail 12 | 46 | CCCCO Module 13, Objective 4, source detail chunk 12 | None identified |
+| C02_13_DELIVERY | delivery | Source Detail 13 | 35 | CCCCO Module 13, Objective 4, source detail chunk 13 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 4 | None identified |
+
+### L05 — Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related demen (17 min, 15 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related demen | 22 | CCCCO Module 13, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 13, Objective 5, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 13, Objective 5, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 13, Objective 5, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 46 | CCCCO Module 13, Objective 5, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 46 | CCCCO Module 13, Objective 5, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 47 | CCCCO Module 13, Objective 5, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 47 | CCCCO Module 13, Objective 5, source detail chunk 7 | None identified |
+| C02_08_DELIVERY | delivery | Source Detail 8 | 48 | CCCCO Module 13, Objective 5, source detail chunk 8 | None identified |
+| C02_09_DELIVERY | delivery | Source Detail 9 | 47 | CCCCO Module 13, Objective 5, source detail chunk 9 | None identified |
+| C02_10_DELIVERY | delivery | Source Detail 10 | 46 | CCCCO Module 13, Objective 5, source detail chunk 10 | None identified |
+| C02_11_DELIVERY | delivery | Source Detail 11 | 48 | CCCCO Module 13, Objective 5, source detail chunk 11 | None identified |
+| C02_12_DELIVERY | delivery | Source Detail 12 | 31 | CCCCO Module 13, Objective 5, source detail chunk 12 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 5 | None identified |
+
+### L06 — Objective 6: Describe the body’s basic organization and composition (17 min, 9 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 6: Describe the body’s basic organization and composition | 19 | CCCCO Module 13, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 6, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 43 | CCCCO Module 13, Objective 6, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 13, Objective 6, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 13, Objective 6, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 13, Objective 6, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 18 | CCCCO Module 13, Objective 6, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 6 | None identified |
+
+### L07 — Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the  (17 min, 27 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the | 28 | CCCCO Module 13, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 13, Objective 7, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 48 | CCCCO Module 13, Objective 7, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 13, Objective 7, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 46 | CCCCO Module 13, Objective 7, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 48 | CCCCO Module 13, Objective 7, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 46 | CCCCO Module 13, Objective 7, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 46 | CCCCO Module 13, Objective 7, source detail chunk 7 | None identified |
+| C02_08_DELIVERY | delivery | Source Detail 8 | 46 | CCCCO Module 13, Objective 7, source detail chunk 8 | None identified |
+| C02_09_DELIVERY | delivery | Source Detail 9 | 46 | CCCCO Module 13, Objective 7, source detail chunk 9 | None identified |
+| C02_10_DELIVERY | delivery | Source Detail 10 | 46 | CCCCO Module 13, Objective 7, source detail chunk 10 | None identified |
+| C02_11_DELIVERY | delivery | Source Detail 11 | 47 | CCCCO Module 13, Objective 7, source detail chunk 11 | None identified |
+| C02_12_DELIVERY | delivery | Source Detail 12 | 48 | CCCCO Module 13, Objective 7, source detail chunk 12 | None identified |
+| C02_13_DELIVERY | delivery | Source Detail 13 | 50 | CCCCO Module 13, Objective 7, source detail chunk 13 | None identified |
+| C02_14_DELIVERY | delivery | Source Detail 14 | 46 | CCCCO Module 13, Objective 7, source detail chunk 14 | None identified |
+| C02_15_DELIVERY | delivery | Source Detail 15 | 49 | CCCCO Module 13, Objective 7, source detail chunk 15 | None identified |
+| C02_16_DELIVERY | delivery | Source Detail 16 | 46 | CCCCO Module 13, Objective 7, source detail chunk 16 | None identified |
+| C02_17_DELIVERY | delivery | Source Detail 17 | 46 | CCCCO Module 13, Objective 7, source detail chunk 17 | None identified |
+| C02_18_DELIVERY | delivery | Source Detail 18 | 47 | CCCCO Module 13, Objective 7, source detail chunk 18 | None identified |
+| C02_19_DELIVERY | delivery | Source Detail 19 | 46 | CCCCO Module 13, Objective 7, source detail chunk 19 | None identified |
+| C02_20_DELIVERY | delivery | Source Detail 20 | 49 | CCCCO Module 13, Objective 7, source detail chunk 20 | None identified |
+| C02_21_DELIVERY | delivery | Source Detail 21 | 49 | CCCCO Module 13, Objective 7, source detail chunk 21 | None identified |
+| C02_22_DELIVERY | delivery | Source Detail 22 | 46 | CCCCO Module 13, Objective 7, source detail chunk 22 | None identified |
+| C02_23_DELIVERY | delivery | Source Detail 23 | 46 | CCCCO Module 13, Objective 7, source detail chunk 23 | None identified |
+| C02_24_DELIVERY | delivery | Source Detail 24 | 47 | CCCCO Module 13, Objective 7, source detail chunk 24 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 7 | None identified |
+
+### L08 — Objective 8: Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/I (17 min, 11 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 8: Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/I | 63 | CCCCO Module 13, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 13, Objective 8, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 48 | CCCCO Module 13, Objective 8, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 13, Objective 8, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 48 | CCCCO Module 13, Objective 8, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 46 | CCCCO Module 13, Objective 8, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 47 | CCCCO Module 13, Objective 8, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 21 | CCCCO Module 13, Objective 8, source detail chunk 7 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 13, Objective 8, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 13, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 13, Objective 8 | None identified |
+
+## M14 — CCCCO Module 14- Rehabilitative Nursing (55 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (5 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 14, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 1 | None identified |
+
+### L02 — Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient (5 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient | 21 | CCCCO Module 14, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 14, Objective 2, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 22 | CCCCO Module 14, Objective 2, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 2 | None identified |
+
+### L03 — Objective 3: State goals of restorative care that promote independence and patient/resident potenti (5 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: State goals of restorative care that promote independence and patient/resident potenti | 21 | CCCCO Module 14, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 40 | CCCCO Module 14, Objective 3, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 3 | None identified |
+
+### L04 — Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse (5 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse | 25 | CCCCO Module 14, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 14, Objective 4, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 24 | CCCCO Module 14, Objective 4, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 4 | None identified |
+
+### L05 — Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-ca (5 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-ca | 21 | CCCCO Module 14, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 5, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 31 | CCCCO Module 14, Objective 5, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 5 | None identified |
+
+### L06 — Objective 6: List activities that make up Activities of Daily Living (ADLs) (5 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 6: List activities that make up Activities of Daily Living (ADLs) | 20 | CCCCO Module 14, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 34 | CCCCO Module 14, Objective 6, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 6, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 6 | None identified |
+
+### L07 — Objective 7: List common comfort and adaptive devices and explain the purposes of each (5 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 7: List common comfort and adaptive devices and explain the purposes of each | 21 | CCCCO Module 14, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 7, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 47 | CCCCO Module 14, Objective 7, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 7, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 7 | None identified |
+
+### L08 — Objective 8: Identify steps to prevent complications from inactivity (4 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 8: Identify steps to prevent complications from inactivity | 19 | CCCCO Module 14, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 8, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 14, Objective 8, source detail chunk 2 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 8 | None identified |
+
+### L09 — Objective 9: Describe range-of-motion exercises (ROM) (4 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 9: Describe range-of-motion exercises (ROM) | 18 | CCCCO Module 14, Objective 9 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 14, Objective 9, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 48 | CCCCO Module 14, Objective 9, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 45 | CCCCO Module 14, Objective 9, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 9 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 9 | None identified |
+
+### L10 — Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/r (4 min, 5 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/r | 23 | CCCCO Module 14, Objective 10 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 14, Objective 10, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 47 | CCCCO Module 14, Objective 10, source detail chunk 2 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 10 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 10 | None identified |
+
+### L11 — Objective 11: Discuss relationship between patient’s/resident’s self-esteem and family involvement i (4 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 11: Discuss relationship between patient’s/resident’s self-esteem and family involvement i | 20 | CCCCO Module 14, Objective 11 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 11, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 27 | CCCCO Module 14, Objective 11, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 24 | CCCCO Module 14, Objective 11, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 11 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 11 | None identified |
+
+### L12 — Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting (4 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting | 22 | CCCCO Module 14, Objective 12 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 14, Objective 12, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 14, Objective 12, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 26 | CCCCO Module 14, Objective 12, source detail chunk 3 | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 14, Objective 12 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 14, Objective 12 | None identified |
+
+## M15 — CCCCO Module 15: Observation and Charting (111 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 15, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 15, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 1, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 1, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 1, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 16 | CCCCO Module 15, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 1 | None identified |
+
+### L02 — Objective 2: Identify word elements used in medical terms (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Identify word elements used in medical terms | 19 | CCCCO Module 15, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 25 | CCCCO Module 15, Objective 2, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 2, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 2, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 2, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 18 | CCCCO Module 15, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 2 | None identified |
+
+### L03 — Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities | 20 | CCCCO Module 15, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 15, Objective 3, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 3, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 3, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 3, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 19 | CCCCO Module 15, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 3 | None identified |
+
+### L04 — Objective 4: Define observation and list the senses used to observe a patient/resident (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: Define observation and list the senses used to observe a patient/resident | 21 | CCCCO Module 15, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 15, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 28 | CCCCO Module 15, Objective 4, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 4, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 4, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 4 | None identified |
+
+### L05 — Objective 5: Describe objective and subjective observations (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: Describe objective and subjective observations | 18 | CCCCO Module 15, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 41 | CCCCO Module 15, Objective 5, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 5, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 5, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 5, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 17 | CCCCO Module 15, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 5 | None identified |
+
+### L06 — Objective 6: List types of charting documents and the use for each (14 min, 8 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 6: List types of charting documents and the use for each | 20 | CCCCO Module 15, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 49 | CCCCO Module 15, Objective 6, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 32 | CCCCO Module 15, Objective 6, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 6, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 6, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 15, Objective 6, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 6 | None identified |
+
+### L07 — Objective 7: Explain how to accurately complete ADL assessment for MDS (14 min, 11 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 7: Explain how to accurately complete ADL assessment for MDS | 20 | CCCCO Module 15, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 15, Objective 7, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 50 | CCCCO Module 15, Objective 7, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 15, Objective 7, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 51 | CCCCO Module 15, Objective 7, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 51 | CCCCO Module 15, Objective 7, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 48 | CCCCO Module 15, Objective 7, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 35 | CCCCO Module 15, Objective 7, source detail chunk 7 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 7, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 7 | None identified |
+
+### L08 — Objective 8: Discuss procedures to use when recording on a patient’s/resident’s chart (13 min, 9 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 8: Discuss procedures to use when recording on a patient’s/resident’s chart | 20 | CCCCO Module 15, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 15, Objective 8, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 15, Objective 8, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 48 | CCCCO Module 15, Objective 8, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 49 | CCCCO Module 15, Objective 8, source detail chunk 4 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 23 | CCCCO Module 15, Objective 8, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 15, Objective 8, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 15, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 15, Objective 8 | None identified |
+
+## M16 — CCCCO Module 16: Death and Dying (55 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (7 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 16, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 45 | CCCCO Module 16, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 20 | CCCCO Module 16, Objective 1, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 16, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 1 | None identified |
+
+### L02 — Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross (7 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross | 21 | CCCCO Module 16, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 27 | CCCCO Module 16, Objective 2, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 2, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 16, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 2 | None identified |
+
+### L03 — Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill pat (7 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill pat | 23 | CCCCO Module 16, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 16, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 16, Objective 3, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 3 | None identified |
+
+### L04 — Objective 4: List the rights of the dying patient/resident (7 min, 7 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: List the rights of the dying patient/resident | 19 | CCCCO Module 16, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 16, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 51 | CCCCO Module 16, Objective 4, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 16, Objective 4, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 4 | None identified |
+
+### L05 — Objective 5: Differentiate between common signs of approaching death and biological death (7 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: Differentiate between common signs of approaching death and biological death | 20 | CCCCO Module 16, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 16, Objective 5, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 22 | CCCCO Module 16, Objective 5, source detail chunk 2 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 5 | None identified |
+
+### L06 — Objective 6: Identify care and comfort measures for dying patients/residents (7 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 6: Identify care and comfort measures for dying patients/residents | 19 | CCCCO Module 16, Objective 6 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 16, Objective 6, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 6, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 16, Objective 6, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 6 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 6 | None identified |
+
+### L07 — Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant’s role when the p (7 min, 7 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant’s role when the p | 26 | CCCCO Module 16, Objective 7 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 49 | CCCCO Module 16, Objective 7, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 16, Objective 7, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 30 | CCCCO Module 16, Objective 7, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 7, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 7 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 7 | None identified |
+
+### L08 — Objective 8: Describe procedures and responsibilities for postmortem care (6 min, 6 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 8: Describe procedures and responsibilities for postmortem care | 19 | CCCCO Module 16, Objective 8 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 30 | CCCCO Module 16, Objective 8, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 16, Objective 8, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 16, Objective 8, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 16, Objective 8 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 16, Objective 8 | None identified |
+
+## M17 — CCCCO Module 17: Patient/Resident Abuse (168 min, counts_toward_720=True)
+
+### L01 — Objective 1: Define key terminology (34 min, 10 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 1: Define key terminology | 17 | CCCCO Module 17, Objective 1 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 43 | CCCCO Module 17, Objective 1, source detail chunk 1 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 16 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C70_06_ACTIVITY | delivery | Quick Teach-Back | 15 | CCCCO Module 17, Objective 1, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 17, Objective 1 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 17, Objective 1 | None identified |
+
+### L02 — Objective 2: Identify and discuss types of elder abuse (34 min, 15 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 2: Identify and discuss types of elder abuse | 19 | CCCCO Module 17, Objective 2 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 46 | CCCCO Module 17, Objective 2, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 17, Objective 2, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 47 | CCCCO Module 17, Objective 2, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 46 | CCCCO Module 17, Objective 2, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 46 | CCCCO Module 17, Objective 2, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 22 | CCCCO Module 17, Objective 2, source detail chunk 6 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 18 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C70_06_ACTIVITY | delivery | Quick Teach-Back | 15 | CCCCO Module 17, Objective 2, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 17, Objective 2 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 17, Objective 2 | None identified |
+
+### L03 — Objective 3: Discuss the issues related to elder abuse (34 min, 12 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 3: Discuss the issues related to elder abuse | 19 | CCCCO Module 17, Objective 3 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 17, Objective 3, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 17, Objective 3, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 17, Objective 3, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 18 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C70_06_ACTIVITY | delivery | Quick Teach-Back | 15 | CCCCO Module 17, Objective 3, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 17, Objective 3 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 17, Objective 3 | None identified |
+
+### L04 — Objective 4: Explain the Nurse Assistant role in preventing elder abuse (33 min, 16 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 4: Explain the Nurse Assistant role in preventing elder abuse | 20 | CCCCO Module 17, Objective 4 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 48 | CCCCO Module 17, Objective 4, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 47 | CCCCO Module 17, Objective 4, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 46 | CCCCO Module 17, Objective 4, source detail chunk 3 | None identified |
+| C02_04_DELIVERY | delivery | Source Detail 4 | 46 | CCCCO Module 17, Objective 4, source detail chunk 4 | None identified |
+| C02_05_DELIVERY | delivery | Source Detail 5 | 48 | CCCCO Module 17, Objective 4, source detail chunk 5 | None identified |
+| C02_06_DELIVERY | delivery | Source Detail 6 | 48 | CCCCO Module 17, Objective 4, source detail chunk 6 | None identified |
+| C02_07_DELIVERY | delivery | Source Detail 7 | 26 | CCCCO Module 17, Objective 4, source detail chunk 7 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 19 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C70_06_ACTIVITY | delivery | Quick Teach-Back | 15 | CCCCO Module 17, Objective 4, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 17, Objective 4 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 17, Objective 4 | None identified |
+
+### L05 — Objective 5: Describe the Nurse Assistant role in reporting elder abuse (33 min, 12 cards)
+
+| Card ID | Type | Title | Est. s | Source Ref | SME Flag |
+|---|---|---|---:|---|---|
+| C01_OVERVIEW | overview | Objective 5: Describe the Nurse Assistant role in reporting elder abuse | 20 | CCCCO Module 17, Objective 5 | None identified |
+| C02_01_DELIVERY | delivery | Source Detail 1 | 47 | CCCCO Module 17, Objective 5, source detail chunk 1 | None identified |
+| C02_02_DELIVERY | delivery | Source Detail 2 | 46 | CCCCO Module 17, Objective 5, source detail chunk 2 | None identified |
+| C02_03_DELIVERY | delivery | Source Detail 3 | 21 | CCCCO Module 17, Objective 5, source detail chunk 3 | None identified |
+| C70_01_ACTIVITY | delivery | Source Term Sorting | 22 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C70_02_ACTIVITY | delivery | Observe-Report-Document Check | 17 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C70_03_ACTIVITY | delivery | Scope Boundary Decision | 16 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C70_04_ACTIVITY | delivery | Resident Safety Application | 19 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C70_05_ACTIVITY | delivery | Care Plan Follow-Through | 15 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C70_06_ACTIVITY | delivery | Quick Teach-Back | 15 | CCCCO Module 17, Objective 5, source-backed activity | None identified |
+| C90_CHALLENGE | challenge | Practice Challenge | 39 | CCCCO Module 17, Objective 5 | None identified |
+| C91_DEBRIEF | debrief | Challenge Debrief / Remediation | 22 | CCCCO Module 17, Objective 5 | None identified |
 

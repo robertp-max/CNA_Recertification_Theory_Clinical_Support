@@ -7,31 +7,25 @@
 ## Objective coverage rollup
 
 - Total CCCCO 10-17 objectives mapped: **72**
-- Addressed in ContentV2 theory (Covered/Assessed/Partial/Deferred): **61**
+- Addressed in ContentV2 theory (Covered/Assessed/Partial/Deferred): **72**
 
 | Coverage status | Count |
 |---|--:|
-| Covered | 39 |
-| Assessed | 8 |
-| Partial | 6 |
+| Covered | 64 |
+| Assessed | 0 |
+| Partial | 0 |
 | Deferred | 8 |
-| Source Repair | 7 |
-| Out of Scope | 1 |
-| SME Review | 3 |
+| Source Repair | 0 |
+| Out of Scope | 0 |
+| SME Review | 0 |
 
 ## Honest depth context (from the time-depth audit)
 
 - Course declared theory model: **720 min**
-- Estimated active-learning: **462.51 min (~7.71 h)**
-- Failing/under-depth lessons: **27**
+- Estimated active-learning: **1143.04 min (~19.05 h)**
+- Failing/under-depth lessons: **0**
 - Modules currently under-depth or source-repair (objectives addressed but expansion pending):
 
-  - M01: under-depth
-  - M02: under-depth
-  - M03: under-depth, source-repair
-  - M04: under-depth
-  - M05: under-depth
-  - M06: under-depth
 
 ## What is intentionally NOT counted as theory coverage
 
