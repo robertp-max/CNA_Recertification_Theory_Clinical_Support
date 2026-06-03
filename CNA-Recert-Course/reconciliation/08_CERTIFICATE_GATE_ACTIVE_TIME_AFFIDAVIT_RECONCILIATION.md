@@ -1,57 +1,78 @@
-# 08 — Certificate Gate, Active-Time, and Affidavit Reconciliation
+# 08 - Certificate Gate, Active-Time, and Affidavit Reconciliation
 
+## Title
+
+08 - Certificate Gate, Active-Time, and Affidavit Reconciliation
+
+## Status
+
+Status: Incomplete - evidence missing; certificate production remains disabled
+
+## Priority
+
+P0 Blocker
+
+## Owner
+
+Program Owner / Legal
+
+## Reviewer
+
+Compliance / CDPH as applicable
+
+## Last checked
+
+2026-06-03
+
+## Source files inspected
+
+- `CNA-Recert-Course\reconciliation\MISSING_DOCUMENTATION_GENERATION_AUDIT.md`
+- `CNA-Recert-Course\reconciliation\00_CI_ION_RECONCILIATION_EXECUTIVE_SUMMARY.md`
+- `CNA-Recert-Course\reconciliation\05_MISSING_DOCUMENTATION_REGISTER.md`
+- `CNA-Recert-Course\reconciliation\13_GO_NO_GO_BLOCKERS_AND_DECISIONS.md`
+- `CNA-Recert-Course\reconciliation\15_SPREADSHEET_URL_DOCUMENTATION_EVIDENCE_REGISTER.md`
+- `CNA-Recert-Course\Content`
+- `CNA-Recert-Course\ContentV2`
+- `standalone-course-mvp\src\data`
+## Export evidence inspected
+
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\manifest.json`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\CI-ION - Course Structures - Contents.xlsx`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\linked-files`
+
+Recalculated from `manifest.json`: 162 URLs, 39 copied/imported, 36 skipped, 22 errored, 57 duplicate/tab-anchor rows, 7 external-only, 1 owner-decision folder rows, 59 still undocumented.
 ## Purpose
 
-Reconcile the certificate gate chain, active-time validation, and affidavit/e-signature controls.
-Confirm which are documented, which are prototype-only, and which are blocked.
+Document available certificate gate evidence and the unresolved approval, affidavit, and active-time gaps.
 
-## Inputs Reviewed
+## Findings
 
-- `CNA-Recert-Course\Content\13_AFFIDAVIT_TEXT.md`.
-- `CNA-Recert-Course\Content\14_CERTIFICATE_FIELD_MAPPING.csv`.
-- `CNA-Recert-Course\Content\00_EXECUTIVE_SUMMARY.md` (gate logic, layered evidence).
-- `CNA-Recert-Course\PHASE_0_COMPLIANCE_FOUNDATION.md`.
-- App: `standalone-course-mvp\src\pages\CertificateGatePage.tsx`,
-  `FinalAssessmentSplashPage.tsx`.
-
-## Gate Chain Evidence Table
-
-| Gate control | Control doc | App/export evidence | Status |
+| Gate / approval item | Inspected evidence | Status | Blocker |
 |---|---|---|---|
-| Identity (legal name + CNA cert #) | gate prerequisite | M00 / CertificateGatePage | Needs Compliance Review |
-| Module completion | completion tracking | ContentV2 / app | In Progress |
-| Interaction checks | interaction matrix | app | In Progress |
-| Active-time validation | active-time plugin / manual review | not validated | Needs Compliance Review |
-| Final exam pass | exam pool + pass mark | `examPool.ts` | Needs SME Review |
-| Affidavit / e-sign | `13_AFFIDAVIT_TEXT.md` | CertificateGatePage | Needs Legal/CDPH Review |
-| Admin clearance | manual admin review | app | In Progress |
-| Certificate wording | `14_CERTIFICATE_FIELD_MAPPING.csv` | DRAFT only | Needs Legal/CDPH Review |
-| Provider / NAC metadata | `PHASE_0_COMPLIANCE_FOUNDATION.md` | not present | Needs Legal/CDPH Review |
+| Provider/course approval metadata | No local approval artifact found in inspected reconciliation/source files | Missing | P0 Blocker |
+| NAC/provider details | No local approved metadata found | Missing | P0 Blocker |
+| Approved certificate wording | `Content\14_CERTIFICATE_FIELD_MAPPING.csv` exists as mapping evidence; no approval proof inspected | Missing approval | P0 Blocker |
+| Affidavit/e-sign method | `Content\13_AFFIDAVIT_TEXT.md` exists; no e-sign/wet-sign approval proof inspected | Missing approval | P0 Blocker |
+| Active-time validation | No validation record inspected; Moodle logs alone are insufficient | Missing validation | P0 Blocker |
+| App gate prototype | App page evidence referenced, but no runtime verification run | Needs App Verification | P1 High |
 
-## Non-Negotiable Compliance Statements
+## Gaps
 
-- No CDPH approval is claimed. **Certificate production is BLOCKED.**
-- E-signature acceptance is **not** confirmed (wet-sign fallback may be required).
-- Active-time validation is **not** confirmed. **Moodle logs alone are insufficient** as active
-  participation evidence; a manual admin review hold is the fallback.
-- Identity excludes DOB unless a controlling approval is uploaded and cited.
+- No inspected evidence authorizes live certificate issuance.
+- No inspected evidence approves active-time validation, affidavit method, or certificate wording.
+- No PHI may be requested, typed, uploaded, shown, or implied as part of any gate.
 
-## Gaps Found
+## Required decisions
 
-- Certificate wording is DRAFT only; no approved language exists.
-- No provider/NAC IDs, approved hours, or approved course title.
-- Active-time plugin not validated in staging.
+- Program Owner/Legal/CDPH must provide approval metadata, NAC/provider details, approved wording, and accepted affidavit method.
+- QA/Compliance must validate active-time evidence or document a manual review hold.
 
-## Owner / Action Needed
+## Acceptance criteria
 
-- Program Owner / Legal / CDPH: approve provider/course, certificate wording, affidavit, e-sign.
-- QA/Technical: validate active-time or implement manual review hold.
+- Certificate production remains disabled until every P0 item has written evidence.
+- No reconciliation artifact claims certificate approval, CDPH approval, production readiness, or survey readiness.
 
-## Blocker Status
+## Next action
 
-**P0 BLOCKER.** Live certificate issuance must remain disabled.
-
-## Next Verification Step
-
-Confirm `CertificateGatePage.tsx` does not enable live issuance and shows draft-only certificate
-language; record in the audit packet.
+Collect written approval artifacts and rerun a gate-specific reconciliation before any certificate issuance is enabled.

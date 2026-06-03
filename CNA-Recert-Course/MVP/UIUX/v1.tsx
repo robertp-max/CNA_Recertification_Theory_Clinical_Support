@@ -4,39 +4,1179 @@ import {
   ArrowRight, ArrowLeft, Clock, ShieldAlert, Image as ImageIcon,
   AlertTriangle, Info, Check, X, Shield, Stethoscope, 
   BookOpen, Lock, AlertCircle, ChevronRight, CheckSquare, Square,
-  Video
+  Video, FileSignature, HelpCircle, Eye, RefreshCw, Award, Settings
 } from 'lucide-react';
 
 export default function App() {
   const [currentView, setCurrentView] = useState('dashboard'); 
-  // Views: 'dashboard', 'modules', 'module0', 'module1', 'lesson'
+  
+  // Compliance & Demo States (controlled manually or via Reviewer Tools)
+  const [module0Completed, setModule0Completed] = useState(false);
+  const [module0Agreed, setModule0Agreed] = useState([false, false, false]);
+  const [m0FirstName, setM0FirstName] = useState('James');
+  const [m0LastName, setM0LastName] = useState('Bond');
+  const [m0License, setM0License] = useState('CNA_DEMO-007');
+
+  const [lessonCompleted, setLessonCompleted] = useState(false);
+  
+  const [m1AssessmentPassed, setM1AssessmentPassed] = useState(false);
+  const [m1AssessmentScore, setM1AssessmentScore] = useState(null);
+
+  const [finalAssessmentPassed, setFinalAssessmentPassed] = useState(false);
+  const [finalAssessmentScore, setFinalAssessmentScore] = useState(null);
+  
+  const [affidavitSigned, setAffidavitSigned] = useState(false);
+  const [activeTimeSecs, setActiveTimeSecs] = useState(43285); // Starts at 12.02 hours for realistic audit display
+  const [isTimerRunning, setIsTimerRunning] = useState(true);
+
+  // Clinical Hub State (separate non-gating credit)
+  const [clinicalInteractions, setClinicalInteractions] = useState(0);
+
+  // Reviewer Tools Panel Visibility
+  const [showReviewerTools, setShowReviewerTools] = useState(false);
+
+  // Track active study/CE time simulation
+  useEffect(() => {
+    let interval = null;
+    if (isTimerRunning) {
+      interval = setInterval(() => {
+        setActiveTimeSecs(prev => prev + 1);
+      }, 1000);
+    }
+    return () => clearInterval(interval);
+  }, [isTimerRunning]);
+
+  const formatHoursAndMins = (totalSecs) => {
+    const hrs = Math.floor(totalSecs / 3600);
+    const mins = Math.floor((totalSecs % 3600) / 60);
+    const secs = totalSecs % 60;
+    return `${hrs}h ${mins}m ${secs}s`;
+  };
+
+  // Helper to force unlock everything for testing
+  const forceCompleteAll = () => {
+    setModule0Completed(true);
+    setModule0Agreed([true, true, true]);
+    setLessonCompleted(true);
+    setM1AssessmentPassed(true);
+    setM1AssessmentScore(100);
+    setFinalAssessmentPassed(true);
+    setFinalAssessmentScore(90);
+    setAffidavitSigned(true);
+    setActiveTimeSecs(43200); // exactly 12 hours
+  };
+
+  const resetAllProgress = () => {
+    setModule0Completed(false);
+    setModule0Agreed([false, false, false]);
+    setLessonCompleted(false);
+    setM1AssessmentPassed(false);
+    setM1AssessmentScore(null);
+    setFinalAssessmentPassed(false);
+    setFinalAssessmentScore(null);
+    setAffidavitSigned(false);
+    setActiveTimeSecs(185); // Reset to 3 minutes
+  };
 
   return (
-    <div className="min-h-screen bg-[#0a0505] text-slate-200 font-sans selection:bg-amber-500/30 flex flex-col">
-      {/* Global Scrollbar Override */}
+    <div className="min-h-screen bg-[#080404] text-stone-100 font-sans selection:bg-amber-500/30 flex flex-col relative overflow-x-hidden">
+      
+      {/* Global Scrollbar Customization */}
       <style dangerouslySetInnerHTML={{__html: `
-        ::-webkit-scrollbar { width: 4px; height: 4px; background: transparent; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background-color: #3b0b0b; border-radius: 0px; }
-        ::-webkit-scrollbar-thumb:hover { background-color: #5c1212; }
-        ::-webkit-scrollbar-button { display: none; }
-        * { scrollbar-width: thin; scrollbar-color: #3b0b0b transparent; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; background: transparent; }
+        ::-webkit-scrollbar-track { background: #080404; }
+        ::-webkit-scrollbar-thumb { background-color: #331212; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background-color: #5c1111; }
+        * { scrollbar-width: thin; scrollbar-color: #331212 #080404; }
       `}} />
       
-      {/* Intense, premium burgundy radial gradient */}
-      <div className="fixed inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#4a0f0f]/40 via-[#0a0505] to-[#0a0505] z-0"></div>
+      {/* Premium Burgundy Base Gradients */}
+      <div className="fixed inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#4a0d0d]/30 via-[#080404] to-[#080404] z-0"></div>
+
+      {/* Admin/Reviewer Tools Drawer (Safe, clean dev utility simulating production admin mode) */}
+      <div className="relative z-50">
+        <div className="bg-[#180a0a] border-b border-amber-500/20 text-xs py-1 px-4 flex items-center justify-between text-stone-400">
+          <div className="flex items-center gap-2">
+            <span className="w-1.5 h-1.5 rounded-full bg-green-500"></span>
+            <span className="font-mono tracking-wide">CDPH CE Audit-Simulator Active: V2.0</span>
+          </div>
+          <button 
+            onClick={() => setShowReviewerTools(!showReviewerTools)} 
+            className="flex items-center gap-1.5 text-amber-500 hover:text-amber-400 font-semibold uppercase tracking-wider px-2 py-0.5 rounded bg-amber-950/40 border border-amber-500/20"
+          >
+            <Settings size={12} />
+            {showReviewerTools ? 'Close Reviewer Panel' : 'Open Reviewer Panel'}
+          </button>
+        </div>
+
+        {showReviewerTools && (
+          <div className="bg-[#120606] border-b border-[#5c1111] p-4 text-sm animate-in slide-in-from-top-4 duration-300">
+            <div className="max-w-6xl mx-auto">
+              <div className="flex items-center justify-between mb-3 border-b border-stone-800 pb-2">
+                <span className="font-semibold text-stone-200 uppercase tracking-widest text-[11px] flex items-center gap-2">
+                  <Shield size={14} className="text-amber-500" /> Prototype State Override Panel
+                </span>
+                <span className="text-xs text-stone-500 italic">Simulates user progress & compliance actions</span>
+              </div>
+              <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+                <div>
+                  <label className="block text-stone-500 text-[10px] uppercase font-bold mb-1">Module 0 Status</label>
+                  <div className="flex gap-2">
+                    <button 
+                      onClick={() => { setModule0Completed(true); setModule0Agreed([true, true, true]); }} 
+                      className={`px-3 py-1.5 rounded text-xs font-semibold w-full border ${module0Completed ? 'bg-amber-950/20 text-amber-400 border-amber-500/30' : 'bg-stone-900 text-stone-400 border-stone-800'}`}
+                    >
+                      Complete
+                    </button>
+                    <button 
+                      onClick={() => { setModule0Completed(false); setModule0Agreed([false, false, false]); }} 
+                      className="px-2 py-1.5 rounded text-xs bg-stone-900 border border-stone-800 text-stone-500 hover:text-stone-300"
+                    >
+                      Reset
+                    </button>
+                  </div>
+                </div>
+
+                <div>
+                  <label className="block text-stone-500 text-[10px] uppercase font-bold mb-1">Lesson Completed</label>
+                  <button 
+                    onClick={() => setLessonCompleted(!lessonCompleted)} 
+                    className={`px-3 py-1.5 rounded text-xs font-semibold w-full border ${lessonCompleted ? 'bg-amber-950/20 text-amber-400 border-amber-500/30' : 'bg-stone-900 text-stone-400 border-stone-800'}`}
+                  >
+                    {lessonCompleted ? 'Completed' : 'Not Started'}
+                  </button>
+                </div>
+
+                <div>
+                  <label className="block text-stone-500 text-[10px] uppercase font-bold mb-1">Module 1 Exam</label>
+                  <div className="flex gap-1">
+                    <button 
+                      onClick={() => { setM1AssessmentPassed(true); setM1AssessmentScore(90); }} 
+                      className={`px-2 py-1.5 rounded text-xs font-semibold flex-1 border ${m1AssessmentPassed ? 'bg-emerald-950/20 text-emerald-400 border-emerald-500/30' : 'bg-stone-900 text-stone-400 border-stone-800'}`}
+                    >
+                      Pass (90%)
+                    </button>
+                    <button 
+                      onClick={() => { setM1AssessmentPassed(false); setM1AssessmentScore(50); }} 
+                      className="px-2 py-1.5 rounded text-xs bg-stone-900 border border-stone-800 text-red-500 font-semibold hover:bg-stone-850"
+                    >
+                      Fail
+                    </button>
+                  </div>
+                </div>
+
+                <div>
+                  <label className="block text-stone-500 text-[10px] uppercase font-bold mb-1">Final Exam</label>
+                  <div className="flex gap-1">
+                    <button 
+                      onClick={() => { setFinalAssessmentPassed(true); setFinalAssessmentScore(85); }} 
+                      className={`px-2 py-1.5 rounded text-xs font-semibold flex-1 border ${finalAssessmentPassed ? 'bg-emerald-950/20 text-emerald-400 border-emerald-500/30' : 'bg-stone-900 text-stone-400 border-stone-800'}`}
+                    >
+                      Pass (85%)
+                    </button>
+                    <button 
+                      onClick={() => { setFinalAssessmentPassed(false); setFinalAssessmentScore(40); }} 
+                      className="px-2 py-1.5 rounded text-xs bg-stone-900 border border-stone-800 text-red-500 font-semibold hover:bg-stone-850"
+                    >
+                      Fail
+                    </button>
+                  </div>
+                </div>
+
+                <div className="flex flex-col justify-end">
+                  <div className="flex gap-2">
+                    <button 
+                      onClick={forceCompleteAll} 
+                      className="flex-1 bg-amber-500 hover:bg-amber-400 text-black text-xs font-bold py-1.5 px-2 rounded transition-colors uppercase tracking-wider"
+                    >
+                      Unlock All
+                    </button>
+                    <button 
+                      onClick={resetAllProgress} 
+                      className="flex-1 bg-stone-900 border border-stone-800 hover:bg-stone-850 text-stone-400 text-xs font-bold py-1.5 px-2 rounded transition-colors uppercase tracking-wider"
+                    >
+                      Reset All
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-3 text-[11px] text-stone-500 flex gap-4">
+                <span><strong>Simulated Active Study Time:</strong> {formatHoursAndMins(activeTimeSecs)}</span>
+                <span>•</span>
+                <span><strong>Affidavit Signed:</strong> {affidavitSigned ? "Yes" : "No"}</span>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
 
       {/* Global Navigation */}
-      <TopNav currentView={currentView} setView={setCurrentView} />
+      <header className="px-6 py-4 border-b border-stone-800/60 bg-[#0c0606]/80 backdrop-blur-md relative z-40 flex items-center justify-between shrink-0">
+        <div className="flex items-center gap-3 cursor-pointer" onClick={() => setCurrentView('dashboard')}>
+          <div className="w-8 h-8 rounded bg-[#1f0909] flex items-center justify-center border border-[#5c1111]">
+            <span className="text-stone-100 font-bold text-xs tracking-tight">CI</span>
+          </div>
+          <div>
+            <span className="font-semibold text-stone-200 tracking-wider text-sm block">CI INSTITUTE OF NURSING</span>
+            <span className="text-[9px] text-stone-500 block -mt-1 font-mono uppercase tracking-widest">CDPH CNA CE PROVIDER</span>
+          </div>
+        </div>
+        
+        <div className="flex items-center gap-1 sm:gap-4 text-xs sm:text-sm font-medium text-stone-400">
+          {[
+            { id: 'dashboard', label: 'Dashboard' },
+            { id: 'modules', label: 'CE Modules' },
+            { id: 'certificate', label: 'Certificate Gate' },
+            { id: 'clinical', label: 'Clinical Hub' },
+          ].map(item => {
+            const isActive = currentView === item.id || 
+              (item.id === 'modules' && ['module0', 'module1', 'lesson', 'm1Assessment', 'finalAssessment', 'finalResult'].includes(currentView));
+            return (
+              <button 
+                key={item.id}
+                onClick={() => setCurrentView(item.id)}
+                className={`transition-all px-3 py-1.5 rounded-lg border uppercase tracking-wider text-[11px] font-semibold ${
+                  isActive 
+                    ? 'text-amber-500 bg-[#1f0d0d] border-[#5c1111]' 
+                    : 'border-transparent text-stone-400 hover:text-stone-200 hover:bg-stone-900/40'
+                }`}
+              >
+                {item.label}
+              </button>
+            );
+          })}
+          
+          <div className="w-8 h-8 rounded bg-[#1b1212] text-amber-500 flex items-center justify-center border border-stone-800/80 ml-1 sm:ml-4">
+            <span className="text-xs font-bold font-mono">JB</span>
+          </div>
+        </div>
+      </header>
 
-      {/* Main Content Area */}
-      <main className="flex-1 w-full max-w-6xl mx-auto p-4 md:p-8 relative z-10">
-        <div className="transition-all duration-500 ease-in-out h-full">
-          {currentView === 'dashboard' && <DashboardView setView={setCurrentView} />}
-          {currentView === 'modules' && <ModulesView setView={setCurrentView} />}
-          {currentView === 'module0' && <ModuleZeroView setView={setCurrentView} />}
-          {currentView === 'module1' && <ModuleOneOverview setView={setCurrentView} />}
-          {currentView === 'lesson' && <LessonView setView={setCurrentView} />}
+      {/* Main Content Container */}
+      <main className="flex-1 w-full max-w-6xl mx-auto p-4 md:p-8 relative z-10 flex flex-col justify-start">
+        <div className="transition-all duration-300 flex-1 flex flex-col justify-start">
+          
+          {/* VIEW: DASHBOARD */}
+          {currentView === 'dashboard' && (
+            <div className="space-y-6 animate-in fade-in slide-in-from-bottom-2 duration-500">
+              
+              {/* Main Banner */}
+              <div className="bg-[#120909] border border-stone-800/60 rounded-xl p-6 md:p-10 shadow-xl relative overflow-hidden flex flex-col lg:flex-row gap-8 lg:items-center">
+                <div className="absolute top-0 right-0 -mr-32 -mt-32 w-96 h-96 rounded-full bg-amber-500/[0.02] blur-3xl pointer-events-none"></div>
+
+                <div className="flex-1 relative z-10">
+                  <div className="inline-flex items-center gap-2 px-3 py-1 rounded bg-[#310c0c] border border-[#5c1111]/60 text-[11px] font-bold tracking-widest text-amber-500 uppercase mb-4">
+                    <Shield size={12} /> CNA Theory Recertification Pathway
+                  </div>
+                  <h1 className="text-3xl md:text-5xl font-normal text-stone-100 tracking-tight mb-4 leading-tight">
+                    CNA CE Theory Portal
+                  </h1>
+                  <p className="text-stone-400 text-sm md:text-base mb-6 max-w-xl leading-relaxed">
+                    A secure 12-hour structured online theory program designed to meet professional continuing education guidelines. Features standard verification modules, assessments, and audit trails.
+                  </p>
+                  
+                  {/* High priority regulatory guardrail clearly visible */}
+                  <div className="bg-amber-950/20 border border-amber-500/20 rounded-lg p-3.5 max-w-xl mb-6">
+                    <div className="flex items-start gap-2">
+                      <AlertTriangle size={14} className="text-amber-500 shrink-0 mt-0.5" />
+                      <p className="text-[11px] text-stone-400 leading-relaxed font-mono">
+                        <strong>Regulatory Compliance Notice:</strong> This course provides 12 hours of online theory CE only. It does not constitute full CDPH CNA renewal on its own. Optional Clinical Support Hub does not count toward clinical hours.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="flex flex-col sm:flex-row items-center gap-4">
+                    {!module0Completed ? (
+                      <button 
+                        onClick={() => setCurrentView('module0')}
+                        className="w-full sm:w-auto bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-semibold px-6 py-3 rounded-lg flex items-center justify-center gap-2 transition-colors uppercase tracking-wider text-xs"
+                      >
+                        Start Required Orientation <ArrowRight size={14} />
+                      </button>
+                    ) : (
+                      <button 
+                        onClick={() => setCurrentView('modules')}
+                        className="w-full sm:w-auto bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-semibold px-6 py-3 rounded-lg flex items-center justify-center gap-2 transition-colors uppercase tracking-wider text-xs"
+                      >
+                        Resume Pathway <ArrowRight size={14} />
+                      </button>
+                    )}
+                    <button 
+                      onClick={() => setCurrentView('modules')}
+                      className="w-full sm:w-auto bg-stone-900 hover:bg-stone-850 text-stone-300 border border-stone-800 font-semibold px-6 py-3 rounded-lg transition-colors uppercase tracking-wider text-xs"
+                    >
+                      View All Modules
+                    </button>
+                  </div>
+                </div>
+
+                {/* Status Column */}
+                <div className="w-full lg:w-[320px] shrink-0 bg-[#0e0707] border border-stone-800/80 rounded-xl p-5 relative z-10">
+                  <div className="flex items-center justify-between mb-4 pb-3 border-b border-stone-800/60">
+                    <h3 className="font-semibold text-stone-300 text-xs uppercase tracking-wider">Gate Review Status</h3>
+                    <div className="flex items-center gap-1.5 text-amber-500 text-xs">
+                      <Shield size={14} />
+                      <span className="font-mono text-[11px] font-bold">12-HOUR CAP</span>
+                    </div>
+                  </div>
+
+                  <div className="space-y-3 mb-5">
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="text-stone-500 font-medium">Orientation (Mod 0):</span>
+                      <span className={`flex items-center gap-1 ${module0Completed ? 'text-emerald-500' : 'text-stone-600'}`}>
+                        {module0Completed ? <CheckCircle2 size={12} /> : <Circle size={12} />}
+                        {module0Completed ? 'Approved' : 'Pending'}
+                      </span>
+                    </div>
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="text-stone-500 font-medium">Active Timer Check:</span>
+                      <span className={`font-mono text-[11px] font-semibold ${activeTimeSecs >= 43200 ? 'text-emerald-500' : 'text-amber-500'}`}>
+                        {formatHoursAndMins(activeTimeSecs)}
+                      </span>
+                    </div>
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="text-stone-500 font-medium">Theory Lessons:</span>
+                      <span className={`flex items-center gap-1 ${lessonCompleted ? 'text-emerald-500' : 'text-stone-600'}`}>
+                        {lessonCompleted ? <CheckCircle2 size={12} /> : <Circle size={12} />}
+                        {lessonCompleted ? 'Complete' : 'Pending'}
+                      </span>
+                    </div>
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="text-stone-500 font-medium">Final Assessment:</span>
+                      <span className={`flex items-center gap-1 ${finalAssessmentPassed ? 'text-emerald-500' : 'text-stone-600'}`}>
+                        {finalAssessmentPassed ? <CheckCircle2 size={12} /> : <Circle size={12} />}
+                        {finalAssessmentPassed ? `Passed` : 'Unattempted'}
+                      </span>
+                    </div>
+                  </div>
+
+                  <div className="bg-stone-950 p-3 rounded border border-stone-900 mb-4">
+                    <div className="flex items-center justify-between text-[11px] mb-2">
+                      <span className="text-stone-500 uppercase font-bold">Overall Progress</span>
+                      <span className="text-amber-500 font-bold font-mono">
+                        {finalAssessmentPassed && affidavitSigned ? '100%' : module0Completed ? '15%' : '0%'}
+                      </span>
+                    </div>
+                    <div className="w-full h-1.5 bg-stone-900 rounded-full overflow-hidden">
+                      <div 
+                        className="h-full bg-amber-500 transition-all duration-500" 
+                        style={{ width: finalAssessmentPassed && affidavitSigned ? '100%' : module0Completed ? '15%' : '2%' }}
+                      ></div>
+                    </div>
+                  </div>
+
+                  <button 
+                    onClick={() => setCurrentView('certificate')}
+                    className="w-full py-2 rounded bg-stone-900 hover:bg-stone-850 text-stone-200 font-semibold text-xs border border-stone-800 transition-colors uppercase tracking-wider"
+                  >
+                    Review Auditing Gates
+                  </button>
+                </div>
+              </div>
+
+              {/* Grid Features */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div className="p-6 rounded-xl bg-[#120909] border border-stone-800/80 flex flex-col justify-between">
+                  <div>
+                    <div className="text-amber-500 mb-3"><BookOpen size={20} /></div>
+                    <h4 className="text-sm font-semibold text-stone-200 uppercase tracking-wider mb-2">12-Hour Required Theory</h4>
+                    <p className="text-xs text-stone-400 leading-relaxed">
+                      Structured sequence covering Infection Control, Resident Rights, Dementia Care, Mobility, and Nutrition.
+                    </p>
+                  </div>
+                  <div className="mt-4 pt-3 border-t border-stone-900">
+                    <span className="text-[10px] text-stone-500 font-mono">STATUS: UNLOCKED SEQUENTIALLY</span>
+                  </div>
+                </div>
+
+                <div className="p-6 rounded-xl bg-[#120909] border border-stone-800/80 flex flex-col justify-between">
+                  <div>
+                    <div className="text-amber-500 mb-3"><Stethoscope size={20} /></div>
+                    <h4 className="text-sm font-semibold text-stone-200 uppercase tracking-wider mb-2">Optional Clinical Support</h4>
+                    <p className="text-xs text-stone-400 leading-relaxed">
+                      Skills practice and simulated scenarios to gain professional confidence. Entirely optional, non-credit, and separate from certificate progress.
+                    </p>
+                  </div>
+                  <div className="mt-4 pt-3 border-t border-stone-900 flex justify-between items-center">
+                    <span className="text-[10px] text-stone-500 font-mono">STATUS: OPTIONAL CE</span>
+                    <button 
+                      onClick={() => setCurrentView('clinical')}
+                      className="text-[10px] text-amber-500 hover:text-amber-400 font-bold uppercase tracking-wider"
+                    >
+                      Enter Hub &rarr;
+                    </button>
+                  </div>
+                </div>
+
+                <div className="p-6 rounded-xl bg-[#120909] border border-stone-800/80 flex flex-col justify-between">
+                  <div>
+                    <div className="text-amber-500 mb-3"><ShieldAlert size={20} /></div>
+                    <h4 className="text-sm font-semibold text-stone-200 uppercase tracking-wider mb-2">Audit Safety Guarantee</h4>
+                    <p className="text-xs text-stone-400 leading-relaxed">
+                      Strict HIPAA / PHI guardrails. Simulated patient personas are used exclusively. No actual resident healthcare identifiers are saved.
+                    </p>
+                  </div>
+                  <div className="mt-4 pt-3 border-t border-stone-900">
+                    <span className="text-[10px] text-red-500/80 font-mono font-semibold flex items-center gap-1">
+                      <ShieldAlert size={12} /> HIPAA COMPLIANT PRESETS
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          )}
+
+          {/* VIEW: MODULES LIST */}
+          {currentView === 'modules' && (
+            <div className="flex flex-col lg:flex-row gap-8 animate-in fade-in duration-300">
+              
+              {/* Left Sidebar */}
+              <div className="w-full lg:w-80 shrink-0 space-y-6">
+                <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 sticky top-8">
+                  <div className="text-[10px] uppercase tracking-widest text-amber-500 font-bold mb-3 flex items-center gap-1.5">
+                    <Shield size={12} /> Theory CE Requirements
+                  </div>
+                  <h2 className="text-2xl font-normal text-stone-100 mb-3 leading-tight">Curriculum</h2>
+                  <p className="text-xs text-stone-400 mb-6 leading-relaxed">
+                    All required theory modules must be initiated and completed in order. Active study time is logged for CDPH compliance.
+                  </p>
+
+                  <div className="space-y-4 mb-6 border-t border-stone-800/80 pt-4">
+                    <div>
+                      <div className="flex justify-between text-[11px] mb-1 text-stone-400">
+                        <span>Legal Name Verified</span>
+                        <span className="font-mono text-stone-200">{m0FirstName} {m0LastName}</span>
+                      </div>
+                      <div className="flex justify-between text-[11px] text-stone-400">
+                        <span>License Key</span>
+                        <span className="font-mono text-stone-200">{m0License}</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="space-y-2 mb-6">
+                    <div className="flex justify-between text-[11px] font-semibold">
+                      <span className="text-stone-300">Course Verification</span>
+                      <span className="text-amber-500 font-mono">
+                        {finalAssessmentPassed ? "100%" : module0Completed ? "15%" : "0%"}
+                      </span>
+                    </div>
+                    <div className="w-full h-1 bg-stone-900 rounded-full overflow-hidden">
+                      <div 
+                        className="h-full bg-amber-500 transition-all" 
+                        style={{ width: finalAssessmentPassed ? '100%' : module0Completed ? '15%' : '0%' }}
+                      ></div>
+                    </div>
+                  </div>
+
+                  <button 
+                    onClick={() => setCurrentView('certificate')}
+                    className="w-full py-2.5 rounded bg-stone-900 hover:bg-stone-850 border border-stone-800 text-stone-200 font-semibold text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Review Gate Checklist
+                  </button>
+                </div>
+              </div>
+
+              {/* Right Modules Grid */}
+              <div className="flex-1 space-y-6">
+                <div>
+                  <h2 className="text-2xl font-normal text-stone-100 mb-1">Theory Recertification Modules</h2>
+                  <p className="text-stone-400 text-xs">Verify your identification during Module 0 to unlock successive study units.</p>
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  
+                  {/* Module 0 Card */}
+                  <div className="p-5 rounded-xl border bg-[#120909] border-stone-800/80 hover:border-stone-700/80 transition-all flex flex-col justify-between">
+                    <div>
+                      <div className="flex items-center justify-between mb-3">
+                        <span className="text-[10px] font-bold text-amber-500 uppercase tracking-wider font-mono">Module 0</span>
+                        <span className="text-[10px] font-mono text-stone-500">0.5 HR</span>
+                      </div>
+                      <h3 className="text-base font-semibold text-stone-200 mb-2">Orientation & Compliance Verification</h3>
+                      <p className="text-xs text-stone-400 leading-relaxed mb-6">
+                        Confirm CNA credentials, review regulatory guidelines, acknowledge HIPAA restrictions, and establish core active-time validation parameters.
+                      </p>
+                    </div>
+                    <div className="flex items-center justify-between pt-3 border-t border-stone-900">
+                      <span className={`inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-[10px] font-semibold ${
+                        module0Completed ? 'bg-emerald-950/40 text-emerald-400 border border-emerald-500/20' : 'bg-amber-950/40 text-amber-400 border border-amber-500/20'
+                      }`}>
+                        {module0Completed ? <CheckCircle2 size={10} /> : <AlertCircle size={10} />}
+                        {module0Completed ? 'Completed & Confirmed' : 'Action Required'}
+                      </span>
+                      <button 
+                        onClick={() => setCurrentView('module0')}
+                        className={`px-3 py-1 rounded text-xs font-semibold ${
+                          module0Completed ? 'bg-stone-900 text-stone-300 hover:bg-stone-850' : 'bg-[#5c1111] text-stone-100 hover:bg-[#781616]'
+                        } transition-colors`}
+                      >
+                        {module0Completed ? 'Review' : 'Begin'}
+                      </button>
+                    </div>
+                  </div>
+
+                  {/* Module 1 Card */}
+                  <div className={`p-5 rounded-xl border transition-all flex flex-col justify-between ${
+                    module0Completed ? 'bg-[#120909] border-stone-800/80 hover:border-stone-700/80' : 'bg-[#0a0505]/60 border-stone-950 opacity-60'
+                  }`}>
+                    <div>
+                      <div className="flex items-center justify-between mb-3">
+                        <span className="text-[10px] font-bold text-stone-400 uppercase tracking-wider font-mono">Module 1</span>
+                        <span className="text-[10px] font-mono text-stone-500">1.5 HR</span>
+                      </div>
+                      <h3 className="text-base font-semibold text-stone-200 mb-2">Infection Control & PPE</h3>
+                      <p className="text-xs text-stone-400 leading-relaxed mb-6">
+                        Examine infection chains, implement WHO hand hygiene protocols, and perform standard safety selections for CNA barrier protection.
+                      </p>
+                    </div>
+                    <div className="flex items-center justify-between pt-3 border-t border-stone-900">
+                      <span className={`inline-flex items-center gap-1 px-2.5 py-0.5 rounded text-[10px] font-semibold ${
+                        !module0Completed ? 'bg-stone-950 text-stone-600 border border-stone-900' :
+                        m1AssessmentPassed ? 'bg-emerald-950/40 text-emerald-400 border border-emerald-500/20' :
+                        lessonCompleted ? 'bg-amber-950/40 text-amber-400 border border-amber-500/20' : 'bg-stone-900 text-stone-400'
+                      }`}>
+                        {!module0Completed ? <Lock size={10} /> : m1AssessmentPassed ? <CheckCircle2 size={10} /> : <AlertCircle size={10} />}
+                        {!module0Completed ? 'Locked (Complete Mod 0)' : m1AssessmentPassed ? 'Passed' : lessonCompleted ? 'Assessment Ready' : 'In Progress'}
+                      </span>
+                      {module0Completed && (
+                        <button 
+                          onClick={() => setCurrentView('module1')}
+                          className="px-3 py-1 rounded text-xs bg-[#5c1111] text-stone-100 hover:bg-[#781616] transition-colors"
+                        >
+                          Open Module
+                        </button>
+                      )}
+                    </div>
+                  </div>
+
+                  {/* Module 2 Card (Locked Demo) */}
+                  <div className="p-5 rounded-xl border bg-[#0a0505]/60 border-stone-950 opacity-50 flex flex-col justify-between">
+                    <div>
+                      <div className="flex items-center justify-between mb-3">
+                        <span className="text-[10px] font-bold text-stone-500 uppercase tracking-wider font-mono">Module 2</span>
+                        <span className="text-[10px] font-mono text-stone-600">2.0 HR</span>
+                      </div>
+                      <h3 className="text-base font-semibold text-stone-500 mb-2">Resident Rights & Abuse Prevention</h3>
+                      <p className="text-xs text-stone-600 leading-relaxed mb-6">
+                        Required regulatory overview regarding legal rights, active advocacy, mandates, and CDPH reporting timelines.
+                      </p>
+                    </div>
+                    <div className="flex items-center justify-between pt-3 border-t border-stone-950">
+                      <span className="inline-flex items-center gap-1 text-[10px] text-stone-600 font-mono">
+                        <Lock size={10} /> Locked (Sequential Path)
+                      </span>
+                    </div>
+                  </div>
+
+                  {/* Module 3 Card (Locked Demo) */}
+                  <div className="p-5 rounded-xl border bg-[#0a0505]/60 border-stone-950 opacity-50 flex flex-col justify-between">
+                    <div>
+                      <div className="flex items-center justify-between mb-3">
+                        <span className="text-[10px] font-bold text-stone-500 uppercase tracking-wider font-mono">Module 3</span>
+                        <span className="text-[10px] font-mono text-stone-600">2.0 HR</span>
+                      </div>
+                      <h3 className="text-base font-semibold text-stone-500 mb-2">Dementia Care & Communication</h3>
+                      <p className="text-xs text-stone-600 leading-relaxed mb-6">
+                        Cognitive decline, verbal and non-verbal adjustment methods, and behavioral de-escalation protocols.
+                      </p>
+                    </div>
+                    <div className="flex items-center justify-between pt-3 border-t border-stone-950">
+                      <span className="inline-flex items-center gap-1 text-[10px] text-stone-600 font-mono">
+                        <Lock size={10} /> Locked (Sequential Path)
+                      </span>
+                    </div>
+                  </div>
+
+                </div>
+
+                {/* Course Final Assessment Panel (Unlocked once Mod 1-5 are theoretical or simulated passed) */}
+                <div className={`p-6 rounded-xl border transition-all ${
+                  m1AssessmentPassed ? 'bg-[#1c0808] border-[#5c1111]/80' : 'bg-stone-950/20 border-stone-900/60 opacity-60'
+                }`}>
+                  <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+                    <div>
+                      <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded text-[10px] font-bold tracking-widest text-amber-500 uppercase bg-amber-950/40 border border-amber-500/20 mb-3 font-mono">
+                        Course-Wide Final Examination
+                      </div>
+                      <h3 className="text-lg font-semibold text-stone-200 mb-2">Theory Final Assessment Gate</h3>
+                      <p className="text-xs text-stone-400 max-w-xl leading-relaxed">
+                        CDPH compliant multi-topic assessment. Minimum 80% score required. No correct answer keys are displayed following submission to preserve compliance integrity.
+                      </p>
+                    </div>
+                    
+                    <div className="shrink-0">
+                      {finalAssessmentPassed ? (
+                        <div className="flex items-center gap-2 bg-emerald-950/40 border border-emerald-500/30 text-emerald-400 px-4 py-2 rounded-lg font-semibold text-xs">
+                          <CheckCircle2 size={14} /> Passed ({finalAssessmentScore}%)
+                        </div>
+                      ) : m1AssessmentPassed ? (
+                        <button 
+                          onClick={() => setCurrentView('finalAssessmentSplash')}
+                          className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-semibold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
+                        >
+                          Enter Final Assessment
+                        </button>
+                      ) : (
+                        <div className="flex items-center gap-2 bg-stone-900 border border-stone-800 text-stone-500 px-4 py-2 rounded text-xs font-semibold font-mono">
+                          <Lock size={12} /> Locked
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: MODULE 0 ORIENTATION & COMPLIANCE */}
+          {currentView === 'module0' && (
+            <div className="max-w-3xl mx-auto space-y-6 animate-in fade-in duration-300">
+              <button 
+                onClick={() => setCurrentView('modules')} 
+                className="text-stone-400 hover:text-stone-100 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider"
+              >
+                <ArrowLeft size={14} /> Back to Modules
+              </button>
+
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-10 shadow-xl space-y-6">
+                <div>
+                  <div className="text-[10px] uppercase tracking-widest text-amber-500 font-bold mb-1 font-mono">Required Step • Module 0</div>
+                  <h1 className="text-3xl font-normal text-stone-100 tracking-tight">Identity & Compliance Orientation</h1>
+                  <p className="text-xs text-stone-400 leading-relaxed mt-1">
+                    Please audit and sign the mandatory compliance declarations. Accurate PHI warnings must be observed throughout the active session.
+                  </p>
+                </div>
+
+                <div className="space-y-4 pt-4 border-t border-stone-800/60">
+                  <h3 className="text-xs uppercase tracking-wider font-bold text-stone-300">1. Verification of Legal CNA Identity</h3>
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <div>
+                      <label className="block text-[10px] uppercase font-bold text-stone-500 mb-1 font-mono">First Name (Legal)</label>
+                      <input 
+                        type="text" 
+                        value={m0FirstName} 
+                        onChange={(e) => setM0FirstName(e.target.value)}
+                        className="w-full bg-[#080404] border border-stone-800 text-stone-100 text-xs px-3 py-2 rounded focus:outline-none focus:border-amber-500"
+                      />
+                    </div>
+                    <div>
+                      <label className="block text-[10px] uppercase font-bold text-stone-500 mb-1 font-mono">Last Name (Legal)</label>
+                      <input 
+                        type="text" 
+                        value={m0LastName} 
+                        onChange={(e) => setM0LastName(e.target.value)}
+                        className="w-full bg-[#080404] border border-stone-800 text-stone-100 text-xs px-3 py-2 rounded focus:outline-none focus:border-amber-500"
+                      />
+                    </div>
+                    <div>
+                      <label className="block text-[10px] uppercase font-bold text-stone-500 mb-1 font-mono">CNA Certificate Number</label>
+                      <input 
+                        type="text" 
+                        value={m0License} 
+                        onChange={(e) => setM0License(e.target.value)}
+                        className="w-full bg-[#080404] border border-stone-800 text-stone-100 text-xs px-3 py-2 rounded font-mono focus:outline-none focus:border-amber-500"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <div className="space-y-3 pt-4 border-t border-stone-800/60">
+                  <h3 className="text-xs uppercase tracking-wider font-bold text-stone-300">2. Mandatory Declarations & Acknowledgements</h3>
+                  
+                  {[
+                    "I certify that my legal CNA identity matches the credential entered above, and that I alone will complete this CE training program.",
+                    "HIPAA STRICT: I acknowledge that I will NEVER enter real Protected Health Information (PHI), client records, or actual identifier keys anywhere in this portal.",
+                    "I understand this 12-hour CE program satisfies theory credit ONLY. It does not certify practical hours or complete California CNA licensing on its own."
+                  ].map((text, i) => (
+                    <div 
+                      key={i} 
+                      onClick={() => {
+                        const next = [...module0Agreed];
+                        next[i] = !next[i];
+                        setModule0Agreed(next);
+                      }}
+                      className={`p-4 rounded border cursor-pointer flex items-start gap-3 transition-colors ${
+                        module0Agreed[i] 
+                          ? 'bg-[#1c0d0d] border-[#5c1111]/80 text-stone-100' 
+                          : 'bg-[#080404] border-stone-800 hover:border-stone-700 text-stone-400'
+                      }`}
+                    >
+                      <div className="mt-0.5 text-amber-500 shrink-0">
+                        {module0Agreed[i] ? <CheckSquare size={16} /> : <Square size={16} />}
+                      </div>
+                      <p className="text-xs leading-relaxed">{text}</p>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="pt-6 border-t border-stone-800/60 flex items-center justify-between">
+                  <div className="text-xs text-stone-500">
+                    {!module0Agreed.every(Boolean) && "Select all 3 agreements to proceed."}
+                  </div>
+                  <button 
+                    onClick={() => {
+                      setModule0Completed(true);
+                      setCurrentView('modules');
+                    }}
+                    disabled={!module0Agreed.every(Boolean)}
+                    className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-all disabled:opacity-40 disabled:cursor-not-allowed"
+                  >
+                    Confirm & Unlock Module 1
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: MODULE 1 OVERVIEW */}
+          {currentView === 'module1' && (
+            <div className="max-w-3xl mx-auto space-y-6 animate-in fade-in duration-300">
+              <button 
+                onClick={() => setCurrentView('modules')} 
+                className="text-stone-400 hover:text-stone-100 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider"
+              >
+                <ArrowLeft size={14} /> Back to Modules
+              </button>
+
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-8 shadow-xl">
+                <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-stone-800/60">
+                  <div>
+                    <span className="text-[10px] uppercase font-bold text-amber-500 font-mono">Module 1 • 1.5 Theory Hours</span>
+                    <h1 className="text-2xl font-normal text-stone-100 tracking-tight">Infection Control & PPE</h1>
+                  </div>
+                  <div className="shrink-0 flex items-center gap-2">
+                    <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold ${
+                      m1AssessmentPassed ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/20' : 'bg-amber-950 text-amber-400 border border-amber-500/20'
+                    }`}>
+                      {m1AssessmentPassed ? 'Complete' : 'Not Attempted'}
+                    </span>
+                  </div>
+                </div>
+
+                <div className="py-6 space-y-4">
+                  <h3 className="text-xs uppercase tracking-wider font-bold text-stone-300">Lesson Objectives</h3>
+                  <div className="grid grid-cols-1 gap-2.5">
+                    {[
+                      "Recall the six distinct structural links in the chain of infection.",
+                      "Formulate proper WHO handwashing strategies and determine active timings.",
+                      "Acknowledge critical indications for Contact, Droplet, and Airborne barriers."
+                    ].map((obj, idx) => (
+                      <div key={idx} className="flex gap-2.5 items-start text-xs text-stone-400 leading-relaxed">
+                        <span className="text-amber-500 font-bold font-mono">0{idx+1}.</span>
+                        <span>{obj}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Lesson Track List */}
+                <div className="space-y-3 pt-4 border-t border-stone-800/60">
+                  <h3 className="text-xs uppercase tracking-wider font-bold text-stone-300">Course Component Lessons</h3>
+                  
+                  <div 
+                    onClick={() => setCurrentView('lesson')}
+                    className="p-4 rounded border bg-[#080404] border-stone-800 hover:border-[#5c1111]/80 hover:bg-[#120909] transition-all cursor-pointer flex items-center justify-between"
+                  >
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 rounded bg-[#1c0d0d] flex items-center justify-center border border-[#5c1111]/40 text-amber-500 font-bold font-mono text-xs">
+                        1
+                      </div>
+                      <div>
+                        <h4 className="text-xs font-semibold text-stone-200">The Chain of Infection & Standard Precautions</h4>
+                        <span className="text-[10px] text-stone-500 font-mono uppercase tracking-wide">Structured Theory &bull; 4-Card Player</span>
+                      </div>
+                    </div>
+                    <div className="flex items-center gap-2 text-xs text-stone-400 font-semibold uppercase tracking-wider">
+                      {lessonCompleted ? (
+                        <span className="text-emerald-500 flex items-center gap-1 text-[10px] font-bold">
+                          <CheckCircle2 size={12} /> Finished
+                        </span>
+                      ) : (
+                        <span className="text-amber-500 flex items-center gap-1 text-[10px] font-bold">
+                          <Play size={12} className="fill-current" /> Play
+                        </span>
+                      )}
+                    </div>
+                  </div>
+
+                  <div className="p-4 rounded border bg-[#080404]/40 border-stone-900 opacity-60 flex items-center justify-between">
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 rounded bg-[#111] flex items-center justify-center border border-stone-850 text-stone-600 font-bold font-mono text-xs">
+                        2
+                      </div>
+                      <div>
+                        <h4 className="text-xs font-semibold text-stone-400">Clinical Isolation & PPE Selection Sequence</h4>
+                        <span className="text-[10px] text-stone-600 font-mono uppercase tracking-wide">Visual Demonstration</span>
+                      </div>
+                    </div>
+                    <span className="text-[10px] text-stone-600 font-mono">SEQUENTIAL LOCK</span>
+                  </div>
+
+                </div>
+
+                <div className="pt-8 border-t border-stone-800/60 flex flex-col sm:flex-row items-center gap-4 justify-between">
+                  <div className="text-xs text-stone-400">
+                    {lessonCompleted ? "Theory lessons complete. Complete the assessment." : "Complete Lesson 1 to unlock the Module Assessment."}
+                  </div>
+                  <div className="flex gap-3 w-full sm:w-auto">
+                    {lessonCompleted && (
+                      <button 
+                        onClick={() => setCurrentView('m1Assessment')}
+                        className="w-full sm:w-auto bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
+                      >
+                        Start Module 1 Assessment
+                      </button>
+                    )}
+                    <button 
+                      onClick={() => setCurrentView('lesson')}
+                      className="w-full sm:w-auto bg-stone-900 hover:bg-stone-850 border border-stone-800 text-stone-300 font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
+                    >
+                      {lessonCompleted ? 'Review Theory' : 'Start Theory'}
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: HIGH-FIDELITY 4-CARD LESSON PLAYER */}
+          {currentView === 'lesson' && (
+            <LessonPlayerView 
+              setView={setCurrentView} 
+              setLessonCompleted={setLessonCompleted} 
+              activeTime={activeTimeSecs}
+              formatHoursAndMins={formatHoursAndMins}
+            />
+          )}
+
+          {/* VIEW: MODULE 1 ASSESSMENT SPLASH */}
+          {currentView === 'm1Assessment' && (
+            <div className="max-w-2xl mx-auto space-y-6 animate-in fade-in duration-300">
+              <button 
+                onClick={() => setCurrentView('module1')} 
+                className="text-stone-400 hover:text-stone-100 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider"
+              >
+                <ArrowLeft size={14} /> Back to Module 1
+              </button>
+
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-8 shadow-xl text-center space-y-6">
+                <div className="w-12 h-12 rounded bg-[#1c0c0c] border border-[#5c1111] flex items-center justify-center mx-auto text-amber-500">
+                  <ShieldAlert size={24} />
+                </div>
+                
+                <div>
+                  <span className="text-[10px] uppercase font-bold text-stone-500 font-mono tracking-widest">Formal Assessment Portal</span>
+                  <h1 className="text-2xl font-normal text-stone-100 tracking-tight mt-1">Module 1 Knowledge Exam</h1>
+                  <p className="text-xs text-stone-400 max-w-md mx-auto leading-relaxed mt-2">
+                    Verify compliance of key Infection Control concepts. You must score $80\%$ or higher to advance. Correct answer codes are hidden after completion.
+                  </p>
+                </div>
+
+                <div className="bg-stone-950 p-4 rounded border border-stone-900 text-left max-w-md mx-auto space-y-3 font-mono text-[11px] text-stone-400">
+                  <div className="flex justify-between">
+                    <span>Structure Questions:</span>
+                    <span className="text-stone-200">5 Questions</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Target Score Check:</span>
+                    <span className="text-amber-500">80% Minimum (4 Correct)</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Remediation Rules:</span>
+                    <span className="text-stone-200">Unlimited Retakes Required</span>
+                  </div>
+                </div>
+
+                <div className="pt-4 flex flex-col sm:flex-row justify-center gap-3">
+                  <button 
+                    onClick={() => {
+                      // Navigate to question flow
+                      setCurrentView('m1AssessmentQuiz');
+                    }}
+                    className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Begin Assessment Exam
+                  </button>
+                  <button 
+                    onClick={() => setCurrentView('module1')}
+                    className="bg-stone-900 border border-stone-800 hover:bg-stone-850 text-stone-300 font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Study Material Again
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: MODULE 1 ASSESSMENT QUIZ FLOW */}
+          {currentView === 'm1AssessmentQuiz' && (
+            <QuizFlowView 
+              setView={setCurrentView}
+              isFinalExam={false}
+              onPass={(score) => {
+                setM1AssessmentPassed(true);
+                setM1AssessmentScore(score);
+              }}
+              onFail={(score) => {
+                setM1AssessmentPassed(false);
+                setM1AssessmentScore(score);
+              }}
+            />
+          )}
+
+          {/* VIEW: COURSE FINAL EXAM SPLASH */}
+          {currentView === 'finalAssessmentSplash' && (
+            <div className="max-w-2xl mx-auto space-y-6 animate-in fade-in duration-300">
+              <button 
+                onClick={() => setCurrentView('modules')} 
+                className="text-stone-400 hover:text-stone-100 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider"
+              >
+                <ArrowLeft size={14} /> Back to Modules
+              </button>
+
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-10 shadow-xl text-center space-y-6">
+                <div className="w-14 h-14 rounded bg-[#1c0c0c] border border-[#5c1111] flex items-center justify-center mx-auto text-amber-500">
+                  <Award size={28} />
+                </div>
+                
+                <div>
+                  <span className="text-[10px] uppercase font-bold text-stone-500 font-mono tracking-widest">CDPH Course-Wide Examination</span>
+                  <h1 className="text-3xl font-normal text-stone-100 tracking-tight mt-1">Theory Competency Exam</h1>
+                  <p className="text-xs text-stone-400 max-w-md mx-auto leading-relaxed mt-2">
+                    A comprehensive validation of all modules in the 12-hour theory portal. Complete the exam under strict auditing guidelines. No correct answers will be reviewed post-submission.
+                  </p>
+                </div>
+
+                <div className="bg-[#0c0505] p-5 rounded border border-stone-900 text-left max-w-md mx-auto space-y-3 font-mono text-[11px] text-stone-400">
+                  <div className="flex justify-between">
+                    <span>Audit Time Logged:</span>
+                    <span className="text-stone-200">{formatHoursAndMins(activeTimeSecs)}</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Minimum Passing Criteria:</span>
+                    <span className="text-amber-500">80% Correct Answers</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Regulatory Action Track:</span>
+                    <span className="text-stone-200">Affidavit Validation Post-Exam</span>
+                  </div>
+                </div>
+
+                {/* Direct PHI warning for audit defense */}
+                <div className="bg-amber-950/20 border border-amber-500/20 p-4 rounded text-left max-w-md mx-auto">
+                  <p className="text-[10px] text-stone-400 leading-relaxed font-mono">
+                    <strong>Audit Integrity Rule:</strong> Any tab switching or idle status will temporarily pause active validation. Please ensure a stable network.
+                  </p>
+                </div>
+
+                <div className="pt-4 flex flex-col sm:flex-row justify-center gap-3">
+                  <button 
+                    onClick={() => setCurrentView('finalAssessmentQuiz')}
+                    className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Begin Course Final Exam
+                  </button>
+                  <button 
+                    onClick={() => setCurrentView('modules')}
+                    className="bg-stone-900 border border-stone-800 hover:bg-stone-850 text-stone-300 font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Go Back & Study Modules
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: FINAL QUIZ FLOW */}
+          {currentView === 'finalAssessmentQuiz' && (
+            <QuizFlowView 
+              setView={setCurrentView}
+              isFinalExam={true}
+              onPass={(score) => {
+                setFinalAssessmentPassed(true);
+                setFinalAssessmentScore(score);
+              }}
+              onFail={(score) => {
+                setFinalAssessmentPassed(false);
+                setFinalAssessmentScore(score);
+              }}
+            />
+          )}
+
+          {/* VIEW: ASSESSMENT RESULT & REMEDIATION */}
+          {currentView === 'finalResult' && (
+            <div className="max-w-2xl mx-auto space-y-6 animate-in fade-in duration-300">
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-8 shadow-xl text-center space-y-6">
+                
+                {finalAssessmentPassed ? (
+                  <>
+                    <div className="w-16 h-16 rounded bg-emerald-950/40 border border-emerald-500/40 flex items-center justify-center mx-auto text-emerald-500">
+                      <CheckCircle2 size={32} />
+                    </div>
+                    <div>
+                      <span className="text-[10px] uppercase font-bold text-emerald-400 font-mono tracking-widest bg-emerald-950/20 px-2 py-0.5 rounded border border-emerald-500/10">Passed Course Exam</span>
+                      <h1 className="text-3xl font-normal text-stone-100 tracking-tight mt-3">Competency Accomplished</h1>
+                      <p className="text-xs text-stone-400 mt-2">
+                        You have successfully proved theoretical mastery in all recertification criteria. 
+                      </p>
+                    </div>
+                    <div className="bg-stone-950 p-4 rounded border border-stone-900 max-w-sm mx-auto font-mono text-xs text-stone-400 flex justify-between">
+                      <span>Verified Score:</span>
+                      <strong className="text-emerald-400">{finalAssessmentScore}% Correct</strong>
+                    </div>
+                    <div className="pt-4 flex flex-col sm:flex-row justify-center gap-3">
+                      <button 
+                        onClick={() => setCurrentView('certificate')}
+                        className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                      >
+                        Proceed to Certificate Gate &rarr;
+                      </button>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    <div className="w-16 h-16 rounded bg-red-950/40 border border-red-500/40 flex items-center justify-center mx-auto text-red-500">
+                      <AlertTriangle size={32} />
+                    </div>
+                    <div>
+                      <span className="text-[10px] uppercase font-bold text-red-400 font-mono tracking-widest bg-red-950/20 px-2 py-0.5 rounded border border-red-500/10">Requires Remediation</span>
+                      <h1 className="text-3xl font-normal text-stone-100 tracking-tight mt-3">Competency Not Achieved</h1>
+                      <p className="text-xs text-stone-400 mt-2 max-w-md mx-auto leading-relaxed">
+                        Your score fell below the required $80\%$ CDPH passing limit. In line with nursing recertification standards, correct answer keys remain locked to preserve educational integrity.
+                      </p>
+                    </div>
+
+                    <div className="bg-stone-950 p-4 rounded border border-stone-900 max-w-sm mx-auto font-mono text-xs text-stone-400 flex justify-between">
+                      <span>Achieved Score:</span>
+                      <strong className="text-red-500">{finalAssessmentScore}% Correct</strong>
+                    </div>
+
+                    <div className="bg-red-950/10 border border-red-500/10 p-4 rounded text-left max-w-md mx-auto space-y-2">
+                      <h4 className="text-[10px] uppercase font-bold text-stone-300 font-mono flex items-center gap-1">
+                        <Info size={12} /> Directed Remediation Instructions
+                      </h4>
+                      <p className="text-[11px] text-stone-400 leading-relaxed">
+                        Please review standard precautions, the six links of infection chain transmission, and proper PPE donning and doffing sequence inside Module 1 prior to initiating your next evaluation.
+                      </p>
+                    </div>
+
+                    <div className="pt-4 flex flex-col sm:flex-row justify-center gap-3">
+                      <button 
+                        onClick={() => setCurrentView('finalAssessmentSplash')}
+                        className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                      >
+                        Retake Assessment Exam
+                      </button>
+                      <button 
+                        onClick={() => setCurrentView('modules')}
+                        className="bg-stone-900 border border-stone-800 hover:bg-stone-850 text-stone-300 font-bold px-6 py-3 rounded text-xs uppercase tracking-wider transition-colors"
+                      >
+                        Return to Modules
+                      </button>
+                    </div>
+                  </>
+                )}
+
+              </div>
+            </div>
+          )}
+
+          {/* VIEW: CERTIFICATE VIEW & GATES REVIEW */}
+          {currentView === 'certificate' && (
+            <CertificateGateView 
+              setView={setCurrentView}
+              module0Completed={module0Completed}
+              activeTime={activeTimeSecs}
+              lessonCompleted={lessonCompleted}
+              finalAssessmentPassed={finalAssessmentPassed}
+              affidavitSigned={affidavitSigned}
+              setAffidavitSigned={setAffidavitSigned}
+              m0FirstName={m0FirstName}
+              m0LastName={m0LastName}
+              m0License={m0License}
+              formatHoursAndMins={formatHoursAndMins}
+            />
+          )}
+
+          {/* VIEW: OPTIONAL CLINICAL SUPPORT HUB */}
+          {currentView === 'clinical' && (
+            <div className="space-y-6 animate-in fade-in duration-300">
+              <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-8 shadow-xl">
+                <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-stone-800/60">
+                  <div>
+                    <span className="text-[10px] uppercase font-bold text-amber-500 font-mono flex items-center gap-1.5">
+                      <Stethoscope size={12} /> Optional Practical Enrichment
+                    </span>
+                    <h1 className="text-2xl font-normal text-stone-100 mt-1">Clinical Scenario Support Hub</h1>
+                  </div>
+                  <div className="shrink-0">
+                    <span className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded text-[10px] font-bold bg-amber-950/40 text-amber-400 border border-amber-500/20 font-mono">
+                      NON-GATING HOUR STUDY
+                    </span>
+                  </div>
+                </div>
+
+                <div className="bg-amber-950/10 border border-amber-500/20 rounded-lg p-4 my-6">
+                  <div className="flex items-start gap-2.5">
+                    <AlertTriangle size={16} className="text-amber-500 shrink-0 mt-0.5" />
+                    <p className="text-[11px] text-stone-400 leading-relaxed font-mono">
+                      <strong>Regulatory Warning:</strong> This module is entirely optional, for professional confidence only, and provides zero clinical CE hours. It does not gate nor count toward your required 12-hour theory CE, nor does it fulfill active hands-on CDPH clinical renewal requisites.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-4">
+                  
+                  {/* Scenario 1 */}
+                  <div className="p-5 rounded-lg bg-[#080404] border border-stone-800 hover:border-stone-700 transition-colors">
+                    <h3 className="text-xs font-bold uppercase tracking-wider text-stone-300 mb-2 font-mono">Scenario Demo A: Catheter Care</h3>
+                    <p className="text-xs text-stone-400 leading-relaxed mb-4">
+                      Review simulated sequence actions for cleaning and safety management of urinary drainage bags to prevent ascending UTIs.
+                    </p>
+                    <div className="flex items-center justify-between">
+                      <span className="text-[10px] text-stone-500 font-mono">3 Interactive Cards</span>
+                      <button 
+                        onClick={() => setClinicalInteractions(prev => prev + 1)}
+                        className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-4 py-1.5 rounded text-[10px] uppercase tracking-wider transition-colors"
+                      >
+                        Start Simulation
+                      </button>
+                    </div>
+                  </div>
+
+                  {/* Scenario 2 */}
+                  <div className="p-5 rounded-lg bg-[#080404] border border-stone-800 hover:border-stone-700 transition-colors">
+                    <h3 className="text-xs font-bold uppercase tracking-wider text-stone-300 mb-2 font-mono">Scenario Demo B: PPE Sequencer</h3>
+                    <p className="text-xs text-stone-400 leading-relaxed mb-4">
+                      Practice CDC ordering requirements for donning (putting on) and doffing (taking off) personal protective isolation suits safely.
+                    </p>
+                    <div className="flex items-center justify-between">
+                      <span className="text-[10px] text-stone-500 font-mono">Don/Doff Selector</span>
+                      <button 
+                        onClick={() => setClinicalInteractions(prev => prev + 1)}
+                        className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-4 py-1.5 rounded text-[10px] uppercase tracking-wider transition-colors"
+                      >
+                        Start Simulation
+                      </button>
+                    </div>
+                  </div>
+
+                </div>
+
+                {clinicalInteractions > 0 && (
+                  <div className="mt-6 p-4 rounded border border-stone-850 bg-stone-950 text-stone-400 text-xs font-mono flex justify-between items-center animate-in slide-in-from-bottom-2">
+                    <span>Practiced Sessions in Portal:</span>
+                    <strong className="text-amber-500">{clinicalInteractions} Simulations Verified</strong>
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+
         </div>
       </main>
     </div>
@@ -44,484 +1184,408 @@ export default function App() {
 }
 
 // ==========================================
-// SHARED NAVIGATION
+// COMPONENT: HIGH-FIDELITY 4-CARD PLAYER
 // ==========================================
-function TopNav({ currentView, setView }) {
-  const navItems = [
-    { id: 'dashboard', label: 'Dashboard' },
-    { id: 'modules', label: 'Modules' },
-    { id: 'certificate', label: 'Certificate' },
-    { id: 'clinical', label: 'Clinical Hub' },
-  ];
-
-  return (
-    <header className="px-6 py-4 border-b border-white/5 bg-black/20 backdrop-blur-md relative z-20 flex items-center justify-between">
-      <div className="flex items-center gap-3 cursor-pointer" onClick={() => setView('dashboard')}>
-        <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center border border-white/20">
-          <span className="text-white font-bold text-xs">CI</span>
-        </div>
-        <span className="font-medium text-white tracking-wide text-sm hidden sm:block">INSTITUTE OF NURSING</span>
-      </div>
-      
-      <div className="flex items-center gap-2 md:gap-6 text-sm font-medium text-slate-400">
-        {navItems.map(item => (
-          <button 
-            key={item.id}
-            onClick={() => setView(item.id === 'certificate' || item.id === 'clinical' ? currentView : item.id)}
-            className={`transition-colors px-3 py-1.5 rounded-lg ${
-              currentView === item.id || (currentView.startsWith('module') && item.id === 'modules') || (currentView === 'lesson' && item.id === 'modules')
-                ? 'text-white bg-white/5' 
-                : 'hover:text-white hover:bg-white/[0.02]'
-            }`}
-          >
-            {item.label}
-          </button>
-        ))}
-        <div className="w-8 h-8 rounded-lg bg-amber-500/20 text-amber-500 flex items-center justify-center border border-amber-500/30 ml-2 md:ml-4">
-          <span className="text-xs font-bold">JD</span>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-// ==========================================
-// FLOW 1 & 2 & 3 & 4: DASHBOARD / PATHWAY / OVERVIEWS
-// ==========================================
-function DashboardView({ setView }) {
-  return (
-    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-700">
-      <div className="bg-[#120a0a]/80 backdrop-blur-xl border border-white/5 rounded-xl p-8 md:p-12 shadow-2xl relative overflow-hidden flex flex-col lg:flex-row gap-12 lg:items-center">
-        <div className="absolute top-0 right-0 -mr-32 -mt-32 w-96 h-96 rounded-full bg-amber-500/10 blur-3xl"></div>
-
-        <div className="flex-1 relative z-10">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-950/30 border border-red-500/20 text-xs font-semibold tracking-wide text-red-200 uppercase mb-6">
-            CNA Recertification
-          </div>
-          <h1 className="text-3xl md:text-5xl font-semibold text-white tracking-tight mb-4 leading-tight">
-            Theory + Clinical Support
-          </h1>
-          <p className="text-lg text-slate-400 mb-10 max-w-xl leading-relaxed">
-            Complete the required online theory pathway, and use optional clinical support tools for practice and confidence.
-          </p>
-          <div className="flex flex-col sm:flex-row items-center gap-4">
-            <button 
-              onClick={() => setView('module0')}
-              className="w-full sm:w-auto bg-amber-500 hover:bg-amber-400 text-black font-semibold px-8 py-4 rounded-xl flex items-center justify-center gap-3 transition-all transform hover:-translate-y-0.5 shadow-[0_0_20px_rgba(245,158,11,0.15)]"
-            >
-              Start Module 0 <Play size={18} className="fill-current" />
-            </button>
-            <button 
-              onClick={() => setView('modules')}
-              className="w-full sm:w-auto bg-white/5 hover:bg-white/10 text-white font-medium px-8 py-4 rounded-xl transition-all border border-white/5"
-            >
-              View Pathway
-            </button>
-          </div>
-        </div>
-
-        <div className="w-full lg:w-[340px] shrink-0 bg-white/[0.02] border border-white/10 rounded-xl p-6 backdrop-blur-md relative z-10">
-          <div className="flex items-center justify-between mb-6">
-            <h3 className="font-semibold text-white">Certificate Status</h3>
-            <Shield size={18} className="text-amber-500" />
-          </div>
-          <div className="bg-black/40 rounded-xl p-4 border border-white/5 mb-6">
-            <div className="flex items-center justify-between text-xs mb-3">
-              <span className="text-slate-400 uppercase tracking-wider font-semibold">Progress</span>
-              <span className="text-amber-500 font-medium">11%</span>
-            </div>
-            <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
-              <div className="w-[11%] h-full bg-amber-500 rounded-full"></div>
-            </div>
-            <p className="text-[11px] text-slate-500 mt-3 flex items-center gap-1.5">
-              <AlertCircle size={12} /> 6 requirements remaining
-            </p>
-          </div>
-          <p className="text-xs text-slate-500 leading-relaxed">
-            Preview only. No certificate is issued. CDPH approval is not claimed.
-          </p>
-        </div>
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-        {[
-          { icon: <BookOpen size={20}/>, title: "12-Hour Required Theory", desc: "Orientation, six theory modules, and a final exam." },
-          { icon: <Stethoscope size={20}/>, title: "Optional Clinical Support", desc: "Skills refresh and scenario coaching. No clinical-hour credit." },
-          { icon: <Shield size={20}/>, title: "No PHI Policy", desc: "Never enter protected health info. Use simulated examples only." }
-        ].map((f, i) => (
-          <div key={i} className="p-6 rounded-xl bg-[#120a0a]/60 border border-white/5 hover:bg-[#120a0a] transition-colors">
-            <div className="text-amber-500/80 mb-4">{f.icon}</div>
-            <h4 className="text-sm font-semibold text-white mb-2">{f.title}</h4>
-            <p className="text-xs text-slate-400 leading-relaxed">{f.desc}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-function ModulesView({ setView }) {
-  const modules = [
-    { id: 'M0', title: 'Orientation', time: '0.5 hr', status: 'completed', action: () => setView('module0') },
-    { id: 'M1', title: 'Infection Control & PPE', time: '1.5 hr', status: 'ready', action: () => setView('module1') },
-    { id: 'M2', title: 'Resident Rights & Abuse', time: '2.0 hr', status: 'locked' },
-    { id: 'M3', title: 'Dementia & Comm.', time: '2.0 hr', status: 'locked' },
-    { id: 'M4', title: 'Mobility & Safety', time: '2.0 hr', status: 'locked' },
-    { id: 'M5', title: 'Nutrition, Skin & Vitals', time: '2.0 hr', status: 'locked' },
-  ];
-
-  return (
-    <div className="flex flex-col lg:flex-row gap-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="w-full lg:w-80 shrink-0 space-y-6">
-        <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl p-8 sticky top-8">
-          <div className="text-[10px] uppercase tracking-widest text-amber-500 font-bold mb-4">Required Online CE</div>
-          <h2 className="text-3xl font-semibold text-white mb-4 leading-tight">Your success is our mission.</h2>
-          <p className="text-sm text-slate-400 mb-8">Complete all required modules and pass the final assessment to reach certificate readiness.</p>
-          <div className="space-y-2 mb-8">
-            <div className="flex justify-between text-xs font-semibold">
-              <span className="text-white">Program progress</span>
-              <span className="text-amber-500">11%</span>
-            </div>
-            <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
-              <div className="w-[11%] h-full bg-amber-500 rounded-full"></div>
-            </div>
-          </div>
-          <button className="w-full py-3 rounded-xl border border-white/10 text-white font-medium text-sm hover:bg-white/5 transition-colors">
-            View certificate path
-          </button>
-        </div>
-      </div>
-      <div className="flex-1">
-        <div className="mb-8">
-          <h2 className="text-3xl font-semibold text-white mb-2">Choose your module</h2>
-          <p className="text-slate-400 text-sm">Required theory modules unlock sequentially.</p>
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {modules.map((m) => (
-            <div 
-              key={m.id} 
-              className={`p-6 rounded-xl border transition-all ${
-                m.status === 'locked' ? 'bg-black/20 border-white/5 opacity-60' : 'bg-[#120a0a]/80 border-white/10 hover:border-white/20 hover:bg-[#150c0c] cursor-pointer'
-              }`}
-              onClick={m.status !== 'locked' ? m.action : undefined}
-            >
-              <div className="flex items-start justify-between mb-4">
-                <div>
-                  <span className={`text-xs font-bold uppercase tracking-wider mb-1 block ${m.status === 'ready' ? 'text-amber-500' : 'text-slate-500'}`}>{m.id}</span>
-                  <span className="text-xs text-slate-500">{m.time}</span>
-                </div>
-                {m.status === 'completed' && <CheckCircle2 size={20} className="text-green-500" />}
-                {m.status === 'locked' && <Lock size={16} className="text-slate-600" />}
-              </div>
-              <h3 className={`text-lg font-medium mb-8 ${m.status === 'locked' ? 'text-slate-400' : 'text-white'}`}>{m.title}</h3>
-              <div className="mt-auto">
-                {m.status === 'completed' && (
-                  <button className="px-5 py-2 rounded-full bg-white/10 text-white text-xs font-semibold hover:bg-white/20 transition-colors flex items-center gap-2">
-                    Review <ArrowRight size={14}/>
-                  </button>
-                )}
-                {m.status === 'ready' && (
-                  <button className="px-5 py-2 rounded-full bg-amber-500 text-black text-xs font-semibold hover:bg-amber-400 transition-colors flex items-center gap-2">
-                    Start <Play size={12} className="fill-current"/>
-                  </button>
-                )}
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-}
-
-function ModuleZeroView({ setView }) {
-  const [agreed, setAgreed] = useState([true, false, false]);
-  const toggleAgree = (index) => {
-    const newAgreed = [...agreed];
-    newAgreed[index] = !newAgreed[index];
-    setAgreed(newAgreed);
-  };
-  const allAgreed = agreed.every(Boolean);
-
-  return (
-    <div className="max-w-3xl mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <button onClick={() => setView('modules')} className="text-slate-400 hover:text-white flex items-center gap-2 text-sm mb-8 transition-colors">
-        <ArrowLeft size={16} /> Back to Modules
-      </button>
-      <div className="mb-8">
-        <div className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-2">0.5 HR • REQUIRED ONLINE CE</div>
-        <h1 className="text-3xl md:text-4xl font-semibold text-white mb-3">Module 0: Orientation and Compliance</h1>
-        <p className="text-slate-400 text-sm">Course scope, identity confirmation, online cap and no-PHI acknowledgements.</p>
-      </div>
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl p-8 md:p-10 shadow-xl">
-        <h2 className="text-xl font-semibold text-white mb-2">Orientation & required acknowledgements</h2>
-        <p className="text-sm text-slate-400 mb-8">Confirm your certificate identity and complete the required acknowledgements to unlock the theory pathway.</p>
-        <div className="space-y-5 mb-10">
-          <div>
-            <label className="block text-xs font-medium text-slate-400 mb-1.5 ml-1">Legal first name</label>
-            <input type="text" defaultValue="James" className="w-full bg-black/40 border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-amber-500 transition-colors" />
-          </div>
-          <div>
-            <label className="block text-xs font-medium text-slate-400 mb-1.5 ml-1">Legal last name</label>
-            <input type="text" defaultValue="Bond" className="w-full bg-black/40 border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-amber-500 transition-colors" />
-          </div>
-          <div>
-            <label className="block text-xs font-medium text-slate-400 mb-1.5 ml-1">CNA certificate number</label>
-            <input type="text" defaultValue="CNA_DEMO-007" className="w-full bg-black/40 border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-amber-500 transition-colors" />
-          </div>
-        </div>
-        <div className="space-y-3 mb-10">
-          {[
-            "I understand the 24-hour online CE cap and that this course is partial renewal credit only.",
-            "I will not enter or upload PHI about real patients, residents, or individuals anywhere in this course.",
-            "I understand optional clinical support is separate and does not affect the online CE certificate."
-          ].map((text, i) => (
-            <div key={i} onClick={() => toggleAgree(i)} className={`flex items-start gap-4 p-4 rounded-xl border cursor-pointer transition-colors ${agreed[i] ? 'bg-amber-500/10 border-amber-500/30' : 'bg-black/20 border-white/5 hover:border-white/10'}`}>
-              <div className="mt-0.5 text-amber-500">
-                {agreed[i] ? <CheckSquare size={20} /> : <Square size={20} className="text-slate-500" />}
-              </div>
-              <p className={`text-sm leading-relaxed ${agreed[i] ? 'text-amber-100' : 'text-slate-400'}`}>{text}</p>
-            </div>
-          ))}
-        </div>
-        <div className="flex items-center gap-4 pt-6 border-t border-white/5">
-          <button 
-            onClick={() => setView('module1')}
-            // Validation removed for preview
-            className="px-8 py-4 rounded-xl font-semibold flex items-center justify-center gap-3 transition-all w-full sm:w-auto bg-amber-500 hover:bg-amber-400 text-black transform hover:-translate-y-0.5"
-          >
-            Continue to Module 1 <ArrowRight size={18} />
-          </button>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-function ModuleOneOverview({ setView }) {
-  const lessons = [
-    "Why Infection Control Matters in Long-Term Care",
-    "The Chain of Infection",
-    "Hand Hygiene — Your Most Important Tool",
-    "Personal Protective Equipment (PPE)",
-    "Recognizing and Reporting Infection Signs",
-    "Environmental Cleaning and Safe Practices"
-  ];
-
-  return (
-    <div className="max-w-4xl mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <button onClick={() => setView('modules')} className="text-slate-400 hover:text-white flex items-center gap-2 text-sm mb-8 transition-colors">
-        <ArrowLeft size={16} /> Back to Modules
-      </button>
-
-      <div className="mb-8 flex justify-between items-end">
-        <div>
-          <div className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-2">1.5 HR • REQUIRED ONLINE CE</div>
-          <h1 className="text-3xl md:text-5xl font-semibold text-white mb-3 tracking-tight">Infection Control and PPE</h1>
-          <p className="text-slate-400 text-sm md:text-base">Chain of infection, hand hygiene, PPE, recognizing and reporting infection, and safe cleaning.</p>
-        </div>
-        <div className="hidden sm:flex px-4 py-2 rounded-xl border border-white/10 bg-white/5 items-center gap-2 text-xs font-medium text-slate-300">
-          <Lock size={14} /> Not Started
-        </div>
-      </div>
-
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl p-8 mb-6 shadow-lg">
-        <h2 className="text-lg font-semibold text-white mb-6">Learning goals</h2>
-        <ul className="space-y-4">
-          {[
-            "Describe healthcare-associated infections (HAIs) and why LTC residents are at higher risk.",
-            "Identify the six links in the chain of infection.",
-            "Demonstrate proper hand hygiene technique, including the WHO 5 Moments.",
-            "Select the correct PPE for common CNA tasks.",
-            "Recognize common signs and symptoms of infection in LTC residents."
-          ].map((goal, i) => (
-            <li key={i} className="flex gap-3 items-start">
-              <CheckCircle2 size={18} className="text-amber-500 shrink-0 mt-0.5" />
-              <span className="text-slate-300 text-sm leading-relaxed">{goal}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl p-8 shadow-lg">
-        <h2 className="text-lg font-semibold text-white mb-6">Lessons</h2>
-        <div className="space-y-2 mb-8">
-          {lessons.map((lesson, i) => (
-            <div 
-              key={i} 
-              onClick={() => i === 0 && setView('lesson')}
-              className={`flex items-center justify-between p-4 rounded-xl border transition-all ${
-                i === 0 ? 'bg-white/5 border-white/10 hover:bg-white/10 cursor-pointer group' : 'bg-black/20 border-white/5 opacity-60'
-              }`}
-            >
-              <div className="flex items-center gap-4">
-                <div className="w-8 h-8 rounded-full border border-white/10 flex items-center justify-center text-xs text-slate-400 bg-black/50">
-                  {i + 1}
-                </div>
-                <div>
-                  <h4 className={`text-sm font-medium ${i === 0 ? 'text-white' : 'text-slate-300'}`}>{lesson}</h4>
-                  <p className="text-xs text-slate-500 mt-1">15 min</p>
-                </div>
-              </div>
-              <ChevronRight size={18} className={i === 0 ? 'text-amber-500 transform group-hover:translate-x-1 transition-transform' : 'text-slate-600'} />
-            </div>
-          ))}
-        </div>
-
-        <button 
-          onClick={() => setView('lesson')}
-          className="bg-amber-500 hover:bg-amber-400 text-black font-semibold px-8 py-3.5 rounded-xl flex items-center justify-center gap-3 transition-all"
-        >
-          Start Module <Play size={16} className="fill-current" />
-        </button>
-      </div>
-    </div>
-  );
-}
-
-// ==========================================
-// FLOW 5: HIGH-FIDELITY 4-CARD LESSON PLAYER
-// Includes Completion Validations & 16:9 Media Panels
-// ==========================================
-
-function MediaPanel({ label, icon: Icon = ImageIcon }) {
-  return (
-    <div className="w-full aspect-video bg-[#0c0707] border border-white/5 rounded-xl flex flex-col items-center justify-center text-stone-600 mb-8 overflow-hidden relative group shadow-inner">
-      <div className="absolute inset-0 bg-gradient-to-tr from-black/40 to-transparent pointer-events-none"></div>
-      <Icon size={40} className="mb-4 opacity-30 group-hover:opacity-50 transition-opacity" />
-      <span className="text-xs font-semibold uppercase tracking-widest text-stone-500">{label || "Visual coming soon"}</span>
-    </div>
-  );
-}
-
-function LessonView({ setView }) {
-  const [currentStep, setCurrentStep] = useState(0); 
-  const [completedSteps, setCompletedSteps] = useState([]);
+function LessonPlayerView({ setView, setLessonCompleted, activeTime, formatHoursAndMins }) {
+  const [currentCard, setCurrentCard] = useState(1);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [submittedAnswer, setSubmittedAnswer] = useState(null);
-  const [activeTime, setActiveTime] = useState(0);
-
-  // Mark a step complete to unlock the Continue button
-  const markStepComplete = (stepId) => {
-    if (!completedSteps.includes(stepId)) {
-      setCompletedSteps([...completedSteps, stepId]);
-    }
-  };
-
-  useEffect(() => {
-    const timer = setInterval(() => setActiveTime(t => t + 1), 1000);
-    return () => clearInterval(timer);
-  }, []);
-
-  const formatTime = (secs) => {
-    const m = Math.floor(secs / 60);
-    const s = secs % 60;
-    return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
-  };
+  const [submitted, setSubmitted] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [showTranscript, setShowTranscript] = useState(false);
+  
+  // Track unique rationales clicked for remediation audit requirement
+  const [clickedRationales, setClickedRationales] = useState([]);
 
   const handleNext = () => {
-    // Validations removed for preview
-    if (currentStep < 4) {
-      markStepComplete(currentStep); // auto-complete for UI visuals
-      setCurrentStep(c => c + 1);
-    } else if (currentStep === 4) {
-      setView('dashboard'); // Exit to dashboard on complete
+    if (currentCard < 4) {
+      setCurrentCard(c => c + 1);
+    } else {
+      setLessonCompleted(true);
+      setView('module1');
     }
   };
 
   const handlePrev = () => {
-    if (currentStep > 0) setCurrentStep(c => c - 1);
+    if (currentCard > 1) {
+      setCurrentCard(c => c - 1);
+    }
   };
 
-  const steps = [
-    { label: "Overview", id: 0 },
-    { label: "Chain of Infection", id: 1 },
-    { label: "HAIs", id: 2 },
-    { label: "Challenge", id: 3 },
-    { label: "Debrief", id: 4 }
-  ];
+  const selectAnswer = (id) => {
+    if (!submitted) setSelectedAnswer(id);
+  };
 
-  const canContinue = completedSteps.includes(currentStep);
+  const handleRationaleClick = (id) => {
+    if (!clickedRationales.includes(id)) {
+      setClickedRationales([...clickedRationales, id]);
+    }
+  };
 
   return (
-    <div className="max-w-5xl mx-auto h-[85vh] flex flex-col animate-in zoom-in-95 duration-500">
-      <div className="bg-[#120a0a]/95 backdrop-blur-xl border border-white/10 rounded-xl shadow-2xl flex flex-col h-full overflow-hidden relative">
-        
-        {/* Header - Minimalist */}
-        <div className="px-6 py-4 border-b border-white/5 flex items-center justify-between bg-black/40 shrink-0">
-          <button onClick={() => setView('module1')} className="text-slate-400 hover:text-white transition-colors p-2 -ml-2 rounded-xl hover:bg-white/5 flex items-center gap-2 text-sm font-medium">
-            <ArrowLeft size={16} /> Exit
-          </button>
-          
-          <div className="flex items-center gap-2 text-xs font-medium text-slate-500">
-            <span>Module 1</span><ChevronRight size={12} />
-            <span className="text-slate-300">Lesson 1</span>
-          </div>
-
-          <div className="flex items-center gap-2 text-amber-500 text-xs font-mono font-medium tracking-wider" title="MVP Active Time Engine">
-            <div className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></div>
-            {formatTime(activeTime)}
-          </div>
+    <div className="space-y-6 animate-in zoom-in-95 duration-300">
+      
+      {/* Header Info */}
+      <div className="flex items-center justify-between pb-3 border-b border-stone-800/60">
+        <button 
+          onClick={() => setView('module1')}
+          className="text-stone-400 hover:text-stone-100 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider"
+        >
+          <ArrowLeft size={14} /> Close Lesson Player
+        </button>
+        <div className="flex items-center gap-4 text-xs font-mono text-stone-400">
+          <span className="flex items-center gap-1"><Clock size={12} className="text-amber-500" /> Lesson Session: 15m</span>
+          <span>&bull;</span>
+          <span className="text-amber-500 flex items-center gap-1">
+            <span className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+            Simulated Time: {formatHoursAndMins(activeTime)}
+          </span>
         </div>
+      </div>
 
-        {/* Floating Top Sequence Bar */}
-        <div className="bg-white/[0.01] border-b border-white/5 px-6 py-3 flex items-center gap-6 overflow-x-auto custom-scrollbar shrink-0">
-          {steps.map((step, idx) => (
-            <div key={idx} className="flex items-center gap-3 shrink-0">
-              <div className={`w-5 h-5 rounded-full border flex items-center justify-center text-[10px] transition-colors ${
-                currentStep === step.id 
-                  ? 'bg-amber-500 border-amber-500 text-black font-bold'
-                  : completedSteps.includes(step.id) 
-                    ? 'bg-[#120a0a] border-stone-500 text-stone-400' 
-                    : 'bg-transparent border-white/10 text-stone-600'
-              }`}>
-                {completedSteps.includes(step.id) && currentStep !== step.id ? <Check size={10} strokeWidth={3} /> : step.id + 1}
-              </div>
-              <span className={`text-xs font-medium ${currentStep === step.id ? 'text-stone-200' : 'text-stone-500'}`}>
-                {step.label}
-              </span>
-              {idx < steps.length - 1 && <div className="w-4 h-px bg-white/10 ml-3"></div>}
+      {/* Modern Horizontal Navigation Line */}
+      <div className="flex items-center justify-between bg-stone-950/60 p-3 rounded-lg border border-stone-900 overflow-x-auto">
+        {[
+          { num: 1, name: "Card 1: Overview" },
+          { num: 2, name: "Card 2: Delivery" },
+          { num: 3, name: "Card 3: Challenge" },
+          { num: 4, name: "Card 4: Debrief & Remediation" },
+        ].map((step) => (
+          <div key={step.num} className="flex items-center gap-3 shrink-0 mx-2">
+            <div className={`w-5 h-5 rounded-full border flex items-center justify-center text-[10px] font-mono font-bold ${
+              currentCard === step.num 
+                ? 'bg-amber-500 border-amber-500 text-black' 
+                : currentCard > step.num 
+                  ? 'bg-emerald-950/40 text-emerald-400 border-emerald-500/20' 
+                  : 'bg-transparent border-stone-800 text-stone-600'
+            }`}>
+              {currentCard > step.num ? <Check size={10} /> : step.num}
             </div>
-          ))}
+            <span className={`text-[11px] font-semibold uppercase tracking-wider ${
+              currentCard === step.num ? 'text-amber-500' : 'text-stone-500'
+            }`}>
+              {step.name}
+            </span>
+            {step.num < 4 && <div className="w-6 h-px bg-stone-900"></div>}
+          </div>
+        ))}
+      </div>
+
+      {/* Main Study Deck Card */}
+      <div className="bg-[#120909] border border-stone-800/80 rounded-xl overflow-hidden shadow-2xl flex flex-col min-h-[500px]">
+        
+        <div className="p-6 md:p-8 flex-1 space-y-6">
+          
+          {/* CARD 1: OVERVIEW */}
+          {currentCard === 1 && (
+            <div className="space-y-6 animate-in fade-in duration-300">
+              <div className="flex justify-between items-start">
+                <div>
+                  <span className="text-[10px] font-bold text-stone-500 uppercase tracking-widest font-mono">Module 1 • Lesson 1 • Card 1</span>
+                  <h2 className="text-2xl font-normal text-stone-100 tracking-tight mt-1">Scope of Infection Control in LTC</h2>
+                </div>
+              </div>
+
+              {/* High fidelity 16:9 media visual panel near top */}
+              <div className="w-full aspect-video md:h-64 bg-stone-950 border border-stone-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden group">
+                <div className="absolute top-3 left-3 bg-[#120909] border border-stone-800 rounded px-2 py-0.5 text-[9px] font-mono text-stone-400 uppercase tracking-wider">
+                  Visual Blueprint L1-1
+                </div>
+                {/* SVG Schematic Blueprint */}
+                <svg className="w-32 h-32 text-stone-800" viewBox="0 0 100 100" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <rect x="15" y="15" width="70" height="70" rx="3" />
+                  <path d="M50 15v70M15 50h70" strokeDasharray="3 3" />
+                  <circle cx="50" cy="50" r="10" stroke="#5c1111" strokeWidth="2" />
+                  <circle cx="30" cy="35" r="5" />
+                  <circle cx="70" cy="35" r="5" />
+                  <circle cx="30" cy="65" r="5" />
+                  <circle cx="70" cy="65" r="5" />
+                </svg>
+                <div className="text-[10px] font-mono text-stone-500 uppercase mt-2 tracking-widest">
+                  Pathogen Proliferation & Contact Zone Model
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="space-y-2">
+                  <h4 className="text-xs uppercase font-bold text-stone-400 font-mono tracking-wider">Core Principle</h4>
+                  <p className="text-xs text-stone-400 leading-relaxed">
+                    Long-term care facilities house highly vulnerable populations. As a CNA, your hand sanitation and PPE execution are the frontline defenses against devastating healthcare-associated infections (HAIs).
+                  </p>
+                </div>
+                <div className="space-y-2">
+                  <h4 className="text-xs uppercase font-bold text-stone-400 font-mono tracking-wider font-semibold">Core Focus Metrics</h4>
+                  <div className="space-y-1.5 font-mono text-[10px] text-stone-500">
+                    <div className="flex justify-between border-b border-stone-900 pb-1">
+                      <span>LTC Infection Rates:</span>
+                      <span className="text-stone-300">$1:10$ Active Residents</span>
+                    </div>
+                    <div className="flex justify-between border-b border-stone-900 pb-1">
+                      <span>Primary Transmission:</span>
+                      <span className="text-stone-300">Transient Hand Contact</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* CARD 2: DELIVERY */}
+          {currentCard === 2 && (
+            <div className="space-y-6 animate-in fade-in duration-300">
+              <div className="flex justify-between items-start">
+                <div>
+                  <span className="text-[10px] font-bold text-stone-500 uppercase tracking-widest font-mono">Module 1 • Lesson 1 • Card 2</span>
+                  <h2 className="text-2xl font-normal text-stone-100 tracking-tight mt-1">Understanding the Chain of Infection</h2>
+                </div>
+              </div>
+
+              {/* 16:9 media visual panel near top */}
+              <div className="w-full aspect-video md:h-64 bg-stone-950 border border-stone-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden">
+                <div className="absolute top-3 left-3 bg-[#120909] border border-stone-800 rounded px-2 py-0.5 text-[9px] font-mono text-stone-400 uppercase tracking-wider">
+                  Visual Blueprint L1-2
+                </div>
+                {/* SVG Schematic Chain */}
+                <svg className="w-64 h-24 text-stone-800" viewBox="0 0 300 100" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  {/* Chain links */}
+                  <rect x="10" y="30" width="60" height="40" rx="20" stroke="#d4af37" strokeWidth="2" />
+                  <rect x="50" y="30" width="60" height="40" rx="20" />
+                  <rect x="90" y="30" width="60" height="40" rx="20" stroke="#d4af37" strokeWidth="2" />
+                  <rect x="130" y="30" width="60" height="40" rx="20" />
+                  <rect x="170" y="30" width="60" height="40" rx="20" stroke="#d4af37" strokeWidth="2" />
+                  <rect x="210" y="30" width="60" height="40" rx="20" />
+                </svg>
+                <div className="text-[10px] font-mono text-stone-500 uppercase tracking-widest mt-2">
+                  Interactive Schematic: Six Links of Pathogen Transmission
+                </div>
+              </div>
+
+              <div className="space-y-3">
+                <h4 className="text-xs uppercase font-bold text-stone-400 font-mono tracking-wider">Breaking the Pathogen Cycle</h4>
+                <p className="text-xs text-stone-400 leading-relaxed">
+                  The six active links are: (1) Causative Agent, (2) Reservoir, (3) Portal of Exit, (4) Mode of Transmission, (5) Portal of Entry, and (6) Susceptible Host. Interruption at any of these nodes instantly halts contamination spread.
+                </p>
+                <div className="p-3 bg-[#1c0d0d] border border-[#5c1111]/30 rounded">
+                  <p className="text-[11px] text-stone-300 leading-relaxed italic">
+                    <strong>Critical CNA Link:</strong> Performing hand decontamination after client contact breaks the <em>Mode of Transmission</em> link.
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* CARD 3: CHALLENGE */}
+          {currentCard === 3 && (
+            <div className="space-y-6 animate-in fade-in duration-300">
+              <div>
+                <span className="text-[10px] font-bold text-stone-500 uppercase tracking-widest font-mono">Module 1 • Lesson 1 • Card 3</span>
+                <h2 className="text-2xl font-normal text-stone-100 tracking-tight mt-1">Interactive Challenge Simulation</h2>
+              </div>
+
+              {/* 16:9 media visual panel near top */}
+              <div className="w-full aspect-video md:h-56 bg-stone-950 border border-stone-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden">
+                <div className="absolute top-3 left-3 bg-[#120909] border border-stone-800 rounded px-2 py-0.5 text-[9px] font-mono text-stone-400 uppercase tracking-wider">
+                  Simulation Scene L1-3
+                </div>
+                <svg className="w-24 h-24 text-stone-800" viewBox="0 0 100 100" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M20 80h60M30 80V40h40v40" />
+                  <path d="M40 30h20M50 20v10" />
+                  <circle cx="50" cy="55" r="8" stroke="#d4af37" />
+                </svg>
+                <div className="text-[10px] font-mono text-stone-500 uppercase tracking-widest mt-2">
+                  Client Room Environment & Contamination Map
+                </div>
+              </div>
+
+              <div className="space-y-4">
+                <p className="text-xs text-stone-300 leading-relaxed font-semibold">
+                  SCENARIO: Resident Mr. Henderson is on Contact Precautions for a suspected MRSA wound infection. As you prepare to deliver a fresh water pitcher, what is your safest procedural sequence?
+                </p>
+
+                <div className="grid grid-cols-1 gap-2.5">
+                  {[
+                    { id: 'A', text: "Sanitize hands, don clean gown and gloves before entering room, deliver water, doff PPE inside room, sanitize hands upon exit." },
+                    { id: 'B', text: "Deliver water quickly using gloves only. No gown is required unless changing bed sheets." },
+                    { id: 'C', text: "Don gown and gloves outside room, deliver water, walk out into the hallway in PPE, doff at nurse station." },
+                  ].map((ans) => (
+                    <button
+                      key={ans.id}
+                      onClick={() => selectAnswer(ans.id)}
+                      disabled={submitted}
+                      className={`w-full text-left p-4 rounded border text-xs flex items-start gap-3 transition-colors ${
+                        selectedAnswer === ans.id 
+                          ? 'bg-[#1c0d0d] border-amber-500/50 text-stone-100' 
+                          : 'bg-[#080404] border-stone-900 hover:border-stone-800 text-stone-400'
+                      }`}
+                    >
+                      <div className={`mt-0.5 w-4 h-4 rounded border flex items-center justify-center text-[10px] font-bold shrink-0 ${
+                        selectedAnswer === ans.id ? 'bg-amber-500 text-black border-amber-500' : 'border-stone-600 text-stone-500'
+                      }`}>
+                        {ans.id}
+                      </div>
+                      <span>{ans.text}</span>
+                    </button>
+                  ))}
+                </div>
+
+                {!submitted && selectedAnswer && (
+                  <button 
+                    onClick={() => setSubmitted(true)}
+                    className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-5 py-2.5 rounded text-xs uppercase tracking-wider transition-colors"
+                  >
+                    Submit Decision Pattern
+                  </button>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* CARD 4: DEBRIEF & REMEDIATION */}
+          {currentCard === 4 && (
+            <div className="space-y-6 animate-in fade-in duration-300">
+              <div>
+                <span className="text-[10px] font-bold text-stone-500 uppercase tracking-widest font-mono">Module 1 • Lesson 1 • Card 4</span>
+                <h2 className="text-2xl font-normal text-stone-100 tracking-tight mt-1">Review & Rationale Matrix</h2>
+                <p className="text-xs text-stone-400 mt-1">
+                  Compliance validation mandates clicking and reading both the Correct (A) and your selected choice rationales to finish the block.
+                </p>
+              </div>
+
+              {/* 16:9 media visual panel near top */}
+              <div className="w-full aspect-video md:h-52 bg-stone-950 border border-stone-900 rounded-lg flex flex-col items-center justify-center relative overflow-hidden">
+                <div className="absolute top-3 left-3 bg-[#120909] border border-stone-800 rounded px-2 py-0.5 text-[9px] font-mono text-stone-400 uppercase tracking-wider">
+                  Flow Schematic L1-4
+                </div>
+                <svg className="w-48 h-20 text-stone-800" viewBox="0 0 200 80" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <rect x="10" y="25" width="40" height="30" rx="3" />
+                  <path d="M50 40h40" />
+                  <polygon points="90,37 96,40 90,43" fill="currentColor" />
+                  <rect x="100" y="25" width="40" height="30" rx="3" stroke="#d4af37" />
+                  <path d="M140 40h40" />
+                  <polygon points="180,37 186,40 180,43" fill="currentColor" />
+                  <rect x="150" y="25" width="40" height="30" rx="3" />
+                </svg>
+                <div className="text-[10px] font-mono text-stone-500 uppercase tracking-widest mt-2">
+                  Systematic Corrective Action Logic Loop
+                </div>
+              </div>
+
+              {/* Rationale Matrix */}
+              <div className="space-y-3">
+                {[
+                  {
+                    id: 'A',
+                    type: 'CORRECT OPTION',
+                    title: "Standard Contact Precautions Protocol",
+                    text: "Putting on PPE BEFORE room entry stops contamination. Correct doffing inside prevents tracking pathogens into corridor hallways.",
+                    correct: true
+                  },
+                  {
+                    id: 'B',
+                    type: 'INCORRECT OPTION',
+                    title: "Limited Barrier Protective Assumption",
+                    text: "Mr. Henderson's room handles (bedside, water pitcher) are high reservoirs. Gloves only are completely deficient.",
+                    correct: false
+                  },
+                  {
+                    id: 'C',
+                    type: 'INCORRECT OPTION',
+                    title: "PPE Leakage Mode",
+                    text: "Walking outside the isolation area wearing active contaminated gloves creates a critical Mode of Transmission risk.",
+                    correct: false
+                  }
+                ].map((item) => {
+                  const isClicked = clickedRationales.includes(item.id);
+                  return (
+                    <div 
+                      key={item.id} 
+                      onClick={() => handleRationaleClick(item.id)}
+                      className={`p-4 rounded border text-xs cursor-pointer transition-all ${
+                        isClicked 
+                          ? 'bg-[#080404] border-[#5c1111]/60' 
+                          : 'bg-stone-950/40 border-stone-900/60 opacity-75 hover:opacity-100'
+                      }`}
+                    >
+                      <div className="flex items-center justify-between mb-2">
+                        <div className="flex items-center gap-2">
+                          <span className={`px-2 py-0.5 rounded text-[9px] font-mono font-bold ${
+                            item.correct ? 'bg-emerald-950/60 text-emerald-400' : 'bg-red-950/60 text-red-400'
+                          }`}>
+                            {item.id} &bull; {item.type}
+                          </span>
+                          <h4 className="font-semibold text-stone-200">{item.title}</h4>
+                        </div>
+                        <span className="text-[10px] text-amber-500 font-mono font-semibold">
+                          {isClicked ? "✓ Read" : "Click to Review"}
+                        </span>
+                      </div>
+                      {isClicked && (
+                        <p className="text-stone-400 leading-relaxed pl-1 animate-in slide-in-from-top-1">
+                          {item.text}
+                        </p>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+
+            </div>
+          )}
+
         </div>
 
-        {/* Central Card Content */}
-        <div className="flex-1 overflow-y-auto p-4 sm:p-8 md:p-12 relative">
-          <div className="max-w-4xl mx-auto pb-10">
-            {currentStep === 0 && <Card1Overview onComplete={() => markStepComplete(0)} />}
-            {currentStep === 1 && <Card2Delivery title="The Chain of Infection" onComplete={() => markStepComplete(1)} />}
-            {currentStep === 2 && <Card2Delivery title="Healthcare-Associated Infections (HAIs)" onComplete={() => markStepComplete(2)} />}
-            {currentStep === 3 && (
-              <Card3Challenge 
-                selectedAnswer={selectedAnswer}
-                setSelectedAnswer={setSelectedAnswer}
-                onSubmit={() => {
-                  setSubmittedAnswer(selectedAnswer);
-                  markStepComplete(3);
-                  setCurrentStep(4);
-                }}
-              />
-            )}
-            {currentStep === 4 && <Card4Debrief submittedAnswer={submittedAnswer} onComplete={() => markStepComplete(4)} />}
+        {/* Audio Narration Controller (Universal on all Cards) */}
+        <div className="px-6 py-4 bg-[#0a0505] border-t border-stone-850 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div className="flex items-center gap-3">
+            <button 
+              onClick={() => setIsPlaying(!isPlaying)}
+              className="w-10 h-10 rounded-full bg-[#1c0d0d] border border-[#5c1111]/40 flex items-center justify-center text-amber-500 hover:bg-[#2c1212] transition-colors shrink-0"
+            >
+              {isPlaying ? <Pause size={16} className="fill-current" /> : <Play size={16} className="fill-current ml-0.5" />}
+            </button>
+            <div>
+              <span className="text-xs font-semibold text-stone-200 block">Required Core Narration Audio</span>
+              <span className="text-[10px] text-stone-500 font-mono block">
+                {isPlaying ? "Active Playback Logged" : "Playback Standby"} (01:45)
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2">
+            <button 
+              onClick={() => setShowTranscript(!showTranscript)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded border text-xs font-mono transition-all ${
+                showTranscript 
+                  ? 'bg-amber-950/40 text-amber-400 border-amber-500/30' 
+                  : 'bg-transparent border-stone-900 text-stone-500 hover:text-stone-300'
+              }`}
+            >
+              <FileText size={12} /> Transcript Text
+            </button>
           </div>
         </div>
 
-        {/* Footer Navigation (With Validations) */}
-        <div className="px-6 py-4 border-t border-white/5 bg-[#0a0505] flex items-center justify-between shrink-0">
+        {showTranscript && (
+          <div className="px-6 py-4 bg-stone-950 text-stone-400 text-xs italic leading-relaxed border-t border-stone-900 animate-in fade-in">
+            &ldquo;In this nursing recertification system, standard precautions dictate treating all biological fluids as infectious. CNAs must construct physical barriers prior to touching potential host reservoirs like resident nightstands, catheters, or bed rails. Complete rationale review ensures clinical safety audit compliance.&rdquo;
+          </div>
+        )}
+
+        {/* Course Card Navigation Bar */}
+        <div className="px-6 py-4 bg-stone-950 border-t border-stone-850 flex items-center justify-between">
           <button 
             onClick={handlePrev}
-            disabled={currentStep === 0}
-            className="px-6 py-2.5 rounded-xl text-slate-400 hover:text-white hover:bg-white/5 font-medium text-sm transition-all disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:bg-transparent"
+            disabled={currentCard === 1}
+            className="px-4 py-2 text-xs font-semibold text-stone-500 hover:text-stone-300 disabled:opacity-35 disabled:cursor-not-allowed uppercase tracking-wider"
           >
-            Previous
+            &larr; Previous Card
           </button>
           
           <button 
             onClick={handleNext}
-            // Validations removed for preview
-            className="px-8 py-2.5 rounded-xl font-semibold text-sm flex items-center gap-2 transition-all shadow-lg bg-[#7a1212] hover:bg-[#5c0d0d] text-stone-100 border border-[#8f1818]"
+            disabled={currentCard === 3 && !submitted}
+            className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-2.5 rounded text-xs uppercase tracking-wider transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
           >
-            {currentStep === 4 ? 'Complete Lesson' : 'Continue'} <ArrowRight size={16} />
+            {currentCard === 4 ? "Complete Theory Lesson" : "Continue"} &rarr;
           </button>
         </div>
 
@@ -530,323 +1594,399 @@ function LessonView({ setView }) {
   );
 }
 
-// --- Card 1: Overview ---
-function Card1Overview({ onComplete }) {
-  return (
-    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="text-[10px] uppercase tracking-widest text-stone-500 font-bold">L01-CARD-1: Overview</div>
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl overflow-hidden shadow-2xl">
-        <div className="p-8 border-b border-white/5">
-          <div className="flex items-center gap-2 text-stone-400 text-sm mb-4 font-medium">
-            <Clock size={16} className="text-amber-500" /> Estimated time: 15 min
-          </div>
-          <h1 className="text-3xl font-semibold text-stone-100 tracking-tight leading-tight mb-6">
-            Why Infection Control Matters in Long-Term Care
-          </h1>
-          
-          <div className="bg-[#1a0f0f] border-l-2 border-amber-500 p-4 rounded-r-xl mb-8">
-            <p className="text-stone-300 text-sm leading-relaxed">
-              <strong className="text-amber-500 font-semibold uppercase tracking-wider text-[10px] block mb-1">Learning Goal</strong>
-              Explain why long-term care residents are at higher risk for infection and the CNA's role in prevention.
-            </p>
-          </div>
+// ==========================================
+// COMPONENT: CORE QUIZ FLOW (MODULAR)
+// ==========================================
+function QuizFlowView({ setView, isFinalExam, onPass, onFail }) {
+  const [currentIdx, setCurrentIdx] = useState(0);
+  const [answers, setAnswers] = useState({});
+  const [isSubmitted, setIsSubmitted] = useState(false);
 
-          <MediaPanel label="Video Placeholder: Infection Risks in LTC" icon={Video} />
-          
-          <div className="grid sm:grid-cols-2 gap-8">
-            <div>
-              <h3 className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold mb-3">Why this matters</h3>
-              <p className="text-stone-400 text-sm leading-relaxed">
-                Residents with weakened immune systems can become seriously ill from common germs. Early recognition and prevention protect every resident on the unit.
-              </p>
-            </div>
-            <div>
-              <h3 className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold mb-3">After this lesson, you will</h3>
-              <ul className="space-y-3">
-                <li className="flex items-start gap-2 text-stone-400 text-sm leading-relaxed">
-                  <Check size={16} className="text-amber-500 shrink-0 mt-0.5" /> Recognize the chain of infection.
-                </li>
-                <li className="flex items-start gap-2 text-stone-400 text-sm leading-relaxed">
-                  <Check size={16} className="text-amber-500 shrink-0 mt-0.5" /> Identify high-risk HAI scenarios.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <NarrationBlock audioDuration="1:45" onInteract={onComplete} />
-      </div>
-    </div>
-  );
-}
-
-// --- Card 2: Delivery ---
-function Card2Delivery({ title, onComplete }) {
-  return (
-    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="text-[10px] uppercase tracking-widest text-stone-500 font-bold">L01-CARD-2: Delivery</div>
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl overflow-hidden shadow-2xl">
-        <div className="p-8 border-b border-white/5">
-          <h2 className="text-2xl font-semibold text-stone-100 tracking-tight leading-tight mb-8">
-            {title}
-          </h2>
-
-          <MediaPanel label="Diagram: The Chain of Infection" />
-
-          <div className="mb-8">
-            <h3 className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold mb-3">Key Concept</h3>
-            <p className="text-stone-300 text-base leading-relaxed">
-              Infection requires a clear path to spread. If any link in the chain is broken, the infection stops. As a CNA, your primary tool to break the chain is rigorous hand hygiene and proper use of personal protective equipment (PPE).
-            </p>
-          </div>
-
-          <div className="bg-[#1a0f0f] rounded-xl p-6 border border-white/5">
-            <h3 className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold mb-3 flex items-center gap-2">
-              <ShieldAlert size={14} className="text-amber-500"/> CNA Practice Example
-            </h3>
-            <p className="text-stone-400 text-sm italic leading-relaxed">
-              "You are assisting Mr. Davis with catheter care. Without proper gloves and handwashing, bacteria from his indwelling device can be transferred to the bed linens, and subsequently to your next resident."
-            </p>
-          </div>
-        </div>
-        <NarrationBlock audioDuration="2:10" onInteract={onComplete} />
-      </div>
-    </div>
-  );
-}
-
-// --- Card 3: Challenge ---
-function Card3Challenge({ selectedAnswer, setSelectedAnswer, onSubmit }) {
-  const choices = [
-    { id: 'A', text: "Put on appropriate mask and gloves before entering the room." },
-    { id: 'B', text: "Serve the resident breakfast quickly to minimize contact time." },
-    { id: 'C', text: "Inform the charge nurse immediately, then return to the room." },
-    { id: 'D', text: "Open the window to improve ventilation before providing care." }
+  // Simulated 5 Question Compliance Quiz
+  const questions = [
+    {
+      id: 1,
+      q: "Which link inside the standard chain of infection does proper handwashing break?",
+      options: [
+        { id: 'A', text: "Reservoir Source" },
+        { id: 'B', text: "Mode of Transmission" },
+        { id: 'C', text: "Susceptible Host" },
+        { id: 'D', text: "Portal of Entry" }
+      ],
+      correct: 'B'
+    },
+    {
+      id: 2,
+      q: "A resident has a suspected droplet-transmitted infection. What standard barriers are required prior to entry?",
+      options: [
+        { id: 'A', text: "Gown and N95 Mask only" },
+        { id: 'B', text: "Standard Surgical Mask and eye protection shield if within 3 feet" },
+        { id: 'C', text: "Standard gloves and shoe coverings only" }
+      ],
+      correct: 'B'
+    },
+    {
+      id: 3,
+      q: "What is the minimum active friction scrub duration required during standard handwashing under CDPH guidelines?",
+      options: [
+        { id: 'A', text: "10 Seconds" },
+        { id: 'B', text: "20 Seconds" },
+        { id: 'C', text: "5 Seconds" },
+        { id: 'D', text: "60 Seconds" }
+      ],
+      correct: 'B'
+    },
+    {
+      id: 4,
+      q: "While performing standard catheter care, which safety measure stops retrograde contamination?",
+      options: [
+        { id: 'A', text: "Hanging the drainage bag higher than bladder level on the bed rail" },
+        { id: 'B', text: "Always maintaining the drainage bag below bladder level" },
+        { id: 'C', text: "Emptying the bag only once every 48 hours" }
+      ],
+      correct: 'B'
+    },
+    {
+      id: 5,
+      q: "HIPAA Rules: Which element represents a Protected Health Identifier that must never be entered in general study areas?",
+      options: [
+        { id: 'A', text: "Client medical record numbers" },
+        { id: 'B', text: "General nursing scenario diagnosis" },
+        { id: 'C', text: "CNA license number keys" }
+      ],
+      correct: 'A'
+    }
   ];
 
+  const handleSelect = (ansId) => {
+    if (!isSubmitted) {
+      setAnswers({ ...answers, [questions[currentIdx].id]: ansId });
+    }
+  };
+
+  const handleNext = () => {
+    if (currentIdx < questions.length - 1) {
+      setCurrentIdx(currentIdx + 1);
+    }
+  };
+
+  const handlePrev = () => {
+    if (currentIdx > 0) {
+      setCurrentIdx(currentIdx - 1);
+    }
+  };
+
+  const handleSubmit = () => {
+    setIsSubmitted(true);
+    let correctCount = 0;
+    questions.forEach(q => {
+      if (answers[q.id] === q.correct) {
+        correctCount++;
+      }
+    });
+
+    const scorePct = Math.round((correctCount / questions.length) * 100);
+    const passed = scorePct >= 80;
+
+    if (passed) {
+      onPass(scorePct);
+    } else {
+      onFail(scorePct);
+    }
+    setView('finalResult');
+  };
+
+  const currentQ = questions[currentIdx];
+  const allAnswered = Object.keys(answers).length === questions.length;
+
   return (
-    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="text-[10px] uppercase tracking-widest text-stone-500 font-bold">L01-CARD-3: Challenge</div>
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl overflow-hidden shadow-2xl p-8">
-        
-        <h3 className="text-[11px] uppercase tracking-widest text-stone-500 font-semibold mb-3">Scenario</h3>
-        <p className="text-stone-200 text-lg leading-relaxed mb-8">
-          A resident has a new, persistent cough and a mild fever.
-        </p>
+    <div className="max-w-2xl mx-auto space-y-6 animate-in fade-in duration-300">
+      <div className="flex justify-between items-center pb-3 border-b border-stone-800/60 font-mono text-xs text-stone-400">
+        <span>Question {currentIdx + 1} of {questions.length}</span>
+        <span>{isFinalExam ? "COURSE THEORY FINAL EXAM" : "MODULE 1 ASSESSMENT"}</span>
+      </div>
 
-        <MediaPanel label="Scenario: A Resident with a Cough" />
+      <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 md:p-8 shadow-xl space-y-6">
+        <div>
+          <span className="text-[10px] font-bold text-amber-500 uppercase tracking-widest font-mono">Select One Response</span>
+          <h2 className="text-base font-semibold text-stone-200 mt-1 leading-relaxed">
+            {currentQ.q}
+          </h2>
+        </div>
 
-        <p className="text-stone-200 text-base font-medium mb-6">
-          What is the <strong className="text-amber-500">FIRST</strong> action you should take before helping with morning care?
-        </p>
-
-        <div className="space-y-3">
-          {choices.map((choice) => (
+        <div className="grid grid-cols-1 gap-2.5">
+          {currentQ.options.map((opt) => (
             <button
-              key={choice.id}
-              onClick={() => setSelectedAnswer(choice.id)}
-              className={`w-full text-left p-5 rounded-xl border transition-all flex items-start gap-4 ${
-                selectedAnswer === choice.id
-                  ? 'bg-[#1a0f0f] border-amber-500/50 shadow-[0_0_15px_rgba(245,158,11,0.05)]'
-                  : 'bg-black/20 border-white/5 hover:border-white/20'
+              key={opt.id}
+              onClick={() => handleSelect(opt.id)}
+              className={`w-full text-left p-4 rounded border text-xs flex items-start gap-3 transition-colors ${
+                answers[currentQ.id] === opt.id 
+                  ? 'bg-[#1c0d0d] border-amber-500/50 text-stone-100' 
+                  : 'bg-[#080404] border-stone-900 hover:border-stone-800 text-stone-400'
               }`}
             >
-              <div className={`w-6 h-6 shrink-0 rounded border flex items-center justify-center text-xs font-bold mt-0.5 transition-colors ${
-                selectedAnswer === choice.id ? 'bg-amber-500 text-black border-amber-500' : 'border-stone-600 text-stone-500'
+              <div className={`mt-0.5 w-4 h-4 rounded border flex items-center justify-center text-[10px] font-bold shrink-0 ${
+                answers[currentQ.id] === opt.id ? 'bg-amber-500 text-black border-amber-500' : 'border-stone-600 text-stone-500'
               }`}>
-                {choice.id}
+                {opt.id}
               </div>
-              <span className={`text-sm leading-relaxed ${selectedAnswer === choice.id ? 'text-stone-100 font-medium' : 'text-stone-400'}`}>
-                {choice.text}
-              </span>
+              <span>{opt.text}</span>
             </button>
           ))}
         </div>
 
-        <div className="mt-8 pt-6 border-t border-white/5">
+        {/* Regulatory audit guardrail: strict lock on review keys */}
+        <div className="bg-stone-950 p-3 rounded border border-stone-900/60 text-[10px] text-stone-500 font-mono">
+          CDPH Compliance Guardrail: Real-time validation checks enabled. Incorrect answers are simulated silently.
+        </div>
+
+        <div className="pt-4 border-t border-stone-850 flex justify-between">
           <button 
-            onClick={onSubmit}
-            // Validations removed for preview
-            className="w-full sm:w-auto px-10 py-3.5 rounded-xl font-semibold text-sm transition-all bg-[#7a1212] hover:bg-[#5c0d0d] text-stone-100 border border-[#8f1818]"
+            onClick={handlePrev}
+            disabled={currentIdx === 0}
+            className="px-4 py-2 text-xs font-semibold text-stone-500 hover:text-stone-300 disabled:opacity-35 uppercase tracking-wider"
           >
-            Submit Answer
+            Back
           </button>
-        </div>
-      </div>
-    </div>
-  );
-}
 
-function Card4Debrief({ submittedAnswer, onComplete }) {
-  const [viewedRationales, setViewedRationales] = useState([]);
-
-  // Check completion: Learner must view Correct answer (A) AND their selected answer (if not A)
-  useEffect(() => {
-    const requiredViews = ['A'];
-    if (submittedAnswer && submittedAnswer !== 'A') {
-      requiredViews.push(submittedAnswer);
-    }
-    const hasViewedAllRequired = requiredViews.every(req => viewedRationales.includes(req));
-    if (hasViewedAllRequired) {
-      onComplete();
-    }
-  }, [viewedRationales, submittedAnswer, onComplete]);
-
-  const handleRationaleView = (id) => {
-    if (!viewedRationales.includes(id)) {
-      setViewedRationales([...viewedRationales, id]);
-    }
-  };
-
-  const rationales = [
-    {
-      id: 'A', isCorrect: true,
-      rationale: "Putting on appropriate mask and gloves protects you and prevents you from becoming a vector before any care begins.",
-      practice: "Always prioritize barrier protection when new respiratory symptoms appear.",
-    },
-    {
-      id: 'B', isCorrect: false,
-      rationale: "Speed does not replace infection control. Serving breakfast without protection directly exposes you to potential pathogens.",
-      practice: "Never skip PPE for the sake of efficiency.",
-    },
-    {
-      id: 'C', isCorrect: false,
-      rationale: "While the nurse must be informed, your immediate physical safety and the prevention of spread takes precedent before leaving the area.",
-      practice: "Protect first, then report changes in condition.",
-    },
-    {
-      id: 'D', isCorrect: false,
-      rationale: "Opening a window does not stop direct droplet or contact transmission during close personal care.",
-      practice: "Environmental controls are secondary to direct PPE.",
-    }
-  ];
-
-  return (
-    <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
-      <div className="text-[10px] uppercase tracking-widest text-stone-500 font-bold">L01-CARD-4: Debrief</div>
-      <div className="bg-[#120a0a]/80 border border-white/5 rounded-xl overflow-hidden shadow-2xl p-6 sm:p-8">
-        <h2 className="text-2xl font-semibold text-stone-100 mb-2">Challenge Review</h2>
-        <p className="text-stone-400 text-sm mb-8">
-          Review the rationale below. You selected <strong className="text-amber-500">Answer {submittedAnswer}</strong>. 
-          {submittedAnswer === 'A' ? ' Great job!' : ' Let\'s look at why that wasn\'t the safest choice.'}
-        </p>
-
-        <MediaPanel label="Summary Diagram: Safe CNA Practice" />
-
-        {/* 2x2 Grid / Stacked on Mobile */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {rationales.map((item) => (
-            <RationalePanel 
-              key={item.id} 
-              item={item} 
-              isSelected={submittedAnswer === item.id} 
-              onInteract={() => handleRationaleView(item.id)}
-            />
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-}
-
-function RationalePanel({ item, isSelected, onInteract }) {
-  const [expanded, setExpanded] = useState(isSelected || item.isCorrect);
-
-  return (
-    <div className={`border rounded-xl overflow-hidden transition-colors ${
-      isSelected ? 'bg-[#1a0f0f] border-white/20' : 'bg-black/20 border-white/5'
-    }`}>
-      <button 
-        onClick={() => {
-          setExpanded(!expanded);
-          if (!expanded) onInteract();
-        }}
-        className="w-full p-4 flex items-center justify-between text-left hover:bg-white/[0.02]"
-      >
-        <div className="flex items-center gap-3">
-          <div className="w-6 h-6 rounded bg-black border border-white/10 flex items-center justify-center text-xs font-bold text-stone-400">
-            {item.id}
-          </div>
-          <span className={`text-xs font-bold uppercase tracking-wider ${item.isCorrect ? 'text-green-500' : 'text-red-500/80'}`}>
-            {item.isCorrect ? 'Correct' : 'Incorrect'}
-          </span>
-          {isSelected && <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-stone-300 ml-2">Your Answer</span>}
-        </div>
-      </button>
-
-      {expanded && (
-        <div className="p-4 pt-0 border-t border-white/5 mt-2 animate-in slide-in-from-top-2">
-          <p className="text-sm text-stone-300 leading-relaxed mb-4">
-            {!item.isCorrect && <strong className="text-stone-500 font-normal">Not quite. Remember that... </strong>}
-            {item.rationale}
-          </p>
-          <div className="bg-black/40 rounded-lg p-3 border border-white/5 mb-4">
-            <h4 className="text-[10px] uppercase tracking-widest text-stone-500 font-bold mb-1">Real Practice</h4>
-            <p className="text-xs text-stone-400 italic">{item.practice}</p>
-          </div>
-          
-          <div className="flex items-center justify-between bg-black/60 rounded p-2 border border-white/5">
+          {currentIdx < questions.length - 1 ? (
             <button 
-              onClick={onInteract}
-              className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-amber-500 hover:text-amber-400"
+              onClick={handleNext}
+              disabled={!answers[currentQ.id]}
+              className="bg-stone-900 border border-stone-800 hover:bg-stone-850 text-stone-200 font-bold px-5 py-2 rounded text-xs uppercase tracking-wider transition-colors disabled:opacity-40"
             >
-              <Play size={12} className="fill-current" /> Listen
+              Next
             </button>
+          ) : (
             <button 
-              onClick={onInteract}
-              className="text-[10px] uppercase tracking-widest text-stone-500 hover:text-stone-300"
+              onClick={handleSubmit}
+              disabled={!allAnswered}
+              className="bg-[#5c1111] hover:bg-[#781616] text-stone-100 border border-[#8a1d1d] font-bold px-6 py-2.5 rounded text-xs uppercase tracking-wider transition-colors disabled:opacity-40"
             >
-              Read Transcript
+              Submit Exam
             </button>
-          </div>
+          )}
         </div>
-      )}
+      </div>
     </div>
   );
 }
 
-function NarrationBlock({ audioDuration, onInteract }) {
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [showTranscript, setShowTranscript] = useState(false);
+// ==========================================
+// COMPONENT: CERTIFICATE REVIEW & WATERMARK
+// ==========================================
+function CertificateGateView({ 
+  setView, 
+  module0Completed, 
+  activeTime, 
+  lessonCompleted, 
+  finalAssessmentPassed, 
+  affidavitSigned, 
+  setAffidavitSigned,
+  m0FirstName,
+  m0LastName,
+  m0License,
+  formatHoursAndMins
+}) {
 
-  const handlePlay = () => {
-    setIsPlaying(!isPlaying);
-    if (onInteract) onInteract();
-  };
+  // Check overall progress gating triggers
+  const hoursCompleted = activeTime >= 43200; // 12 hours check
+  const orientationReady = module0Completed;
+  const theoryReady = lessonCompleted && finalAssessmentPassed;
 
-  const handleTranscript = () => {
-    setShowTranscript(!showTranscript);
-    if (onInteract) onInteract();
-  };
+  const allGatesPassed = orientationReady && hoursCompleted && theoryReady && affidavitSigned;
 
   return (
-    <div className="bg-black/40 p-4 lg:px-8 lg:py-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-      <div className="flex items-center gap-4">
-        <button 
-          onClick={handlePlay}
-          className="w-10 h-10 rounded-full bg-[#1a0f0f] border border-white/10 flex items-center justify-center text-amber-500 hover:bg-[#222] transition-colors shrink-0"
-        >
-          {isPlaying ? <Pause size={16} className="fill-current" /> : <Play size={16} className="fill-current ml-0.5" />}
-        </button>
-        <div>
-          <div className="text-xs font-semibold text-stone-300 mb-0.5">Lesson Narration</div>
-          <div className="text-[10px] text-stone-500 font-mono">{isPlaying ? '0:14' : '0:00'} / {audioDuration}</div>
-        </div>
-      </div>
+    <div className="space-y-8 animate-in fade-in duration-300">
       
-      <button 
-        onClick={handleTranscript}
-        className={`flex items-center gap-2 text-xs font-semibold uppercase tracking-wider transition-colors px-4 py-2 rounded-xl border ${
-          showTranscript ? 'bg-white/10 text-stone-200 border-white/10' : 'bg-transparent text-stone-500 hover:text-stone-300 border-transparent hover:bg-white/5'
-        }`}
-      >
-        <FileText size={14} /> Transcript
-      </button>
+      <div className="flex flex-col lg:flex-row gap-8">
+        
+        {/* Left: Audit Compliance Panel */}
+        <div className="w-full lg:w-[400px] shrink-0 space-y-6">
+          <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6">
+            <h2 className="text-lg font-semibold text-stone-200 mb-2 uppercase tracking-wider">Required Audit Checklist</h2>
+            <p className="text-xs text-stone-400 leading-relaxed mb-6">
+              Official CDPH continuing education certificates remain locked unless all active gates are checked.
+            </p>
 
-      {showTranscript && (
-        <div className="w-full sm:hidden mt-4 p-4 bg-black/60 rounded-xl border border-white/5 text-xs text-stone-400 leading-relaxed italic animate-in fade-in">
-          (Transcript text would appear here to satisfy the reading completion condition for mobile users.)
+            <div className="space-y-4">
+              
+              {/* Gate 1 */}
+              <div className="flex items-start gap-3 p-3 bg-[#080404] border border-stone-900 rounded">
+                <div className="mt-0.5 shrink-0">
+                  {orientationReady ? (
+                    <CheckCircle2 size={16} className="text-emerald-500" />
+                  ) : (
+                    <Circle size={16} className="text-stone-600" />
+                  )}
+                </div>
+                <div>
+                  <span className="text-[11px] font-bold text-stone-300 block uppercase font-mono">01. Legal Identity Verified</span>
+                  <span className="text-[10px] text-stone-500">First/Last name entered in Module 0.</span>
+                </div>
+              </div>
+
+              {/* Gate 2 */}
+              <div className="flex items-start gap-3 p-3 bg-[#080404] border border-stone-900 rounded">
+                <div className="mt-0.5 shrink-0">
+                  {hoursCompleted ? (
+                    <CheckCircle2 size={16} className="text-emerald-500" />
+                  ) : (
+                    <Circle size={16} className="text-stone-600" />
+                  )}
+                </div>
+                <div>
+                  <span className="text-[11px] font-bold text-stone-300 block uppercase font-mono">02. 12-Hour Study Time</span>
+                  <span className="text-[10px] text-stone-500">Logged session active: <strong className="text-amber-500 font-mono font-normal">{formatHoursAndMins(activeTime)}</strong></span>
+                </div>
+              </div>
+
+              {/* Gate 3 */}
+              <div className="flex items-start gap-3 p-3 bg-[#080404] border border-stone-900 rounded">
+                <div className="mt-0.5 shrink-0">
+                  {theoryReady ? (
+                    <CheckCircle2 size={16} className="text-emerald-500" />
+                  ) : (
+                    <Circle size={16} className="text-stone-600" />
+                  )}
+                </div>
+                <div>
+                  <span className="text-[11px] font-bold text-stone-300 block uppercase font-mono">03. Competency Achieved</span>
+                  <span className="text-[10px] text-stone-500">Modules Completed & Assessment Passed.</span>
+                </div>
+              </div>
+
+              {/* Gate 4 - Interactive Affidavit */}
+              <div className={`p-4 rounded border transition-colors ${
+                affidavitSigned 
+                  ? 'bg-emerald-950/10 border-emerald-500/20 text-stone-200' 
+                  : 'bg-[#1c0c0c]/40 border-[#5c1111]/30 text-stone-400'
+              }`}>
+                <div className="flex items-start gap-3">
+                  <div className="mt-0.5 shrink-0">
+                    {affidavitSigned ? (
+                      <CheckCircle2 size={16} className="text-emerald-500" />
+                    ) : (
+                      <Circle size={16} className="text-[#5c1111]" />
+                    )}
+                  </div>
+                  <div>
+                    <span className="text-[11px] font-bold block uppercase font-mono">04. Professional Affidavit</span>
+                    <p className="text-[10px] text-stone-500 mt-1 mb-3">
+                      I swear under penalty of perjury that I completed all online continuing education hours in this portal myself.
+                    </p>
+                    {orientationReady && hoursCompleted && theoryReady ? (
+                      <button 
+                        onClick={() => setAffidavitSigned(!affidavitSigned)}
+                        className={`w-full py-1.5 rounded text-[10px] font-bold uppercase tracking-wider transition-colors border ${
+                          affidavitSigned 
+                            ? 'bg-stone-900 border-stone-800 text-stone-400' 
+                            : 'bg-[#5c1111] border-[#8a1d1d] hover:bg-[#781616] text-stone-100'
+                        }`}
+                      >
+                        {affidavitSigned ? "Revoke Signature" : "Sign Digital Affidavit"}
+                      </button>
+                    ) : (
+                      <span className="text-[9px] text-stone-600 uppercase font-mono font-bold block">
+                        Locked (Complete Steps 1-3 first)
+                      </span>
+                    )}
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
         </div>
-      )}
+
+        {/* Right: Immersive Mock Certificate Preview */}
+        <div className="flex-1 space-y-6">
+          <div className="bg-[#120909] border border-stone-800/80 rounded-xl p-6 relative overflow-hidden">
+            <div className="flex items-center justify-between mb-4 pb-3 border-b border-stone-800/60">
+              <h3 className="font-semibold text-stone-300 text-xs uppercase tracking-wider">Preview Engine</h3>
+              <span className="text-[10px] font-bold font-mono text-red-500 bg-red-950/40 px-2 py-0.5 rounded border border-red-500/20">
+                MOCK ONLY &bull; PRODUCTION DISABLED
+              </span>
+            </div>
+
+            {/* MOCK CERTIFICATE CONTAINER */}
+            <div className="w-full border-2 border-stone-800 bg-[#0c0505] p-8 md:p-12 rounded-lg relative overflow-hidden flex flex-col justify-between aspect-[1.414/1] shadow-2xl">
+              
+              {/* Outer border lines */}
+              <div className="absolute inset-2 border border-stone-900 pointer-events-none"></div>
+
+              {/* Diagonal Watermark Backdrop across the central zone */}
+              <div className="absolute inset-0 flex items-center justify-center rotate-[-25deg] select-none pointer-events-none opacity-[0.03]">
+                <span className="text-5xl md:text-8xl font-bold font-mono tracking-widest text-stone-200">
+                  MOCK PREVIEW
+                </span>
+              </div>
+
+              {/* QUADRANT 3 Floating Watermark (Specific compliance requested location) */}
+              {/* Coordinates x:35-40% , y:62-68% */}
+              <div 
+                className="absolute select-none pointer-events-none z-30 opacity-20 border border-red-500/60 bg-red-950/20 px-3 py-1.5 text-center leading-none rounded"
+                style={{ left: '38%', top: '65%', transform: 'translate(-50%, -50%) rotate(-10deg)' }}
+              >
+                <span className="text-[9px] md:text-[11px] font-bold text-red-500 tracking-wider font-mono block">
+                  MOCK PREVIEW ONLY
+                </span>
+                <span className="text-[7px] md:text-[8px] font-mono text-stone-400 block mt-0.5 uppercase">
+                  UNAUTHORIZED PRODUCTION
+                </span>
+              </div>
+
+              {/* Certificate Content Header */}
+              <div className="text-center space-y-3 relative z-10">
+                <div className="w-12 h-12 mx-auto mb-2 opacity-55">
+                  <svg viewBox="0 0 100 100" className="text-amber-500" stroke="currentColor" fill="none" strokeWidth="1.5">
+                    <circle cx="50" cy="50" r="40" />
+                    <path d="M50 10v80M10 50h80" strokeDasharray="2 2" />
+                  </svg>
+                </div>
+                <h2 className="text-xl md:text-3xl font-serif text-stone-300 tracking-wide uppercase">Certificate of Completion</h2>
+                <p className="text-[10px] md:text-xs text-stone-500 font-mono tracking-widest uppercase">CI Institute of Continuing Education</p>
+              </div>
+
+              {/* Recipient details */}
+              <div className="text-center my-6 space-y-2 relative z-10">
+                <span className="text-[10px] text-stone-500 italic block">This is to verify that</span>
+                <h3 className="text-lg md:text-2xl font-serif text-amber-500 tracking-wide font-normal">
+                  {m0FirstName ? `${m0FirstName} ${m0LastName}` : "[Verify Name in Module 0]"}
+                </h3>
+                <p className="text-[9px] md:text-[11px] text-stone-400 max-w-lg mx-auto leading-relaxed">
+                  has successfully performed the 12-hour theoretical continuing education requirement for the Nursing Recertification Pathway under active log metrics.
+                </p>
+              </div>
+
+              {/* Footer seals & Signatures */}
+              <div className="flex justify-between items-end text-left relative z-10 border-t border-stone-900 pt-4 text-[9px] md:text-[10px] font-mono text-stone-500">
+                <div>
+                  <span className="block font-bold text-stone-400 uppercase">James Bond, CNA</span>
+                  <span className="block">CNA LICENSE: {m0License || "UNVERIFIED"}</span>
+                  <span className="block">ACTIVE HOURS: {formatHoursAndMins(activeTime)}</span>
+                </div>
+                <div className="text-center">
+                  <span className="block border-b border-stone-800 pb-1 px-4 italic text-stone-400 font-serif">James Bond</span>
+                  <span className="block pt-1 uppercase">Client Signature</span>
+                </div>
+                <div className="text-right">
+                  <span className="block">CE PROVIDER #: CI-CE-99120</span>
+                  <span className="block">CDPH COMPLIANCE VERIFIED</span>
+                </div>
+              </div>
+
+            </div>
+
+            <div className="mt-4 p-4 rounded bg-[#0c0505] border border-stone-900/60">
+              <p className="text-xs text-stone-400 leading-relaxed">
+                <strong>Legal Action Restrictions:</strong> Official certificate downloading is permanently locked in preview environments. Real validation files are strictly generated on CDPH-audited production servers only.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
     </div>
   );
 }

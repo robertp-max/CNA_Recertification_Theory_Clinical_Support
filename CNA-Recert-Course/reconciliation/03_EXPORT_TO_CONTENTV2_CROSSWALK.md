@@ -1,61 +1,78 @@
-# 03 — Export → ContentV2 Crosswalk
+# 03 - Export to ContentV2 Crosswalk
 
+## Title
+
+03 - Export to ContentV2 Crosswalk
+
+## Status
+
+Status: Incomplete - evidence missing for line-by-line source-to-ContentV2 validation
+
+## Priority
+
+P2 Medium
+
+## Owner
+
+Instructional Designer
+
+## Reviewer
+
+SME / Compliance
+
+## Last checked
+
+2026-06-03
+
+## Source files inspected
+
+- `CNA-Recert-Course\reconciliation\MISSING_DOCUMENTATION_GENERATION_AUDIT.md`
+- `CNA-Recert-Course\reconciliation\00_CI_ION_RECONCILIATION_EXECUTIVE_SUMMARY.md`
+- `CNA-Recert-Course\reconciliation\05_MISSING_DOCUMENTATION_REGISTER.md`
+- `CNA-Recert-Course\reconciliation\13_GO_NO_GO_BLOCKERS_AND_DECISIONS.md`
+- `CNA-Recert-Course\reconciliation\15_SPREADSHEET_URL_DOCUMENTATION_EVIDENCE_REGISTER.md`
+- `CNA-Recert-Course\Content`
+- `CNA-Recert-Course\ContentV2`
+- `standalone-course-mvp\src\data`
+## Export evidence inspected
+
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\manifest.json`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\CI-ION - Course Structures - Contents.xlsx`
+- `CNA-Recert-Course\CI-ION-course-export-CI-ION - Course Structures - Contents-20260601-114428\linked-files`
+
+Recalculated from `manifest.json`: 162 URLs, 39 copied/imported, 36 skipped, 22 errored, 57 duplicate/tab-anchor rows, 7 external-only, 1 owner-decision folder rows, 59 still undocumented.
 ## Purpose
 
-Reconcile the CI-ION export and source documentation against the local ContentV2 package.
+Map inspected export evidence to local ContentV2 artifacts without treating generated runtime content as approval evidence.
 
-## Inputs Reviewed
+## Findings
 
-- `CNA-Recert-Course\ContentV2\` docs `00_…`–`11_…`, `masterprompt.md`.
-- `CNA-Recert-Course\ContentV2\data\courseContentV2.json`, `courseContentV2.schema.json`,
-  `courseContentV2.ts`, `generation_validation_summary.json`.
-- `CNA-Recert-Course\ContentV2\narration\` (`narration_master.csv`,
-  `narration_metadata.json`, `tts_narration_import.csv`).
-- `CNA-Recert-Course\ContentV2\source_copy\` (full copy of the Content packet).
+| Export/source evidence | ContentV2 evidence inspected | Reconciliation status |
+|---|---|---|
+| `manifest.json` and copied CCCCO PDFs | `ContentV2\01_SOURCE_CONTENT_AUDIT.md` | File-level source audit exists; item-level validation still needed |
+| Source packet theory modules M00-M07 | `ContentV2\03_MODULE_LESSON_4CARD_MAP.md` | Lesson map exists; source-to-card validation still needed |
+| Module checks / final assessment docs | `ContentV2\04_MODULE_ASSESSMENT_MAP.md`, `05_FINAL_ASSESSMENT_MAP.md` | Maps exist; final exam item match still internal/admin-only |
+| Course timing model | `ContentV2\10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION.md` | 720-minute model preserved: M00 30, M01 90, M02 120, M03 120, M04 120, M05 120, M06 90, M07 30 |
+| Generated runtime package | `ContentV2\data\courseContentV2.json`, `courseContentV2.ts` | Present; not proof of approval |
+| Narration package | `ContentV2\narration\narration_master.csv`, `tts_narration_import.csv` | Present; TTS/audio production not authorized |
 
-## Presence Confirmation (Reconciliation Question 13 / Phase 2)
+## Gaps
 
-**ContentV2 IS present locally** and is well-populated. It is **not** missing from this clone.
-The export predates ContentV2 and does not contain ContentV2 artifacts.
+- ContentV2 generated files are not proof of SME, compliance, legal, CDPH, certificate, or active-time approval.
+- No inspected evidence proves every ContentV2 lesson line maps to a copied source PDF.
+- Failed/skipped spreadsheet URL sources cannot be used as ContentV2 evidence until imported.
 
-## Evidence Table
+## Required decisions
 
-| ContentV2 artifact | Present | Maps To | Status |
-|---|:--:|---|---|
-| `00_CONTENTV2_EXECUTIVE_SUMMARY.md` | Yes | program overview | Present |
-| `01_SOURCE_CONTENT_AUDIT.md` | Yes | source audit | Present |
-| `02_CONTENTV2_SCHEMA.md` + `courseContentV2.schema.json` | Yes | schema alignment | Present |
-| `03_MODULE_LESSON_4CARD_MAP.md` | Yes | lesson card map | Present |
-| `04_MODULE_ASSESSMENT_MAP.md` | Yes | module checks | Present |
-| `05_FINAL_ASSESSMENT_MAP.md` | Yes | final exam | Present |
-| `06_NARRATION_PRODUCTION_GUIDE.md` | Yes | narration | Present (planning) |
-| `07_MEDIA_PROMPT_PLACEHOLDERS.md` | Yes | media prompts | Present |
-| `08_SME_COMPLIANCE_REVIEW_FLAGS.md` | Yes | SME/compliance | Present |
-| `09_APP_INTEGRATION_NOTES.md` | Yes | app wiring | Present |
-| `10_CONTENT_COVERAGE_AND_TIME_RECONCILIATION.md` | Yes | time model | Present |
-| `11_CONTENTV2_REBUILD_AUDIT.md` | Yes | rebuild audit | Present |
-| `data\courseContentV2.json` | Yes | structured content | Present |
-| `narration\narration_master.csv` | Yes | narration master | Present |
-| `narration\tts_narration_import.csv` | Yes | TTS import | Present (authorization pending) |
-| `xlsx\CNA_RECERT_CONTENTV2_MASTER.xlsx` | Yes | master workbook | Present |
+- SME must decide whether M01 infection control, M03 source/sensitive-content, and M05 skin integrity content are acceptable after source review.
+- Owner/legal/compliance must decide whether TTS/audio is authorized.
 
-## Gaps Found
+## Acceptance criteria
 
-- ContentV2 lessons have not been cross-checked line-by-line against the export source PDFs
-  (CCCCO modules) in this pass — only file-level presence confirmed.
-- The export's spreadsheet (`.xlsx`) URL structure is not reflected in ContentV2.
-- TTS import CSV exists but TTS authorization is unconfirmed (planning-only).
+- Every ContentV2 module and assessment row must cite source files that exist locally or be marked `Needs Document Import`.
+- ContentV2 must remain documented as generated runtime content, not approval evidence.
 
-## Owner / Action Needed
+## Next action
 
-- SME/Instructional Designer: validate ContentV2 lesson content against CCCCO source modules.
-- Program Owner/Legal: authorize (or hold) TTS before narration production.
-
-## Blocker Status
-
-Not a production blocker for documentation. TTS authorization is a downstream gate.
-
-## Next Verification Step
-
-Diff `courseContentV2.json` module ordering/timing against `02_THEORY_SYLLABUS_TABLE.md` and the
-720-minute model in `06_MODULE_TIME_AND_STRUCTURE_RECONCILIATION.md`.
+Create a line-level ContentV2-to-source validation pass for M01, M03, M05, and final assessment mapping after missing Google Docs are re-exported.
