@@ -1,6 +1,6 @@
 # 08_SME_COMPLIANCE_REVIEW_FLAGS — Open Review Flags
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T19:51:44+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T21:27:42+00:00. Do not hand-edit.
 
 
 ## Module-level flags
@@ -11,7 +11,7 @@
 | M01 | Module 1 infection-control content requires SME/source review (no dedicated NATP 10-17 source module). | Compliance review required; no dedicated NATP 10-17 infection-control source in uploaded set. | Source-supported expansion from ContentV1 Module 01 screens. Infection control has no dedicated NATP 10-17 source module; 90-minute allocation is supported by teaching screens but requires SME/source review before production. |
 | M02 | None identified | Compliance/legal/CDPH review required before production. | None identified |
 | M03 | Module 3 placement and sensitive end-of-life/trauma-informed content should receive SME review. | Canonical Module 3 file is incomplete after Screen 3.2.3; source repair required before production. | Draft / Source Repair Required for missing canonical sections after Screen 3.2.3. |
-| M04 | None identified | Compliance review required; no clinical competency or clinical-hour claim. | None identified |
+| M04 | None identified | Compliance review required; keep CNA role within observe, assist as directed, follow the care plan, report, document, and escalate. Online theory does not validate hands-on competency or clinical-hour credit. | None identified |
 | M05 | Skin integrity / pressure injury content requires SME/source review. | Compliance review required; keep CNA role as observe/report, document, follow the care plan, and escalate to the nurse/supervisor; no independent pressure-injury staging or treatment authority. | Skin integrity source review active; CCCCO Module 13 skin source mapped but SME review retained. |
 | M06 | None identified | Compliance review required; PHI/no-upload and CNA scope guardrails apply. | None identified |
 | M07 | None identified | Affidavit/certificate wording requires legal/compliance/CDPH or owner approval; production certificate disabled. | Module 7 timing corrected to 30 minutes. |

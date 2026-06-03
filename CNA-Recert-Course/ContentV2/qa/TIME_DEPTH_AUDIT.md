@@ -16,12 +16,12 @@
 ## Course totals
 - Required theory model (declared): **720 min** (12.0 h)
 - Displayed lesson minutes (sum): **637.0 min**
-- Estimated active-learning: **447.12 min (~7.45 h)**
+- Estimated active-learning: **462.51 min (~7.71 h)**
 - Module-assessment minutes excluded: 95
 - Final-assessment minutes excluded: 25
 - Optional clinical support counts toward 720: False
 - Certificate production enabled: False
-- Failing lessons: **29**
+- Failing lessons: **27**
 
 ## Per-module summary
 
@@ -31,7 +31,7 @@
 | M01 | 90 | 55.52 | 34.48 | 62% | YES | sme-review |
 | M02 | 120 | 57.19 | 62.81 | 48% | YES | draft |
 | M03 | 120 | 46.07 | 73.93 | 38% | YES | source-repair |
-| M04 | 120 | 58.28 | 61.72 | 49% | YES | draft |
+| M04 | 120 | 73.67 | 46.33 | 61% | YES | draft |
 | M05 | 120 | 78.49 | 41.51 | 65% | YES | sme-review |
 | M06 | 90 | 51.82 | 38.18 | 58% | YES | draft |
 | M07 | 30 | 64.41 | 0.0 | 215% | no | draft |
@@ -119,25 +119,21 @@
     - source gap: No canonical ContentV1 source (truncated/contaminated after Screen 3.2.3); Source Repair Required.
 
 ### M04 - Mobility, Falls, and Workplace Safety
-- **Module flags:** active 58.28min < 75% of declared 120min
+- **Module flags:** active 73.67min < 75% of declared 120min
 
 | Lesson | Disp | Instr | Cards | Dlv | Chl | Dbf | Words | Narr | Read | Intr | Chl-m | Rem-m | Active | Gap | Fail | Expand? |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|:--:|:--:|
-| L01 | 20.0 | 20.0 | 6 | 3 | 1 | 1 | 610 | 3.97 | 4.69 | 1.5 | 1.89 | 4.0 | 10.36 | 9.64 | Y | N |
-| L02 | 25.0 | 25.0 | 8 | 5 | 1 | 1 | 821 | 5.5 | 6.32 | 2.5 | 1.93 | 4.0 | 13.13 | 11.87 | Y | N |
-| L03 | 20.0 | 20.0 | 6 | 3 | 1 | 1 | 614 | 4.03 | 4.72 | 1.5 | 1.82 | 4.0 | 10.54 | 9.46 | Y | N |
-| L04 | 20.0 | 20.0 | 7 | 4 | 1 | 1 | 687 | 4.55 | 5.28 | 2.0 | 1.99 | 4.0 | 11.5 | 8.5 | Y | N |
-| L05 | 20.0 | 20.0 | 8 | 5 | 1 | 1 | 773 | 5.07 | 5.95 | 2.5 | 1.87 | 4.0 | 12.75 | 7.25 | Y | N |
+| L01 | 20.0 | 20.0 | 9 | 6 | 1 | 1 | 850 | 5.62 | 6.54 | 3.0 | 1.89 | 4.0 | 13.71 | 6.29 | Y | N |
+| L02 | 25.0 | 25.0 | 10 | 7 | 1 | 1 | 936 | 6.25 | 7.2 | 3.5 | 1.93 | 4.0 | 14.91 | 10.09 | Y | N |
+| L03 | 20.0 | 20.0 | 11 | 8 | 1 | 1 | 997 | 6.7 | 7.67 | 4.0 | 1.82 | 4.0 | 15.98 | 4.02 |  | N |
+| L04 | 20.0 | 20.0 | 9 | 6 | 1 | 1 | 876 | 5.83 | 6.74 | 3.0 | 1.99 | 4.0 | 13.95 | 6.05 | Y | N |
+| L05 | 20.0 | 20.0 | 10 | 7 | 1 | 1 | 962 | 6.37 | 7.4 | 3.5 | 1.87 | 4.0 | 15.11 | 4.89 |  | N |
 
-  - L01 flags: active 10.36min < 70% of displayed 20.0min; only 3 delivery cards for 20.0min
+  - L01 flags: active 13.71min < 70% of displayed 20.0min
     - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L02 flags: active 13.13min < 70% of displayed 25.0min; only 5 delivery cards for 25.0min
+  - L02 flags: active 14.91min < 70% of displayed 25.0min
     - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L03 flags: active 10.54min < 70% of displayed 20.0min; only 3 delivery cards for 20.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L04 flags: active 11.5min < 70% of displayed 20.0min; only 4 delivery cards for 20.0min
-    - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
-  - L05 flags: active 12.75min < 70% of displayed 20.0min; only 5 delivery cards for 20.0min
+  - L04 flags: active 13.95min < 70% of displayed 20.0min
     - source gap: ContentV1 teaching screens for this lesson are already fully transformed; remaining gap requires NEW SME-authored source (not available) - not padded.
 
 ### M05 - Nutrition, Skin Integrity, Vital Signs, and Observation

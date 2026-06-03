@@ -79,9 +79,9 @@ CROSSWALK = {
     # ---- CCCCO M12 Emergency Procedures -> M04 L05 ----
     (12, 1): (["M04/L05"], "Covered", "Theory delivery (key terms)", "Emergency terminology in M04/L05."),
     (12, 2): (["M04/L05"], "Assessed", "Theory delivery + challenge/debrief", "Signs/symptoms of distress and NA prevent/respond role taught and exercised."),
-    (12, 3): (["M04/L05"], "Partial", "Theory delivery", "Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12)."),
-    (12, 4): (["M04/L05"], "Deferred", "Theory delivery + deferred clinical", "Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill."),
-    (12, 5): (["M04/L05"], "Covered", "Theory delivery", "Common LTC emergency codes. (CCCCO notes may be taught with Module 4: Safe Environment.)"),
+    (12, 3): (["M04/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M12: general emergency response sequence, advance-directive boundaries, and CPR/AED training limits."),
+    (12, 4): (["M04/L05"], "Deferred", "Theory delivery + deferred clinical", "Choking causes/signs expanded from CCCCO M12; abdominal-thrust performance remains a hands-on clinical skill."),
+    (12, 5): (["M04/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M12: common LTC emergency codes, facility variation, and hearing/vision considerations."),
 
     # ---- CCCCO M13 Long Term Care Resident -> M03 / M04 / M05 L03 / M02 ----
     (13, 1): (["M03/L01"], "Covered", "Theory delivery (key terms)", "LTC-resident terminology in M03/L01."),
@@ -90,22 +90,22 @@ CROSSWALK = {
     (13, 4): (["M03/L05"], "Source Repair", "Placeholder pending SME", "Special needs (developmental/mental disorders: ID, CP, epilepsy, Parkinson's, mental illness) map to M03/L05, currently a Source Repair placeholder."),
     (13, 5): (["M03/L01", "M03/L02"], "Covered", "Theory delivery", "Alzheimer's/related dementias are the core of M03/L01-L02 (authored)."),
     (13, 6): (["M05/L03"], "Out of Scope", "Disposition", "Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise."),
-    (13, 7): (["M04/L01", "M04/L03", "M05/L03"], "Partial", "Theory delivery", "M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion."),
-    (13, 8): (["M03/L01", "M04/L03"], "Partial", "Theory delivery", "Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"),
+    (13, 7): (["M04/L01", "M04/L02", "M04/L03", "M04/L04", "M05/L03"], "Partial", "Theory delivery", "M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from CCCCO M13; broader all-body-systems/A&P coverage remains partial."),
+    (13, 8): (["M03/L01", "M04/L01", "M04/L04"], "Partial", "Theory delivery", "M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from CCCCO M13; comprehensive aging-changes catalog remains partial. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"),
 
     # ---- CCCCO M14 Rehabilitative Nursing -> M04 L03 (restorative) ----
     (14, 1): (["M04/L03"], "Covered", "Theory delivery (key terms)", "Restorative-care terminology in M04/L03."),
     (14, 2): (["M04/L03"], "Covered", "Theory delivery", "Restorative care promotes independence/potential."),
     (14, 3): (["M04/L03"], "Covered", "Theory delivery", "Goals of restorative care."),
-    (14, 4): (["M04/L03", "M06/L05"], "Partial", "Theory delivery", "Rehabilitation team and NA role; interdisciplinary-team depth limited (also M06/L05 delegation)."),
+    (14, 4): (["M04/L03", "M06/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M14: rehabilitation team members, team purpose, and CNA role/responsibilities."),
     (14, 5): (["M04/L03"], "Covered", "Theory delivery", "NA responsibilities promoting self-care."),
     (14, 6): (["M04/L03", "M05/L01"], "Covered", "Theory delivery", "Activities of Daily Living (ADLs)."),
-    (14, 7): (["M04/L02", "M04/L03"], "Partial", "Theory delivery", "Comfort/adaptive devices introduced; device catalog/purpose breadth limited."),
-    (14, 8): (["M04/L03", "M05/L03"], "Covered", "Theory delivery", "Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13."),
-    (14, 9): (["M04/L03"], "Deferred", "Theory delivery + deferred clinical", "ROM exercises taught; performing ROM is a hands-on clinical skill."),
-    (14, 10): (["M04/L02"], "Partial", "Theory delivery", "Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14)."),
-    (14, 11): (["M03/L01", "M06/L05"], "Partial", "Theory delivery", "Self-esteem and family involvement in care; psychosocial depth thin."),
-    (14, 12): (["M06/L02", "M06/L05"], "Covered", "Theory delivery", "Documentation and NA role in the care-plan meeting."),
+    (14, 7): (["M04/L02", "M04/L03"], "Covered", "Theory delivery", "Expanded from CCCCO M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries."),
+    (14, 8): (["M04/L01", "M04/L03", "M05/L03"], "Covered", "Theory delivery", "Expanded from CCCCO M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from CCCCO M13."),
+    (14, 9): (["M04/L03"], "Deferred", "Theory delivery + deferred clinical", "ROM purpose, types, frequency, and safety rules expanded from CCCCO M14; performing ROM remains a hands-on clinical skill."),
+    (14, 10): (["M04/L02", "M04/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation."),
+    (14, 11): (["M04/L03", "M03/L01", "M06/L05"], "Partial", "Theory delivery", "M04 expands self-esteem, family involvement, praise, dignity, and positive restorative approach; broader psychosocial/family-depth remains shared with M03/M06."),
+    (14, 12): (["M04/L03", "M06/L02", "M06/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations."),
 
     # ---- CCCCO M15 Observation and Charting -> M06 / M05 L05 ----
     (15, 1): (["M06/L01"], "Covered", "Theory delivery (key terms)", "Observation/charting terminology in M06/L01."),

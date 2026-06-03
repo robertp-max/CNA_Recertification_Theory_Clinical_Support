@@ -7,9 +7,9 @@
   ],
   "total_objectives": 72,
   "status_counts": {
-    "Covered": 35,
+    "Covered": 39,
     "Assessed": 8,
-    "Partial": 10,
+    "Partial": 6,
     "Deferred": 8,
     "Source Repair": 7,
     "Out of Scope": 1,
@@ -847,13 +847,13 @@
           "ref": "M04/L05",
           "title": "Emergency Procedures - Fire, Choking, Disaster",
           "app_location_prefix": "module.m04.lesson.l05",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery (key terms)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -877,13 +877,13 @@
           "ref": "M04/L05",
           "title": "Emergency Procedures - Fire, Choking, Disaster",
           "app_location_prefix": "module.m04.lesson.l05",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Assessed",
       "evidence_type": "Theory delivery + challenge/debrief",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -907,13 +907,13 @@
           "ref": "M04/L05",
           "title": "Emergency Procedures - Fire, Choking, Disaster",
           "app_location_prefix": "module.m04.lesson.l05",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -922,7 +922,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12)."
+      "note": "Expanded from CCCCO M12: general emergency response sequence, advance-directive boundaries, and CPR/AED training limits."
     },
     {
       "cccco_module": 12,
@@ -937,13 +937,13 @@
           "ref": "M04/L05",
           "title": "Emergency Procedures - Fire, Choking, Disaster",
           "app_location_prefix": "module.m04.lesson.l05",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
       "evidence_type": "Theory delivery + deferred clinical",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -952,7 +952,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill."
+      "note": "Choking causes/signs expanded from CCCCO M12; abdominal-thrust performance remains a hands-on clinical skill."
     },
     {
       "cccco_module": 12,
@@ -967,13 +967,13 @@
           "ref": "M04/L05",
           "title": "Emergency Procedures - Fire, Choking, Disaster",
           "app_location_prefix": "module.m04.lesson.l05",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -982,7 +982,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Common LTC emergency codes. (CCCCO notes may be taught with Module 4: Safe Environment.)"
+      "note": "Expanded from CCCCO M12: common LTC emergency codes, facility variation, and hearing/vision considerations."
     },
     {
       "cccco_module": 13,
@@ -1197,7 +1197,9 @@
       "objective": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
       "content_v2_refs": [
         "M04/L01",
+        "M04/L02",
         "M04/L03",
+        "M04/L04",
         "M05/L03"
       ],
       "ref_details": [
@@ -1209,9 +1211,23 @@
           "placeholder": false
         },
         {
+          "ref": "M04/L02",
+          "title": "Safe Transfers and Ambulation",
+          "app_location_prefix": "module.m04.lesson.l02",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": false,
+          "placeholder": false
+        },
+        {
+          "ref": "M04/L04",
+          "title": "Fall Prevention",
+          "app_location_prefix": "module.m04.lesson.l04",
           "under_depth": true,
           "placeholder": false
         },
@@ -1236,7 +1252,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion."
+      "note": "M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from CCCCO M13; broader all-body-systems/A&P coverage remains partial."
     },
     {
       "cccco_module": 13,
@@ -1245,7 +1261,8 @@
       "objective": "Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/ICF providers need to complete A1 Special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness (2 hours); A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours); and B Introduction to anatomy and physiology (B-F minimum 1 hour). **Non-SNF/ICF providers may complete A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours), or two (2) hours of training from another module in order to meet the sixty (60) hours minimum theory training requirement and B Introduction to anatomy and physiology (B-F minimum 1 hour).",
       "content_v2_refs": [
         "M03/L01",
-        "M04/L03"
+        "M04/L01",
+        "M04/L04"
       ],
       "ref_details": [
         {
@@ -1256,9 +1273,16 @@
           "placeholder": false
         },
         {
-          "ref": "M04/L03",
-          "title": "Range of Motion and Restorative Care",
-          "app_location_prefix": "module.m04.lesson.l03",
+          "ref": "M04/L01",
+          "title": "Body Mechanics and Injury Prevention",
+          "app_location_prefix": "module.m04.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
+          "ref": "M04/L04",
+          "title": "Fall Prevention",
+          "app_location_prefix": "module.m04.lesson.l04",
           "under_depth": true,
           "placeholder": false
         }
@@ -1276,7 +1300,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"
+      "note": "M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from CCCCO M13; comprehensive aging-changes catalog remains partial. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"
     },
     {
       "cccco_module": 14,
@@ -1291,13 +1315,13 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery (key terms)",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -1321,13 +1345,13 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -1351,13 +1375,13 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -1382,7 +1406,7 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         },
         {
@@ -1393,9 +1417,9 @@
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check",
@@ -1406,7 +1430,7 @@
         "module.m06.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Rehabilitation team and NA role; interdisciplinary-team depth limited (also M06/L05 delegation)."
+      "note": "Expanded from CCCCO M14: rehabilitation team members, team purpose, and CNA role/responsibilities."
     },
     {
       "cccco_module": 14,
@@ -1421,13 +1445,13 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -1452,7 +1476,7 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         },
         {
@@ -1465,7 +1489,7 @@
       ],
       "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check",
@@ -1499,11 +1523,11 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
       "depth_status": "under-depth",
       "source_repair_placeholder": false,
@@ -1514,7 +1538,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Comfort/adaptive devices introduced; device catalog/purpose breadth limited."
+      "note": "Expanded from CCCCO M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries."
     },
     {
       "cccco_module": 14,
@@ -1522,15 +1546,23 @@
       "objective_n": 8,
       "objective": "Identify steps to prevent complications from inactivity",
       "content_v2_refs": [
+        "M04/L01",
         "M04/L03",
         "M05/L03"
       ],
       "ref_details": [
         {
+          "ref": "M04/L01",
+          "title": "Body Mechanics and Injury Prevention",
+          "app_location_prefix": "module.m04.lesson.l01",
+          "under_depth": true,
+          "placeholder": false
+        },
+        {
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         },
         {
@@ -1554,7 +1586,7 @@
         "module.m05.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13."
+      "note": "Expanded from CCCCO M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from CCCCO M13."
     },
     {
       "cccco_module": 14,
@@ -1569,13 +1601,13 @@
           "ref": "M04/L03",
           "title": "Range of Motion and Restorative Care",
           "app_location_prefix": "module.m04.lesson.l03",
-          "under_depth": true,
+          "under_depth": false,
           "placeholder": false
         }
       ],
       "coverage_status": "Deferred",
       "evidence_type": "Theory delivery + deferred clinical",
-      "depth_status": "under-depth",
+      "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Mobility, Falls, and Workplace Safety Knowledge Check"
@@ -1584,7 +1616,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "ROM exercises taught; performing ROM is a hands-on clinical skill."
+      "note": "ROM purpose, types, frequency, and safety rules expanded from CCCCO M14; performing ROM remains a hands-on clinical skill."
     },
     {
       "cccco_module": 14,
@@ -1592,7 +1624,8 @@
       "objective_n": 10,
       "objective": "Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment",
       "content_v2_refs": [
-        "M04/L02"
+        "M04/L02",
+        "M04/L04"
       ],
       "ref_details": [
         {
@@ -1601,9 +1634,16 @@
           "app_location_prefix": "module.m04.lesson.l02",
           "under_depth": true,
           "placeholder": false
+        },
+        {
+          "ref": "M04/L04",
+          "title": "Fall Prevention",
+          "app_location_prefix": "module.m04.lesson.l04",
+          "under_depth": true,
+          "placeholder": false
         }
       ],
-      "coverage_status": "Partial",
+      "coverage_status": "Covered",
       "evidence_type": "Theory delivery",
       "depth_status": "under-depth",
       "source_repair_placeholder": false,
@@ -1614,7 +1654,7 @@
         "module.m04.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14)."
+      "note": "Expanded from CCCCO M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation."
     },
     {
       "cccco_module": 14,
@@ -1622,10 +1662,18 @@
       "objective_n": 11,
       "objective": "Discuss relationship between patient’s/resident’s self-esteem and family involvement in care",
       "content_v2_refs": [
+        "M04/L03",
         "M03/L01",
         "M06/L05"
       ],
       "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": false,
+          "placeholder": false
+        },
         {
           "ref": "M03/L01",
           "title": "Understanding Dementia and Cognitive Conditions",
@@ -1647,14 +1695,16 @@
       "source_repair_placeholder": false,
       "assessed_module_checks": [
         "Dementia, Communication, and Respectful Care Knowledge Check",
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
         "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m03.assessment.a00_splash",
+        "module.m04.assessment.a00_splash",
         "module.m06.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Self-esteem and family involvement in care; psychosocial depth thin."
+      "note": "M04 expands self-esteem, family involvement, praise, dignity, and positive restorative approach; broader psychosocial/family-depth remains shared with M03/M06."
     },
     {
       "cccco_module": 14,
@@ -1662,10 +1712,18 @@
       "objective_n": 12,
       "objective": "Discuss the process of documentation and the Nurse Assistant role in care plan meeting",
       "content_v2_refs": [
+        "M04/L03",
         "M06/L02",
         "M06/L05"
       ],
       "ref_details": [
+        {
+          "ref": "M04/L03",
+          "title": "Range of Motion and Restorative Care",
+          "app_location_prefix": "module.m04.lesson.l03",
+          "under_depth": false,
+          "placeholder": false
+        },
         {
           "ref": "M06/L02",
           "title": "Documentation Standards",
@@ -1686,13 +1744,15 @@
       "depth_status": "under-depth",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
+        "Mobility, Falls, and Workplace Safety Knowledge Check",
         "Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check"
       ],
       "assessed_module_locations": [
+        "module.m04.assessment.a00_splash",
         "module.m06.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Documentation and NA role in the care-plan meeting."
+      "note": "Expanded from CCCCO M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations."
     },
     {
       "cccco_module": 15,

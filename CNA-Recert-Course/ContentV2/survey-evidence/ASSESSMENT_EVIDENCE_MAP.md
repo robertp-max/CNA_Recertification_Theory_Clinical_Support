@@ -76,8 +76,8 @@
 | M14.8 | Identify steps to prevent complications from inactivity | Mobility, Falls, and Workplace Safety Knowledge Check; Nutrition, Skin Integrity, Vital Signs, and Observation Knowledge Check | Y |
 | M14.9 | Describe range-of-motion exercises (ROM) | Mobility, Falls, and Workplace Safety Knowledge Check | Y |
 | M14.10 | Identify procedures and devices used to promote mobility and ambulatio | Mobility, Falls, and Workplace Safety Knowledge Check | Y |
-| M14.11 | Discuss relationship between patient’s/resident’s self-esteem and fami | Dementia, Communication, and Respectful Care Knowledge Check; Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
-| M14.12 | Discuss the process of documentation and the Nurse Assistant role in c | Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
+| M14.11 | Discuss relationship between patient’s/resident’s self-esteem and fami | Dementia, Communication, and Respectful Care Knowledge Check; Mobility, Falls, and Workplace Safety Knowledge Check; Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
+| M14.12 | Discuss the process of documentation and the Nurse Assistant role in c | Mobility, Falls, and Workplace Safety Knowledge Check; Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
 | M15.1 | Define key terminology | Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
 | M15.2 | Identify word elements used in medical terms | Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |
 | M15.3 | Identify medical terminology and abbreviations commonly used in medica | Documentation, Reporting, PHI Avoidance, and Scope Knowledge Check | Y |

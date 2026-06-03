@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-03T19:51:44+00:00",
+  "generated_at": "2026-06-03T21:27:42+00:00",
   "source_folder": "C:/AI/Git/CNA_Recertification_Theory_Clinical_Support/CNA-Recert-Course/Content",
   "generator": "CNA-Recert-Course/ContentV2/tools/rebuild_contentv2_from_json.py",
-  "total_clips": 277,
-  "total_estimated_seconds": 10085,
-  "total_estimated_minutes": 168.08,
+  "total_clips": 291,
+  "total_estimated_seconds": 10544,
+  "total_estimated_minutes": 175.73,
   "clips_over_target": 0,
-  "unique_app_locations": 384,
+  "unique_app_locations": 398,
   "modules_covered": [
     "M00",
     "M01",

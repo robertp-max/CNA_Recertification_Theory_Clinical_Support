@@ -27,8 +27,8 @@
 | M10.13 | Identify parts of the blood pressure equipment | M05/L04 | Identifying/handling BP equipment parts is a hands-on clinical competency. |
 | M10.14 | Discuss the procedure for taking a blood pressure reading | M05/L04 | Performing a BP reading is a graded clinical skill; theory introduces the procedure. |
 | M11.8 | Describe proper techniques for feeding patients/residents | M05/L02 | Feeding theory expanded from CCCCO M11 (dignity, pace, dysphagia signs, ordered consistency); hands-on feeding performance remains clinical. |
-| M12.4 | List the causes and signs of choking and discuss the use of abdominal thrusts fo | M04/L05 | Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill. |
-| M14.9 | Describe range-of-motion exercises (ROM) | M04/L03 | ROM exercises taught; performing ROM is a hands-on clinical skill. |
+| M12.4 | List the causes and signs of choking and discuss the use of abdominal thrusts fo | M04/L05 | Choking causes/signs expanded from CCCCO M12; abdominal-thrust performance remains a hands-on clinical skill. |
+| M14.9 | Describe range-of-motion exercises (ROM) | M04/L03 | ROM purpose, types, frequency, and safety rules expanded from CCCCO M14; performing ROM remains a hands-on clinical skill. |
 | M15.7 | Explain how to accurately complete ADL assessment for MDS | M06/L02 | ADL assessment for the MDS is facility/EHR-specific; theory explains purpose, completion is on-the-job. SME to confirm. |
 | M16.8 | Describe procedures and responsibilities for postmortem care | M03/L04 | Postmortem care is a hands-on clinical procedure; M03/L04 theory placeholder pending SME. |
 
@@ -46,35 +46,23 @@
 | M13.3 | Describe common community resources to meet the needs of the elderly | M03/L01 | Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope). |
 | M15.2 | Identify word elements used in medical terms | M06/L02 | Medical word-elements (prefix/root/suffix) not emphasized; SME to confirm necessity for recert theory. |
 
-## Partial / under-depth (expand from approved source)  (46)
+## Partial / under-depth (expand from approved source)  (34)
 
 | CCCCO obj | Objective | ContentV2 | Disposition note |
 |---|---|---|---|
 | M10.16 | Record vital signs on chart, graph, and Nursing Assistant notes | M05/L05; M06/L02 | Recording vital signs on chart/graph/notes; documentation taught and assessed in M06. |
 | M11.9 | Discuss cultural and religious influences on dietary practices | M05/L01; M03/L03 | Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder. |
-| M12.1 | Define key terminology. | M04/L05 | Emergency terminology in M04/L05. |
-| M12.2 | Identify common signs and symptoms of conditions associated with patient/residen | M04/L05 | Signs/symptoms of distress and NA prevent/respond role taught and exercised. |
-| M12.3 | Describe the immediate interventions in a medical emergency. | M04/L05 | Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12). |
-| M12.4 | List the causes and signs of choking and discuss the use of abdominal thrusts fo | M04/L05 | Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill. |
-| M12.5 | Describe common emergency codes used in long-term care facilities. This module m | M04/L05 | Common LTC emergency codes. (CCCCO notes may be taught with Module 4: Safe Environment.) |
 | M13.1 | Define key terminology | M03/L01 | LTC-resident terminology in M03/L01. |
 | M13.2 | Describe common basic human needs and interventions for the elderly patient/resi | M03/L01; M03/L03; M02/L01 | Basic human needs (environmental/psychological/social/recreational/spiritual); recreational/spiritual depth thin and partly in M03/L03 placeholder. |
 | M13.3 | Describe common community resources to meet the needs of the elderly | M03/L01 | Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope). |
 | M13.5 | Describe the special needs of persons with Alzheimer’s Disease and other related | M03/L01; M03/L02 | Alzheimer's/related dementias are the core of M03/L01-L02 (authored). |
-| M13.7 | List the body systems, including basic anatomy and physiology, common diseases o | M04/L01; M04/L03; M05/L03 | M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion. |
-| M13.8 | Describe changes in body systems associated with aging Refer to CDPH 276C form:  | M03/L01; M04/L03 | Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.) |
-| M14.1 | Define key terminology | M04/L03 | Restorative-care terminology in M04/L03. |
-| M14.2 | Discuss rehabilitation (restorative care) and how it promotes independence and p | M04/L03 | Restorative care promotes independence/potential. |
-| M14.3 | State goals of restorative care that promote independence and patient/resident p | M04/L03 | Goals of restorative care. |
-| M14.4 | Describe the rehabilitation team, state its purpose, and discuss the role of the | M04/L03; M06/L05 | Rehabilitation team and NA role; interdisciplinary-team depth limited (also M06/L05 delegation). |
-| M14.5 | List the responsibilities of the Nurse Assistant in promoting patient/resident s | M04/L03 | NA responsibilities promoting self-care. |
-| M14.6 | List activities that make up Activities of Daily Living (ADLs) | M04/L03; M05/L01 | Activities of Daily Living (ADLs). |
-| M14.7 | List common comfort and adaptive devices and explain the purposes of each | M04/L02; M04/L03 | Comfort/adaptive devices introduced; device catalog/purpose breadth limited. |
-| M14.8 | Identify steps to prevent complications from inactivity | M04/L03; M05/L03 | Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13. |
-| M14.9 | Describe range-of-motion exercises (ROM) | M04/L03 | ROM exercises taught; performing ROM is a hands-on clinical skill. |
-| M14.10 | Identify procedures and devices used to promote mobility and ambulation for pati | M04/L02 | Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14). |
-| M14.11 | Discuss relationship between patient’s/resident’s self-esteem and family involve | M03/L01; M06/L05 | Self-esteem and family involvement in care; psychosocial depth thin. |
-| M14.12 | Discuss the process of documentation and the Nurse Assistant role in care plan m | M06/L02; M06/L05 | Documentation and NA role in the care-plan meeting. |
+| M13.7 | List the body systems, including basic anatomy and physiology, common diseases o | M04/L01; M04/L02; M04/L03; M04/L04; M05/L03 | M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from CCCCO M13; broader all-body-systems/A&P coverage remains partial. |
+| M13.8 | Describe changes in body systems associated with aging Refer to CDPH 276C form:  | M03/L01; M04/L01; M04/L04 | M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from CCCCO M13; comprehensive aging-changes catalog remains partial. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.) |
+| M14.7 | List common comfort and adaptive devices and explain the purposes of each | M04/L02; M04/L03 | Expanded from CCCCO M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries. |
+| M14.8 | Identify steps to prevent complications from inactivity | M04/L01; M04/L03; M05/L03 | Expanded from CCCCO M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from CCCCO M13. |
+| M14.10 | Identify procedures and devices used to promote mobility and ambulation for pati | M04/L02; M04/L04 | Expanded from CCCCO M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation. |
+| M14.11 | Discuss relationship between patient’s/resident’s self-esteem and family involve | M04/L03; M03/L01; M06/L05 | M04 expands self-esteem, family involvement, praise, dignity, and positive restorative approach; broader psychosocial/family-depth remains shared with M03/M06. |
+| M14.12 | Discuss the process of documentation and the Nurse Assistant role in care plan m | M04/L03; M06/L02; M06/L05 | Expanded from CCCCO M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations. |
 | M15.1 | Define key terminology | M06/L01 | Observation/charting terminology in M06/L01. |
 | M15.2 | Identify word elements used in medical terms | M06/L02 | Medical word-elements (prefix/root/suffix) not emphasized; SME to confirm necessity for recert theory. |
 | M15.3 | Identify medical terminology and abbreviations commonly used in medical faciliti | M06/L02 | Common medical terms/abbreviations introduced via documentation standards; standardized-abbreviation list thin. |

@@ -1,6 +1,6 @@
 # 07_MEDIA_PROMPT_PLACEHOLDERS — Per-Card Media Placeholders
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T19:51:44+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T21:27:42+00:00. Do not hand-edit.
 
 
 No media assets are generated for the MVP. Every card carries a safe 16:9 placeholder with alt text and a PHI-safety note. No real charts, facility names, patient identifiers, gore, or unsafe actions.
@@ -122,38 +122,52 @@ No media assets are generated for the MVP. Every card carries a safe 16:9 placeh
 | module.m03.lesson.l05.card.c03_challenge | Trauma-Informed Care and De-escalation Challenge | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c03_challenge.png |
 | module.m03.lesson.l05.card.c04a_debrief | Trauma-Informed Care and De-escalation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m03.lesson.l05.card.c04a_debrief.png |
 | module.m04.lesson.l01.card.c01_overview | Body Mechanics and Injury Prevention | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c01_overview.png |
-| module.m04.lesson.l01.card.c02a_delivery | What Are Body Mechanics? | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02a_delivery.png |
-| module.m04.lesson.l01.card.c02b_delivery | Common Workplace Injuries for CNAs | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02b_delivery.png |
-| module.m04.lesson.l01.card.c02c_delivery | Common Workplace Injuries for CNAs | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02c_delivery.png |
+| module.m04.lesson.l01.card.c02a_delivery | Why Alignment Protects the Body | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02a_delivery.png |
+| module.m04.lesson.l01.card.c02b_delivery | Aging, Strength, and Injury Risk | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02b_delivery.png |
+| module.m04.lesson.l01.card.c02c_delivery | Complications of Inactivity | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02c_delivery.png |
+| module.m04.lesson.l01.card.c02d_delivery | Preventing Inactivity Complications | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02d_delivery.png |
+| module.m04.lesson.l01.card.c02e_delivery | Pain, Arthritis, and Fracture Clues | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02e_delivery.png |
+| module.m04.lesson.l01.card.c02f_delivery | CNA Workplace Safety Boundaries | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c02f_delivery.png |
 | module.m04.lesson.l01.card.c03_challenge | Body Mechanics and Injury Prevention Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c03_challenge.png |
 | module.m04.lesson.l01.card.c04a_debrief | Body Mechanics and Injury Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l01.card.c04a_debrief.png |
 | module.m04.lesson.l02.card.c01_overview | Safe Transfers and Ambulation | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c01_overview.png |
-| module.m04.lesson.l02.card.c02a_delivery | Transfer Principles | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02a_delivery.png |
-| module.m04.lesson.l02.card.c02b_delivery | Common Transfer Types | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02b_delivery.png |
-| module.m04.lesson.l02.card.c02c_delivery | Common Transfer Types | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02c_delivery.png |
-| module.m04.lesson.l02.card.c02d_delivery | Ambulation Assistance | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02d_delivery.png |
-| module.m04.lesson.l02.card.c02e_delivery | Scenario: Transfer Safety Decision | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02e_delivery.png |
+| module.m04.lesson.l02.card.c02a_delivery | Readiness for Mobility Assistance | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02a_delivery.png |
+| module.m04.lesson.l02.card.c02b_delivery | Transfer Safety and Help Requirements | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02b_delivery.png |
+| module.m04.lesson.l02.card.c02c_delivery | Gait Belt and Ambulation Checks | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02c_delivery.png |
+| module.m04.lesson.l02.card.c02d_delivery | Assistive Devices for Mobility | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02d_delivery.png |
+| module.m04.lesson.l02.card.c02e_delivery | Visual Impairment and Environment Support | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02e_delivery.png |
+| module.m04.lesson.l02.card.c02f_delivery | Osteoporosis and Fracture Precautions | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02f_delivery.png |
+| module.m04.lesson.l02.card.c02g_delivery | When Ambulation Must Stop | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c02g_delivery.png |
 | module.m04.lesson.l02.card.c03_challenge | Safe Transfers and Ambulation Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c03_challenge.png |
 | module.m04.lesson.l02.card.c04a_debrief | Safe Transfers and Ambulation challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l02.card.c04a_debrief.png |
 | module.m04.lesson.l03.card.c01_overview | Range of Motion and Restorative Care | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c01_overview.png |
-| module.m04.lesson.l03.card.c02a_delivery | Range of Motion (ROM) | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02a_delivery.png |
-| module.m04.lesson.l03.card.c02b_delivery | Restorative Care Programs | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02b_delivery.png |
-| module.m04.lesson.l03.card.c02c_delivery | Restorative Care Programs | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02c_delivery.png |
+| module.m04.lesson.l03.card.c02a_delivery | Restorative Care Promotes Potential | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02a_delivery.png |
+| module.m04.lesson.l03.card.c02b_delivery | The Rehabilitation Team and CNA Role | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02b_delivery.png |
+| module.m04.lesson.l03.card.c02c_delivery | Promoting Self-Care and ADLs | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02c_delivery.png |
+| module.m04.lesson.l03.card.c02d_delivery | Comfort and Adaptive Devices | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02d_delivery.png |
+| module.m04.lesson.l03.card.c02e_delivery | ROM Purpose and Types | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02e_delivery.png |
+| module.m04.lesson.l03.card.c02f_delivery | ROM Safety Rules | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02f_delivery.png |
+| module.m04.lesson.l03.card.c02g_delivery | Care Plan Meetings and Restorative Documentation | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02g_delivery.png |
+| module.m04.lesson.l03.card.c02h_delivery | Self-Esteem, Family, and Progress | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c02h_delivery.png |
 | module.m04.lesson.l03.card.c03_challenge | Range of Motion and Restorative Care Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c03_challenge.png |
 | module.m04.lesson.l03.card.c04a_debrief | Range of Motion and Restorative Care challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l03.card.c04a_debrief.png |
 | module.m04.lesson.l04.card.c01_overview | Fall Prevention | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c01_overview.png |
-| module.m04.lesson.l04.card.c02a_delivery | Fall Risk Factors | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02a_delivery.png |
-| module.m04.lesson.l04.card.c02b_delivery | Fall Prevention Strategies | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02b_delivery.png |
-| module.m04.lesson.l04.card.c02c_delivery | What to Do When a Resident Falls | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02c_delivery.png |
-| module.m04.lesson.l04.card.c02d_delivery | What to Do When a Resident Falls | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02d_delivery.png |
+| module.m04.lesson.l04.card.c02a_delivery | Why Falls Increase With Aging | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02a_delivery.png |
+| module.m04.lesson.l04.card.c02b_delivery | Environment Controls That Prevent Falls | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02b_delivery.png |
+| module.m04.lesson.l04.card.c02c_delivery | Position Changes and Fainting Risk | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02c_delivery.png |
+| module.m04.lesson.l04.card.c02d_delivery | Falls, Osteoporosis, and Fractured Hip Warning Signs | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02d_delivery.png |
+| module.m04.lesson.l04.card.c02e_delivery | Assistive Devices Are Part of the Fall Plan | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02e_delivery.png |
+| module.m04.lesson.l04.card.c02f_delivery | Reporting a Near-Fall | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c02f_delivery.png |
 | module.m04.lesson.l04.card.c03_challenge | Fall Prevention Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c03_challenge.png |
 | module.m04.lesson.l04.card.c04a_debrief | Fall Prevention challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l04.card.c04a_debrief.png |
 | module.m04.lesson.l05.card.c01_overview | Emergency Procedures - Fire, Choking, Disaster | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c01_overview.png |
-| module.m04.lesson.l05.card.c02a_delivery | Fire Safety: RACE and PASS | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02a_delivery.png |
-| module.m04.lesson.l05.card.c02b_delivery | Fire Safety: RACE and PASS | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02b_delivery.png |
-| module.m04.lesson.l05.card.c02c_delivery | Choking Response | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02c_delivery.png |
-| module.m04.lesson.l05.card.c02d_delivery | Disaster Preparedness | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02d_delivery.png |
-| module.m04.lesson.l05.card.c02e_delivery | Disaster Preparedness | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02e_delivery.png |
+| module.m04.lesson.l05.card.c02a_delivery | Recognizing Distress Early | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02a_delivery.png |
+| module.m04.lesson.l05.card.c02b_delivery | General Emergency Response Sequence | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02b_delivery.png |
+| module.m04.lesson.l05.card.c02c_delivery | Advance Directives and Code Status Boundaries | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02c_delivery.png |
+| module.m04.lesson.l05.card.c02d_delivery | Choking: Causes, Signs, and Deferred Skill | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02d_delivery.png |
+| module.m04.lesson.l05.card.c02e_delivery | Seizure Safety | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02e_delivery.png |
+| module.m04.lesson.l05.card.c02f_delivery | Bleeding, Shock, and Respiratory Distress | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02f_delivery.png |
+| module.m04.lesson.l05.card.c02g_delivery | Emergency Codes and Special Considerations | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c02g_delivery.png |
 | module.m04.lesson.l05.card.c03_challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c03_challenge.png |
 | module.m04.lesson.l05.card.c04a_debrief | Emergency Procedures - Fire, Choking, Disaster challenge debrief - safest CNA response | placeholder-pending | False | /assets/media/module.m04.lesson.l05.card.c04a_debrief.png |
 | module.m05.lesson.l01.card.c01_overview | Nutrition and Hydration | placeholder-pending | False | /assets/media/module.m05.lesson.l01.card.c01_overview.png |

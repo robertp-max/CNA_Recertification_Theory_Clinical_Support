@@ -1,6 +1,6 @@
 # 03_MODULE_LESSON_4CARD_MAP — Module / Lesson / Card Map
 
-> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T19:51:44+00:00. Do not hand-edit.
+> Generated from `CNA-Recert-Course/ContentV2/data/courseContentV2.json` by `tools/rebuild_contentv2_from_json.py` on 2026-06-03T21:27:42+00:00. Do not hand-edit.
 
 
 ## M00 — Orientation and Compliance Boundaries (30 min, counts_toward_720=True)
@@ -232,63 +232,77 @@
 
 ## M04 — Mobility, Falls, and Workplace Safety (120 min, counts_toward_720=True)
 
-### L01 — Body Mechanics and Injury Prevention (20 min, 6 cards)
+### L01 — Body Mechanics and Injury Prevention (20 min, 9 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Body Mechanics and Injury Prevention | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L01 | None identified |
-| C02A_DELIVERY | delivery | What Are Body Mechanics? | 72 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.1 | None identified |
-| C02B_DELIVERY | delivery | Common Workplace Injuries for CNAs | 53 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
-| C02C_DELIVERY | delivery | Common Workplace Injuries for CNAs | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.1.2 | None identified |
+| C02A_DELIVERY | delivery | Why Alignment Protects the Body | 41 | CCCCO Module 13, Objective 7, Musculoskeletal System anatomy/functions; CCCCO Module 14, Objective 8 preventive methods | None identified |
+| C02B_DELIVERY | delivery | Aging, Strength, and Injury Risk | 40 | CCCCO Module 13, Objective 8, Musculoskeletal/Nervous System aging changes | None identified |
+| C02C_DELIVERY | delivery | Complications of Inactivity | 33 | CCCCO Module 14, Objective 8, Content Outline A | None identified |
+| C02D_DELIVERY | delivery | Preventing Inactivity Complications | 36 | CCCCO Module 14, Objective 8, Content Outline B | None identified |
+| C02E_DELIVERY | delivery | Pain, Arthritis, and Fracture Clues | 43 | CCCCO Module 13, Objective 7, Musculoskeletal diseases/disorders | None identified |
+| C02F_DELIVERY | delivery | CNA Workplace Safety Boundaries | 39 | CCCCO Module 14, Objectives 5, 8, and 10; ContentV1 M04 body mechanics | None identified |
 | C03_CHALLENGE | challenge | Body Mechanics and Injury Prevention Challenge | 31 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
 | C04A_DEBRIEF | debrief | Body Mechanics and Injury Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 5 | None identified |
 
-### L02 — Safe Transfers and Ambulation (25 min, 8 cards)
+### L02 — Safe Transfers and Ambulation (25 min, 10 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Safe Transfers and Ambulation | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L02 | None identified |
-| C02A_DELIVERY | delivery | Transfer Principles | 51 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.1 | None identified |
-| C02B_DELIVERY | delivery | Common Transfer Types | 75 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
-| C02C_DELIVERY | delivery | Common Transfer Types | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.2 | None identified |
-| C02D_DELIVERY | delivery | Ambulation Assistance | 58 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.3 | None identified |
-| C02E_DELIVERY | delivery | Scenario: Transfer Safety Decision | 31 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.2.4 | None identified |
+| C02A_DELIVERY | delivery | Readiness for Mobility Assistance | 40 | CCCCO Module 14, Objective 10, Content Outline A | None identified |
+| C02B_DELIVERY | delivery | Transfer Safety and Help Requirements | 41 | CCCCO Module 14, Objective 10, Content Outline B | None identified |
+| C02C_DELIVERY | delivery | Gait Belt and Ambulation Checks | 36 | CCCCO Module 14, Objective 10, Content Outline B | None identified |
+| C02D_DELIVERY | delivery | Assistive Devices for Mobility | 35 | CCCCO Module 14, Objective 10, Content Outline C-D | None identified |
+| C02E_DELIVERY | delivery | Visual Impairment and Environment Support | 33 | CCCCO Module 14, Objective 10, Content Outline C-D | None identified |
+| C02F_DELIVERY | delivery | Osteoporosis and Fracture Precautions | 43 | CCCCO Module 13, Objective 7, Osteoporosis and Fractured Hip duties/observations | None identified |
+| C02G_DELIVERY | delivery | When Ambulation Must Stop | 40 | CCCCO Module 14, Objectives 5 and 10; CCCCO Module 13 musculoskeletal observations | None identified |
 | C03_CHALLENGE | challenge | Safe Transfers and Ambulation Challenge | 33 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
 | C04A_DEBRIEF | debrief | Safe Transfers and Ambulation - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objectives 6-7 | None identified |
 
-### L03 — Range of Motion and Restorative Care (20 min, 6 cards)
+### L03 — Range of Motion and Restorative Care (20 min, 11 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Range of Motion and Restorative Care | 23 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L03 | None identified |
-| C02A_DELIVERY | delivery | Range of Motion (ROM) | 71 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.1 | None identified |
-| C02B_DELIVERY | delivery | Restorative Care Programs | 65 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
-| C02C_DELIVERY | delivery | Restorative Care Programs | 10 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.3.2 | None identified |
+| C02A_DELIVERY | delivery | Restorative Care Promotes Potential | 39 | CCCCO Module 14, Objectives 2 and 3, Content Outline A-B | None identified |
+| C02B_DELIVERY | delivery | The Rehabilitation Team and CNA Role | 38 | CCCCO Module 14, Objective 4, Content Outline A-C | None identified |
+| C02C_DELIVERY | delivery | Promoting Self-Care and ADLs | 34 | CCCCO Module 14, Objectives 5 and 6, Content Outline A-B | None identified |
+| C02D_DELIVERY | delivery | Comfort and Adaptive Devices | 46 | CCCCO Module 14, Objective 7, Content Outline A-B | None identified |
+| C02E_DELIVERY | delivery | ROM Purpose and Types | 41 | CCCCO Module 14, Objective 9, Content Outline A-D | None identified |
+| C02F_DELIVERY | delivery | ROM Safety Rules | 36 | CCCCO Module 14, Objective 9, Content Outline E | None identified |
+| C02G_DELIVERY | delivery | Care Plan Meetings and Restorative Documentation | 36 | CCCCO Module 14, Objective 12, Content Outline A-G | None identified |
+| C02H_DELIVERY | delivery | Self-Esteem, Family, and Progress | 36 | CCCCO Module 14, Objective 11, Content Outline A-B | None identified |
 | C03_CHALLENGE | challenge | Range of Motion and Restorative Care Challenge | 25 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
 | C04A_DEBRIEF | debrief | Range of Motion and Restorative Care - Challenge Debrief | 48 | NATP Module 12 (Emergency Procedures) Objective 1 | None identified |
 
-### L04 — Fall Prevention (20 min, 7 cards)
+### L04 — Fall Prevention (20 min, 9 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Fall Prevention | 21 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L04 | None identified |
-| C02A_DELIVERY | delivery | Fall Risk Factors | 45 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.1 | None identified |
-| C02B_DELIVERY | delivery | Fall Prevention Strategies | 65 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.2 | None identified |
-| C02C_DELIVERY | delivery | What to Do When a Resident Falls | 44 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
-| C02D_DELIVERY | delivery | What to Do When a Resident Falls | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.4.3 | None identified |
+| C02A_DELIVERY | delivery | Why Falls Increase With Aging | 39 | CCCCO Module 13, Objective 8, Musculoskeletal/Nervous System aging changes | None identified |
+| C02B_DELIVERY | delivery | Environment Controls That Prevent Falls | 43 | CCCCO Module 13, Effects of Aging and Nursing Care Measures handout | None identified |
+| C02C_DELIVERY | delivery | Position Changes and Fainting Risk | 39 | CCCCO Module 13 aging handout; CCCCO Module 12 syncope signs/role | None identified |
+| C02D_DELIVERY | delivery | Falls, Osteoporosis, and Fractured Hip Warning Signs | 42 | CCCCO Module 13, Objective 7, Osteoporosis and Fractured Hip | None identified |
+| C02E_DELIVERY | delivery | Assistive Devices Are Part of the Fall Plan | 37 | CCCCO Module 14, Objective 10; CCCCO Module 13 aging handout | None identified |
+| C02F_DELIVERY | delivery | Reporting a Near-Fall | 39 | CCCCO Module 12, Objective 2 distress signs; CCCCO Module 14, Objective 5 reporting changes | None identified |
 | C03_CHALLENGE | challenge | Fall Prevention Challenge | 38 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
 | C04A_DEBRIEF | debrief | Fall Prevention - Challenge Debrief | 52 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 3 | None identified |
 
-### L05 — Emergency Procedures - Fire, Choking, Disaster (20 min, 8 cards)
+### L05 — Emergency Procedures - Fire, Choking, Disaster (20 min, 10 cards)
 
 | Card ID | Type | Title | Est. s | Source Ref | SME Flag |
 |---|---|---|---:|---|---|
 | C01_OVERVIEW | overview | Emergency Procedures - Fire, Choking, Disaster | 22 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#L05 | None identified |
-| C02A_DELIVERY | delivery | Fire Safety: RACE and PASS | 74 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
-| C02B_DELIVERY | delivery | Fire Safety: RACE and PASS | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.1 | None identified |
-| C02C_DELIVERY | delivery | Choking Response | 64 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.2 | None identified |
-| C02D_DELIVERY | delivery | Disaster Preparedness | 49 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
-| C02E_DELIVERY | delivery | Disaster Preparedness | 8 | CNA-Recert-Course/Content/theory/modules/26_THEORY_MODULE_04_MOBILITY_FALLS_WORKPLACE_SAFETY_FULL.md#Screen 4.5.3 | None identified |
+| C02A_DELIVERY | delivery | Recognizing Distress Early | 37 | CCCCO Module 12, Objective 2, Content Outline A-I | None identified |
+| C02B_DELIVERY | delivery | General Emergency Response Sequence | 41 | CCCCO Module 12, Objective 3, Content Outline C | None identified |
+| C02C_DELIVERY | delivery | Advance Directives and Code Status Boundaries | 36 | CCCCO Module 12, Objective 3, Content Outline A | None identified |
+| C02D_DELIVERY | delivery | Choking: Causes, Signs, and Deferred Skill | 43 | CCCCO Module 12, Objective 4, Content Outline A-E | None identified |
+| C02E_DELIVERY | delivery | Seizure Safety | 40 | CCCCO Module 12, Objective 2, Seizure section | None identified |
+| C02F_DELIVERY | delivery | Bleeding, Shock, and Respiratory Distress | 43 | CCCCO Module 12, Objective 2, Hemorrhaging/Shock/Respiratory Distress sections | None identified |
+| C02G_DELIVERY | delivery | Emergency Codes and Special Considerations | 41 | CCCCO Module 12, Objective 5, Content Outline A-C | None identified |
 | C03_CHALLENGE | challenge | Emergency Procedures - Fire, Choking, Disaster Challenge | 29 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
 | C04A_DEBRIEF | debrief | Emergency Procedures - Fire, Choking, Disaster - Challenge Debrief | 50 | NATP Module 14 (Rehabilitative/Restorative Care) Objective 4 | None identified |
 

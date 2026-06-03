@@ -7,9 +7,9 @@
 |---|--:|--:|--:|--:|--:|--:|--:|--:|
 | Module 10: Vital Signs | 16 | 11 | 2 | 0 | 3 | 0 | 0 | 0 |
 | Module 11: Nutrition | 10 | 7 | 1 | 0 | 1 | 0 | 0 | 1 |
-| Module 12: Emergency Procedures | 5 | 2 | 1 | 1 | 1 | 0 | 0 | 0 |
+| Module 12: Emergency Procedures | 5 | 3 | 1 | 0 | 1 | 0 | 0 | 0 |
 | Module 13: Long Term Care Resident | 8 | 2 | 0 | 3 | 0 | 1 | 1 | 1 |
-| Module 14- Rehabilitative Nursing | 12 | 7 | 0 | 4 | 1 | 0 | 0 | 0 |
+| Module 14- Rehabilitative Nursing | 12 | 10 | 0 | 1 | 1 | 0 | 0 | 0 |
 | Module 15: Observation and Charting | 8 | 4 | 1 | 1 | 1 | 0 | 0 | 1 |
 | Module 16: Death and Dying | 8 | 0 | 0 | 1 | 1 | 6 | 0 | 0 |
 | Module 17: Patient/Resident Abuse | 5 | 2 | 3 | 0 | 0 | 0 | 0 | 0 |
@@ -26,12 +26,7 @@
   - Obj 9 [Covered/under-depth]: Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder.
 
 ### Module 12: Emergency Procedures
-- Objectives: 5; flagged for attention: 5
-  - Obj 1 [Covered/under-depth]: Emergency terminology in M04/L05.
-  - Obj 2 [Assessed/under-depth]: Signs/symptoms of distress and NA prevent/respond role taught and exercised.
-  - Obj 3 [Partial/under-depth]: Immediate interventions introduced; scenario breadth limited (expand from CCCCO M12).
-  - Obj 4 [Deferred/under-depth]: Choking causes/signs taught; abdominal-thrust performance is a hands-on clinical skill.
-  - Obj 5 [Covered/under-depth]: Common LTC emergency codes. (CCCCO notes may be taught with Module 4: Safe Environment.)
+- Objectives: 5; flagged for attention: 0
 
 ### Module 13: Long Term Care Resident
 - Objectives: 8; flagged for attention: 8
@@ -41,23 +36,16 @@
   - Obj 4 [Source Repair/ok]: Special needs (developmental/mental disorders: ID, CP, epilepsy, Parkinson's, mental illness) map to M03/L05, currently a Source Repair placeholder.
   - Obj 5 [Covered/under-depth]: Alzheimer's/related dementias are the core of M03/L01-L02 (authored).
   - Obj 6 [Out of Scope/ok]: Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise.
-  - Obj 7 [Partial/under-depth]: M05 skin/integumentary signs, duties, aging risks, and pressure-injury prevention expanded from CCCCO M13; broader body-systems/A&P and immobility content still depends on M04 expansion.
-  - Obj 8 [Partial/under-depth]: Aging changes across body systems addressed in applied form; comprehensive aging-changes catalog thin. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)
+  - Obj 7 [Partial/under-depth]: M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from CCCCO M13; broader all-body-systems/A&P coverage remains partial.
+  - Obj 8 [Partial/under-depth]: M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from CCCCO M13; comprehensive aging-changes catalog remains partial. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)
 
 ### Module 14- Rehabilitative Nursing
-- Objectives: 12; flagged for attention: 12
-  - Obj 1 [Covered/under-depth]: Restorative-care terminology in M04/L03.
-  - Obj 2 [Covered/under-depth]: Restorative care promotes independence/potential.
-  - Obj 3 [Covered/under-depth]: Goals of restorative care.
-  - Obj 4 [Partial/under-depth]: Rehabilitation team and NA role; interdisciplinary-team depth limited (also M06/L05 delegation).
-  - Obj 5 [Covered/under-depth]: NA responsibilities promoting self-care.
-  - Obj 6 [Covered/under-depth]: Activities of Daily Living (ADLs).
-  - Obj 7 [Partial/under-depth]: Comfort/adaptive devices introduced; device catalog/purpose breadth limited.
-  - Obj 8 [Covered/under-depth]: Preventing complications of inactivity/immobility (ROM, skin); M05 skin/pressure prevention refreshed from CCCCO M13.
-  - Obj 9 [Deferred/under-depth]: ROM exercises taught; performing ROM is a hands-on clinical skill.
-  - Obj 10 [Partial/under-depth]: Mobility/ambulation devices incl. visual-impairment supports; depth limited (expand from CCCCO M14).
-  - Obj 11 [Partial/under-depth]: Self-esteem and family involvement in care; psychosocial depth thin.
-  - Obj 12 [Covered/under-depth]: Documentation and NA role in the care-plan meeting.
+- Objectives: 12; flagged for attention: 5
+  - Obj 7 [Covered/under-depth]: Expanded from CCCCO M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries.
+  - Obj 8 [Covered/under-depth]: Expanded from CCCCO M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from CCCCO M13.
+  - Obj 10 [Covered/under-depth]: Expanded from CCCCO M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation.
+  - Obj 11 [Partial/under-depth]: M04 expands self-esteem, family involvement, praise, dignity, and positive restorative approach; broader psychosocial/family-depth remains shared with M03/M06.
+  - Obj 12 [Covered/under-depth]: Expanded from CCCCO M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations.
 
 ### Module 15: Observation and Charting
 - Objectives: 8; flagged for attention: 8
