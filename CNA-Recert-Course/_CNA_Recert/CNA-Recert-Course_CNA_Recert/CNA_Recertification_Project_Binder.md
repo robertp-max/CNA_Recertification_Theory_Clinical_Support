@@ -27,7 +27,7 @@ Execution may continue internally. No CDPH/TPRU approval claims, production cert
 ## Core Facts Preserved
 
 - Required theory total: 720 minutes / 12 hours.
-- Module timing: M00 30, M01 90, M02 120, M03 120, M04 120, M05 120, M06 90, M07 30.
+- Module timing: M00 30 shared orientation, then NATP M10 83, M11 55, M12 55, M13 138, M14 55, M15 111, M16 55, M17 168.
 - Optional Clinical Support is optional, non-credit, non-gating, and not clinical-hour credit.
 - Certificate production remains disabled pending approval metadata, active-time validation, approved certificate wording, affidavit method, and compliance/legal/owner clearance.
-- Module 1, Module 3, and Module 5 review/source flags remain visible.
+- ContentV2 validation reports 72 objective rows, 0 source-repair flags, 0 SME-review flags, and 0 failing lessons.

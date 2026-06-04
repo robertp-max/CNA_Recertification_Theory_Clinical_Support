@@ -35,13 +35,13 @@ from reportlab.platypus import (
 )
 from svglib.svglib import svg2rlg
 
-
-ROOT = Path(__file__).resolve().parents[1]
 EXPECTED_ROOT = Path(r"C:\AI\Git\CNA_Recertification_Theory_Clinical_Support")
-OUT = ROOT / "CNA-Recert-Course_CNA_Recert"
+PACKAGE_ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[3]
+OUT = PACKAGE_ROOT / "CNA-Recert-Course_CNA_Recert"
 ASSETS = OUT / "assets"
-BUILD = ROOT / "CNA-Recert-Course_CNA_Recert_build"
-BACKUPS = ROOT / "CNA-Recert-Course_CNA_Recert_backups"
+BUILD = PACKAGE_ROOT / "CNA-Recert-Course_CNA_Recert_build"
+BACKUPS = PACKAGE_ROOT / "CNA-Recert-Course_CNA_Recert_backups"
 
 TITLE = "CNA Recertification Project Binder"
 try:
@@ -114,14 +114,15 @@ SOURCE_DOCS = [
 ]
 
 MODULES = [
-    ("M00", "Orientation and Compliance Boundaries", 30, "5", "30 allocated / 5 lessons", "Drafted", "Unified Blueprint; Content syllabus", "Legal/CDPH copy review", "Confirm acknowledgements and no-PHI language"),
-    ("M01", "Infection Control and PPE", 90, "6", "90 allocated / under-depth active estimate", "Needs SME Review", "Legacy CNA-CE draft + scattered CCCCO refs", "No dedicated NATP 10-17 source", "SME/source review and source-backed expansion"),
-    ("M02", "Resident Rights, Abuse Prevention, and Boundaries", 120, "5", "105 lesson min / under-depth", "In Progress", "CCCCO/NATP Module 17", "Under-depth expansion", "Expand partial objectives from source"),
-    ("M03", "Dementia, Communication, and Respectful Care", 120, "5", "105 lesson min / source repair", "Needs Source Repair", "CCCCO/NATP Modules 13, 16", "Sensitive content and truncated source", "Repair M03/L03-L05 from CCCCO M16 and SME review"),
-    ("M04", "Mobility, Falls, and Workplace Safety", 120, "5", "105 lesson min / under-depth", "In Progress", "CCCCO/NATP Modules 12, 14", "No hands-on competency claim", "Expand source-backed safety/restorative content"),
-    ("M05", "Nutrition, Skin Integrity, Vital Signs", 120, "5", "105 lesson min / under-depth", "Needs SME Review", "CCCCO/NATP Modules 10, 11, 13", "Pressure-injury scope review", "SME review and CNA-scope wording check"),
-    ("M06", "Documentation, Reporting, PHI Avoidance, and Scope", 90, "5", "80 lesson min / under-depth", "In Progress", "CCCCO/NATP Module 15", "PHI and scope controls", "Confirm no PHI free text and expand source-backed content"),
-    ("M07", "Final Review, Exam/Test, Affidavit", 30, "5", "17 lesson min / final exam excluded", "Needs Legal/CDPH Review", "All modules; final assessment map", "Affidavit/certificate approval", "Approve final wording and keep certificate disabled"),
+    ("M00", "Orientation and Compliance Boundaries", 30, "5", "30 allocated / 5 reusable package-neutral lessons", "Drafted", "Orientation/compliance exception", "Compliance/legal review before production", "Use for Package A, Package B, and custom Package C"),
+    ("M10", "NATP Module 10: Vital Signs", 83, "17", "83 allocated / 95.78 active-learning min", "Drafted", "NATP Module 10", "None identified", "Maintain source-backed coverage"),
+    ("M11", "NATP Module 11: Nutrition", 55, "10", "55 allocated / 62.97 active-learning min", "Drafted", "NATP Module 11", "None identified", "Maintain source-backed coverage"),
+    ("M12", "NATP Module 12: Emergency Procedures", 55, "10", "55 allocated / 67.25 active-learning min", "Drafted", "NATP Module 12", "None identified", "Maintain source-backed coverage"),
+    ("M13", "NATP Module 13: Long Term Care Resident", 138, "16", "138 allocated / 148.81 active-learning min", "Drafted", "NATP Module 13", "None identified", "Maintain source-backed coverage"),
+    ("M14", "NATP Module 14: Rehabilitative Nursing", 55, "10", "55 allocated / 64.06 active-learning min", "Drafted", "NATP Module 14", "None identified", "Maintain source-backed coverage"),
+    ("M15", "NATP Module 15: Observation and Charting", 111, "10", "111 allocated / 107.03 active-learning min", "Drafted", "NATP Module 15", "None identified", "Maintain source-backed coverage"),
+    ("M16", "NATP Module 16: Death and Dying", 55, "8", "55 allocated / 63.03 active-learning min", "Drafted", "NATP Module 16", "None identified", "Maintain source-backed coverage"),
+    ("M17", "NATP Module 17: Patient/Resident Abuse", 168, "1", "168 allocated / 138.31 active-learning min", "Drafted", "NATP Module 17", "None identified", "Maintain source-backed coverage"),
 ]
 
 STATUSES = [
@@ -310,10 +311,10 @@ def draw_flowchart(c, mode="pdf"):
         c.setFillColor(colors.white); c.setFont("Helvetica-Bold", 14); c.drawString(0.45 * inch, h - 0.35 * inch, "CNA Recertification Critical Path Flowchart")
         c.setFont("Helvetica", 7); c.drawRightString(w - 0.45 * inch, h - 0.35 * inch, "Internal execution / not cleared for production")
         boxes = [
-            (35, 465, 150, 42, "1 Source Evidence Gate", "Owner: Source Evidence", "Risk: unresolved CCCCO gaps"),
-            (220, 465, 150, 42, "2 ContentV2 Gate", "Owner: ContentV2/Data", "Risk: source repair blocks clearance"),
-            (405, 465, 160, 42, "3 Time-Depth / 720 Gate", "Owner: ID + Compliance", "Risk: under-depth lessons"),
-            (590, 465, 150, 42, "4 CCCCO Survey Mapping", "Owner: Source Evidence", "Risk: partial/deferred objectives"),
+            (35, 465, 150, 42, "1 Source Evidence Gate", "Owner: Source Evidence", "Risk: audit evidence drift"),
+            (220, 465, 150, 42, "2 ContentV2 Gate", "Owner: ContentV2/Data", "Risk: generated data drift"),
+            (405, 465, 160, 42, "3 Time-Depth / 720 Gate", "Owner: ID + Compliance", "Risk: active-time not approved"),
+            (590, 465, 150, 42, "4 NATP Survey Mapping", "Owner: Source Evidence", "Risk: objective mapping drift"),
             (220, 355, 150, 42, "5 Assessment Protection", "Owner: Assessment/QA", "Risk: key exposure"),
             (405, 355, 160, 42, "6 Optional Clinical Separation", "Owner: Compliance", "Risk: clinical-credit confusion"),
             (590, 355, 150, 42, "7 Active-Time Evidence", "Owner: QA/Compliance", "Risk: logs not sufficient"),
@@ -353,10 +354,10 @@ def build_flowchart_png(path: Path):
     d.rectangle([0, 0, W, 90], fill=burg)
     d.text((60, 28), "CNA Recertification Critical Path Flowchart", fill="white", font=font_b)
     boxes = [
-        (60, 160, "1 Source Evidence Gate", "Source Evidence | Open", "Unresolved CCCCO gaps"),
-        (430, 160, "2 ContentV2 Gate", "ContentV2/Data | Open", "Source repair blocks clearance"),
-        (800, 160, "3 Time-Depth / 720 Gate", "ID + Compliance | Open", "Under-depth lessons"),
-        (1170, 160, "4 CCCCO Survey Mapping", "Source Evidence | Open", "Partial/deferred objectives"),
+        (60, 160, "1 Source Evidence Gate", "Source Evidence | Open", "Audit evidence drift"),
+        (430, 160, "2 ContentV2 Gate", "ContentV2/Data | Open", "Generated data drift"),
+        (800, 160, "3 Time-Depth / 720 Gate", "ID + Compliance | Open", "Active-time not approved"),
+        (1170, 160, "4 NATP Survey Mapping", "Source Evidence | Open", "Objective mapping drift"),
         (430, 380, "5 Assessment Protection", "Assessment/QA | Open", "Key exposure"),
         (800, 380, "6 Optional Clinical Separation", "Compliance | Open", "Clinical-credit confusion"),
         (1170, 380, "7 Active-Time Evidence", "QA/Compliance | Open", "Logs not sufficient"),
@@ -422,13 +423,13 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
     heading("3. Status Matrix")
     status_rows = [
         ["Area", "Status", "Executive Note"],
-        ["Source package", "Drafted", "Source docs are present; M01/M03/M05 remain flagged."],
-        ["CCCCO/NATP mapping", "In Progress", "72 objectives mapped; coverage includes covered, assessed, partial, deferred, source-repair, and SME-review dispositions."],
-        ["ContentV2 package", "Drafted", "8 modules, 41 lessons, 277 cards; all compliance flags preserved."],
-        ["Time-depth reconciliation", "Needs Compliance Review", "Declared 720-minute model remains; active-learning estimate shows gap requiring source-backed expansion."],
+        ["Source package", "Drafted", "NATP Modules 10-17 source-backed instructional map is current; no source-repair or SME flags remain in generated validation."],
+        ["NATP mapping", "Drafted", "72 objectives mapped; 64 covered and 8 deferred for hands-on/clinical context; 0 source-repair and 0 SME-review dispositions."],
+        ["ContentV2 package", "Drafted", "9 modules, 77 lessons, 450 cards, and 450 narration clips; package-neutral M00 orientation applies to Package A/B/C."],
+        ["Time-depth reconciliation", "Drafted", "Required theory remains 720 minutes; displayed lesson flow is 750 minutes including orientation, with 782.73 estimated active-learning minutes."],
         ["App / standalone MVP", "Needs App Verification", "Standalone MVP files present; runtime/browser verification not completed in reconciliation evidence."],
         ["Module assessments", "Drafted", "Module checks mapped; internal scoring only."],
-        ["Final exam", "Needs SME Review", "50-question pool mapped; final answer keys/rationales admin-only."],
+        ["Final exam", "Drafted", "50-question pool mapped; final answer keys/rationales admin-only."],
         ["Certificate gate", "Blocked", "Approval metadata, approved wording, active-time, and affidavit method missing."],
         ["Active-time evidence", "Blocked", "Plugin/manual method not validated; Moodle logs alone are insufficient."],
         ["Affidavit/e-sign", "Needs Legal/CDPH Review", "Affidavit text exists; production method not approved."],
@@ -461,8 +462,8 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
         ["Team", "Provided", "Action Steps", "Output"],
         ["Compliance", "Phase 0 and gate rules", "Validate approval metadata, certificate wording, affidavit method, active time, claims language", "Clearance memo / blocker closure"],
         ["Course Development", "ContentV1 and ContentV2 modules", "Close source-backed depth gaps; keep no-padding rule", "Reviewed module package"],
-        ["Source Evidence / CCCCO", "CCCCO 10-17 mapping", "Resolve source repair and partial/deferred dispositions", "Updated evidence map"],
-        ["ContentV2 / Data", "JSON/TS package and generated maps", "Finalize after SME/compliance review", "Canonical release candidate"],
+        ["Source Evidence / NATP", "NATP 10-17 mapping", "Maintain objective coverage evidence and deferred clinical-context boundaries", "Updated evidence map"],
+        ["ContentV2 / Data", "JSON/TS package and generated maps", "Keep generated data synchronized with ContentV2 source of truth", "Canonical release candidate"],
         ["App / Standalone MVP", "Prototype app and data adapters", "Run runtime verification and route checks", "QA evidence packet"],
         ["Assessment / QA", "Module/final maps", "Protect keys, run negative tests", "QA acceptance report"],
         ["Certificate Gate", "Gate specs and draft fields", "Block until approvals are documented", "Locked certificate plan"],
@@ -480,9 +481,9 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
     heading("7. Critical Path Task Table")
     tasks = [
         ["Workstream", "Task", "Owner", "Dependency", "Duration / Effort", "Gate", "Status", "Risk if Delayed"],
-        ["Source Evidence", "Resolve CCCCO/source repair evidence", "Source Evidence", "Local source docs", "Medium", "Source Evidence", "Needs Source Repair", "Survey evidence remains incomplete"],
-        ["Course Content", "Finalize ContentV2 after SME flags", "ContentV2 / ID", "Source Evidence", "High", "ContentV2", "Needs SME Review", "Learner content remains draft"],
-        ["Time Depth", "Close under-depth lessons using approved source", "ID + Compliance", "ContentV2", "High", "720-Minute", "Needs Compliance Review", "Time model remains unsupported by depth"],
+        ["Source Evidence", "Maintain NATP 10-17 objective evidence", "Source Evidence", "Local source docs", "Medium", "Source Evidence", "Drafted", "Evidence drift if source maps diverge"],
+        ["Course Content", "Keep ContentV2 package-neutral orientation synchronized", "ContentV2 / ID", "Source Evidence", "High", "ContentV2", "Drafted", "Learner package labels could drift"],
+        ["Time Depth", "Preserve 720-minute normalized model and active-learning audit", "ID + Compliance", "ContentV2", "High", "720-Minute", "Drafted", "Active-time method still needs approval"],
         ["Assessment", "Protect final pool and remediation boundaries", "Assessment / QA", "ContentV2", "Medium", "Assessment", "Drafted", "Answer-key exposure risk"],
         ["Clinical Separation", "Verify optional clinical is non-gating", "Compliance / QA", "App review", "Medium", "Clinical", "Needs Compliance Review", "Learner misperception of credit"],
         ["Active Time", "Validate plugin or manual hold", "QA / Compliance", "Staging method", "High", "Active-Time", "Blocked", "Certificate gate cannot clear"],
@@ -501,9 +502,9 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
     heading("9. Source Evidence and CCCCO Coverage")
     story.append(table([
         ["Evidence Area", "Inspected Finding", "Status"],
-        ["CCCCO/NATP modules", "Modules 10-17 are mapped to current theory and optional support destinations.", "In Progress"],
-        ["Coverage rollup", "72 objectives mapped; 35 covered, 8 assessed, 10 partial, 8 deferred, 7 source repair, 1 out of scope, 3 SME review.", "Drafted"],
-        ["Gaps", "M03 source repair and partial/under-depth objectives remain visible; hands-on skills are deferred to clinical/support context.", "Needs Source Repair"],
+        ["NATP modules", "Modules 10-17 are mapped to the current 720-minute theory package; M00 is a reusable orientation/compliance exception.", "Drafted"],
+        ["Coverage rollup", "72 objectives mapped; 64 covered and 8 deferred for hands-on/clinical context; 0 source repair, 0 out of scope, and 0 SME review.", "Drafted"],
+        ["Gaps", "No ContentV2 depth gap or failing lessons remain in the audit; hands-on skills remain deferred to clinical/support context.", "Drafted"],
         ["Survey language", "No survey/audit approval is claimed; coverage is evidence mapping only.", "Needs Compliance Review"],
     ], [1.65*inch, 4.15*inch, 1.1*inch]))
 
@@ -511,10 +512,10 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
     story.append(table([
         ["Measure", "Evidence"],
         ["Required theory model", "720 minutes / 12 hours declared and inherited from ContentV1 syllabus."],
-        ["Pipeline counts", "8 modules, 41 lessons, 277 cards, 277 narration clips."],
-        ["Current gap", "Content-depth gap reported as 83 minutes in coverage reconciliation; time-depth audit estimates 447.12 active-learning minutes and 29 failing lessons."],
+        ["Pipeline counts", "9 modules, 77 lessons, 450 cards, and 450 narration clips."],
+        ["Current gap", "Content-depth gap is 0; time-depth audit estimates 782.73 active-learning minutes and 0 failing lessons."],
         ["No-padding rule", "Gaps are reported and must be closed only with source-backed expansion; narration/assessment/clinical support do not replace the 720 model."],
-        ["Open modules", "M01, M02, M03, M04, M05, and M06 remain under-depth or source-repair in audit evidence."],
+        ["Open modules", "No modules are failing the ContentV2 time-depth audit; production release still depends on certificate, active-time, legal/compliance, and app QA gates."],
     ], [2.0*inch, 4.9*inch]))
 
     heading("11. Assessment and Final Exam Protection")
@@ -581,8 +582,8 @@ def build_pdf(logo: Path, flowchart_png: Path) -> int:
     story.append(table([
         ["Priority", "Decision / Blocker", "Owner", "Status"],
         ["P0 Blocker", "Approval metadata, NAC/provider details if applicable, approved certificate wording, affidavit/e-sign method, active-time validation, legal/compliance clearance before production claims", "Program Owner / Legal / Compliance", "Open"],
-        ["P1 High", "M01 infection-control SME/source review, M03 source repair and sensitive-content review, M05 skin integrity SME review, runtime app verification", "SME / App QA", "Open"],
-        ["P2 Medium", "TTS/media authorization and under-depth source-backed expansion sequencing", "Owner / ID", "Open"],
+        ["P1 High", "Runtime app verification, optional clinical separation QA, active-time evidence validation, and package A/B/C orientation labeling review", "Compliance / App QA", "Open"],
+        ["P2 Medium", "TTS/media authorization and generated-data sync checks after future ContentV2 changes", "Owner / ID", "Open"],
         ["P3 Low", "External-reference URL notes and formatting polish after evidence closure", "Repo Auditor", "Open"],
     ], [1.0*inch, 3.75*inch, 1.3*inch, 0.85*inch]))
 
@@ -633,10 +634,10 @@ Execution may continue internally. No CDPH/TPRU approval claims, production cert
 ## Core Facts Preserved
 
 - Required theory total: 720 minutes / 12 hours.
-- Module timing: M00 30, M01 90, M02 120, M03 120, M04 120, M05 120, M06 90, M07 30.
+- Module timing: M00 30 shared orientation, then NATP M10 83, M11 55, M12 55, M13 138, M14 55, M15 111, M16 55, M17 168.
 - Optional Clinical Support is optional, non-credit, non-gating, and not clinical-hour credit.
 - Certificate production remains disabled pending approval metadata, active-time validation, approved certificate wording, affidavit method, and compliance/legal/owner clearance.
-- Module 1, Module 3, and Module 5 review/source flags remain visible.
+- ContentV2 validation reports 72 objective rows, 0 source-repair flags, 0 SME-review flags, and 0 failing lessons.
 """
     (OUT / "CNA_Recertification_Project_Binder.md").write_text(md, encoding="utf-8")
 
@@ -706,9 +707,9 @@ Use a bordered/gold-accent table stating internal execution may continue, but ap
 
 def tracker_rows():
     return [
-        ["CP-001", "Source Evidence", "P0 Blocker", "High", "Needs Source Repair", "Yes", "Resolve CCCCO/source repair evidence", "Survey evidence + ContentV2 gaps", "72 mapped objectives; 7 source repair", "Unresolved CCCCO gaps", "Repair M03 and under-depth objectives", "Source Evidence", "SME", "Local source docs", "Source index", PREPARED, PREPARED, ""],
-        ["CP-002", "ContentV2 / Time Depth", "P1 High", "High", "Needs Compliance Review", "No", "Close time-depth gap with source-backed expansion", "TIME_DEPTH_AUDIT.md", "447.12 active-learning min estimate", "Under-depth lessons", "Expand without padding", "Instructional Designer", "Compliance", "Source Evidence", "Time-depth audit", PREPARED, PREPARED, ""],
-        ["CP-003", "Assessment / Exam", "P1 High", "High", "Needs SME Review", "No", "Protect final exam keys and flagged questions", "Final assessment map", "50-question pool; keys internal-only", "Answer-key exposure", "Review app final-result boundaries", "Assessment Lead", "QA / SME", "ContentV2", "App QA", PREPARED, PREPARED, ""],
+        ["CP-001", "Source Evidence", "P1 High", "Medium", "Drafted", "No", "Maintain NATP 10-17 source evidence", "Survey evidence + ContentV2 maps", "72 mapped objectives; 0 source repair; 0 SME review", "Evidence drift", "Re-run validation after source changes", "Source Evidence", "Compliance", "Local source docs", "Source index", PREPARED, PREPARED, ""],
+        ["CP-002", "ContentV2 / Time Depth", "P1 High", "High", "Drafted", "No", "Preserve 720-minute normalized time model", "TIME_DEPTH_AUDIT.md", "782.73 active-learning min estimate; 0 failing lessons", "Active-time method not yet approved", "Keep audit in sync and validate active-time method", "Instructional Designer", "Compliance", "ContentV2", "Time-depth audit", PREPARED, PREPARED, ""],
+        ["CP-003", "Assessment / Exam", "P1 High", "High", "Drafted", "No", "Protect final exam keys and flagged questions", "Final assessment map", "50-question pool; keys internal-only", "Answer-key exposure", "Review app final-result boundaries", "Assessment Lead", "QA / SME", "ContentV2", "App QA", PREPARED, PREPARED, ""],
         ["CP-004", "Certificate Gate", "P0 Blocker", "Critical", "Blocked", "Yes", "Obtain approval metadata, wording, affidavit method", "Certificate reconciliation", "No approval artifacts inspected", "Improper certificate issuance", "Collect written approvals", "Program Owner / Legal", "Compliance / CDPH", "Approval evidence", "Gate reconciliation", PREPARED, PREPARED, ""],
         ["CP-005", "Optional Clinical Support", "P1 High", "High", "Needs Compliance Review", "No", "Verify non-credit non-gating separation", "Optional clinical reconciliation", "Support pathway only", "Clinical-credit confusion", "Run QA-02 and review labels", "Compliance", "QA", "App runtime", "QA evidence", PREPARED, PREPARED, ""],
         ["CP-006", "App / QA", "P1 High", "High", "Needs App Verification", "No", "Run standalone MVP browser verification", "App crosswalk", "Files present; not runtime-tested", "Route/content mismatch", "Run app QA after evidence closure", "App Engineer", "QA / Compliance", "ContentV2 package", "Browser evidence", PREPARED, PREPARED, ""],
@@ -870,7 +871,7 @@ def build_report(checks: dict, backed_up: list[str]):
             "Final Google Drive review links",
             "59 URL rows still undocumented",
             "Runtime/browser app verification evidence",
-            "SME sign-off for M01/M03/M05",
+            "Package A/B/C orientation labeling review",
             "Written approval artifacts for certificate, affidavit, active time, and provider metadata",
         ],
     }

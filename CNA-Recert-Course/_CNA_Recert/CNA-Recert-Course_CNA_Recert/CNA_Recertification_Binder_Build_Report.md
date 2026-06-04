@@ -15,16 +15,16 @@ Prepared: June 3, 2026
 - `assets/ci-ion-logomark-white.svg`
 
 ## Files Backed Up
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Project_Binder.md`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Project_Binder.pdf`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Critical_Path_Flowchart.pdf`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Critical_Path_Flowchart.png`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Binder_Source_Index.md`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Binder_Build_Report.md`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Executive_Task_Tracker.xlsx`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\README.md`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\CNA_Recertification_Binder_Style_Guide.md`
-- `CNA-Recert-Course_CNA_Recert_backups\20260603_141204\assets\ci-ion-logomark-white.svg`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Project_Binder.md`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Project_Binder.pdf`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Critical_Path_Flowchart.pdf`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Critical_Path_Flowchart.png`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Binder_Source_Index.md`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Binder_Build_Report.md`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Executive_Task_Tracker.xlsx`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\README.md`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\CNA_Recertification_Binder_Style_Guide.md`
+- `CNA-Recert-Course\_CNA_Recert\CNA-Recert-Course_CNA_Recert_backups\20260603_180029\assets\ci-ion-logomark-white.svg`
 
 ## QA
 - pdf_exists: True
@@ -39,7 +39,7 @@ Prepared: June 3, 2026
 - optional_clinical_non_gating: True
 - answer_keys_not_exposed: True
 - workbook_sheets: ['Dashboard', 'Critical Path', 'Master Task Tracker', 'Module Status', 'Source Evidence', 'ContentV2 - Time Depth', 'Assessment - Exam', 'Certificate Gate', 'Optional Clinical Support', 'App - QA', 'Audit - Reconciliation', 'Google Drive Packaging', 'Glossary']
-- backed_up: ['CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Project_Binder.md', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Project_Binder.pdf', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Critical_Path_Flowchart.pdf', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Critical_Path_Flowchart.png', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Binder_Source_Index.md', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Binder_Build_Report.md', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Executive_Task_Tracker.xlsx', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\README.md', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\CNA_Recertification_Binder_Style_Guide.md', 'CNA-Recert-Course_CNA_Recert_backups\\20260603_141204\\assets\\ci-ion-logomark-white.svg']
+- backed_up: ['CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Project_Binder.md', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Project_Binder.pdf', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Critical_Path_Flowchart.pdf', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Critical_Path_Flowchart.png', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Binder_Source_Index.md', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Binder_Build_Report.md', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Executive_Task_Tracker.xlsx', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\README.md', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\CNA_Recertification_Binder_Style_Guide.md', 'CNA-Recert-Course\\_CNA_Recert\\CNA-Recert-Course_CNA_Recert_backups\\20260603_180029\\assets\\ci-ion-logomark-white.svg']
 
 ## Remaining P0 Blockers
 - Approval metadata / CDPH provider-course approval
@@ -53,5 +53,5 @@ Prepared: June 3, 2026
 - Final Google Drive review links
 - 59 URL rows still undocumented
 - Runtime/browser app verification evidence
-- SME sign-off for M01/M03/M05
+- Package A/B/C orientation labeling review
 - Written approval artifacts for certificate, affidavit, active time, and provider metadata
