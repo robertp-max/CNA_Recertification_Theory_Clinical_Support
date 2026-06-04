@@ -1,6 +1,8 @@
 {
+  "module_id": "M10",
+  "format": "json_narration_batch_import_package_from_legacy_csv",
   "status": "qwen_tts_generated",
-  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+  "source_csv": "Module_Dry_Run/_module10_dryrun_outputs/audio/audio_scripts.csv",
   "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
   "clips": [
     {
@@ -1028,11 +1030,11 @@
       "voice_cloning_started": true
     }
   ],
-  "compliance": "Qwen TTS generation is required for this run. No SFX/image generation or approval/clinical-credit/competency claim.",
-  "module_id": "M10",
   "qwen_sent": true,
+  "voice_cloning_started": true,
   "qwen_voice_cloning_started": true,
   "qwen_voice_cloning_completed": true,
+  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
   "voice_reference_transcript": "Final review export guidance: use the report to coach coding consistency, evidence quality, and reasoning accuracy for future SOC visits.",
   "generated_count": 64,
   "failed_count": 0,

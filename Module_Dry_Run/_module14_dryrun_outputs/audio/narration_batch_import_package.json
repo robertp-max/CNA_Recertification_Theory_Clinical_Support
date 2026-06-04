@@ -1,7 +1,7 @@
 {
   "module_id": "M14",
   "format": "json_narration_batch_import_package",
-  "status": "ready_for_review_not_generated",
+  "status": "qwen_tts_processing",
   "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
   "clips": [
     {
@@ -12,10 +12,13 @@
       "transcript": "Objective 1: Define key terminology. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O01-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O01-Terminology_Flashcards",
@@ -25,10 +28,13 @@
       "transcript": "Activity: Terminology Flashcards. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O01-Terminology_Flashcards.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O01-Term_Context_Sort",
@@ -38,10 +44,13 @@
       "transcript": "Activity: Term Context Sort. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O01-Term_Context_Sort.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O01-Report_Using_Source_Terms",
@@ -51,10 +60,13 @@
       "transcript": "Activity: Report Using Source Terms. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O01-Report_Using_Source_Terms.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O02-INTRO",
@@ -64,10 +76,13 @@
       "transcript": "Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O02-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O02-rehabilitation_restorative_care_and_",
@@ -77,10 +92,13 @@
       "transcript": "Activity: rehabilitation (restorative care) and how it p — Source Trace Card Sort. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O02-rehabilitation_restorative_care_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O02-rehabilitation_restorative_care_and_",
@@ -90,10 +108,13 @@
       "transcript": "Activity: rehabilitation (restorative care) and how it p — CNA Scope and Reporting Scenario. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O02-rehabilitation_restorative_care_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O02-rehabilitation_restorative_care_and_",
@@ -103,10 +124,13 @@
       "transcript": "Activity: rehabilitation (restorative care) and how it p — Objective Practice Check. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O02-rehabilitation_restorative_care_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O03-INTRO",
@@ -116,10 +140,13 @@
       "transcript": "Objective 3: State goals of restorative care that promote independence and patient/resident potential. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O03-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O03-goals_of_restorative_care_that_promo",
@@ -129,10 +156,13 @@
       "transcript": "Activity: goals of restorative care that promote indepen — Source Trace Card Sort. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O03-goals_of_restorative_care_that_promo.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O03-goals_of_restorative_care_that_promo",
@@ -142,10 +172,13 @@
       "transcript": "Activity: goals of restorative care that promote indepen — CNA Scope and Reporting Scenario. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts/M14-O03-goals_of_restorative_care_that_promo.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O03-goals_of_restorative_care_that_promo",
@@ -155,10 +188,13 @@
       "transcript": "Activity: goals of restorative care that promote indepen — Objective Practice Check. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O04-INTRO",
@@ -168,10 +204,13 @@
       "transcript": "Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O04-the_rehabilitation_team_state_its_pu",
@@ -181,10 +220,13 @@
       "transcript": "Activity: the rehabilitation team, state its purpose, an — Source Trace Card Sort. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O04-the_rehabilitation_team_state_its_pu",
@@ -194,10 +236,13 @@
       "transcript": "Activity: the rehabilitation team, state its purpose, an — CNA Scope and Reporting Scenario. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O04-the_rehabilitation_team_state_its_pu",
@@ -207,10 +252,13 @@
       "transcript": "Activity: the rehabilitation team, state its purpose, an — Objective Practice Check. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O05-INTRO",
@@ -220,10 +268,13 @@
       "transcript": "Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O05-the_responsibilities_of_the_Nurse_As",
@@ -233,10 +284,13 @@
       "transcript": "Activity: the responsibilities of the Nurse Assistant in — Source Trace Card Sort. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O05-the_responsibilities_of_the_Nurse_As",
@@ -246,10 +300,13 @@
       "transcript": "Activity: the responsibilities of the Nurse Assistant in — CNA Scope and Reporting Scenario. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O05-the_responsibilities_of_the_Nurse_As",
@@ -259,10 +316,13 @@
       "transcript": "Activity: the responsibilities of the Nurse Assistant in — Objective Practice Check. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O06-INTRO",
@@ -272,10 +332,13 @@
       "transcript": "Objective 6: List activities that make up Activities of Daily Living (ADLs). This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O06-activities_that_make_up_Activities_o",
@@ -285,10 +348,13 @@
       "transcript": "Activity: activities that make up Activities of Daily Li — Source Trace Card Sort. Use source guidance for Objective 6 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O06-activities_that_make_up_Activities_o",
@@ -298,10 +364,13 @@
       "transcript": "Activity: activities that make up Activities of Daily Li — CNA Scope and Reporting Scenario. Use source guidance for Objective 6 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O06-activities_that_make_up_Activities_o",
@@ -311,10 +380,13 @@
       "transcript": "Activity: activities that make up Activities of Daily Li — Objective Practice Check. Use source guidance for Objective 6 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O07-INTRO",
@@ -324,10 +396,13 @@
       "transcript": "Objective 7: List common comfort and adaptive devices and explain the purposes of each. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O07-common_comfort_and_adaptive_devices_",
@@ -337,10 +412,13 @@
       "transcript": "Activity: common comfort and adaptive devices and explai — Source Trace Card Sort. Use source guidance for Objective 7 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O07-common_comfort_and_adaptive_devices_",
@@ -350,10 +428,13 @@
       "transcript": "Activity: common comfort and adaptive devices and explai — CNA Scope and Reporting Scenario. Use source guidance for Objective 7 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O07-common_comfort_and_adaptive_devices_",
@@ -363,10 +444,13 @@
       "transcript": "Activity: common comfort and adaptive devices and explai — Objective Practice Check. Use source guidance for Objective 7 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O08-INTRO",
@@ -376,10 +460,13 @@
       "transcript": "Objective 8: Identify steps to prevent complications from inactivity. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O08-steps_to_prevent_complications_from_",
@@ -389,10 +476,13 @@
       "transcript": "Activity: steps to prevent complications from inactivity — Source Trace Card Sort. Use source guidance for Objective 8 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O08-steps_to_prevent_complications_from_",
@@ -402,10 +492,13 @@
       "transcript": "Activity: steps to prevent complications from inactivity — CNA Scope and Reporting Scenario. Use source guidance for Objective 8 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O08-steps_to_prevent_complications_from_",
@@ -415,10 +508,13 @@
       "transcript": "Activity: steps to prevent complications from inactivity — Objective Practice Check. Use source guidance for Objective 8 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O09-INTRO",
@@ -428,10 +524,13 @@
       "transcript": "Objective 9: Describe range-of-motion exercises (ROM). This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O09-range_of_motion_exercises_ROM_Source",
@@ -441,10 +540,13 @@
       "transcript": "Activity: range-of-motion exercises (ROM) — Source Trace Card Sort. Use source guidance for Objective 9 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O09-range_of_motion_exercises_ROM_CNA_Sc",
@@ -454,10 +556,13 @@
       "transcript": "Activity: range-of-motion exercises (ROM) — CNA Scope and Reporting Scenario. Use source guidance for Objective 9 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O09-range_of_motion_exercises_ROM_Object",
@@ -467,10 +572,13 @@
       "transcript": "Activity: range-of-motion exercises (ROM) — Objective Practice Check. Use source guidance for Objective 9 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O10-INTRO",
@@ -480,10 +588,13 @@
       "transcript": "Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O10-procedures_and_devices_used_to_promo",
@@ -493,10 +604,13 @@
       "transcript": "Activity: procedures and devices used to promote mobilit — Source Trace Card Sort. Use source guidance for Objective 10 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O10-procedures_and_devices_used_to_promo",
@@ -506,10 +620,13 @@
       "transcript": "Activity: procedures and devices used to promote mobilit — CNA Scope and Reporting Scenario. Use source guidance for Objective 10 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O10-procedures_and_devices_used_to_promo",
@@ -519,10 +636,13 @@
       "transcript": "Activity: procedures and devices used to promote mobilit — Objective Practice Check. Use source guidance for Objective 10 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O11-INTRO",
@@ -532,10 +652,13 @@
       "transcript": "Objective 11: Discuss relationship between patient's/resident's self-esteem and family involvement in care. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O11-relationship_between_patient_s_resid",
@@ -545,10 +668,13 @@
       "transcript": "Activity: relationship between patient's/resident's self — Source Trace Card Sort. Use source guidance for Objective 11 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O11-relationship_between_patient_s_resid",
@@ -558,10 +684,13 @@
       "transcript": "Activity: relationship between patient's/resident's self — CNA Scope and Reporting Scenario. Use source guidance for Objective 11 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O11-relationship_between_patient_s_resid",
@@ -571,10 +700,13 @@
       "transcript": "Activity: relationship between patient's/resident's self — Objective Practice Check. Use source guidance for Objective 11 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O12-INTRO",
@@ -584,10 +716,13 @@
       "transcript": "Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting. This is source-traced Module 14 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O12-the_process_of_documentation_and_the",
@@ -597,10 +732,13 @@
       "transcript": "Activity: the process of documentation and the Nurse Ass — Source Trace Card Sort. Use source guidance for Objective 12 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O12-the_process_of_documentation_and_the",
@@ -610,10 +748,13 @@
       "transcript": "Activity: the process of documentation and the Nurse Ass — CNA Scope and Reporting Scenario. Use source guidance for Objective 12 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M14-O12-the_process_of_documentation_and_the",
@@ -623,10 +764,22 @@
       "transcript": "Activity: the process of documentation and the Nurse Ass — Objective Practice Check. Use source guidance for Objective 12 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
+      "generated_status": "qwen_processing_queued",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
       "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     }
-  ]
+  ],
+  "qwen_sent": true,
+  "voice_cloning_started": true,
+  "qwen_voice_cloning_started": true,
+  "qwen_voice_cloning_completed": false,
+  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+  "voice_reference_transcript": "Final review export guidance: use the report to coach coding consistency, evidence quality, and reasoning accuracy for future SOC visits.",
+  "generated_count": 11,
+  "failed_count": 0,
+  "output_dir": "Module_Dry_Run/_module14_dryrun_outputs/audio/qwen_tts"
 }

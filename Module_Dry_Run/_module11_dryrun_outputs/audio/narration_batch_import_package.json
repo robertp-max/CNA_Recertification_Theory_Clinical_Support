@@ -11,10 +11,13 @@
       "transcript": "Objective 1: Define key terminology. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O01-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O01-Nutrition_Flashcard_Deck",
@@ -24,10 +27,13 @@
       "transcript": "Activity: Nutrition Flashcard Deck. Use source guidance for Objective 1 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O01-Nutrition_Flashcard_Deck.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O01-Crossword_Quest",
@@ -37,10 +43,13 @@
       "transcript": "Activity: Crossword Quest. Use source guidance for Objective 1 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O01-Crossword_Quest.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O01-Five-Term_Diet_Report_Se",
@@ -50,10 +59,13 @@
       "transcript": "Activity: Five-Term Diet Report Sentence. Use source guidance for Objective 1 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O01-Five-Term_Diet_Report_Se.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O02-INTRO",
@@ -63,10 +75,13 @@
       "transcript": "Objective 2: Discuss the body's need for food and fluids. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O02-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O02-Food_and_Fluid_Needs_Sor",
@@ -76,10 +91,13 @@
       "transcript": "Activity: Food and Fluid Needs Sort. Use source guidance for Objective 2 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O02-Food_and_Fluid_Needs_Sor.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O02-Balanced_Diet_Builder",
@@ -89,10 +107,13 @@
       "transcript": "Activity: Balanced Diet Builder. Use source guidance for Objective 2 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O02-Balanced_Diet_Builder.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O02-Hydration_Minimum_Check",
@@ -102,10 +123,13 @@
       "transcript": "Activity: Hydration Minimum Check. Use source guidance for Objective 2 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O02-Hydration_Minimum_Check.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O03-INTRO",
@@ -115,10 +139,13 @@
       "transcript": "Objective 3: List common nutrients and their food sources. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O03-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O03-Nutrient_Source_Match",
@@ -128,10 +155,13 @@
       "transcript": "Activity: Nutrient Source Match. Use source guidance for Objective 3 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O03-Nutrient_Source_Match.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O03-Food_Label_Detective",
@@ -141,10 +171,13 @@
       "transcript": "Activity: Food Label Detective. Use source guidance for Objective 3 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O03-Food_Label_Detective.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O03-Fiber_and_Fluid_Quick_Pi",
@@ -154,10 +187,13 @@
       "transcript": "Activity: Fiber and Fluid Quick Pick. Use source guidance for Objective 3 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O03-Fiber_and_Fluid_Quick_Pi.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O04-INTRO",
@@ -167,10 +203,13 @@
       "transcript": "Objective 4: Describe the My Plate food guidance system. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O04-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O04-My_Plate_Drag-and-Balanc",
@@ -180,10 +219,13 @@
       "transcript": "Activity: My Plate Drag-and-Balance. Use source guidance for Objective 4 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O04-My_Plate_Drag-and-Balanc.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O04-Food_Journal_Reflection",
@@ -193,10 +235,13 @@
       "transcript": "Activity: Food Journal Reflection. Use source guidance for Objective 4 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O04-Food_Journal_Reflection.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O04-Oil_and_Solid_Fat_Sort",
@@ -206,10 +251,13 @@
       "transcript": "Activity: Oil and Solid Fat Sort. Use source guidance for Objective 4 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O04-Oil_and_Solid_Fat_Sort.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O05-INTRO",
@@ -219,10 +267,13 @@
       "transcript": "Objective 5: Describe the vegan basic four food groups. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O05-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O05-Vegan_Four_Groups_Builde",
@@ -232,10 +283,13 @@
       "transcript": "Activity: Vegan Four Groups Builder. Use source guidance for Objective 5 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O05-Vegan_Four_Groups_Builde.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O05-Vegetarian_vs_Vegan_Sort",
@@ -245,10 +299,13 @@
       "transcript": "Activity: Vegetarian vs Vegan Sort. Use source guidance for Objective 5 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O05-Vegetarian_vs_Vegan_Sort.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O05-Meal_Pattern_Check",
@@ -258,10 +315,13 @@
       "transcript": "Activity: Meal Pattern Check. Use source guidance for Objective 5 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O05-Meal_Pattern_Check.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O06-INTRO",
@@ -271,10 +331,13 @@
       "transcript": "Objective 6: Discuss nutritional and fluid needs of the elderly. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O06-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O06-Elder_Nutrition_Risk_Len",
@@ -284,10 +347,13 @@
       "transcript": "Activity: Elder Nutrition Risk Lens. Use source guidance for Objective 6 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O06-Elder_Nutrition_Risk_Len.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O06-Allergy_Tray_Safety_Chec",
@@ -297,10 +363,13 @@
       "transcript": "Activity: Allergy Tray Safety Check. Use source guidance for Objective 6 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O06-Allergy_Tray_Safety_Chec.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O06-Supplements_and_Appetite",
@@ -310,10 +379,13 @@
       "transcript": "Activity: Supplements and Appetite Scenario. Use source guidance for Objective 6 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O06-Supplements_and_Appetite.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O07-INTRO",
@@ -323,10 +395,13 @@
       "transcript": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O07-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O07-Therapeutic_Diet_Match",
@@ -336,10 +411,13 @@
       "transcript": "Activity: Therapeutic Diet Match. Use source guidance for Objective 7 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O07-Therapeutic_Diet_Match.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O07-Diet_Card_Safety_Gate",
@@ -349,10 +427,13 @@
       "transcript": "Activity: Diet Card Safety Gate. Use source guidance for Objective 7 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O07-Diet_Card_Safety_Gate.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O07-I&O_and_Intake_Record_Pr",
@@ -362,10 +443,13 @@
       "transcript": "Activity: I&O and Intake Record Practice. Use source guidance for Objective 7 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O07-I_O_and_Intake_Record_Pr.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O08-INTRO",
@@ -375,10 +459,13 @@
       "transcript": "Objective 8: Describe proper techniques for feeding patients/residents. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O08-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O08-Mealtime_Setup_Coach",
@@ -388,10 +475,13 @@
       "transcript": "Activity: Mealtime Setup Coach. Use source guidance for Objective 8 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O08-Mealtime_Setup_Coach.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O08-Dysphagia_Sign_Alert",
@@ -401,10 +491,13 @@
       "transcript": "Activity: Dysphagia Sign Alert. Use source guidance for Objective 8 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O08-Dysphagia_Sign_Alert.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O08-Safe_Feeding_Pace_Simula",
@@ -414,10 +507,13 @@
       "transcript": "Activity: Safe Feeding Pace Simulation. Use source guidance for Objective 8 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O08-Safe_Feeding_Pace_Simula.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O09-INTRO",
@@ -427,10 +523,13 @@
       "transcript": "Objective 9: Discuss cultural and religious influences on dietary practices. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O09-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O09-Culture_Preference_Inter",
@@ -440,10 +539,13 @@
       "transcript": "Activity: Culture Preference Interview. Use source guidance for Objective 9 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O09-Culture_Preference_Inter.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O09-Assumption_Check_Scenari",
@@ -453,10 +555,13 @@
       "transcript": "Activity: Assumption Check Scenario. Use source guidance for Objective 9 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O09-Assumption_Check_Scenari.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O09-Family_Food_Policy_Sort",
@@ -466,10 +571,13 @@
       "transcript": "Activity: Family Food Policy Sort. Use source guidance for Objective 9 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O09-Family_Food_Policy_Sort.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O10-INTRO",
@@ -479,10 +587,13 @@
       "transcript": "Objective 10: Identify alternative ways to administer nutrition. This is source-traced Module 11 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O10-INTRO.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O10-Tube_Feeding_Boundary_Ma",
@@ -492,10 +603,13 @@
       "transcript": "Activity: Tube Feeding Boundary Map. Use source guidance for Objective 10 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O10-Tube_Feeding_Boundary_Ma.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O10-IV_Line_Report_Checklist",
@@ -505,10 +619,13 @@
       "transcript": "Activity: IV Line Report Checklist. Use source guidance for Objective 10 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O10-IV_Line_Report_Checklist.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M11-O10-Aspiration_Warning_Scena",
@@ -518,10 +635,24 @@
       "transcript": "Activity: Aspiration Warning Scenario. Use source guidance for Objective 10 and stay within CNA nutrition, feeding, intake, observe, record, and report boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts/M11-O10-Aspiration_Warning_Scena.wav",
+      "review_note": "Generate only after explicit audio approval.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     }
-  ]
+  ],
+  "status": "qwen_tts_generated",
+  "qwen_sent": true,
+  "voice_cloning_started": true,
+  "qwen_voice_cloning_started": true,
+  "qwen_voice_cloning_completed": true,
+  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+  "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
+  "voice_reference_transcript": "Final review export guidance: use the report to coach coding consistency, evidence quality, and reasoning accuracy for future SOC visits.",
+  "generated_count": 40,
+  "failed_count": 0,
+  "output_dir": "Module_Dry_Run/_module11_dryrun_outputs/audio/qwen_tts"
 }

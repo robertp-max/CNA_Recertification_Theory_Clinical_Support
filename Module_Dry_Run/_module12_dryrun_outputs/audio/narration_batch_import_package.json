@@ -1,7 +1,7 @@
 {
   "module_id": "M12",
   "format": "json_narration_batch_import_package",
-  "status": "ready_for_review_not_generated",
+  "status": "qwen_tts_generated",
   "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
   "clips": [
     {
@@ -12,10 +12,13 @@
       "transcript": "Objective 1: Define key terminology.. This is source-traced Module 12 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O01-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O01-Terminology_Flashcards",
@@ -25,10 +28,13 @@
       "transcript": "Activity: Terminology Flashcards. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O01-Terminology_Flashcards.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O01-Term_Context_Sort",
@@ -38,10 +44,13 @@
       "transcript": "Activity: Term Context Sort. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O01-Term_Context_Sort.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O01-Report_Using_Source_Terms",
@@ -51,10 +60,13 @@
       "transcript": "Activity: Report Using Source Terms. Use source guidance for Objective 1 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O01-Report_Using_Source_Terms.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O02-INTRO",
@@ -64,10 +76,13 @@
       "transcript": "Objective 2: Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.. This is source-traced Module 12 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O02-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O02-common_signs_and_symptoms_of_conditi",
@@ -77,10 +92,13 @@
       "transcript": "Activity: common signs and symptoms of conditions associ — Source Trace Card Sort. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O02-common_signs_and_symptoms_of_conditi.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O02-common_signs_and_symptoms_of_conditi",
@@ -90,10 +108,13 @@
       "transcript": "Activity: common signs and symptoms of conditions associ — CNA Scope and Reporting Scenario. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O02-common_signs_and_symptoms_of_conditi.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O02-common_signs_and_symptoms_of_conditi",
@@ -103,10 +124,13 @@
       "transcript": "Activity: common signs and symptoms of conditions associ — Objective Practice Check. Use source guidance for Objective 2 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O02-common_signs_and_symptoms_of_conditi.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O03-INTRO",
@@ -116,10 +140,13 @@
       "transcript": "Objective 3: Describe the immediate interventions in a medical emergency.. This is source-traced Module 12 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O03-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O03-the_immediate_interventions_in_a_med",
@@ -129,10 +156,13 @@
       "transcript": "Activity: the immediate interventions in a medical emerg — Source Trace Card Sort. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O03-the_immediate_interventions_in_a_med.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O03-the_immediate_interventions_in_a_med",
@@ -142,10 +172,13 @@
       "transcript": "Activity: the immediate interventions in a medical emerg — CNA Scope and Reporting Scenario. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O03-the_immediate_interventions_in_a_med.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O03-the_immediate_interventions_in_a_med",
@@ -155,10 +188,13 @@
       "transcript": "Activity: the immediate interventions in a medical emerg — Objective Practice Check. Use source guidance for Objective 3 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O03-the_immediate_interventions_in_a_med.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O04-INTRO",
@@ -168,10 +204,13 @@
       "transcript": "Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.. This is source-traced Module 12 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O04-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O04-the_causes_and_signs_of_choking_and_",
@@ -181,10 +220,13 @@
       "transcript": "Activity: the causes and signs of choking and discuss th — Source Trace Card Sort. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O04-the_causes_and_signs_of_choking_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O04-the_causes_and_signs_of_choking_and_",
@@ -194,10 +236,13 @@
       "transcript": "Activity: the causes and signs of choking and discuss th — CNA Scope and Reporting Scenario. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O04-the_causes_and_signs_of_choking_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O04-the_causes_and_signs_of_choking_and_",
@@ -207,10 +252,13 @@
       "transcript": "Activity: the causes and signs of choking and discuss th — Objective Practice Check. Use source guidance for Objective 4 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O04-the_causes_and_signs_of_choking_and.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O05-INTRO",
@@ -220,10 +268,13 @@
       "transcript": "Objective 5: Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment. This is source-traced Module 12 theory instruction only.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O05-INTRO.wav",
+      "review_note": "Qwen generation is queued/gated for this batch; Module 13 resume runner is handled separately.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O05-common_emergency_codes_used_in_long_",
@@ -233,10 +284,13 @@
       "transcript": "Activity: common emergency codes used in long-term care — Source Trace Card Sort. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O05-common_emergency_codes_used_in_long.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O05-common_emergency_codes_used_in_long_",
@@ -246,10 +300,13 @@
       "transcript": "Activity: common emergency codes used in long-term care — CNA Scope and Reporting Scenario. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O05-common_emergency_codes_used_in_long.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     },
     {
       "clip_id": "M12-O05-common_emergency_codes_used_in_long_",
@@ -259,10 +316,22 @@
       "transcript": "Activity: common emergency codes used in long-term care — Objective Practice Check. Use source guidance for Objective 5 and stay within CNA observe, assist, document, report, privacy, and deferred-clinical boundaries.",
       "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
       "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
-      "generated_status": "queued_not_generated",
-      "approval_status": "scripts_source_validated_generation_gated",
-      "final_path": "",
-      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active."
+      "generated_status": "generated",
+      "approval_status": "qwen_tts_generation_required_by_run_requirement",
+      "final_path": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts/M12-O05-common_emergency_codes_used_in_long.wav",
+      "review_note": "Generate only after explicit audio approval; do not overload GPU while Module 13 Qwen resume is active.",
+      "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+      "qwen_sent": true,
+      "voice_cloning_started": true
     }
-  ]
+  ],
+  "qwen_sent": true,
+  "voice_cloning_started": true,
+  "qwen_voice_cloning_started": true,
+  "qwen_voice_cloning_completed": true,
+  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+  "voice_reference_transcript": "Final review export guidance: use the report to coach coding consistency, evidence quality, and reasoning accuracy for future SOC visits.",
+  "generated_count": 20,
+  "failed_count": 0,
+  "output_dir": "Module_Dry_Run/_module12_dryrun_outputs/audio/qwen_tts"
 }
