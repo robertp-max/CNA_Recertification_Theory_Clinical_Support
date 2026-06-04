@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-03T23:36:29+00:00",
+  "generated_at": "2026-06-04T00:47:54+00:00",
   "source_folder": "CNA-Recert-Course/CNA_Modules",
   "generator": "CNA-Recert-Course/ContentV2/tools/rebuild_contentv2_from_json.py",
-  "total_clips": 581,
-  "total_estimated_seconds": 18411,
-  "total_estimated_minutes": 306.85,
-  "clips_over_target": 0,
-  "unique_app_locations": 743,
+  "total_clips": 450,
+  "total_estimated_seconds": 15169,
+  "total_estimated_minutes": 252.82,
+  "clips_over_target": 8,
+  "unique_app_locations": 612,
   "modules_covered": [
     "M00",
     "M10",

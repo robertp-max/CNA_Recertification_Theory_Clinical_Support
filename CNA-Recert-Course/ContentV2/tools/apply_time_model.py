@@ -2,12 +2,12 @@
 
 Add explicit, defensible time-model fields to the canonical ContentV2 JSON.
 
-SOURCE OF TRUTH for instructional substance is CCCCO/NATP Modules 10-17:
+SOURCE OF TRUTH for instructional substance is NATP Modules 10-17:
     CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf
     ... through module-17.pdf
 
 The 720-minute total is NOT recomputed from narration length or card count. It is
-the 12-hour recertification target normalized across CCCCO source theory-hour
+the 12-hour recertification target normalized across NATP source theory-hour
 weights. Narration / reading / interaction / assessment minutes are tracked
 SEPARATELY (descriptive component estimates) and never replace the authoritative
 instructional allocation. Optional Clinical Support and all assessment time are
@@ -34,11 +34,11 @@ UNDER_DEPTH_FRACTION = 0.70
 MODULE_UNDER_DEPTH_FRACTION = 0.75
 
 SYLLABUS_BASIS = (
-    "CCCCO/NATP Modules 10-17 source-hour weighting normalized to the 12-hour / "
+    "NATP Modules 10-17 source-hour weighting normalized to the 12-hour / "
     "720-minute recertification theory target"
 )
 
-# CCCCO Modules 10-17 normalized to exactly 720 minutes. Orientation is required
+# NATP Modules 10-17 normalized to exactly 720 minutes. Orientation is required
 # pre-course compliance content but excluded from this instructional total.
 MODULE_ALLOCATION = {
     "M10": 83,
@@ -106,7 +106,7 @@ def main() -> int:
     for module in data["modules"]:
         mid = module["module_id"]
         alloc = MODULE_ALLOCATION.get(mid, module.get("estimated_minutes", 0))
-        counts_720 = mid in MODULE_ALLOCATION            # CCCCO Modules 10-17 only
+        counts_720 = mid in MODULE_ALLOCATION            # NATP Modules 10-17 only
         gate = True                                       # all required theory gates the certificate
         is_repair = (module.get("status") == "source-repair")
 
@@ -142,7 +142,7 @@ def main() -> int:
                 "source-repair" if is_repair else ("under-depth" if l_under else "modeled")
             )
             lesson["time_model_notes"] = (
-                f"Lesson allocation {lesson_min} min (CCCCO-normalized). Honest active-learning estimate {r1(l_active)} min "
+                f"Lesson allocation {lesson_min} min (NATP-normalized). Honest active-learning estimate {r1(l_active)} min "
                 f"(narration {r1(l_narr)} / reading {r1(l_read)} / interaction {r1(l_int)} min, identical narration+reading "
                 f"NOT double-counted). "
                 + (
@@ -182,7 +182,7 @@ def main() -> int:
         else:
             module["time_model_status"] = "authored"
         notes = (
-            f"Instructional allocation {alloc} min from CCCCO-normalized source-hour weighting (not recomputed from narration). "
+            f"Instructional allocation {alloc} min from NATP-normalized source-hour weighting (not recomputed from narration). "
             f"Lessons currently allocate {lesson_allocated} min. Honest active-learning estimate {r1(mod_active)} min "
             f"(~{int(round(100*mod_active/alloc)) if alloc else 0}% of allocation)."
         )
@@ -194,7 +194,7 @@ def main() -> int:
         if gap > 0:
             notes += (
                     f" CONTENT-DEPTH GAP: {gap} min of the {alloc}-min allocation is not yet covered by authored lesson cards; "
-                    f"expand only from CCCCO Modules 10-17 source (do not pad). "
+                    f"expand only from NATP Modules 10-17 source (do not pad). "
             )
         notes += (
             f" Narration {r1(mod_narr)} min and module-assessment {mod_assessment_min} min are tracked separately and "
@@ -212,7 +212,7 @@ def main() -> int:
         block["counts_toward_720_instructional_minutes"] = False
         block["counts_toward_certificate_gate"] = True
         block["counts_toward_optional_clinical_support"] = False
-        block["source_time_basis"] = "Module assessment minutes excluded from CCCCO-normalized instructional allocation"
+        block["source_time_basis"] = "Module assessment minutes excluded from NATP-normalized instructional allocation"
         block["time_model_status"] = "assessment"
         block["time_model_notes"] = (
             f"{mid} module assessment ({block.get('estimated_assessment_minutes', 0)} min) is tracked separately and "
@@ -243,7 +243,7 @@ def main() -> int:
     cs["counts_toward_720_instructional_minutes"] = False
     cs["counts_toward_certificate_gate"] = False
     cs["counts_toward_optional_clinical_support"] = True
-    cs["source_time_basis"] = "Optional, non-credit; excluded from CCCCO-normalized instructional allocation"
+    cs["source_time_basis"] = "Optional, non-credit; excluded from NATP-normalized instructional allocation"
     cs["time_model_status"] = "optional-non-credit"
     cs["time_model_notes"] = (
         "Optional Clinical Support is optional, non-credit, non-gating, and never counts toward the 720 required theory "
@@ -265,7 +265,7 @@ def main() -> int:
         "course_final_assessment_minutes_excluded": fa.get("estimated_assessment_minutes", 0),
         "optional_clinical_support_counts_toward_720": False,
         "rules": [
-            "Instructional minutes use CCCCO Modules 10-17 source-hour weighting normalized to the 720-minute target; the total is not recomputed from narration or card count.",
+            "Instructional minutes use NATP Modules 10-17 source-hour weighting normalized to the 720-minute target; the total is not recomputed from narration or card count.",
             "Narration, reading/review, interaction/challenge/remediation, and assessment minutes are tracked separately.",
             "Module assessments and the final exam are excluded from the 720 instructional total.",
             "Optional Clinical Support never counts toward the 720 required theory minutes.",

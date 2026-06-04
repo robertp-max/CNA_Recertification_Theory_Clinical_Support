@@ -1,6 +1,6 @@
 # Content Gaps and Dispositions
 
-> Honest disposition of every CCCCO 10-17 objective that is not fully covered at
+> Honest disposition of every NATP 10-17 objective that is not fully covered at
 > depth. Gaps are reported, never padded; no invented content. Dispositions:
 > **Source Repair** (placeholder pending SME-authored source), **Partial / under-depth**
 > (addressed but below allocation; queued for source-grounded expansion),
@@ -13,7 +13,7 @@
 
 ## Deferred to clinical (hands-on skill)  (8)
 
-| CCCCO obj | Objective | ContentV2 | Disposition note |
+| NATP obj | Objective | ContentV2 | Disposition note |
 |---|---|---|---|
 | M10.10 | Describe the process for taking TPR as a combined procedure | M10/L10 | TPR performance remains a hands-on clinical skill; online theory covers process, observation, reporting, and scope. |
 | M10.13 | Identify parts of the blood pressure equipment | M10/L13 | Blood-pressure equipment handling remains a hands-on clinical competency; online theory covers parts and reporting boundaries. |

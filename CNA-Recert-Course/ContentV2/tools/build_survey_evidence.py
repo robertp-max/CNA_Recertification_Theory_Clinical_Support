@@ -1,15 +1,15 @@
 """build_survey_evidence.py
 
-Generate CCCCO/NATP survey-readiness evidence for Modules 10-17 from a single
+Generate NATP survey-readiness evidence for Modules 10-17 from a single
 authored crosswalk + the canonical ContentV2 data + the time-depth audit.
 
 It does NOT claim survey approval. It makes coverage, assessment, and gaps
-defensible and inspectable: every CCCCO objective is mapped to a ContentV2
+defensible and inspectable: every NATP objective is mapped to a ContentV2
 lesson location with an honest coverage status, evidence type, depth flag
 (from the time-depth audit), and a disposition note.
 
 Inputs (all read-only):
-  survey-evidence/_source_text/cccco_objectives.json   (parsed CCCCO objectives)
+  survey-evidence/_source_text/cccco_objectives.json   (parsed NATP objectives)
   data/courseContentV2.json                            (canonical content + assessments)
   qa/time-depth-audit.json                             (honest active-learning depth)
 
@@ -56,68 +56,68 @@ DEFERRED_OBJECTIVES = {
 # never required to issue the (disabled) certificate).
 # ---------------------------------------------------------------------------
 CROSSWALK = {
-    # ---- CCCCO M10 Vital Signs -> M05 L04/L05 ----
+    # ---- NATP M10 Vital Signs -> M05 L04/L05 ----
     (10, 1): (["M05/L04"], "Covered", "Theory delivery (key terms)", "Vital-signs terminology taught in M05/L04."),
     (10, 2): (["M05/L04"], "Assessed", "Theory delivery + challenge/debrief", "Meaning/purpose of vital signs and observations taught and exercised in M05/L04 challenge."),
     (10, 3): (["M05/L04"], "Covered", "Theory delivery", "Temperature as an indicator of body function."),
-    (10, 4): (["M05/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M10: measures to raise/lower temperature with CNA scope/reporting boundaries."),
-    (10, 5): (["M05/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M10: pulse as arterial-wall expansion plus major pulse sites."),
+    (10, 4): (["M05/L04"], "Covered", "Theory delivery", "Expanded from NATP M10: measures to raise/lower temperature with CNA scope/reporting boundaries."),
+    (10, 5): (["M05/L04"], "Covered", "Theory delivery", "Expanded from NATP M10: pulse as arterial-wall expansion plus major pulse sites."),
     (10, 6): (["M05/L04"], "Covered", "Theory delivery", "Factors affecting pulse and pulse qualities."),
     (10, 7): (["M05/L04"], "Covered", "Theory delivery", "Respiration and factors affecting respiratory rate."),
     (10, 8): (["M05/L04"], "Covered", "Theory delivery", "Observations when measuring respirations."),
-    (10, 9): (["M05/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M10: labored, orthopnea, stertorous, shallow, dyspnea, tachypnea, bradypnea, apnea, and Cheyne-Stokes reporting."),
-    (10, 10): (["M05/L04"], "Deferred", "Theory delivery + deferred clinical", "TPR sequence and reporting expanded from CCCCO M10; hands-on performance remains a clinical skill."),
-    (10, 11): (["M05/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M10: systolic/diastolic pressure, pulse pressure, normal/abnormal ranges."),
+    (10, 9): (["M05/L04"], "Covered", "Theory delivery", "Expanded from NATP M10: labored, orthopnea, stertorous, shallow, dyspnea, tachypnea, bradypnea, apnea, and Cheyne-Stokes reporting."),
+    (10, 10): (["M05/L04"], "Deferred", "Theory delivery + deferred clinical", "TPR sequence and reporting expanded from NATP M10; hands-on performance remains a clinical skill."),
+    (10, 11): (["M05/L04"], "Covered", "Theory delivery", "Expanded from NATP M10: systolic/diastolic pressure, pulse pressure, normal/abnormal ranges."),
     (10, 12): (["M05/L04"], "Covered", "Theory delivery", "Factors increasing/decreasing blood pressure."),
     (10, 13): (["M05/L04"], "Deferred", "Deferred to clinical (hands-on)", "Identifying/handling BP equipment parts is a hands-on clinical competency."),
     (10, 14): (["M05/L04"], "Deferred", "Deferred to clinical (hands-on)", "Performing a BP reading is a graded clinical skill; theory introduces the procedure."),
     (10, 15): (["M05/L04", "M05/L05"], "Covered", "Theory delivery", "Pain observation and reporting covered in M05/L04-L05."),
     (10, 16): (["M05/L05", "M06/L02"], "Assessed", "Theory delivery + module check", "Recording vital signs on chart/graph/notes; documentation taught and assessed in M06."),
 
-    # ---- CCCCO M11 Nutrition -> M05 L01/L02 ----
+    # ---- NATP M11 Nutrition -> M05 L01/L02 ----
     (11, 1): (["M05/L01"], "Covered", "Theory delivery (key terms)", "Nutrition terminology in M05/L01."),
     (11, 2): (["M05/L01"], "Covered", "Theory delivery", "Body's need for food and fluids."),
-    (11, 3): (["M05/L01"], "Covered", "Theory delivery", "Expanded from CCCCO M11: nutrients, food sources, functions, fluids, and fiber."),
-    (11, 4): (["M05/L01"], "SME Review", "Theory delivery", "CCCCO cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here."),
-    (11, 5): (["M05/L01"], "Covered", "Theory delivery", "Expanded from CCCCO M11: vegetarian/vegan exclusions and vegan basic four food groups."),
+    (11, 3): (["M05/L01"], "Covered", "Theory delivery", "Expanded from NATP M11: nutrients, food sources, functions, fluids, and fiber."),
+    (11, 4): (["M05/L01"], "SME Review", "Theory delivery", "NATP cites 'MyPyramid'; current guidance is MyPlate. SME to confirm modernized framing; not invented here."),
+    (11, 5): (["M05/L01"], "Covered", "Theory delivery", "Expanded from NATP M11: vegetarian/vegan exclusions and vegan basic four food groups."),
     (11, 6): (["M05/L01"], "Covered", "Theory delivery", "Nutrition/fluid needs of the elderly."),
     (11, 7): (["M05/L01"], "Assessed", "Theory delivery + module check", "Therapeutic diets and NA responsibilities taught and assessed."),
-    (11, 8): (["M05/L02"], "Deferred", "Theory delivery + deferred clinical", "Feeding theory expanded from CCCCO M11 (dignity, pace, dysphagia signs, ordered consistency); hands-on feeding performance remains clinical."),
+    (11, 8): (["M05/L02"], "Deferred", "Theory delivery + deferred clinical", "Feeding theory expanded from NATP M11 (dignity, pace, dysphagia signs, ordered consistency); hands-on feeding performance remains clinical."),
     (11, 9): (["M05/L01", "M03/L03"], "Covered", "Theory delivery", "Dietary cultural/religious influences expanded in M05/L01; broader cultural respect remains tied to M03/L03 source-repair placeholder."),
-    (11, 10): (["M05/L02"], "Covered", "Theory delivery", "Expanded from CCCCO M11: tube feeding and IV infusion observation/reporting boundaries; CNAs do not administer or adjust."),
+    (11, 10): (["M05/L02"], "Covered", "Theory delivery", "Expanded from NATP M11: tube feeding and IV infusion observation/reporting boundaries; CNAs do not administer or adjust."),
 
-    # ---- CCCCO M12 Emergency Procedures -> M04 L05 ----
+    # ---- NATP M12 Emergency Procedures -> M04 L05 ----
     (12, 1): (["M04/L05"], "Covered", "Theory delivery (key terms)", "Emergency terminology in M04/L05."),
     (12, 2): (["M04/L05"], "Assessed", "Theory delivery + challenge/debrief", "Signs/symptoms of distress and NA prevent/respond role taught and exercised."),
-    (12, 3): (["M04/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M12: general emergency response sequence, advance-directive boundaries, and CPR/AED training limits."),
-    (12, 4): (["M04/L05"], "Deferred", "Theory delivery + deferred clinical", "Choking causes/signs expanded from CCCCO M12; abdominal-thrust performance remains a hands-on clinical skill."),
-    (12, 5): (["M04/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M12: common LTC emergency codes, facility variation, and hearing/vision considerations."),
+    (12, 3): (["M04/L05"], "Covered", "Theory delivery", "Expanded from NATP M12: general emergency response sequence, advance-directive boundaries, and CPR/AED training limits."),
+    (12, 4): (["M04/L05"], "Deferred", "Theory delivery + deferred clinical", "Choking causes/signs expanded from NATP M12; abdominal-thrust performance remains a hands-on clinical skill."),
+    (12, 5): (["M04/L05"], "Covered", "Theory delivery", "Expanded from NATP M12: common LTC emergency codes, facility variation, and hearing/vision considerations."),
 
-    # ---- CCCCO M13 Long Term Care Resident -> M03 / M04 / M05 L03 / M02 ----
+    # ---- NATP M13 Long Term Care Resident -> M03 / M04 / M05 L03 / M02 ----
     (13, 1): (["M03/L01"], "Covered", "Theory delivery (key terms)", "LTC-resident terminology in M03/L01."),
     (13, 2): (["M03/L01", "M03/L03", "M02/L01"], "Partial", "Theory delivery", "Basic human needs (environmental/psychological/social/recreational/spiritual); recreational/spiritual depth thin and partly in M03/L03 placeholder."),
-    (13, 3): (["M03/L01"], "SME Review", "Theory delivery", "Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from CCCCO M13 or disposition Out of Scope)."),
+    (13, 3): (["M03/L01"], "SME Review", "Theory delivery", "Community resources for the elderly not substantively covered; SME to confirm scope for recert theory (expand from NATP M13 or disposition Out of Scope)."),
     (13, 4): (["M03/L05"], "Source Repair", "Placeholder pending SME", "Special needs (developmental/mental disorders: ID, CP, epilepsy, Parkinson's, mental illness) map to M03/L05, currently a Source Repair placeholder."),
     (13, 5): (["M03/L01", "M03/L02"], "Covered", "Theory delivery", "Alzheimer's/related dementias are the core of M03/L01-L02 (authored)."),
-    (13, 6): (["M05/L03"], "Out of Scope", "Disposition", "Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from CCCCO M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise."),
-    (13, 7): (["M04/L01", "M04/L02", "M04/L03", "M04/L04", "M05/L03"], "Partial", "Theory delivery", "M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from CCCCO M13; broader all-body-systems/A&P coverage remains partial."),
-    (13, 8): (["M03/L01", "M04/L01", "M04/L04"], "Partial", "Theory delivery", "M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from CCCCO M13; comprehensive aging-changes catalog remains partial. (CCCCO SNF/ICF 276C A1/A2/B hour split noted in source.)"),
+    (13, 6): (["M05/L03"], "Out of Scope", "Disposition", "Body's basic organization/composition (intro A&P). M05 now includes applied skin anatomy/function from NATP M13, but systematic intro A&P remains out of recert-theory scope unless SME directs otherwise."),
+    (13, 7): (["M04/L01", "M04/L02", "M04/L03", "M04/L04", "M05/L03"], "Partial", "Theory delivery", "M04 now expands applied musculoskeletal anatomy/function, arthritis/fracture/osteoporosis observations, inactivity complications, and mobility/fall-risk duties from NATP M13; broader all-body-systems/A&P coverage remains partial."),
+    (13, 8): (["M03/L01", "M04/L01", "M04/L04"], "Partial", "Theory delivery", "M04 now expands aging-related musculoskeletal, nervous-system balance, fall-risk, and position-change content from NATP M13; comprehensive aging-changes catalog remains partial. (NATP SNF/ICF 276C A1/A2/B hour split noted in source.)"),
 
-    # ---- CCCCO M14 Rehabilitative Nursing -> M04 L03 (restorative) ----
+    # ---- NATP M14 Rehabilitative Nursing -> M04 L03 (restorative) ----
     (14, 1): (["M04/L03"], "Covered", "Theory delivery (key terms)", "Restorative-care terminology in M04/L03."),
     (14, 2): (["M04/L03"], "Covered", "Theory delivery", "Restorative care promotes independence/potential."),
     (14, 3): (["M04/L03"], "Covered", "Theory delivery", "Goals of restorative care."),
-    (14, 4): (["M04/L03", "M06/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M14: rehabilitation team members, team purpose, and CNA role/responsibilities."),
+    (14, 4): (["M04/L03", "M06/L05"], "Covered", "Theory delivery", "Expanded from NATP M14: rehabilitation team members, team purpose, and CNA role/responsibilities."),
     (14, 5): (["M04/L03"], "Covered", "Theory delivery", "NA responsibilities promoting self-care."),
     (14, 6): (["M04/L03", "M05/L01"], "Covered", "Theory delivery", "Activities of Daily Living (ADLs)."),
-    (14, 7): (["M04/L02", "M04/L03"], "Covered", "Theory delivery", "Expanded from CCCCO M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries."),
-    (14, 8): (["M04/L01", "M04/L03", "M05/L03"], "Covered", "Theory delivery", "Expanded from CCCCO M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from CCCCO M13."),
-    (14, 9): (["M04/L03"], "Deferred", "Theory delivery + deferred clinical", "ROM purpose, types, frequency, and safety rules expanded from CCCCO M14; performing ROM remains a hands-on clinical skill."),
-    (14, 10): (["M04/L02", "M04/L04"], "Covered", "Theory delivery", "Expanded from CCCCO M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation."),
+    (14, 7): (["M04/L02", "M04/L03"], "Covered", "Theory delivery", "Expanded from NATP M14: comfort/adaptive device catalog, purposes, and CNA observation boundaries."),
+    (14, 8): (["M04/L01", "M04/L03", "M05/L03"], "Covered", "Theory delivery", "Expanded from NATP M14: complications of inactivity and preventive methods; M05 skin/pressure prevention refreshed from NATP M13."),
+    (14, 9): (["M04/L03"], "Deferred", "Theory delivery + deferred clinical", "ROM purpose, types, frequency, and safety rules expanded from NATP M14; performing ROM remains a hands-on clinical skill."),
+    (14, 10): (["M04/L02", "M04/L04"], "Covered", "Theory delivery", "Expanded from NATP M14: readiness checks, transfer boundaries, gait belt/ambulation checks, mobility devices, visual-impairment supports, and escalation."),
     (14, 11): (["M04/L03", "M03/L01", "M06/L05"], "Partial", "Theory delivery", "M04 expands self-esteem, family involvement, praise, dignity, and positive restorative approach; broader psychosocial/family-depth remains shared with M03/M06."),
-    (14, 12): (["M04/L03", "M06/L02", "M06/L05"], "Covered", "Theory delivery", "Expanded from CCCCO M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations."),
+    (14, 12): (["M04/L03", "M06/L02", "M06/L05"], "Covered", "Theory delivery", "Expanded from NATP M14: CNA role in restorative care-plan meetings, resident assessment information, and direct-care observations."),
 
-    # ---- CCCCO M15 Observation and Charting -> M06 / M05 L05 ----
+    # ---- NATP M15 Observation and Charting -> M06 / M05 L05 ----
     (15, 1): (["M06/L01"], "Covered", "Theory delivery (key terms)", "Observation/charting terminology in M06/L01."),
     (15, 2): (["M06/L02"], "SME Review", "Theory delivery", "Medical word-elements (prefix/root/suffix) not emphasized; SME to confirm necessity for recert theory."),
     (15, 3): (["M06/L02"], "Partial", "Theory delivery", "Common medical terms/abbreviations introduced via documentation standards; standardized-abbreviation list thin."),
@@ -127,17 +127,17 @@ CROSSWALK = {
     (15, 7): (["M06/L02"], "Deferred", "Disposition / facility-specific", "ADL assessment for the MDS is facility/EHR-specific; theory explains purpose, completion is on-the-job. SME to confirm."),
     (15, 8): (["M06/L02"], "Covered", "Theory delivery", "Procedures for recording on the chart (incl. correction/PHI rules in M06)."),
 
-    # ---- CCCCO M16 Death and Dying -> M03 L04 (Source Repair placeholder) ----
+    # ---- NATP M16 Death and Dying -> M03 L04 (Source Repair placeholder) ----
     (16, 1): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Death/dying terminology maps to M03/L04, currently a Source Repair placeholder."),
-    (16, 2): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Kubler-Ross five stages of grief: M03/L04 placeholder; author from CCCCO M16."),
+    (16, 2): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Kubler-Ross five stages of grief: M03/L04 placeholder; author from NATP M16."),
     (16, 3): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Emotional/spiritual needs of the terminally ill and families: M03/L04 placeholder."),
     (16, 4): (["M03/L04", "M02/L01"], "Partial", "Theory delivery", "Rights of the dying patient/resident overlap resident-rights (M02/L01, authored); dying-specific framing in M03/L04 placeholder."),
-    (16, 5): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Signs of approaching death vs biological death: M03/L04 placeholder; author from CCCCO M16."),
+    (16, 5): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Signs of approaching death vs biological death: M03/L04 placeholder; author from NATP M16."),
     (16, 6): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Care/comfort measures for dying patients/residents: M03/L04 placeholder."),
-    (16, 7): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Hospice philosophy/goals and NA role: M03/L04 placeholder; author from CCCCO M16."),
+    (16, 7): (["M03/L04"], "Source Repair", "Placeholder pending SME", "Hospice philosophy/goals and NA role: M03/L04 placeholder; author from NATP M16."),
     (16, 8): (["M03/L04"], "Deferred", "Placeholder + deferred clinical", "Postmortem care is a hands-on clinical procedure; M03/L04 theory placeholder pending SME."),
 
-    # ---- CCCCO M17 Patient/Resident Abuse -> M02 (authored, well developed) ----
+    # ---- NATP M17 Patient/Resident Abuse -> M02 (authored, well developed) ----
     (17, 1): (["M02/L01", "M02/L02"], "Covered", "Theory delivery (key terms)", "Abuse terminology in M02/L01-L02."),
     (17, 2): (["M02/L02"], "Assessed", "Theory delivery + challenge/debrief", "Types of elder abuse taught and exercised (core M02/L02)."),
     (17, 3): (["M02/L03"], "Covered", "Theory delivery", "Issues related to elder abuse (signs/symptoms/evidence in M02/L03)."),
@@ -199,8 +199,8 @@ def build(canon, audit, objs):
                 status = "Covered"
                 evidence = "Theory delivery + source-backed activity + module knowledge check"
                 note = (
-                    f"Mapped directly to CCCCO Module {cm} runtime lesson L{o['n']:02d}; "
-                    "instructional content is generated from CCCCO source text."
+                    f"Mapped directly to NATP Module {cm} runtime lesson L{o['n']:02d}; "
+                    "instructional content is generated from NATP source text."
                 )
             ref_details = []
             any_under = False
@@ -247,8 +247,8 @@ def summarize(rows):
 # --------------------------- writers --------------------------------------
 
 def w_source_map(rows):
-    L = ["# CCCCO/NATP Source-to-Lesson Map (Modules 10-17)", "",
-         "> Every CCCCO Module 10-17 performance objective mapped to a ContentV2 lesson",
+    L = ["# NATP Source-to-Lesson Map (Modules 10-17)", "",
+         "> Every NATP Module 10-17 performance objective mapped to a ContentV2 lesson",
          "> location with an honest coverage status, evidence type, time-depth flag, and",
          "> disposition note. **This evidence does not claim or guarantee survey approval.**",
          "> `depth_status = under-depth` reflects the deterministic time-depth audit: the",
@@ -287,10 +287,10 @@ def w_csv(rows):
 
 
 def w_coverage_by_module(rows):
-    L = ["# Coverage by CCCCO Source Module (10-17)", "",
+    L = ["# Coverage by NATP Source Module (10-17)", "",
          "> Per-source-module coverage rollup. Status counts use the authored crosswalk.",
          "> Survey approval is not claimed or implied.", "",
-         "| CCCCO module | Objectives | Covered | Assessed | Partial | Deferred | Source Repair | Out of Scope | SME Review |",
+         "| NATP module | Objectives | Covered | Assessed | Partial | Deferred | Source Repair | Out of Scope | SME Review |",
          "|---|--:|--:|--:|--:|--:|--:|--:|--:|"]
     mods = {}
     for r in rows:
@@ -313,7 +313,7 @@ def w_coverage_by_module(rows):
 
 def w_assessment(rows, ma, fa):
     L = ["# Assessment Evidence Map", "",
-         "> Where CCCCO objectives are exercised by ContentV2 assessments. Module knowledge",
+         "> Where NATP objectives are exercised by ContentV2 assessments. Module knowledge",
          "> checks and the final exam are tracked SEPARATELY from the 720 instructional",
          "> minutes and never reveal answer keys to learners.", "",
          "## Module knowledge checks", "",
@@ -327,8 +327,8 @@ def w_assessment(rows, ma, fa):
           f"- Question bank size: {fa.get('question_bank_size')}; attempt size: {fa.get('attempt_size')}; pass %: {fa.get('pass_percent')}",
           f"- Answer-key policy: {fa.get('answer_key_policy')}",
           f"- Estimated minutes (excluded from 720): {fa.get('estimated_assessment_minutes')}",
-          "", "## CCCCO objectives with direct assessment evidence", "",
-          "| CCCCO obj | Objective | Assessed via | Final pool |", "|---|---|---|:--:|"]
+          "", "## NATP objectives with direct assessment evidence", "",
+          "| NATP obj | Objective | Assessed via | Final pool |", "|---|---|---|:--:|"]
     for r in rows:
         if r["coverage_status"] == "Assessed" or r["assessed_module_checks"]:
             via = "; ".join(r["assessed_module_checks"]) or "(module check)"
@@ -339,7 +339,7 @@ def w_assessment(rows, ma, fa):
 
 def w_gaps(rows):
     L = ["# Content Gaps and Dispositions", "",
-         "> Honest disposition of every CCCCO 10-17 objective that is not fully covered at",
+         "> Honest disposition of every NATP 10-17 objective that is not fully covered at",
          "> depth. Gaps are reported, never padded; no invented content. Dispositions:",
          "> **Source Repair** (placeholder pending SME-authored source), **Partial / under-depth**",
          "> (addressed but below allocation; queued for source-grounded expansion),",
@@ -359,7 +359,7 @@ def w_gaps(rows):
         if not rs:
             L += ["- None.", ""]
             continue
-        L += ["| CCCCO obj | Objective | ContentV2 | Disposition note |", "|---|---|---|---|"]
+        L += ["| NATP obj | Objective | ContentV2 | Disposition note |", "|---|---|---|---|"]
         for r in rs:
             refs = "; ".join(r["content_v2_refs"])
             L.append(f"| M{r['cccco_module']}.{r['objective_n']} | {r['objective'][:80]} | {refs} | {r['note']} |")
@@ -370,12 +370,12 @@ def w_gaps(rows):
 def w_summary(rows, by_status, audit, module_under, module_status):
     total = len(rows)
     addressed = sum(1 for r in rows if r["coverage_status"] in ("Covered", "Assessed", "Partial", "Deferred"))
-    L = ["# Survey Readiness Coverage Summary (CCCCO/NATP Modules 10-17)", "",
+    L = ["# Survey Readiness Coverage Summary (NATP Modules 10-17)", "",
          "> **This document does NOT claim or guarantee survey/audit approval.** It provides",
-         "> defensible, inspectable evidence that all CCCCO Module 10-17 objectives are",
+         "> defensible, inspectable evidence that all NATP Module 10-17 objectives are",
          "> discussed, mapped, or explicitly dispositioned, with honest depth and gap flags.", "",
          "## Objective coverage rollup", "",
-         f"- Total CCCCO 10-17 objectives mapped: **{total}**",
+         f"- Total NATP 10-17 objectives mapped: **{total}**",
          f"- Addressed in ContentV2 theory (Covered/Assessed/Partial/Deferred): **{addressed}**",
          ""]
     L += ["| Coverage status | Count |", "|---|--:|"]
@@ -403,9 +403,9 @@ def w_summary(rows, by_status, audit, module_under, module_status):
           "  from the 720 instructional minutes; answer keys are never revealed.",
           "- No CDPH approval is claimed; the production certificate remains disabled; no PHI.",
           "", "## Top survey-readiness actions (honest, source-grounded)", "",
-          "1. Author CCCCO M16 (Death & Dying) into M03/L04 (currently a Source Repair",
-          "   placeholder) and M03/L03, L05 from the CCCCO source.",
-          "2. Expand under-depth M02/M04/M05/M06 objectives marked Partial from CCCCO 10-17.",
+          "1. Author NATP M16 (Death & Dying) into M03/L04 (currently a Source Repair",
+          "   placeholder) and M03/L03, L05 from the NATP source.",
+          "2. Expand under-depth M02/M04/M05/M06 objectives marked Partial from NATP 10-17.",
           "3. SME to confirm dispositions marked SME Review / Out of Scope (e.g., MyPyramid vs",
           "   MyPlate, MDS specifics, intro A&P scope, community resources).", ""]
     (SE / "SURVEY_READINESS_COVERAGE_SUMMARY.md").write_text("\n".join(L) + "\n", encoding="utf-8")

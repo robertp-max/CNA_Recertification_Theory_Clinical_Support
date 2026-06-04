@@ -39,13 +39,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -69,13 +69,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -99,13 +99,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -129,13 +129,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -159,13 +159,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -189,13 +189,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -219,13 +219,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L07; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L07; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -249,13 +249,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L08; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L08; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -279,13 +279,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L09; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L09; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -309,7 +309,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
@@ -339,13 +339,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L11; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L11; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -369,13 +369,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L12; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L12; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -399,7 +399,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
@@ -429,7 +429,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
@@ -459,13 +459,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L15; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L15; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 10,
@@ -489,13 +489,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 10: Vital Signs Knowledge Check"
+        "NATP Module 10: Vital Signs Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m10.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 10 runtime lesson L16; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 10 runtime lesson L16; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -519,13 +519,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -549,13 +549,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -579,13 +579,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -609,13 +609,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -639,13 +639,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -669,13 +669,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -699,13 +699,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L07; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L07; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -729,7 +729,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
@@ -759,13 +759,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L09; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L09; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 11,
@@ -789,13 +789,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 11: Nutrition Knowledge Check"
+        "NATP Module 11: Nutrition Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m11.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 11 runtime lesson L10; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 11 runtime lesson L10; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 12,
@@ -819,13 +819,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 12: Emergency Procedures Knowledge Check"
+        "NATP Module 12: Emergency Procedures Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m12.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 12 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 12 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 12,
@@ -849,13 +849,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 12: Emergency Procedures Knowledge Check"
+        "NATP Module 12: Emergency Procedures Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m12.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 12 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 12 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 12,
@@ -879,13 +879,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 12: Emergency Procedures Knowledge Check"
+        "NATP Module 12: Emergency Procedures Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m12.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 12 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 12 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 12,
@@ -909,7 +909,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 12: Emergency Procedures Knowledge Check"
+        "NATP Module 12: Emergency Procedures Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m12.assessment.a00_splash"
@@ -939,13 +939,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 12: Emergency Procedures Knowledge Check"
+        "NATP Module 12: Emergency Procedures Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m12.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 12 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 12 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -969,13 +969,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -999,13 +999,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1029,13 +1029,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1059,13 +1059,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1089,13 +1089,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1119,13 +1119,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1149,13 +1149,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L07; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L07; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 13,
@@ -1179,13 +1179,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 13: Long Term Care Resident Knowledge Check"
+        "NATP Module 13: Long Term Care Resident Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m13.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 13 runtime lesson L08; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 13 runtime lesson L08; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1209,13 +1209,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1239,13 +1239,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1269,13 +1269,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1299,13 +1299,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1329,13 +1329,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1359,13 +1359,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1389,13 +1389,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L07; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L07; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1419,13 +1419,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L08; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L08; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1449,7 +1449,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
@@ -1479,13 +1479,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L10; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L10; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1509,13 +1509,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L11; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L11; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 14,
@@ -1539,13 +1539,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 14- Rehabilitative Nursing Knowledge Check"
+        "NATP Module 14- Rehabilitative Nursing Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m14.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 14 runtime lesson L12; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 14 runtime lesson L12; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1569,13 +1569,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1599,13 +1599,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1629,13 +1629,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1659,13 +1659,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1689,13 +1689,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1719,13 +1719,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 15,
@@ -1749,7 +1749,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
@@ -1779,13 +1779,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 15: Observation and Charting Knowledge Check"
+        "NATP Module 15: Observation and Charting Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m15.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 15 runtime lesson L08; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 15 runtime lesson L08; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1809,13 +1809,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1839,13 +1839,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1869,13 +1869,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1899,13 +1899,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1929,13 +1929,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L05; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1959,13 +1959,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L06; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L06; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -1989,13 +1989,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 16 runtime lesson L07; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 16 runtime lesson L07; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 16,
@@ -2019,7 +2019,7 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 16: Death and Dying Knowledge Check"
+        "NATP Module 16: Death and Dying Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m16.assessment.a00_splash"
@@ -2049,13 +2049,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 17: Patient/Resident Abuse Knowledge Check"
+        "NATP Module 17: Patient/Resident Abuse Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m17.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 17 runtime lesson L01; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 17 runtime lesson L01; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 17,
@@ -2079,13 +2079,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 17: Patient/Resident Abuse Knowledge Check"
+        "NATP Module 17: Patient/Resident Abuse Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m17.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 17 runtime lesson L02; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 17 runtime lesson L02; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 17,
@@ -2109,13 +2109,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 17: Patient/Resident Abuse Knowledge Check"
+        "NATP Module 17: Patient/Resident Abuse Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m17.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 17 runtime lesson L03; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 17 runtime lesson L03; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 17,
@@ -2139,13 +2139,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 17: Patient/Resident Abuse Knowledge Check"
+        "NATP Module 17: Patient/Resident Abuse Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m17.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 17 runtime lesson L04; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 17 runtime lesson L04; instructional content is generated from NATP source text."
     },
     {
       "cccco_module": 17,
@@ -2169,13 +2169,13 @@
       "depth_status": "ok",
       "source_repair_placeholder": false,
       "assessed_module_checks": [
-        "CCCCO Module 17: Patient/Resident Abuse Knowledge Check"
+        "NATP Module 17: Patient/Resident Abuse Knowledge Check"
       ],
       "assessed_module_locations": [
         "module.m17.assessment.a00_splash"
       ],
       "final_exam_pool": true,
-      "note": "Mapped directly to CCCCO Module 17 runtime lesson L05; instructional content is generated from CCCCO source text."
+      "note": "Mapped directly to NATP Module 17 runtime lesson L05; instructional content is generated from NATP source text."
     }
   ]
 }

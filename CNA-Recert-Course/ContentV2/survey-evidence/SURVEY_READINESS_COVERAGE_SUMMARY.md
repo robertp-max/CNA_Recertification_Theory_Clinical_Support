@@ -1,12 +1,12 @@
-# Survey Readiness Coverage Summary (CCCCO/NATP Modules 10-17)
+# Survey Readiness Coverage Summary (NATP Modules 10-17)
 
 > **This document does NOT claim or guarantee survey/audit approval.** It provides
-> defensible, inspectable evidence that all CCCCO Module 10-17 objectives are
+> defensible, inspectable evidence that all NATP Module 10-17 objectives are
 > discussed, mapped, or explicitly dispositioned, with honest depth and gap flags.
 
 ## Objective coverage rollup
 
-- Total CCCCO 10-17 objectives mapped: **72**
+- Total NATP 10-17 objectives mapped: **72**
 - Addressed in ContentV2 theory (Covered/Assessed/Partial/Deferred): **72**
 
 | Coverage status | Count |
@@ -22,7 +22,7 @@
 ## Honest depth context (from the time-depth audit)
 
 - Course declared theory model: **720 min**
-- Estimated active-learning: **1143.04 min (~19.05 h)**
+- Estimated active-learning: **782.73 min (~13.05 h)**
 - Failing/under-depth lessons: **0**
 - Modules currently under-depth or source-repair (objectives addressed but expansion pending):
 
@@ -38,9 +38,9 @@
 
 ## Top survey-readiness actions (honest, source-grounded)
 
-1. Author CCCCO M16 (Death & Dying) into M03/L04 (currently a Source Repair
-   placeholder) and M03/L03, L05 from the CCCCO source.
-2. Expand under-depth M02/M04/M05/M06 objectives marked Partial from CCCCO 10-17.
+1. Author NATP M16 (Death & Dying) into M03/L04 (currently a Source Repair
+   placeholder) and M03/L03, L05 from the NATP source.
+2. Expand under-depth M02/M04/M05/M06 objectives marked Partial from NATP 10-17.
 3. SME to confirm dispositions marked SME Review / Out of Scope (e.g., MyPyramid vs
    MyPlate, MDS specifics, intro A&P scope, community resources).
 

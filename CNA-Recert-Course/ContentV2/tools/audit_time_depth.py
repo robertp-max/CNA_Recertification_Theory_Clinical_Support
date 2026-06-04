@@ -16,12 +16,12 @@ ESTIMATION MODEL (documented, deterministic)
     consumes that content ONCE (listen OR read), so a delivery card's consumption
     time = max(narration_minutes, reading_minutes) - NOT their sum. The transcript
     is treated as an audio fallback, never as automatic extra time.
-  Per-card active-learning time:
+    Per-card active-learning time:
     overview  : clamp(max(narration, reading), 0.5, 1.0)
     delivery  : max(narration, reading) + 0.5 reflection/check + optional
-                source_backed_activity_minutes for authored CCCCO activities
-    challenge : clamp(1.5 + words/180, 1.5, 3.0)   (read scenario + decide)
-    debrief   : clamp(2.0 + words/180, 2.0, 4.0)   (rationale review)
+                source_backed_activity_minutes for authored NATP activities
+    challenge : clamp(1.5 + words/180, 1.5, 3.0)   (module-level scenario + decide)
+    debrief   : clamp(2.0 + words/180, 2.0, 4.0)   (module-level rationale review)
   Assessment time (module + final) is reported SEPARATELY and never added to
   lesson instructional depth. Optional clinical support contributes 0.
 
@@ -120,6 +120,10 @@ def audit(data: dict) -> dict:
         lessons_out = []
         lessons_below = []
         is_repair_mod = (m.get("status") == "source-repair")
+        module_challenge_count = 0
+        module_debrief_count = 0
+        module_challenge_minutes = 0.0
+        module_remediation_minutes = 0.0
 
         for l in m.get("lessons", []):
             agg = {"narration": 0.0, "reading": 0.0, "interaction": 0.0, "challenge": 0.0,
@@ -154,10 +158,11 @@ def audit(data: dict) -> dict:
                 reasons.append(f"active {r2(active)}min < 70% of displayed {displayed}min")
             if displayed >= 15 and counts["delivery"] < 6:
                 reasons.append(f"only {counts['delivery']} delivery cards for {displayed}min")
-            if counts["challenge"] == 0 or counts["debrief"] == 0:
-                reasons.append("missing challenge or debrief")
-            elif agg["challenge"] < 1.5 or agg["remediation"] < 2.0:
-                reasons.append("challenge/debrief too thin")
+            if counts["challenge"] or counts["debrief"]:
+                if counts["challenge"] != 1 or counts["debrief"] != 1:
+                    reasons.append("lesson with module challenge must include exactly one challenge and one debrief")
+                elif agg["challenge"] < 1.5 or agg["remediation"] < 2.0:
+                    reasons.append("challenge/debrief too thin")
             if scaffold_hits:
                 reasons.append(f"scaffolding/answer-key phrase: {scaffold_hits[0][1]}")
 
@@ -174,8 +179,8 @@ def audit(data: dict) -> dict:
                 gap_reason = "No canonical ContentV1 source (truncated/contaminated after Screen 3.2.3); Source Repair Required."
             else:
                 expansion = False
-            gap_reason = ("CCCCO source-backed lesson cards and activities are already transformed; "
-                          "remaining gap, if any, must be closed only from CCCCO Modules 10-17 source - not padded.")
+            gap_reason = ("NATP source-backed lesson cards and activities are already transformed; "
+                          "remaining gap, if any, must be closed only from NATP Modules 10-17 source - not padded.")
 
             status = l.get("time_model_status") or ("source-repair" if is_repair_mod else "modeled")
             if failing and status not in ("source-repair",):
@@ -208,6 +213,10 @@ def audit(data: dict) -> dict:
             m_active += active
             m_displayed += displayed
             m_wc += agg["wc"]
+            module_challenge_count += counts["challenge"]
+            module_debrief_count += counts["debrief"]
+            module_challenge_minutes += agg["challenge"]
+            module_remediation_minutes += agg["remediation"]
 
         ma = module_assessments.get(mid, {})
         module_assessment_minutes = assess_minutes(ma)
@@ -219,6 +228,13 @@ def audit(data: dict) -> dict:
         m_narr = sum(lo["narration_minutes"] for lo in lessons_out)
         if m_narr >= m_instructional and m_instructional > 0:
             m_reasons.append("narration >= full instructional allocation")
+        if mid != "M00" and m_instructional > 0:
+            if module_challenge_count != 1 or module_debrief_count != 1:
+                m_reasons.append(
+                    f"expected exactly one module-level challenge/debrief, found {module_challenge_count}/{module_debrief_count}"
+                )
+            elif module_challenge_minutes < 1.5 or module_remediation_minutes < 2.0:
+                m_reasons.append("module-level challenge/debrief too thin")
 
         modules_out.append({
             "module_id": mid,
@@ -233,6 +249,8 @@ def audit(data: dict) -> dict:
             "sme_review_flag": m.get("sme_review_flag"),
             "source_status_flag": m.get("source_status_flag"),
             "counts_toward_optional_clinical_support": bool(m.get("counts_toward_optional_clinical_support")),
+            "module_challenge_card_count": module_challenge_count,
+            "module_debrief_card_count": module_debrief_count,
             "failing": bool(m_reasons),
             "failure_reasons": m_reasons,
             "lessons": lessons_out,

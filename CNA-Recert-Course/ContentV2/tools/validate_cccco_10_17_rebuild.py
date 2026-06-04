@@ -1,4 +1,4 @@
-"""Validate the one-phase CCCCO Modules 10-17 ContentV2 rebuild."""
+"""Validate the one-phase NATP Modules 10-17 ContentV2 rebuild."""
 from __future__ import annotations
 
 import json
@@ -51,7 +51,7 @@ def main() -> int:
 
     objective_total = sum(m["objective_count"] for m in objectives["modules"])
     if objective_total != 72:
-        failures.append(f"parsed CCCCO objective count changed: {objective_total}")
+        failures.append(f"parsed NATP objective count changed: {objective_total}")
     rows = evidence.get("rows", evidence if isinstance(evidence, list) else [])
     if len(rows) != 72:
         failures.append(f"survey evidence rows != 72: {len(rows)}")
@@ -66,10 +66,24 @@ def main() -> int:
 
     for module in data["modules"]:
         mid = module["module_id"]
+        challenge_count = sum(
+            1
+            for lesson in module.get("lessons", [])
+            for card in lesson.get("cards", [])
+            if card.get("card_type") == "challenge"
+        )
+        debrief_count = sum(
+            1
+            for lesson in module.get("lessons", [])
+            for card in lesson.get("cards", [])
+            if card.get("card_type") == "debrief"
+        )
+        if mid != "M00" and (challenge_count != 1 or debrief_count != 1):
+            failures.append(f"{mid} must have exactly one module-level challenge/debrief; found {challenge_count}/{debrief_count}")
         if mid != "M00" and not mid.startswith("M1"):
-            failures.append(f"non-CCCCO instructional module remains: {mid}")
-        if mid != "M00" and "CCCCO Module" not in module["module_title"]:
-            failures.append(f"learner-facing title does not use CCCCO Module naming: {mid}")
+            failures.append(f"non-NATP instructional module remains: {mid}")
+        if mid != "M00" and "NATP Module" not in module["module_title"]:
+            failures.append(f"learner-facing title does not use NATP Module naming: {mid}")
         for lesson in module.get("lessons", []):
             for card in lesson.get("cards", []):
                 cid = f"{mid}/{lesson['lesson_id']}/{card.get('card_id')}"
@@ -78,8 +92,8 @@ def main() -> int:
                         failures.append(f"{cid} missing {key}")
                 if mid != "M00":
                     ref = card.get("source_reference", "")
-                    if f"CCCCO Module {int(mid[1:])}" not in ref:
-                        failures.append(f"{cid} source reference is not CCCCO module-specific: {ref}")
+                    if f"NATP Module {int(mid[1:])}" not in ref:
+                        failures.append(f"{cid} source reference is not NATP module-specific: {ref}")
                     if card.get("source_module_number") != mid[1:]:
                         failures.append(f"{cid} source_module_number mismatch")
                 learner_blob = "\n".join(str(card.get(k) or "") for k in ("display_title", "learner_facing_content", "narration_script", "transcript_text"))
