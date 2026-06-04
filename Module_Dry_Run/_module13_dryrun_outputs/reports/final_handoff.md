@@ -3,7 +3,7 @@
 Date: 2026-06-04T08:09:30
 
 ## Active Requirements Used
-Module 13 only; approved source PDF; output under `Module_Dry_Run/_module13_dryrun_outputs`; JSON narration batch package only; no CSV; no media generation; no approval/credit/certificate/competency/PHI claims.
+Module 13 only; approved source PDF; output under `Module_Dry_Run/_module13_dryrun_outputs`; JSON narration batch package/no CSV; user-authorized Qwen voice-clone narration generated and reconciled; image/SFX generation remains gated; no approval/credit/certificate/competency/PHI claims.
 
 ## Repo / Branch / Scope
 - Repo path: `C:/AI/Git/CNA_Recertification_Theory_Clinical_Support`
