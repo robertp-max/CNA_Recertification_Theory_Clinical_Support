@@ -1,0 +1,150 @@
+{
+  "module_id": "M07",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M07-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O02-IMG01",
+      "title": "units of measurement used in the household and — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 2: Identify units of measurement used in the household and metric systems for weight, length, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O02-IMG02",
+      "title": "units of measurement used in the household and — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 2: Identify units of measurement used in the household and metric systems for weight, length, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O02-IMG03",
+      "title": "units of measurement used in the household and — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 2: Identify units of measurement used in the household and metric systems for weight, length, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O03-IMG01",
+      "title": "and describe equipment commonly used by the Nu — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 3: Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O03-IMG02",
+      "title": "and describe equipment commonly used by the Nu — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 3: Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O03-IMG03",
+      "title": "and describe equipment commonly used by the Nu — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 3: Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O04-IMG01",
+      "title": "Convert common measurements between the househ — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 4: Convert common measurements between the household and metric systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O04-IMG02",
+      "title": "Convert common measurements between the househ — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 4: Convert common measurements between the household and metric systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O04-IMG03",
+      "title": "Convert common measurements between the househ — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 4: Convert common measurements between the household and metric systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O05-IMG01",
+      "title": "Measure and record weight, height, and volume — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 5: Measure and record weight, height, and volume using the metric and household systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O05-IMG02",
+      "title": "Measure and record weight, height, and volume — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 5: Measure and record weight, height, and volume using the metric and household systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O05-IMG03",
+      "title": "Measure and record weight, height, and volume — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 5: Measure and record weight, height, and volume using the metric and household systems. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O06-IMG01",
+      "title": "Convert between standard time and military tim — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 6: Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O06-IMG02",
+      "title": "Convert between standard time and military tim — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 6: Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M07-O06-IMG03",
+      "title": "Convert between standard time and military tim — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 7: Weights and Measures, Objective 6: Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

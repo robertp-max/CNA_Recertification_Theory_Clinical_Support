@@ -1,0 +1,758 @@
+{
+  "run_name": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf",
+  "source_title": "Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+  "learner_facing_title": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+  "minimum_theory_hours": 1.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": 3.0,
+  "selected_theory_hours": 3.0,
+  "selected_theory_basis": "source recommended theory hours",
+  "theory_minutes_total": 180,
+  "clinical_hours": 1.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to introduce the student to the concepts and procedures related to the patient's/resident's safety including environmental emergency issues The Nurse Assistant `s role in creating a safe environment for the patient/resident is discussed.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Circulation, Sensation & Movement (CSM)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Disaster plan",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Emergency",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Emergency codes",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Escape routes",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "External disaster",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "False imprisonment",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Fire plan",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Internal disaster",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Material Safety Data Sheet (MSDS)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "National Patient Safety Goals",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Occupational Safety and Health Administration (OSHA)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Omnibus Budget Reconciliation Act (OBRA)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Oxygen (O2)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Oxygen precautions",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Postural supports",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Pull, Aim, Squeeze, Sweep (PASS)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Quality Assurance (QA)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Rapid Response Team (RRT)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Rescue, Alarm, Contain, Extinguish (RACE)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Restraints",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Safety Device Reminders (SDR)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Soft protective device",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "STAT",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Total Quality Improvement (TQI)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Workplace violence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+      "source_excerpt": "Assignments Define key terminology. A. Review the terms listed in the terminology section A. Lecture/Discussion A. Ask students to select B. Spell the listed terms accurately B. Games: word searches, five words from the list C. Pronounce the terms correctly of key terminology and D. Use the terms in their proper context crossword puzzles, write a sentence for Family Feud, Jeopardy, each defining the term",
+      "weighted_minutes": 7,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Assignments Define key terminology. A. Review the terms listed in the terminology section A. Lecture/Discussion A. Ask students to select B. Spell the listed terms accurately B. Games: word searches, five words from the list C. Pronounce the terms correctly of key terminology and D. Use the terms in their proper context crossword puzzles, write a sentence for Family Feud, Jeopardy, each defining the term",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+      "exact_objective_statement": "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+      "source_excerpt": ": bingo, spelling bee, Describe the role of the Nurse Assistant in emergency, disaster, hangman, and B. Administer vocabulary and fire situations. concentration pre-test and post-test A. Be prepared A. Lecture/Discussion A. Written test 1. Know emergency codes (facility rules) B. Refer to Objective 4 for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical each clinical site before visiting the facility System) by dialing 911 D. Show pictures of fire exit D. Remain calm and do not shout \"fire\" or \"cardiac arrest\", etc. signs and pull boxes E. \"STAT\" means to respond at once or there is an immediate need E. At facility, instruct G. Use RACE and PASS per policy (see Objective 8) students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+        "Source excerpt support: : bingo, spelling bee, Describe the role of the Nurse Assistant in emergency, disaster, hangman, and B. Administer vocabulary and fire situations. concentration pre-test and post-test A. Be prepared A. Lecture/Discussion A. Written test 1. Know emergency codes (facility rules) B. Refer to Objective 4 for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the role of the Nurse Assistant in emergency — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in emergency — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in emergency — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+      "exact_objective_statement": "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+      "source_excerpt": "Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep them comfortable and quiet students to locate A. Written test B. Recognizes emergency E. Move or direct families and visitors to the designated area in the designated safe areas in codes and responds facility or a safe environment the facility according to policy F. Close fire doors C. Role play emergency situations and ask students to respond to patients/residents D. Unit/facility scavenger hunt",
+      "weighted_minutes": 10,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+        "Source excerpt support: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep them comfortable and quiet students to locate A. Written test B. Recognizes emergency E. Move or direct families and visitors to the designated area in the designated safe areas in codes and responds facility or a safe environment the facility according to policy F. Close fire doors C. Role play e",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "ways the Nurse Assistant can help patients/res — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways the Nurse Assistant can help patients/res — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways the Nurse Assistant can help patients/res — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Describe common emergency codes used in facilities",
+      "exact_objective_statement": "Describe common emergency codes used in facilities",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+      "source_excerpt": "for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical each clinical site before visiting the facility System) by dialing 911 D. Show pictures of fire exit D. Remain calm and do not shout \"fire\" or \"cardiac arrest\", etc. signs and pull boxes E. \"STAT\" means to respond at once or there is an immediate need E. At facility, instruct G. Use RACE and PASS per policy (see Objective 8) students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences Objective 3: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep ",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: Describe common emergency codes used in facilities",
+        "Source excerpt support: for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical each clinical site before visiting the facility System) by dialing 911 D. Show pictures of fire exit D. Remain calm and do not shout \"fire\" or \"cardiac arrest\", etc. signs and pull boxes E. \"STAT\" means to respond at once or there is an immediate need E. At facility, instruct G. Use RACE and PASS per ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "common emergency codes used in facilities — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common emergency codes used in facilities — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common emergency codes used in facilities — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe general rules for providing a safe environment for the Nurse Assistant",
+      "exact_objective_statement": "Describe general rules for providing a safe environment for the Nurse Assistant",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe general rules for providing a safe environment for the B. Show examples of B. Reports safety issues Nurse Assistant. C. Follows policy to protect A. Use body mechanic principles incident form B. Use ergonomics C. Discuss TQI and self from injury C. Know the policy and procedures regarding OSHA safety laws on performance A. Written test use of equipment and handling hazardous materials (MSDS) improvement issues B. Responds to mock D. Wipe up spills immediately and identify wet floors with the A. Lecture/Discussion safety issue according to appropriate signs B. Show pictures of policy E. Walk, never run in halls and watch carefully at intersections F. Use contents of containers only if they have proper labels/dates hazards and have students identify them and you know how to use them correctly and describe how to G. Tag and report broken equipment report/correct hazard H. Report unsafe situations C. Observe student in I. Use 3-pronged plugs on electrical equipment J. Refuse to do any task that you do not know how to do K. Know proper operation of equipment L. Watch linen and garbage cans for safety hazards (sharps) M. Report if sharps container is over half full N. Know procedure to follow in case of personal injury 1. Report the injury immediately to the supervisor 2. Fill out an incident report/unusual occurrence form as per facility policy and procedure 3. Seek medical help as necessary O. Patient/resident and staff safety is an important quality assurance issue",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: Describe general rules for providing a safe environment for the Nurse Assistant",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe general rules for providing a safe environment for the B. Show examples of B. Reports safety issues Nurse Assistant. C. Follows policy to protect A. Use body mechanic principles incident form B. Use ergonomics C. Discuss TQI and self from injury C. Know the policy and procedures regarding OSHA safety laws on performance A. Written test use of equipment and handling hazardous materials (MSDS) improvement issues B. Responds to mock D. Wipe up spills immediately and identify wet floors with the A. Lecture/Discussion safety issue according to appropriate signs B. Show pictures of policy E. Walk, never run in halls and watch carefully at intersection",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "general rules for providing a safe environment — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general rules for providing a safe environment — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general rules for providing a safe environment — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe general rules for providing a safe environment for the patient/resident",
+      "exact_objective_statement": "Describe general rules for providing a safe environment for the patient/resident",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+      "source_excerpt": "Describe general rules for providing a safe environment for the patient/resident. A. Know the National Patient Safety Goals B. Check wrist bands/name tags before performing any task on a patient/resident C. Use side rails when appropriate and know facility policy and procedure on side rails D. Have the patient/resident use handrails/appropriate assistive device when unstable Module 4: Prevention and Management of Catastrophes and Unusual Occurrences E. Have patient/resident wear non-skid footwear when ambulatory patient/resident room F. Place the call signal light within the reach of the Ask if it is a safe environment and if not patient/resident and instruct them on correct use how to correct it G. Lock wheels on bed/gurney/wheelchair when transferring the patient/resident H. Answer call lights promptly I. Use night-lights to help ensure good lighting and reduce obstacle hazards J. Keep the bed in the lowest position except when tending to the patient/resident K. Check bed/chair alarms ensuring working condition L. Keep environment clutter free",
+      "weighted_minutes": 14,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: Describe general rules for providing a safe environment for the patient/resident",
+        "Source excerpt support: Describe general rules for providing a safe environment for the patient/resident. A. Know the National Patient Safety Goals B. Check wrist bands/name tags before performing any task on a patient/resident C. Use side rails when appropriate and know facility policy and procedure on side rails D. Have the patient/resident use handrails/appropriate assistive device when unstable Module 4: Prevention and Management of Catastrophes and Unusual Occurrences E. Have patient/resident wear non-skid footwear when ambulatory patient/resident room F. Place the call signal light within the reach of the Ask if it is a safe environment and if not patient/resident and instruct them on correct use how to corre",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "general rules for providing a safe environment — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general rules for providing a safe environment — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general rules for providing a safe environment — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "Identify two safety issues for the patients/residents and interventions to prevent them",
+      "exact_objective_statement": "Identify two safety issues for the patients/residents and interventions to prevent them",
+      "source_pages": [
+        7,
+        8
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe two of the top safety issues for B. Shows videos for use of B. Uses assistive devices patients/residents and interventions to prevent them. A. Falls are 70% of all patient/resident-related accidents. Most devices according to policy C. Demonstrate use of C. Reports and corrects falls occur during 4:00pm and 8:00pm and during shift changes B. Ways to prevent falls devices including gait fall hazards belt and heating pads D. Monitors temperature 1. Proper position in bed/wheelchair and readjust every two D. Review transfer and hours ambulation techniques of liquids used for E. Demonstrate use of soft patients/residents 2. Soft protective devices as ordered and necessary restraints and avoids exposure 3. Side rails as necessary and use caution when raising and F. Show examples of of patient/resident equipment hazards E. Uses heating pads lowering Watch for arms/legs & tubing. Make sure the rails G. Show pictures of various according to policy are locked in the up position types of burns 4. Brakes should be on when transferring patient/resident to or from wheelchair/bed/gurney 5. Comfort items (water, call bell, urinal, etc.) should be easy for patient/resident to reach 6. Answer call lights promptly 7. Areas should have good lighting and be free of clutter 8. Check to ensure foot latches on beds and foot supports on the wheelchair are out of the way to prevent tripping or hitting staff or patient's/resident's legs 9. Wipe up spills promptly 10. Meet the comfort needs of the patient/resident promptly (water and elimination) Module ",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-7-8",
+      "content_outline": [
+        "Source objective statement: Identify two safety issues for the patients/residents and interventions to prevent them",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe two of the top safety issues for B. Shows videos for use of B. Uses assistive devices patients/residents and interventions to prevent them. A. Falls are 70% of all patient/resident-related accidents. Most devices according to policy C. Demonstrate use of C. Reports and corrects falls occur during 4:00pm and 8:00pm and during shift changes B. Ways to prevent falls devices including gait fall hazards belt and heating pads D. Monitors temperature 1. Proper position in bed/wheelchair and readjust every two D. Review transfer and hours ambulation techniques of liquids used for E. Demonstrate use of soft patients/residents 2. Soft protective devices a",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "two safety issues for the patients/residents a — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "two safety issues for the patients/residents a — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "two safety issues for the patients/residents a — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "Describe major causes of fire and general fire prevention rules",
+      "exact_objective_statement": "Describe major causes of fire and general fire prevention rules",
+      "source_pages": [
+        9,
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+      "source_excerpt": ") students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences Objective 3: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep them comfortable and quiet students to locate A. Written test B. Recognizes emergency E. Move or direct families and visitors to the designated area in the designated safe areas in codes and responds facility or a safe environment the facility according to policy F. Close fire doors C. Role play emergency situations and ask students to respond to patients/residents D. Unit/facility scavenger hunt Objective 4 Describe common emergency codes used in facilities. A. Lecture/Discussion A. Each facility may have different codes B. Patient/resident safety issue; examples may be manpower or a B. Review emergency special alarm sound codes and plans from each clinical site before C. Disaster code visiting the facility 1. Ex",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-9-10",
+      "content_outline": [
+        "Source objective statement: Describe major causes of fire and general fire prevention rules",
+        "Source excerpt support: ) students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences Objective 3: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Projec",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "major causes of fire and general fire preventi — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "major causes of fire and general fire preventi — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "major causes of fire and general fire preventi — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+      "exact_objective_statement": "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+      "source_pages": [
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+      "source_excerpt": "List the safety rules to be followed for the patient/resident receiving oxygen therapy. A. Oxygen therapy A. Lecture/Discussion A. Written test 1. Oxygen is abbreviated O2 and measured in liters per minute B. Show Video on oxygen B. Observes safety (L/min) use guidelines when caring 2. A colorless, odorless, tasteless gas is essential for respiration C. Show examples of for patient/resident with (breathing) oxygen equipment like oxygen 3. Some patients/residents need supplemental oxygen to assist nasal cannula, masks, them in breathing oxygen tank, etc. D. Demonstrate placement 4. Oxygen is supplied in portable tanks, through wall outlets or of oxygen devices concentrators E. Demonstrate oxygen tank on/off procedure 5. Oxygen increases the risk of fire since it supports combustion and is one of the three elements needed for fire B. When oxygen is in use, specific safety precautions need to be followed 1. Place a \"no smoking, oxygen in use\" sign on the door of patient's/resident's room as well as over their bed 2. Smoking is never allowed near the oxygen by anyone, including the patient/resident or visitor 3. Keep oxygen-tubing open and free of kinks 4. Check electrical equipment use in presence of oxygen (electric razors, fans and radios) Electrical items must be turned off before unplugging 5. No flammable liquids, such as alcohol, nail polish remover or petroleum based products (Chap Stick, Vaseline) 6. Watch for static when combing patient's/resident's hair, using wool blankets, or nylon materials in clothing, etc. C. Types of oxygen equipment 1. Green metal portable tan",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-11",
+      "content_outline": [
+        "Source objective statement: List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+        "Source excerpt support: List the safety rules to be followed for the patient/resident receiving oxygen therapy. A. Oxygen therapy A. Lecture/Discussion A. Written test 1. Oxygen is abbreviated O2 and measured in liters per minute B. Show Video on oxygen B. Observes safety (L/min) use guidelines when caring 2. A colorless, odorless, tasteless gas is essential for respiration C. Show examples of for patient/resident with (breathing) oxygen equipment like oxygen 3. Some patients/residents need supplemental oxygen to assist nasal cannula, masks, them in breathing oxygen tank, etc. D. Demonstrate placement 4. Oxygen is supplied in portable tanks, through wall outlets or of oxygen devices concentrators E. Demonstrate oxy",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the safety rules to be followed for the patien — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the safety rules to be followed for the patien — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the safety rules to be followed for the patien — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "Describe the safe application of postural supports and the implication for their use",
+      "exact_objective_statement": "Describe the safe application of postural supports and the implication for their use",
+      "source_pages": [
+        12,
+        13,
+        14
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+      "source_excerpt": "A Written test Describe the safe application of postural supports and the implications for their use. A. Postural supports/soft protective devices/restraints description A Lecture/Discussion and purpose 1. Used to prevent the patient/resident from harming self or others 2. Used to prevent patient/resident from a. Falling out of bed/chair b. Crawling over side rails or the end of the bed c. Interfering with therapy by removing tubing or dressings d. Hurting themselves or others Module 4: Prevention and Management of Catastrophes and Unusual Occurrences 3. Description of terms B. Show video on postural B. Applies and removes a. Soft protective device � a device that serves as a reminder supports/restraints protective devices to the patient/resident of safety issues, like a waist device C. Show examples of types according to policy or Posey (also called safety device reminders-SDR) of devices C. Documents use of b. Postural supports � are devices that help to keep the D. Demonstrate and return devices patient/resident in the correct posture position when in demonstration for a chair, like a jacket or vest various types of devices c. Restraints including quick release 1) Control behavior and are used only in extreme tie measures like limb devices E. Discuss alternative 2) Side rails can be considered as a restraint if all four methods to protective side rails are up devices 3) Infringe on patient's/resident's right to freedom of F. Manual Skill 410 movement as it holds back or limits a Applying Postural patient's/resident's movements and may be Supports considered \"false impris",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-12-14",
+      "content_outline": [
+        "Source objective statement: Describe the safe application of postural supports and the implication for their use",
+        "Source excerpt support: A Written test Describe the safe application of postural supports and the implications for their use. A. Postural supports/soft protective devices/restraints description A Lecture/Discussion and purpose 1. Used to prevent the patient/resident from harming self or others 2. Used to prevent patient/resident from a. Falling out of bed/chair b. Crawling over side rails or the end of the bed c. Interfering with therapy by removing tubing or dressings d. Hurting themselves or others Module 4: Prevention and Management of Catastrophes and Unusual Occurrences 3. Description of terms B. Show video on postural B. Applies and removes a. Soft protective device � a device that serves as a reminder suppor",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the safe application of postural supports and — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the safe application of postural supports and — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the safe application of postural supports and — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Discuss the legal and psychological implication of the use of postural supports",
+      "exact_objective_statement": "Discuss the legal and psychological implication of the use of postural supports",
+      "source_pages": [
+        15
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Discuss the legal and psychological implications of the use of B. Review patient/resident B. Observes patient rights postural supports. A. Legal implications of the use of postural supports rights when using postural supports, protective 1. Must have a doctor's order to use protective devices including devices and restraints stated reason for use, type of device, and for how long 2. Must have informed consent 3. Patient/resident rights require that patient/resident not be restrained unnecessarily or for the convenience of the staff 4. Unnecessary restraint of a patient/resident could constitute false imprisonment Ask nurse for explanation of needs if in doubt B. Psychological implication of the use of postural supports 1. Explain to the patient/resident and the family the reason for using protective devices 2. The patient/resident is usually aware of restricted movement and may struggle against the supports 3. Reassure and support the patient/resident and the family Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "weighted_minutes": 14,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-15",
+      "content_outline": [
+        "Source objective statement: Discuss the legal and psychological implication of the use of postural supports",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Discuss the legal and psychological implications of the use of B. Review patient/resident B. Observes patient rights postural supports. A. Legal implications of the use of postural supports rights when using postural supports, protective 1. Must have a doctor's order to use protective devices including devices and restraints stated reason for use, type of device, and for how long 2. Must have informed consent 3. Patient/resident rights require that patient/resident not be restrained unnecessarily or for the convenience of the staff 4. Unnecessary restraint of a patient/resident could constitute false imprisonment Ask nurse for explanation of needs if in ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the legal and psychological implication of the — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the legal and psychological implication of the — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the legal and psychological implication of the — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Discuss the overview of bioterrorism",
+      "exact_objective_statement": "Discuss the overview of bioterrorism",
+      "source_pages": [
+        16
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+      "source_excerpt": "Describe the overview of bioterrorism. A. Define terrorism A. Lecture/Discussion B. Possible terrorist acts B. Handout 412 � 1. Biological threat Homeland Security a. Bacteria � Anthrax Advisory System b. Viruses � Smallpox C. Ask students to view c. Toxins � Ricin information on US 2. Chemical threat Department of 3. Explosions Homeland Security 4. Nuclear blast website 5. Radiation threat http://wwwdhsgov/natio C. Possible types of bioterrorism threats nal-terrorism-advisory- 1. Explosion system 2. Chemical/Biological Attack 3. Nuclear/Radiological Attack D. National Terrorism Advisory System (NTAS) replaces the Homeland Security Advisory System (HSAS) that was color- coded 1. Imminent Threat 2. Elevated Threat Alert E. Sunset Provision � expires after a specific time period Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "weighted_minutes": 10,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-16",
+      "content_outline": [
+        "Source objective statement: Discuss the overview of bioterrorism",
+        "Source excerpt support: Describe the overview of bioterrorism. A. Define terrorism A. Lecture/Discussion B. Possible terrorist acts B. Handout 412 � 1. Biological threat Homeland Security a. Bacteria � Anthrax Advisory System b. Viruses � Smallpox C. Ask students to view c. Toxins � Ricin information on US 2. Chemical threat Department of 3. Explosions Homeland Security 4. Nuclear blast website 5. Radiation threat http://wwwdhsgov/natio C. Possible types of bioterrorism threats nal-terrorism-advisory- 1. Explosion system 2. Chemical/Biological Attack 3. Nuclear/Radiological Attack D. National Terrorism Advisory System (NTAS) replaces the Homeland Security Advisory System (HSAS) that was color- coded 1. Imminent Thr",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the overview of bioterrorism — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the overview of bioterrorism — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the overview of bioterrorism — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 4 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 4 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 12,
+    "terminology_count": 26,
+    "weighted_minutes_total": 180,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

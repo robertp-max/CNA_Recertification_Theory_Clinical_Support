@@ -1,0 +1,212 @@
+{
+  "generated_at": "2026-06-04T11:18:02",
+  "scope": "remaining NATP module dry-run packages after Modules 10, 11, and 13",
+  "modules": [
+    {
+      "module": 1,
+      "module_id": "M01",
+      "title": "NATP Module 1: Introduction to Nurse Assistant",
+      "output_dir": "Module_Dry_Run/_module1_dryrun_outputs",
+      "objective_count": 8,
+      "theory_minutes": 300,
+      "clinical_hours": 0.0,
+      "audio_clips_queued": 32,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module1.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module1.generated.ts"
+      ]
+    },
+    {
+      "module": 2,
+      "module_id": "M02",
+      "title": "NATP Module 2: Patient/Resident Rights",
+      "output_dir": "Module_Dry_Run/_module2_dryrun_outputs",
+      "objective_count": 8,
+      "theory_minutes": 300,
+      "clinical_hours": 1.0,
+      "audio_clips_queued": 32,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module2.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module2.generated.ts"
+      ]
+    },
+    {
+      "module": 3,
+      "module_id": "M03",
+      "title": "NATP Module 3: Communication/Interpersonal Skills",
+      "output_dir": "Module_Dry_Run/_module3_dryrun_outputs",
+      "objective_count": 13,
+      "theory_minutes": 360,
+      "clinical_hours": 0.0,
+      "audio_clips_queued": 52,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module3.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module3.generated.ts"
+      ]
+    },
+    {
+      "module": 4,
+      "module_id": "M04",
+      "title": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "output_dir": "Module_Dry_Run/_module4_dryrun_outputs",
+      "objective_count": 12,
+      "theory_minutes": 180,
+      "clinical_hours": 1.0,
+      "audio_clips_queued": 48,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module4.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module4.generated.ts"
+      ]
+    },
+    {
+      "module": 5,
+      "module_id": "M05",
+      "title": "NATP Module 5: Body Mechanics",
+      "output_dir": "Module_Dry_Run/_module5_dryrun_outputs",
+      "objective_count": 6,
+      "theory_minutes": 240,
+      "clinical_hours": 4.0,
+      "audio_clips_queued": 24,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module5.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module5.generated.ts"
+      ]
+    },
+    {
+      "module": 6,
+      "module_id": "M06",
+      "title": "NATP Module 6: Medical and Surgical Asepsis",
+      "output_dir": "Module_Dry_Run/_module6_dryrun_outputs",
+      "objective_count": 13,
+      "theory_minutes": 300,
+      "clinical_hours": 8.0,
+      "audio_clips_queued": 52,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module6.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module6.generated.ts"
+      ]
+    },
+    {
+      "module": 7,
+      "module_id": "M07",
+      "title": "NATP Module 7: Weights and Measures",
+      "output_dir": "Module_Dry_Run/_module7_dryrun_outputs",
+      "objective_count": 6,
+      "theory_minutes": 60,
+      "clinical_hours": 1.0,
+      "audio_clips_queued": 24,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module7.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module7.generated.ts"
+      ]
+    },
+    {
+      "module": 8,
+      "module_id": "M08",
+      "title": "NATP Module 8: Patient Care Skills",
+      "output_dir": "Module_Dry_Run/_module8_dryrun_outputs",
+      "objective_count": 24,
+      "theory_minutes": 840,
+      "clinical_hours": 40.0,
+      "audio_clips_queued": 96,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module8.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module8.generated.ts"
+      ]
+    },
+    {
+      "module": 9,
+      "module_id": "M09",
+      "title": "NATP Module 9: Patient Care Procedures",
+      "output_dir": "Module_Dry_Run/_module9_dryrun_outputs",
+      "objective_count": 18,
+      "theory_minutes": 420,
+      "clinical_hours": 20.0,
+      "audio_clips_queued": 72,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module9.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module9.generated.ts"
+      ]
+    },
+    {
+      "module": 12,
+      "module_id": "M12",
+      "title": "NATP Module 12: Emergency Procedures",
+      "output_dir": "Module_Dry_Run/_module12_dryrun_outputs",
+      "objective_count": 5,
+      "theory_minutes": 120,
+      "clinical_hours": 1.0,
+      "audio_clips_queued": 20,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module12.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module12.generated.ts"
+      ]
+    },
+    {
+      "module": 14,
+      "module_id": "M14",
+      "title": "NATP Module 14: Rehabilitative Nursing",
+      "output_dir": "Module_Dry_Run/_module14_dryrun_outputs",
+      "objective_count": 12,
+      "theory_minutes": 120,
+      "clinical_hours": 4.0,
+      "audio_clips_queued": 48,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module14.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module14.generated.ts"
+      ]
+    },
+    {
+      "module": 15,
+      "module_id": "M15",
+      "title": "NATP Module 15: Observation and Charting",
+      "output_dir": "Module_Dry_Run/_module15_dryrun_outputs",
+      "objective_count": 8,
+      "theory_minutes": 240,
+      "clinical_hours": 4.0,
+      "audio_clips_queued": 32,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module15.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module15.generated.ts"
+      ]
+    },
+    {
+      "module": 16,
+      "module_id": "M16",
+      "title": "NATP Module 16: Death and Dying",
+      "output_dir": "Module_Dry_Run/_module16_dryrun_outputs",
+      "objective_count": 8,
+      "theory_minutes": 120,
+      "clinical_hours": 0.0,
+      "audio_clips_queued": 32,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module16.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module16.generated.ts"
+      ]
+    },
+    {
+      "module": 17,
+      "module_id": "M17",
+      "title": "NATP Module 17: Patient/Resident Abuse",
+      "output_dir": "Module_Dry_Run/_module17_dryrun_outputs",
+      "objective_count": 5,
+      "theory_minutes": 420,
+      "clinical_hours": 0.0,
+      "audio_clips_queued": 20,
+      "app_files_generated": [
+        "Module_Dry_Run/standalone-course-mvp/src/data/module17.content.generated.json",
+        "Module_Dry_Run/standalone-course-mvp/src/data/module17.generated.ts"
+      ]
+    }
+  ],
+  "active_app_pointer_changed": false,
+  "qwen_audio_generation_started_for_remaining_modules": false,
+  "qwen_note": "Remaining modules have JSON narration packages and queued audio manifests only; Module 13 Qwen resume runner is managed separately to avoid GPU contention.",
+  "validation": {
+    "remaining_content_package_json": "PASS (14 files, 0 errors)",
+    "remaining_audio_manifests": "PASS (14 manifests, 584 queued clips, 0 errors)",
+    "npm_run_typecheck": "PASS",
+    "npm_run_build": "PASS (Vite chunk-size warning only)",
+    "summary_report": "Module_Dry_Run/_remaining_modules_work/remaining_modules_validation_summary.md"
+  }
+}

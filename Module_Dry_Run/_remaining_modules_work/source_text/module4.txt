@@ -1,0 +1,1151 @@
+                                                                     Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Module 4: Prevention and Management of Catastrophe and Unusual Occurrences
+Minimum Number of Theory Hours: 1
+Recommended Theory Hours: 3
+Recommended Clinical Hours: 1
+
+Statement of Purpose:
+  The purpose of this unit is to introduce the student to the concepts and procedures related to the patient's/resident's safety including
+  environmental emergency issues The Nurse Assistant `s role in creating a safe environment for the patient/resident is discussed.
+
+Terminology:                                                14. Oxygen (O2)
+  1. Circulation, Sensation & Movement (CSM)                15. Oxygen precautions
+  2. Disaster plan                                          16. Postural supports
+  3. Emergency                                              17. Pull, Aim, Squeeze, Sweep (PASS)
+  4. Emergency codes                                        18. Quality Assurance (QA)
+  5. Escape routes                                          19. Rapid Response Team (RRT)
+  6. External disaster                                      20. Rescue, Alarm, Contain, Extinguish (RACE)
+  7. False imprisonment                                     21. Restraints
+  8. Fire plan                                              22. Safety Device Reminders (SDR)
+  9. Internal disaster                                      23. Soft protective device
+  10. Material Safety Data Sheet (MSDS)                     24. STAT
+  11. National Patient Safety Goals                         25. Total Quality Improvement (TQI)
+  12. Occupational Safety and Health Administration (OSHA)  26. Workplace violence
+  13. Omnibus Budget Reconciliation Act (OBRA)
+
+Patient, resident, and client are synonymous terms referring to the person receiving care
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 1 of 27
+                                          Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Performance Standards (Objectives):
+
+After completion of one hour of class, plus homework assignments, and one hour of clinical experience the learner will:
+
+1. Define key terminology
+2. Explain the role of the Nurse Assistant in emergency, disaster, and fire situations
+
+3. Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation
+
+4. Describe common emergency codes used in facilities
+
+5. Describe general rules for providing a safe environment for the Nurse Assistant
+
+6. Describe general rules for providing a safe environment for the patient/resident
+
+7. Identify two safety issues for the patients/residents and interventions to prevent them
+8. Describe major causes of fire and general fire prevention rules
+
+9. List the safety rules to be followed for the patient/resident receiving oxygen therapy
+
+10. Describe the safe application of postural supports and the implication for their use
+
+11. Discuss the legal and psychological implication of the use of postural supports
+
+12. Discuss the overview of bioterrorism
+
+                                                                                                                                13.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018               Page 2 of 27
+                                                                     Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+References:
+  1. Acello, B. & Hegner, B. (2016). Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage Learning.
+  2. Acello, B. (2016). Workbook to accompany: Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage
+       Learning
+
+  3. California Code of Regulations, Division 5, Chapter 25, Title 22, 71801-71853
+       https://govtwestlawcom/calregs/Document/IA472F8F0CF1411E2BBC7856865668A6E?viewType=FullText&originationContext=
+       documenttoc&transitionType=CategoryPageItem&contextData=(scDefault)
+
+  4. Carter, P. J. (2017). Lippincott Essentials for Nursing Assistants: a Humanistic Approach to Caregiving. (4th ed.) Philadelphia, PA.
+       Lippincott Williams & Wilkins
+
+  5. Deck, M. L. (2004). Instant Teaching Tools for the New Millennium. St Louis, MO. Mosby
+  6. Hedman, S. A., Fuzy, J., & Rymer, S. (2018). Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+
+       Hartman Publishing, Inc.
+  7. Hartman Publishing. (2018). Workbook for Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+
+       Hartman Publishing, Inc.
+  8. Haroun, L & Royce, S (2004) Teaching Ideas and Activities for Health Care Albany, NY: Delmar Publishers.
+  9. HIPAA Regulations https://www.hhsgov/hipaa/for-professionals/security/laws-regulations/indexhtml
+  10. Pearson Vue (2018) California Nurse Assistant Candidate Handbook for National Nurse Aide Assessment Program. Philadelphia,
+
+       PA. Pearson Education, Inc.
+  11. Rust, TB, Wagner, LM, Hoffman, C, Rowe, R & Neuman, I (2008) Broadening the patient safety agenda to include safety in
+
+       long-term care. Healthcare Quarterly, 11(Sp) pp 31-34.
+
+  12. Sorrentino, S. A., Remmert, L., & and Kelly, R. (2018) Workbook and Competency Evaluation Review for Moby's Textbook for
+       Nursing Assistants (9th ed.) St. Louis, MO. Mosby Company
+
+  13. Sorrentino, S.A. & Remmert, L. (2018) Mosby's Textbook for Nursing Assistants. (9th ed.). St Louis, MO. Elsevier
+  14. Weaver, L. & Wilding, M. (2013) The Dimensions of Engaged Teaching: a Practical Guide for Educators. Bloomington, IN. Solution
+
+       Tree Press.
+  15. The Joint Commission (2008) National Patient Safety Goals: Long Term Care Program.
+  16. The Omnibus Budget Reconciliation Act of 1987, 1989, 1990, 1993
+
+       1987- https://wwwncbinlmnihgov/pubmed/2671955
+
+       1989- 1990- https://wwwcongressgov/bill/101st-congress/house-bill/3299/text
+
+       1993- https://wwwcongressgov/bill/103rd-congress/house-bill/2264
+
+  17. US Department of Homeland Security, (2012) http://wwwdhsgov/national-terrorism-advisory-system
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 3 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+                                   Content Outline                   Recommended Teaching           Clinical Demonstration/
+                                                                            Strategies and           Method of Evaluation
+Objective 1                                                                  Assignments
+Define key terminology.
+A. Review the terms listed in the terminology section                A. Lecture/Discussion          A. Ask students to select
+B. Spell the listed terms accurately                                 B. Games: word searches,           five words from the list
+C. Pronounce the terms correctly                                                                        of key terminology and
+D. Use the terms in their proper context                                 crossword puzzles,             write a sentence for
+                                                                         Family Feud, Jeopardy,         each defining the term
+Objective 2:                                                             bingo, spelling bee,
+Describe the role of the Nurse Assistant in emergency, disaster,         hangman, and               B. Administer vocabulary
+and fire situations.                                                     concentration                  pre-test and post-test
+A. Be prepared
+                                                                     A. Lecture/Discussion          A. Written test
+    1. Know emergency codes (facility rules)                         B. Refer to Objective 4 for    B. Provide mock situations
+    2. Know fire and disaster plans
+    3. Know location of fire exit, extinguishers, and alarms             Code descriptions              at facility and ask
+B. Remain calm                                                       C. Review emergency                students to respond
+C. Use emergency call system                                                                            according to facility
+    1. Telephone numbers used within each facility                       codes and plans from           policy
+    2. The licensed nurse activates the EMS (Emergency Medical           each clinical site before
+                                                                         visiting the facility
+         System) by dialing 911                                      D. Show pictures of fire exit
+D. Remain calm and do not shout "fire" or "cardiac arrest", etc.         signs and pull boxes
+E. "STAT" means to respond at once or there is an immediate need     E. At facility, instruct
+G. Use RACE and PASS per policy (see Objective 8)                        students to locate
+H. Do not act beyond level of knowledge                                  emergency equipment,
+I. Move patient/resident if in immediate danger                          fire extinguishers, and
+J. Remain with patient/resident                                          alarm boxes
+K. Keep patient/resident comfortable and calm
+L. Evacuate patient/resident to safety according to facility fire &
+
+    disaster plans
+F. Send family or visitors to the facility-designated area
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 4 of 27
+                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Objective 3:
+
+Describe ways the Nurse Assistant can help patients/residents,
+
+families and visitors remain calm in an emergency situation.
+
+A. Stay calm and use a calm voice                                      A. Lecture/Discussion          A. Written test
+                                                                                                      B. Responds to mock
+B. Project confidence                                                  B. During clinical
+                                                                                                          emergency according to
+C. Know and use facility emergency codes and plans                     experience, instruct               policy
+
+D. Stay with the patient/resident and keep them comfortable and quiet students to locate              A. Written test
+                                                                                                      B. Recognizes emergency
+E. Move or direct families and visitors to the designated area in the  designated safe areas in
+                                                                                                          codes and responds
+facility or a safe environment                                         the facility                       according to policy
+
+F. Close fire doors                                                    C. Role play emergency
+
+                                                                       situations and ask
+
+                                                                       students to respond to
+
+                                                                       patients/residents
+
+                                                                       D. Unit/facility scavenger
+
+                                                                       hunt
+
+Objective 4
+
+Describe common emergency codes used in facilities.                    A. Lecture/Discussion
+A. Each facility may have different codes
+
+B. Patient/resident safety issue; examples may be manpower or a        B. Review emergency
+    special alarm sound                                                    codes and plans from
+                                                                           each clinical site before
+C. Disaster code                                                           visiting the facility
+    1. Example may be Disaster Level Three
+
+2. May be different for internal or external disaster                  C. Have students write out
+
+D. Emergency colors and meanings                                       each code and the
+    1. Code Red ­ fire                                                 meaning
+
+2. Code Blue ­ adult medical emergency (cardiac/pulmonary)             D. Use game or crossword
+3. Code Yellow ­ bomb threat                                               to review
+
+4. Code Gray ­combative person
+
+5. Code Silver ­person with weapon or hostage
+
+6. Code Orange ­ hazardous waste spill or release
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 5 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Objective 5                                                             A. Lecture/Discussion       A. Written test
+Describe general rules for providing a safe environment for the         B. Show examples of         B. Reports safety issues
+Nurse Assistant.                                                                                    C. Follows policy to protect
+A. Use body mechanic principles                                             incident form
+B. Use ergonomics                                                       C. Discuss TQI and              self from injury
+C. Know the policy and procedures regarding OSHA safety laws on
+                                                                            performance             A. Written test
+    use of equipment and handling hazardous materials (MSDS)                improvement issues      B. Responds to mock
+D. Wipe up spills immediately and identify wet floors with the
+                                                                        A. Lecture/Discussion           safety issue according to
+    appropriate signs                                                   B. Show pictures of             policy
+E. Walk, never run in halls and watch carefully at intersections
+F. Use contents of containers only if they have proper labels/dates         hazards and have
+                                                                            students identify them
+    and you know how to use them correctly                                  and describe how to
+G. Tag and report broken equipment                                          report/correct hazard
+H. Report unsafe situations                                             C. Observe student in
+I. Use 3-pronged plugs on electrical equipment
+J. Refuse to do any task that you do not know how to do
+K. Know proper operation of equipment
+L. Watch linen and garbage cans for safety hazards (sharps)
+M. Report if sharps container is over half full
+N. Know procedure to follow in case of personal injury
+
+    1. Report the injury immediately to the supervisor
+    2. Fill out an incident report/unusual occurrence form as per
+
+         facility policy and procedure
+    3. Seek medical help as necessary
+O. Patient/resident and staff safety is an important quality assurance
+    issue
+
+Objective 6
+Describe general rules for providing a safe environment for the
+patient/resident.
+A. Know the National Patient Safety Goals
+B. Check wrist bands/name tags before performing any task on a
+
+    patient/resident
+C. Use side rails when appropriate and know facility policy and
+
+    procedure on side rails
+D. Have the patient/resident use handrails/appropriate assistive
+
+    device when unstable
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 6 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+E. Have patient/resident wear non-skid footwear when ambulatory              patient/resident room
+F. Place the call signal light within the reach of the                       Ask if it is a safe
+                                                                             environment and if not
+    patient/resident and instruct them on correct use                        how to correct it
+G. Lock wheels on bed/gurney/wheelchair when transferring the
+
+    patient/resident
+H. Answer call lights promptly
+I. Use night-lights to help ensure good lighting and reduce obstacle
+
+    hazards
+J. Keep the bed in the lowest position except when tending to the
+
+    patient/resident
+K. Check bed/chair alarms ensuring working condition
+L. Keep environment clutter free
+
+Objective 7                                                                  A. Lecture/Discussion        A. Written test
+Describe two of the top safety issues for                                    B. Shows videos for use of   B. Uses assistive devices
+patients/residents and interventions to prevent them.
+A. Falls are 70% of all patient/resident-related accidents. Most                 devices                      according to policy
+                                                                             C. Demonstrate use of        C. Reports and corrects
+    falls occur during 4:00pm and 8:00pm and during shift changes
+B. Ways to prevent falls                                                         devices including gait       fall hazards
+                                                                                 belt and heating pads    D. Monitors temperature
+    1. Proper position in bed/wheelchair and readjust every two              D. Review transfer and
+         hours                                                                   ambulation techniques        of liquids used for
+                                                                             E. Demonstrate use of soft       patients/residents
+    2. Soft protective devices as ordered and necessary                          restraints                   and avoids exposure
+    3. Side rails as necessary and use caution when raising and              F. Show examples of              of patient/resident
+                                                                                 equipment hazards        E. Uses heating pads
+         lowering Watch for arms/legs & tubing. Make sure the rails          G. Show pictures of various      according to policy
+         are locked in the up position                                           types of burns
+    4. Brakes should be on when transferring patient/resident to
+         or from wheelchair/bed/gurney
+    5. Comfort items (water, call bell, urinal, etc.) should be easy for
+         patient/resident to reach
+    6. Answer call lights promptly
+    7. Areas should have good lighting and be free of clutter
+    8. Check to ensure foot latches on beds and foot supports on the
+         wheelchair are out of the way to prevent tripping or hitting staff
+         or patient's/resident's legs
+    9. Wipe up spills promptly
+    10. Meet the comfort needs of the patient/resident promptly
+         (water and elimination)
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 7 of 27
+                                                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+    11. Fall precautions; identify at risk patients who are taking
+         medications that cause patient to be weak, dizzy or sleepy
+
+    12. Check patients/residents for weakness,
+         dizziness and ambulation/transfer hazards
+
+    13. Use the appropriate assistive device as directed by the
+         licensed nurse and ask for help if in doubt
+
+    14. Be aware of patient's/resident's location at all times
+C. Assistive devices used to reduce falls and maintain safe mobility
+
+    of the patient/resident
+    1. Assessed for need by the licensed nurse, physical therapy
+
+         (PT), or rehab aid with input from the Nurse Assistant
+    2. Cane
+
+         a. Types of canes include single tip, tri-tip, and quad cane
+         b. Use on the strong side
+         c. Check the rubber tip and height appropriate for the
+
+              patient/resident
+    3. Walker
+
+         a. Provides stability and support
+         b. Types of walkers include pick-up, front-wheeled, and four-
+
+              wheeled rolling Some might have seats
+         c. Check rubber tips and height appropriate for
+
+              patient/resident
+         d. Give instruction on the correct use
+    4. Gait belt if facility permits
+    5. Wheelchair
+         a. Provide mobility for the non-ambulatory patient/resident
+         b. Different types
+         c. Remember removable arm rests and foot rests
+         d. Check that the brakes are locked when transferring the
+
+              patient/resident
+    6. Mobility alarm
+
+         a. Used to warn staff and patient/resident of fall hazard
+         b. Used in bed or in chair
+         c. Make sure it is in place and all parts are connected
+         d. Respond immediately to the alarm and check the
+
+              patient/resident
+D. Burns are the second most common hazard for
+
+    patients/residents and often can be prevented
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 8 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+    1. Types and causes of burns                                          A. Lecture/Discussion     A. Written test
+         a. Steam or water burns                                          B. Show examples of fire  B. Locates facility fire
+              1) Bath temperature
+              2) Hot drinks                                                   hazards                   extinguishers and alarm
+         b. Flame, smoking
+         c. Chemical, cleaners like "Periwash"                                                                           Page 8 of 27
+         d. Thermal
+              1) Heating pads
+              2) Sunburn
+
+    2. Prevention and interventions for burns
+         a. Prevention (best approach)
+              1) Check the water temperature and report if it is too hot
+              2) Monitor smoking
+              3) Monitor hot drinks and risk for spills
+              4) Be familiar with the use of equipment such as
+                   heating pads and hot packs and know the policy and
+                   procedure
+              5) Protect patient/resident from sunburn with a hat,
+                   sunscreen and brief exposure
+              6) Know the policy and procedure on fire response
+              7) Follow directions on the use of chemical cleansers
+         b. Intervention (initial first aid)
+              1) First degree burns ­ ice and cold water only
+                   for discomfort
+                   a) Never use butter, shortening, etc., it may cause
+                        the burn to become worse
+              2) Deeper or large burns require immediate
+                   medical attention
+                   a) Notify licensed nurse immediately
+                   b) Describe the cause of burn, if possible (e.g.
+                        flame, chemical, etc.)
+
+Objective 8
+Describe major causes of fire and general fire prevention rules.
+A. Major causes of fire
+
+    1. Smoking is the number one cause of fire
+    2. Sparks from faulty electrical equipment
+    3. Heating systems (fireplaces, butane/propane heaters
+
+         or electrical heaters)
+    3.
+Module Curriculum for Nurse Assistant - Revised December 2018
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+    4. Spontaneous ignition, chemical reaction leading to heat and      C. Provide samples of           boxes
+         fire                                                               facility policy and     C. Reports fire hazards
+                                                                            procedures related to   D. Responds to fire drills
+    5. Improper disposal of rubbish including disposed of cigarettes,       fire/fire prevention
+         cigars, matches with flammable materials                                                       according to policy
+                                                                        D. Demonstration of use of  E. Follows facility policy
+B. Three things are needed to start a fire                                  fire extinguisher by
+    1. Fuel                                                                 facility                    regarding smoking and
+    2. Flame                                                                                            disposal of smoking
+    3. Oxygen                                                           E. Handout 48a-PASS             materials
+                                                                        F. Handout 48b-RACE         F. Properly disposes of
+C. Fire prevention                                                                                      trash
+    1. Electrical
+         a. Report frayed electrical cords, smoke or burning smells
+         b. Refrain from using too many electrical devices on one wall
+              socket
+         c. Use 3-pronged grounded plugs
+    2. Smoking fire hazard prevention
+         a. Empty waste paper into proper containers
+         b. Supervise patients/residents who smoke if they are
+              confused, lethargic or weak
+         c. Be sure materials in ash trays are completely extinguished
+              before throwing them away
+         d. Always use ashtrays when smoking
+         e. Smoking is allowed in designated areas only
+
+D. The role of the Nurse Assistant during fire emergencies
+    1. RACE
+         a. R-remove the patient/resident from the fire area and
+              close the room door
+         b. A-activate the fire alarm system
+         c. C-contain the fire
+         d. E-extinguish if possible
+    2. PASS
+         a. P-Pull safety pin
+         b. A-Aim at base of fire
+         c. S-Squeeze
+    3. S-Sweep low
+    4. Be sure patients/residents are not placed near automatic fire
+         doors
+    5. Know and follow the facility's specific policy and procedure
+         related to fires and fire prevention
+
+Module Curriculum for Nurse Assistant - Revised December 2018                                       Page 9 of 27
+                                              Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Objective 9
+
+List the safety rules to be followed for the patient/resident
+
+receiving oxygen therapy.
+
+A. Oxygen therapy                                                  A. Lecture/Discussion      A. Written test
+
+1. Oxygen is abbreviated O2 and measured in liters per minute B. Show Video on oxygen B. Observes safety
+
+(L/min)                                                            use                        guidelines when caring
+
+2. A colorless, odorless, tasteless gas is essential for respiration C. Show examples of      for patient/resident with
+
+(breathing)                                                        oxygen equipment like      oxygen
+
+3. Some patients/residents need supplemental oxygen to assist          nasal cannula, masks,
+    them in breathing                                                  oxygen tank, etc.
+                                                                   D. Demonstrate placement
+4. Oxygen is supplied in portable tanks, through wall outlets or       of oxygen devices
+    concentrators                                                  E. Demonstrate oxygen
+                                                                       tank on/off procedure
+5. Oxygen increases the risk of fire since it supports combustion
+    and is one of the three elements needed for fire
+
+B. When oxygen is in use, specific safety precautions need to be
+
+followed
+
+1. Place a "no smoking, oxygen in use" sign on the door of
+
+patient's/resident's room as well as over their bed
+
+2. Smoking is never allowed near the oxygen by anyone,
+
+including the patient/resident or visitor
+
+3. Keep oxygen-tubing open and free of kinks
+
+4. Check electrical equipment use in presence of oxygen
+
+(electric razors, fans and radios) Electrical items must be
+
+turned off before unplugging
+
+5. No flammable liquids, such as alcohol, nail polish remover or
+
+petroleum based products (Chap Stick, Vaseline)
+
+6. Watch for static when combing patient's/resident's hair,
+
+using wool blankets, or nylon materials in clothing, etc.
+
+C. Types of oxygen equipment
+
+1. Green metal portable tanks: (E tank/ H tank)
+
+a. Under pressure and must be handled carefully to prevent
+
+dropping and possible explosion when in storage
+
+b. Must be secured to wall
+
+c. Must be on movable stand and strapped in place
+
+2. Portable tanks
+
+a. Large ones covered with plastic casing and small ones
+
+that patient/resident can carry or hang on assistive
+
+device when moving
+
+          b. Must be kept upright and not dropped                                                              Page 11 of 27
+Californdia. Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+    3. Wall outlets use wall mount flow meter and plastic tubing
+    4. Patient/resident equipment used to deliver flow of oxygen:
+
+         a. Nasal cannula
+         b. Face mask
+         c. Concentrators
+D. Nursing care
+    1. A physician's order is needed for oxygen because it is
+         considered a medication
+    2. Make sure the patient/resident wears mask/cannula at all times
+         a. If oxygen needs to be turned off, there needs to be an
+
+              order that the patient/resident may have it off at
+              certain times
+         b. When the oxygen is not in use for a short period of time,
+              then the oxygen needs to be turned off It is very
+              expensive and poses a fire hazard
+    3. The Nurse Assistant must follow the policy and procedure for
+         their facility in filling the oxygen tanks, turning the tanks on
+         and off, as well as the setup
+    4. Oxygen is very drying to nasal passages
+         a. Check patient's/resident's nose and cleanse
+         b. Maintain the water level in humidifier to reduce dryness
+    5. Check for redness and discomfort over the ears where the
+         tubing rests and on the face when wearing the mask
+    6. If redness or discomfort noted, report to the licensed nurse
+    7. The Nurse Assistant may turn the tank on and off, but may not
+         adjust the oxygen flow rate, as that is administration of
+         medication and not in their scope of practice
+
+Objective 10                                                                                 A Written test
+Describe the safe application of postural supports and the
+implications for their use.
+
+   A. Postural supports/soft protective devices/restraints description A Lecture/Discussion
+        and purpose
+
+    1. Used to prevent the patient/resident from harming self or others
+    2. Used to prevent patient/resident from
+
+         a. Falling out of bed/chair
+         b. Crawling over side rails or the end of the bed
+         c. Interfering with therapy by removing tubing or dressings
+         d. Hurting themselves or others
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018   Page 12 of 27
+                                           Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+3. Description of terms                                             B. Show video on postural B. Applies and removes
+
+a. Soft protective device ­ a device that serves as a reminder      supports/restraints        protective devices
+
+to the patient/resident of safety issues, like a waist device C. Show examples of types        according to policy
+
+or Posey (also called safety device reminders-SDR)                  of devices                 C. Documents use of
+
+b. Postural supports ­ are devices that help to keep the            D. Demonstrate and return  devices
+
+patient/resident in the correct posture position when in            demonstration for
+
+a chair, like a jacket or vest                                      various types of devices
+
+c. Restraints                                                       including quick release
+
+1) Control behavior and are used only in extreme                    tie
+
+measures like limb devices                                          E. Discuss alternative
+
+2) Side rails can be considered as a restraint if all four          methods to protective
+
+side rails are up                                                   devices
+
+3) Infringe on patient's/resident's right to freedom of             F. Manual Skill 410
+
+movement as it holds back or limits a                               Applying Postural
+
+patient's/resident's movements and may be                           Supports
+
+considered "false imprisonment" when inappropriately
+
+used
+
+B. Alternative to the use of devices
+
+1. Place the patient/resident where they can have constant
+
+supervision
+
+2. Make sure patient's/resident's comfort needs are met like
+
+water, toilet, reposition, etc. so there is a reduced risk of them
+
+attempting to meet needs unassisted and agitation is reduced
+
+Check for pain or discomfort
+
+3. Devices are used as a last resort and never for nursing
+
+convenience or as punishment
+
+C. Types of protective devices and postural supports
+
+1. Vest or jacket device ­ has an opening in the front, watch for
+
+choking and cutting into patient/resident
+
+2. Wrist or ankle device ­ this soft limb device restricts limb
+
+movement
+
+3. Hand mitt device ­ this device helps to prevent scratching
+
+and removal of tubes and dressings
+
+4. Waist device ­ this can be a soft cloth that may be self-
+
+releasing to remind the patient/resident that they need
+
+assistance before walking or standing to reduce falls
+
+5. Pelvic support ­ this keeps the patient/resident from sliding
+
+down in the wheelchair and are wide in the front and narrow
+
+in the back. Be careful to not injure genitalia
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 14 of 27
+                                                                    Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+D. Regulations regarding the Nurse Assistant's role in the use of
+    postural supports concern patient/resident rights and improper
+    application which can be dangerous
+    1. Approach the patient/resident in a calm manner to reduce
+         anxiety and agitation during application
+    2. Explain to the patient/resident and their family in a non-
+         threatening manner by using terms like "safety" and "soft
+         protective"
+    3. Use only on a patient/resident in a bed or chair that has
+         wheels in case of an emergency
+    4. Place patient/resident in a good body alignment and position
+    5. Pad bony prominences
+    6. Use "quick release" bow-tie knot to secure postural support to
+         bed frame or chair to ensure easy removal in an emergency
+    7. Tie securely, but allow some slack for movement ­ two-finger
+         check between support and skin
+    8. Check circulation, sensation, and movement (CSM) every two
+         hours
+    9. Tie support to the bed frame that moves with the
+         patient/resident, not side rail
+    10. Remove the support, reposition patient/resident and do ROM
+         to the joints every two hours for at least ten minutes or more
+         frequently per facility policy
+    11. Offer fluids, bedpan, or urinal on a frequent, regular basis
+    12. Place the call bell in reach
+    13. Apply vest device with the open area of the vest in the front to
+         prevent choking or use according to the manufacturer's
+         instructions
+    14. Document type of device, reason for device, time on and off,
+         CSMs, effectiveness, and nursing care that is needed
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 15 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Objective 11                                                           A. Lecture/Discussion       A. Written test
+Discuss the legal and psychological implications of the use of         B. Review patient/resident  B. Observes patient rights
+postural supports.
+A. Legal implications of the use of postural supports                      rights                      when using postural
+                                                                                                       supports, protective
+    1. Must have a doctor's order to use protective devices including                                  devices and restraints
+         stated reason for use, type of device, and for how long
+
+    2. Must have informed consent
+    3. Patient/resident rights require that patient/resident not
+
+         be restrained unnecessarily or for the convenience of
+         the staff
+    4. Unnecessary restraint of a patient/resident could constitute
+         false imprisonment Ask nurse for explanation of needs if in
+         doubt
+B. Psychological implication of the use of postural supports
+    1. Explain to the patient/resident and the family the reason
+         for using protective devices
+    2. The patient/resident is usually aware of restricted movement
+         and may struggle against the supports
+    3. Reassure and support the patient/resident and the family
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 16 of 27
+                                           Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Objective 12
+
+Describe the overview of bioterrorism.
+
+A. Define terrorism                                             A. Lecture/Discussion
+
+B. Possible terrorist acts                                      B. Handout 412 ­
+
+1. Biological threat                                            Homeland Security
+
+a. Bacteria ­ Anthrax                                           Advisory System
+
+b. Viruses ­ Smallpox                                           C. Ask students to view
+
+c. Toxins ­ Ricin                                               information on US
+
+2. Chemical threat                                              Department of
+
+3. Explosions                                                   Homeland Security
+
+4. Nuclear blast                                                website
+
+5. Radiation threat                                             http://wwwdhsgov/natio
+
+C. Possible types of bioterrorism threats                       nal-terrorism-advisory-
+
+1. Explosion                                                    system
+
+2. Chemical/Biological Attack
+
+3. Nuclear/Radiological Attack
+
+D. National Terrorism Advisory System (NTAS) replaces the
+
+Homeland Security Advisory System (HSAS) that was color- coded
+
+1. Imminent Threat
+
+2. Elevated Threat Alert
+
+E. Sunset Provision ­ expires after a specific time period
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 17 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+Sample Test- Module 4: Prevention and Management of Catastrophe and Unusual Occurrences.
+
+1. Mrs. S, the charge nurse, wants blood work results on Mr Jones immediately. Which of the following terms would indicate
+    "immediately" to the lab?
+         A. ASAP
+         B. STAT
+         C. PRN
+         D. AD LIB
+
+2. The Nurse Assistant finds a fire burning in a wastebasket in a patient's/resident's room. What should the Nurse Assistant do first?
+         A. Go out into the hall and call out "fire"
+         B. Remove the patient from the area of the fire
+         C. Run out of the room to find a fire extinguisher
+         D. Keep the patient's/resident's room dark to keep him in bed
+
+3. Falls are a common cause of injury. Which of the following might help prevent the patient/resident from becoming injured from
+    falls?
+         A. Keep the patient's/resident's bed in the low position
+         B. Place a small rug or towel on the floor by the bed to prevent slipping
+         C. Have the patient/resident wear only socks when ambulating
+         D. Keep the patient's/resident's room dark at night to keep him in bed
+
+4. Mr. B is receiving oxygen therapy. Which of the following is a rule that should be followed with oxygen therapy?
+          A. Use nylon blankets so there will be static electricity
+          B. Do not allow smoking when oxygen is in use
+          C. Use oil-based lotions to lubricate the skin
+          D. Use electric razors for shaving the face
+
+5. Mrs. A is being placed in a vest device to keep her from falling from her wheelchair. What should the Nurse Assistant do?
+         A. Keep Mrs. A in her room out of sight of other patients/residents
+         B. Apply the restraint to help control the patient's/resident's behavior
+         C. Explain kindly to Mrs. A that the postural supports are being used to help prevent her from falling
+         D. Use electric razors for shaving the face
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 16 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+6. When applying postural supports (restraints) the Nurse Assistant should keep in mind that:
+         A. Careful use of restraints can decrease the need for direct patient care
+         B. Patients/residents frequently become more calm, docile and compliant when restraints are used
+         C. Registered nurses are allowed to order the use of restraints in long-term care facilities
+         D. Unauthorized (unordered) use of restraints can result in accusation of "false imprisonment"
+
+7. The Nurse Assistant enters a patient's/resident's room and sees the bed is at its highest level. The Nurse Assistant should know
+    that:
+         A. The patient/resident wants to get closer to the television set
+         B. The patient/resident is very independent and will not be injured
+         C. Nurse Assistant's do not deal with safety issues
+         D. The bed should be placed in the lowest position
+
+8. RACE is a term representing activities to be carried out in the event of a fire. The "R" stands for which of the following?
+         A. Run for help
+         B. Remain at the fire site
+         C. Reduce the fire risk
+         D. Remove the patient/resident
+
+9. To help prevent fires, the Nurse Assistant should:
+         A. Remove the grounding prong from electrical cords
+         B. Report frayed electrical cords immediately
+         C. Empty ashtrays immediately into the wastebasket (trash)
+         D. Encourage patients/residents to smoke only in their beds
+
+10. The Nurse Assistant finds a frayed electrical cord on a fan in a patient's/resident's room. Which of the following actions is correct?
+         A. Obtain electrical tape and cover the broken wire
+         B. Report the situation to the nurse
+         C. Activate the fire alarm and remove the patient/resident
+         D. Check the fan by turning it on
+
+11. Mr. B is receiving oxygen therapy and requests assistance with shaving. What should the Nurse Assistant do?  Page 17 of 27
+          A. Use alcohol to soften the patient's/resident's beard
+          B. Shave with soap and a safety razor
+          C. Use only grounded electrical razors
+          D. Refuse to shave the patient/resident because oxygen interferes with blood clotting
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 18 of 27
+                         Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+12. Suffocation is?
+
+A. The loss of memory and thinking and reasoning abilities
+
+B. A sudden event in which people are killed and injured
+
+C. When breathing stops
+
+D. When electrical current passes through the body
+
+13. Which person has the greatest risk for accidents and injuries?
+         A. A 78-year old woman
+         B. A person with dementia
+         C. A person with a hearing impairment
+         D. A person with impaired smell and touch
+
+14. The Nurse Assistant sees water on the floor. The Nurse Assistant should immediately:
+         A. Call the housekeeping staff
+         B. Clean up the water
+         C. Report the water to the nurse
+         D. Place a paper towel over the water
+
+15. Falls are most likely to occur:                                                                         Page 19 of 27
+          A. During change of shift
+          B. During meal times
+          C. When visitors are visiting
+          D. When care is given
+
+16. Who has the greatest risk of getting caught in the bed rails?
+          A. Mr. S - uses bed rails to move and turn in bed
+          B. Mrs. W- feels safer with upper bed rails
+          C. Mr. G - is confused and disoriented
+          D. Mrs. R ­ has bedrails down
+
+17. For safety reasons, the wheelchair brakes must be locked:
+          A. At all times
+          B. When transferring into or out of the wheelchair
+          C. When wheelchair is parked
+          D. Wheelchair brakes should never be locked
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+18. Hazardous substances include the following EXCEPT:
+         A. Oxygen
+         B. Drugs used in cancer therapy
+         C. Cleaning solutions
+         D. Soaps and shampoos
+
+19. You are injured while transferring a person to a wheelchair. Which is true?
+         A. This is workplace violence
+         B. You need to complete an incident report
+         C. This is negligence
+         D. This is patient/resident abuse
+
+20. Which of the following items is NOT a fire hazard?
+         A. A damaged electrical cord
+         B. A full waste basket
+         C. A broken three-pronged electrical plug
+         D. An open can of cleaning fluid
+
+21. The Nurse Assistant is ambulating a patient/resident with crutches. The Nurse Assistant should:
+         A. Walk directly behind the patient/resident
+         B. Replace the crutch every week
+         C. Hold the patient's/resident's shoulder
+         D. Have the patient/resident wear non-skid shoes
+
+22. When applying soft postural supports to a patient/resident, the Nurse Assistant MUST:
+         A. Apply the postural supports tightly
+         B. Tie the postural supports to the side rails
+         C. Apply lotion to the skin
+         D. Apply padding over bony areas
+
+23. To use a fire extinguisher, you must first:
+         A. Remove the safety pin
+         B. Direct the hose at the fire
+         C. Squeeze the top handle
+         D. Sound the nearest fire alarm
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 20 of 27
+                                                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+24. When making a patient/patient's/resident's bed, the Nurse Assistant discovers a damaged electrical cord. Which of the following
+    actions should a Nurse Assistant take?
+         A. Report the situation to the charge nurse
+         B. Unplug the cord
+         C. Wrap the exposed wires with tape
+         D. Make the patient/patient's/resident's bed
+
+25. To prevent patients/residents from falling, the Nurse Assistant should keep patients/residents
+         A. Beds at the highest position, with side rails up
+         B. Beds at the lowest position, with side rails up, if ordered
+         C. Walkers and canes away from the beds and out of reach when not in use
+         D. Wheelchair and walker wheels unlocked for easy movement
+
+26. A patient/resident who is receiving oxygen has a visitor who wants to smoke. The Nurse Assistant should tell the visitor:
+         A. To smoke at least three feet away from the patient/resident
+         B. To go outside the building to smoke in a designated area
+         C. That the oxygen can be stopped when the visitor smokes
+         D. That the visitor can only smoke for five minutes
+
+27. Which of the following safety precautions should the Nurse Assistant recognize as one to be used when caring for
+    patients/residents who are receiving oxygen?
+         A. Smoking is allowed in the room five feet away from the source of oxygen
+         B. The nasal cannula or nose piece should be lubricated with petroleum jelly
+         C. The humidifying container should not be connected to nasal oxygen
+         D. A "No Smoking: Oxygen in Use" sign is placed on the door of the room
+
+28. The Nurse Assistant discovers that the three-pointed ground plug has a point missing. The Nurse Assistant should:
+         A. Plug the cord into the wall outlet
+         B. Immediately tell the maintenance department
+         C. Plug the cord in and look at it for problems
+         D. Continue patient/resident care
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 21 of 27
+                                                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+29. Upon entering a patient's/resident's room, the Nurse Assistant discovers a fire. Which of the following is the correct sequence of
+
+    steps that the Nurse Assistant should take?
+         A. Contain and extinguish (put out) the fire, activate the safety alarm, and remove the patient/resident
+         B. Activate the safety alarm, remove the patient/resident, and contain and extinguish (put out) the fire
+         C. Extinguish (put out) the fire, remove the patient/resident, and activate the safety alarm
+         D. Remove patient/resident, activate the safety alarm, and contain and extinguish (put out) the fire
+
+30. The Nurse Assistant enters a patient's/resident's room and checks the patient/patient's/resident's environment. Which of the
+    following problems must be taken care of immediately?
+         A. The window is open
+         B. The lights are flickering
+         C. Electrical wires are exposed
+         D. The faucet is dripping
+
+31. During a disaster, the Nurse Assistant must:
+         A. Know the disaster plan for the facility
+         B. Know the facility administrator's telephone number
+         C. First call home
+         D. Call each patient/patient's/resident's family
+
+32. After hearing the emergency code for fire, the Nurse Assistant should:
+         A. Provide a list of all assigned patients/residents by name and room number
+         B. Close all room doors and report to the nurse in charge
+         C. Wait for the nurse in charge to give directions
+         D. Wait for the fire fighters to give directions
+
+33. The Nurse Assistant is caring for a patient/resident who is wearing wrist restraints. The Nurse Assistant should remove the
+    restraints and perform passive range-of-motion exercises for the patient/resident at least every:
+         A. 2 hours
+         B. 4 hours
+         C. 8 hours
+         D. 24 hours
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 22 of 27
+                                                                   Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+34. When a patient/resident is wearing a jacket restraint while in a chair, the Nurse Assistant should:
+
+         A. Tie the restraints tightly as possible
+         B. Close the patient's/resident's door to provide privacy during restraint
+         C. Release the restraint every two hours for repositioning
+         D. Tie the restraint to the side rail of the patient's/resident's bed
+
+35. A patient/resident tells the Nurse Assistant that her wheelchair is broken The Nurse Assistant should FIRST:
+         A. Tell the charge nurse
+         B. Try to repair the wheelchair
+         C. Ignore the situation
+         D. Notify the patient's/resident's family
+
+36. Which of the following devices would not be used for patient/resident activities of daily living?
+         A. Plate guards and silverware with cuffs or curved handles
+         B. A cup or glass holder and silverware attached to a splint
+         C. A walker, a cane, and crutches
+         D. A stethoscope, a blood pressure cuff, and a thermometer
+
+37. The Nurse Assistant should use a gait belt:
+         A. To help the patient/resident ambulate safely
+         B. As a patient/resident restraint
+         C. For back support when transferring patients/residents
+         D. To hold the patient's/resident's oxygen tank on its cart
+
+38. The Nurse Assistant is cleaning the nose of a patient/resident who is receiving continuous oxygen by a nasal tube. The Nurse
+    Assistant should NOT use:
+         A. A water-based lubricant
+         B. Warm water
+         C. An oil-based lubricant
+         D. Soap and water
+
+39. Which is the main reason that the Nurse Assistant MUST report broken equipment?
+         A. The Nurse Assistant could be held legally responsible for the broken equipment
+         B. The Nurse Assistant must care about patient/resident and staff safety
+         C. The information will go in an incident report
+         D. The information is needed by the nurse in charge
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 23 of 27
+Sample Test Answers: Module 4  Module 4: Prevention and Management of Catastrophes and Unusual Occurrences
+
+       1. B                                                   21. D
+       2. B                                                   22. D
+       3. A                                                   23. A
+       4. B                                                   24. A
+       5. C                                                   25. B
+       6. D                                                   26. B
+       7. D                                                   27. D
+       8. D                                                   28. B
+       9. B                                                   29. D
+       10. B                                                  30. C
+       11. B                                                  31. A
+       12. C                                                  32. B
+       13. B                                                  33. A
+       14. B                                                  34. C
+       15. A                                                  35. A
+       16. C                                                  36. D
+       17. B                                                  37. A
+       18. D                                                  38. C
+       19. B                                                  39. B
+       20. B
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 24 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences  Manual Skills 410- Applying Postural Supports
+
+                                               MANUAL SKILL: Applying Postural Supports (Restraints)
+
+EQUIPMENT:
+
+Authorization from a licensed nurse.
+Postural support (as appropriate, ie limb, jacket (vest), waist).
+
+BEGINNING STEPS:
+
+1. Wash hands
+2. Knock and pause before entering the patient's/resident's room
+3. Introduce self
+4. Identify patient/resident
+5. Explain procedure speaking clearly, slowly, and directly Maintaining face-to-face contact whenever possible
+6. Gather equipment, if applicable
+7. Provide for privacy with a curtain, door, or screen
+8. Apply gloves (standard precautions)
+
+SKILL STEPS:
+
+A. Raise bed to comfortable working position.
+B. Check body alignment and position.
+
+    1. Limb device:
+         a. Place soft edge of restraints against patient's/resident's skin Wrap restraint smoothly around the limb Make sure no
+              wrinkles are present.
+         b. Pull both ends of straps through tab or ring on the restraint; then pull the restraint secure, but not too tight, against the
+              skin.
+         c. Test for fit and comfort by inserting two fingers between the restraint and the patient's/resident's skin.
+         d. Position arm or leg in comfortable position, limiting movement only as much as necessary.
+
+    2. Jacket device:
+         a. Assist patient/resident to sit in upright position Slip armholes of jacket onto patient's/resident's arms Be sure that
+              vest is applied according to manufacturer's instructions.
+         b. Test for fit and comfort by inserting two fingers between the restraint and the patient's/resident's skin.
+
+    3. Waist device:
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 25 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences  Manual Skills 410- Applying Postural Supports
+
+         a. Place waist device low over pelvis and down between wheelchair sides and seat to "the foot-bars" in back of the
+              wheelchair.
+
+         b. Test for fit and comfort, etc.
+C. Secure straps to each side of movable part of bed frame or to back of wheelchair with easily removable tie, out of
+
+    patient's/resident's reach Do not tie to side rails.
+D. Observe color and temperature of skin below restraint (for vest restraint, observe respirations).
+E. Check patient/resident every 15 to 30 minutes or according to facility policy.
+F. Remove restraint and change position every two hours Offer toileting, fluids, range-of-motion exercises and position changes as
+
+    needed. Provide skin care.
+
+ENDING STEPS:
+
+1. Clean and return equipment and supplies, if applicable
+2. Remove gloves (without contaminating self) into waste container and wash hands
+3. Position patient/resident comfortably
+4. Place call light within reach
+5. Lower bed to safe position for the patient/resident
+6. Leave room neat
+7. Wash hands
+8. Document
+9. Report abnormal findings to licensed nurse
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 26 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences                                 Handout 48a- PASS
+
+P  Pull safety pin
+
+A  Aim
+
+S  Squeeze
+
+S  Sweep low
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 27 of 27
+Module 4: Prevention and Management of Catastrophes and Unusual Occurrences  Handout 412- RACE-Fire
+
+R  Remove the patient/resident from the fire area and
+   close the room door
+
+A Activate the fire alarm system
+
+C Contain the fire
+
+E  Extinguish the fire, if possible
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 28 of 27
+

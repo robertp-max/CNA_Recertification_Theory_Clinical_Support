@@ -1,0 +1,294 @@
+{
+  "module_id": "M14",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M14-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O02-IMG01",
+      "title": "rehabilitation (restorative care) and how it p — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O02-IMG02",
+      "title": "rehabilitation (restorative care) and how it p — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O02-IMG03",
+      "title": "rehabilitation (restorative care) and how it p — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 2: Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O03-IMG01",
+      "title": "goals of restorative care that promote indepen — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 3: State goals of restorative care that promote independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O03-IMG02",
+      "title": "goals of restorative care that promote indepen — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 3: State goals of restorative care that promote independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O03-IMG03",
+      "title": "goals of restorative care that promote indepen — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 3: State goals of restorative care that promote independence and patient/resident potential. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O04-IMG01",
+      "title": "the rehabilitation team, state its purpose, an — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O04-IMG02",
+      "title": "the rehabilitation team, state its purpose, an — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O04-IMG03",
+      "title": "the rehabilitation team, state its purpose, an — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 4: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O05-IMG01",
+      "title": "the responsibilities of the Nurse Assistant in — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O05-IMG02",
+      "title": "the responsibilities of the Nurse Assistant in — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O05-IMG03",
+      "title": "the responsibilities of the Nurse Assistant in — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 5: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O06-IMG01",
+      "title": "activities that make up Activities of Daily Li — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 6: List activities that make up Activities of Daily Living (ADLs). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O06-IMG02",
+      "title": "activities that make up Activities of Daily Li — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 6: List activities that make up Activities of Daily Living (ADLs). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O06-IMG03",
+      "title": "activities that make up Activities of Daily Li — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 6: List activities that make up Activities of Daily Living (ADLs). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O07-IMG01",
+      "title": "common comfort and adaptive devices and explai — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 7: List common comfort and adaptive devices and explain the purposes of each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O07-IMG02",
+      "title": "common comfort and adaptive devices and explai — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 7: List common comfort and adaptive devices and explain the purposes of each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O07-IMG03",
+      "title": "common comfort and adaptive devices and explai — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 7: List common comfort and adaptive devices and explain the purposes of each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O08-IMG01",
+      "title": "steps to prevent complications from inactivity — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 8: Identify steps to prevent complications from inactivity. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O08-IMG02",
+      "title": "steps to prevent complications from inactivity — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 8: Identify steps to prevent complications from inactivity. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O08-IMG03",
+      "title": "steps to prevent complications from inactivity — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 8: Identify steps to prevent complications from inactivity. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O09-IMG01",
+      "title": "range-of-motion exercises (ROM) — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 9: Describe range-of-motion exercises (ROM). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O09-IMG02",
+      "title": "range-of-motion exercises (ROM) — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 9: Describe range-of-motion exercises (ROM). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O09-IMG03",
+      "title": "range-of-motion exercises (ROM) — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 9: Describe range-of-motion exercises (ROM). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O10-IMG01",
+      "title": "procedures and devices used to promote mobilit — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O10-IMG02",
+      "title": "procedures and devices used to promote mobilit — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O10-IMG03",
+      "title": "procedures and devices used to promote mobilit — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 10: Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O11-IMG01",
+      "title": "relationship between patient's/resident's self — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 11: Discuss relationship between patient's/resident's self-esteem and family involvement in care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O11-IMG02",
+      "title": "relationship between patient's/resident's self — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 11: Discuss relationship between patient's/resident's self-esteem and family involvement in care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O11-IMG03",
+      "title": "relationship between patient's/resident's self — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 11: Discuss relationship between patient's/resident's self-esteem and family involvement in care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O12-IMG01",
+      "title": "the process of documentation and the Nurse Ass — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O12-IMG02",
+      "title": "the process of documentation and the Nurse Ass — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M14-O12-IMG03",
+      "title": "the process of documentation and the Nurse Ass — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 14: Rehabilitative Nursing, Objective 12: Discuss the process of documentation and the Nurse Assistant role in care plan meeting. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

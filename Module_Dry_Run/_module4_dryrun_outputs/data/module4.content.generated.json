@@ -1,0 +1,2713 @@
+{
+  "app_copy": {
+    "dashboard": {
+      "badge": "Module 4 Dry Run",
+      "title": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "summary": "Source-first dry run generated from approved NATP Module 4 PDF.",
+      "theory_card": "180 minutes of source recommended theory hours mapping.",
+      "clinical_card": "1 recommended clinical hours are deferred; not online credit.",
+      "audit_card": "Source map, manifests, and validation report generated for audit review.",
+      "compliance_notice": "No approval, certificate production, online clinical credit, or online competency validation is claimed."
+    },
+    "module0": {
+      "eyebrow": "Module 4 only",
+      "title": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "intro": "This dry run contains Module 4 only.",
+      "acknowledgements": [
+        {
+          "key": "identity",
+          "text": "I understand this is a Module 4 dry run."
+        },
+        {
+          "key": "onlineCap",
+          "text": "I understand clinical time is not online credit."
+        },
+        {
+          "key": "clinicalBoundary",
+          "text": "I understand hands-on competency is deferred."
+        }
+      ]
+    },
+    "moduleAssessment": {
+      "title": "Module 4 Knowledge Check",
+      "summary": "Source-traced objective checks for Module 4 only."
+    },
+    "final": {
+      "title": "Module 4 Review Check",
+      "summary": "Dry-run review only; no production final exam claim.",
+      "no_key_notice": "Answer keys are internal-only.",
+      "pass_title": "Module 4 Review Complete",
+      "pass_body": "Dry-run only; no certificate or approval claim.",
+      "fail_title": "Review Module 4 Objectives"
+    },
+    "certificate": {
+      "checklist_title": "Certificate Disabled for Dry Run",
+      "intro": "Certificate production is not part of this Module 4 dry run.",
+      "locked_body": "Certificate remains locked and non-production.",
+      "ready_body": "Dry-run complete does not issue a production certificate.",
+      "restriction": "No clinical-hour credit, CDPH/TPRU approval, or online hands-on competency validation is claimed.",
+      "affidavit_text": "I confirm this is a non-production Module 4 dry run."
+    },
+    "clinicalHub": {
+      "eyebrow": "Clinical boundary",
+      "badge": "Deferred",
+      "title": "Clinical Support Deferred",
+      "warning": "Clinical practice is source-stated (1 recommended clinical hours) and not online credit.",
+      "documentation_title": "Documentation Support",
+      "documentation_warning": "Do not enter PHI. Use fictional, de-identified practice only.",
+      "scenarios": [
+        {
+          "title": "In-person clinical practice deferred",
+          "body": "Hands-on performance/evaluation is deferred and not validated online.",
+          "action": "Use as theory preparation only"
+        }
+      ]
+    }
+  },
+  "control_facts": {
+    "theory_total_minutes": 180,
+    "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf",
+    "selected_theory_basis": "source recommended theory hours"
+  },
+  "clinical_support": {
+    "units": [],
+    "confidence_checks": []
+  },
+  "modules": [
+    {
+      "module_id": "M04",
+      "module_title": "NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences",
+      "short_title": "Prevention and Management of Catastrophes and Unusual Occurrences",
+      "estimated_minutes": 180,
+      "status": "ready",
+      "counts_toward_theory": true,
+      "source_status_flag": "Generated from approved Module 4 PDF source map.",
+      "sme_review_flag": "SME review required before production.",
+      "compliance_review_flag": "Dry-run only; no approval/credit/certificate/competency claim.",
+      "learning_objectives": [
+        "Define key terminology",
+        "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+        "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+        "Describe common emergency codes used in facilities",
+        "Describe general rules for providing a safe environment for the Nurse Assistant",
+        "Describe general rules for providing a safe environment for the patient/resident",
+        "Identify two safety issues for the patients/residents and interventions to prevent them",
+        "Describe major causes of fire and general fire prevention rules",
+        "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+        "Describe the safe application of postural supports and the implication for their use",
+        "Discuss the legal and psychological implication of the use of postural supports",
+        "Discuss the overview of bioterrorism"
+      ],
+      "lessons": [
+        {
+          "lesson_id": "L01",
+          "lesson_title": "Objective 1: Define key terminology",
+          "estimated_minutes": 7,
+          "objective_number": 1,
+          "weighted_minutes": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L01",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l01.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l1",
+                "location": "module.m04.lesson.l01.card.c01_overview"
+              },
+              "scene_title": "Objective 1 Overview",
+              "display_title": "Objective 1 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Overview",
+                "alt_text": "Training visual: Objective 1 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Define key terminology",
+              "learner_facing_content": "Objective 1: Define key terminology. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 1 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "Source terminology",
+                  "definition": "Use the exact terminology section from the approved source module."
+                },
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 1: Define key terminology. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L01",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l01.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l1",
+                "location": "module.m04.lesson.l01.card.c02_delivery"
+              },
+              "scene_title": "Objective 1 Source Delivery",
+              "display_title": "Source Delivery: Objective 1",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 1. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Define key terminology",
+              "learner_facing_content": "Source-traced focus: Define key terminology. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Assignments Define key terminology. A. Review the terms listed in the terminology section A. Lecture/Discussion A. Ask students to select B. Spell the listed terms accurately B. Games: word searches, five words from the list C. Pronounce the terms correctly of key terminology and D. Use the terms in their proper context crossword puzzles, write a sentence for Family Feud, Jeopardy, each defining the term",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "Source terminology",
+                  "definition": "Use the exact terminology section from the approved source module."
+                },
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Define key terminology. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Assignments Define key terminology. A. Review the terms listed in the terminology section A. Lecture/Discussion A. Ask students to select B. Spell the listed terms accurately B. Games: word searches, five words from the list C. Pronounce the terms correctly of key terminology and D. Use the terms in their proper context crossword puzzles, write a sentence for Family Feud, Jeopardy, each defining the term",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L01",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l01.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l1",
+                "location": "module.m04.lesson.l01.card.c03_challenge"
+              },
+              "scene_title": "Objective 1 Practice Check",
+              "display_title": "Practice Check: Objective 1",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Practice Check",
+                "alt_text": "Training visual: Objective 1 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Define key terminology",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "Source terminology",
+                  "definition": "Use the exact terminology section from the approved source module."
+                },
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 1 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q01",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 1, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+                "objective_number": 1
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O01-A01",
+              "name": "Terminology Flashcards",
+              "objective_number": 1,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O01:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O01-A02",
+              "name": "Term Context Sort",
+              "objective_number": 1,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O01:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O01-A03",
+              "name": "Report Using Source Terms",
+              "objective_number": 1,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O01:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L02",
+          "lesson_title": "Objective 2: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+          "estimated_minutes": 18,
+          "objective_number": 2,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L02",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l02.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l2",
+                "location": "module.m04.lesson.l02.card.c01_overview"
+              },
+              "scene_title": "Objective 2 Overview",
+              "display_title": "Objective 2 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Overview",
+                "alt_text": "Training visual: Objective 2 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+              "learner_facing_content": "Objective 2: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 2 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 2: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L02",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l02.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l2",
+                "location": "module.m04.lesson.l02.card.c02_delivery"
+              },
+              "scene_title": "Objective 2 Source Delivery",
+              "display_title": "Source Delivery: Objective 2",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 2. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+              "learner_facing_content": "Source-traced focus: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: : bingo, spelling bee, Describe the role of the Nurse Assistant in emergency, disaster, hangman, and B. Administer vocabulary and fire situations. concentration pre-test and post-test A. Be prepared A. Lecture/Discussion A. Written test 1. Know emergency codes (facility rules) B. Refer to Objective 4 for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency stude",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Explain the role of the Nurse Assistant in emergency, disaster, and fire situations. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: : bingo, spelling bee, Describe the role of the Nurse Assistant in emergency, disaster, hangman, and B. Administer vocabulary and fire situations. concentration pre-test and post-test A. Be prepared A. Lecture/Discussion A. Written test 1. Know emergency codes (facility rules) B. Refer to Objective 4 for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency stude",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L02",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l02.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l2",
+                "location": "module.m04.lesson.l02.card.c03_challenge"
+              },
+              "scene_title": "Objective 2 Practice Check",
+              "display_title": "Practice Check: Objective 2",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Practice Check",
+                "alt_text": "Training visual: Objective 2 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Explain the role of the Nurse Assistant in emergency, disaster, and fire situations",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 2 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q02",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 2, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+                "objective_number": 2
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O02-A01",
+              "name": "the role of the Nurse Assistant in emergency — Source Trace Card Sort",
+              "objective_number": 2,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O02:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O02-A02",
+              "name": "the role of the Nurse Assistant in emergency — CNA Scope and Reporting Scenario",
+              "objective_number": 2,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O02:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O02-A03",
+              "name": "the role of the Nurse Assistant in emergency — Objective Practice Check",
+              "objective_number": 2,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O02:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L03",
+          "lesson_title": "Objective 3: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+          "estimated_minutes": 10,
+          "objective_number": 3,
+          "weighted_minutes": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L03",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l03.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l3",
+                "location": "module.m04.lesson.l03.card.c01_overview"
+              },
+              "scene_title": "Objective 3 Overview",
+              "display_title": "Objective 3 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Overview",
+                "alt_text": "Training visual: Objective 3 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+              "learner_facing_content": "Objective 3: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 3 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 3: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L03",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l03.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l3",
+                "location": "module.m04.lesson.l03.card.c02_delivery"
+              },
+              "scene_title": "Objective 3 Source Delivery",
+              "display_title": "Source Delivery: Objective 3",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 3. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+              "learner_facing_content": "Source-traced focus: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep them comfortable and quiet students to locate A. Written test B. Recognizes emergency E. Move or d",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe ways the Nurse Assistant can help patients/residents, families and visitors remain calm in an emergency situation. A. Stay calm and use a calm voice A. Lecture/Discussion A. Written test B. Responds to mock B. Project confidence B. During clinical emergency according to C. Know and use facility emergency codes and plans experience, instruct policy D. Stay with the patient/resident and keep them comfortable and quiet students to locate A. Written test B. Recognizes emergency E. Move or d",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L03",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l03.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l3",
+                "location": "module.m04.lesson.l03.card.c03_challenge"
+              },
+              "scene_title": "Objective 3 Practice Check",
+              "display_title": "Practice Check: Objective 3",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Practice Check",
+                "alt_text": "Training visual: Objective 3 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe ways the Nurse Assistant can help patients/residents, families, and visitors remain calm in an emergency situation",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 3 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q03",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 3, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+                "objective_number": 3
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O03-A01",
+              "name": "ways the Nurse Assistant can help patients/res — Source Trace Card Sort",
+              "objective_number": 3,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O03:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O03-A02",
+              "name": "ways the Nurse Assistant can help patients/res — CNA Scope and Reporting Scenario",
+              "objective_number": 3,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O03:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O03-A03",
+              "name": "ways the Nurse Assistant can help patients/res — Objective Practice Check",
+              "objective_number": 3,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O03:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L04",
+          "lesson_title": "Objective 4: Describe common emergency codes used in facilities",
+          "estimated_minutes": 18,
+          "objective_number": 4,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L04",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l04.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l4",
+                "location": "module.m04.lesson.l04.card.c01_overview"
+              },
+              "scene_title": "Objective 4 Overview",
+              "display_title": "Objective 4 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Overview",
+                "alt_text": "Training visual: Objective 4 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe common emergency codes used in facilities",
+              "learner_facing_content": "Objective 4: Describe common emergency codes used in facilities. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 4 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 4: Describe common emergency codes used in facilities. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L04",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l04.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l4",
+                "location": "module.m04.lesson.l04.card.c02_delivery"
+              },
+              "scene_title": "Objective 4 Source Delivery",
+              "display_title": "Source Delivery: Objective 4",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 4. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe common emergency codes used in facilities",
+              "learner_facing_content": "Source-traced focus: Describe common emergency codes used in facilities. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical each clinical site before visiting the facility System) by dialing 911 D. Show pictures of fire exit D",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe common emergency codes used in facilities. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: for B. Provide mock situations 2. Know fire and disaster plans 3. Know location of fire exit, extinguishers, and alarms Code descriptions at facility and ask B. Remain calm C. Review emergency students to respond C. Use emergency call system according to facility 1. Telephone numbers used within each facility codes and plans from policy 2. The licensed nurse activates the EMS (Emergency Medical each clinical site before visiting the facility System) by dialing 911 D. Show pictures of fire exit D",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L04",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l04.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l4",
+                "location": "module.m04.lesson.l04.card.c03_challenge"
+              },
+              "scene_title": "Objective 4 Practice Check",
+              "display_title": "Practice Check: Objective 4",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Practice Check",
+                "alt_text": "Training visual: Objective 4 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe common emergency codes used in facilities",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 4 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q04",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 4, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+                "objective_number": 4
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O04-A01",
+              "name": "common emergency codes used in facilities — Source Trace Card Sort",
+              "objective_number": 4,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O04:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O04-A02",
+              "name": "common emergency codes used in facilities — CNA Scope and Reporting Scenario",
+              "objective_number": 4,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O04:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O04-A03",
+              "name": "common emergency codes used in facilities — Objective Practice Check",
+              "objective_number": 4,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O04:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L05",
+          "lesson_title": "Objective 5: Describe general rules for providing a safe environment for the Nurse Assistant",
+          "estimated_minutes": 18,
+          "objective_number": 5,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L05",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l05.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l5",
+                "location": "module.m04.lesson.l05.card.c01_overview"
+              },
+              "scene_title": "Objective 5 Overview",
+              "display_title": "Objective 5 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Overview",
+                "alt_text": "Training visual: Objective 5 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the Nurse Assistant",
+              "learner_facing_content": "Objective 5: Describe general rules for providing a safe environment for the Nurse Assistant. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 5 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 5: Describe general rules for providing a safe environment for the Nurse Assistant. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L05",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l05.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l5",
+                "location": "module.m04.lesson.l05.card.c02_delivery"
+              },
+              "scene_title": "Objective 5 Source Delivery",
+              "display_title": "Source Delivery: Objective 5",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 5. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the Nurse Assistant",
+              "learner_facing_content": "Source-traced focus: Describe general rules for providing a safe environment for the Nurse Assistant. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Describe general rules for providing a safe environment for the B. Show examples of B. Reports safety issues Nurse Assistant. C. Follows policy to protect A. Use body mechanic principles incident form B. Use ergonomics C. Discuss TQI and self from injury C. Know the policy and procedures regarding OSHA safety laws on performance A. Written test use of equipment and handling hazardous materials (MSDS) improvement issues B. Responds to mock D. Wipe up spills i",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe general rules for providing a safe environment for the Nurse Assistant. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Describe general rules for providing a safe environment for the B. Show examples of B. Reports safety issues Nurse Assistant. C. Follows policy to protect A. Use body mechanic principles incident form B. Use ergonomics C. Discuss TQI and self from injury C. Know the policy and procedures regarding OSHA safety laws on performance A. Written test use of equipment and handling hazardous materials (MSDS) improvement issues B. Responds to mock D. Wipe up spills i",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L05",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l05.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l5",
+                "location": "module.m04.lesson.l05.card.c03_challenge"
+              },
+              "scene_title": "Objective 5 Practice Check",
+              "display_title": "Practice Check: Objective 5",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Practice Check",
+                "alt_text": "Training visual: Objective 5 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the Nurse Assistant",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 5 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q05",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 5, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+                "objective_number": 5
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O05-A01",
+              "name": "general rules for providing a safe environment — Source Trace Card Sort",
+              "objective_number": 5,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O05:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O05-A02",
+              "name": "general rules for providing a safe environment — CNA Scope and Reporting Scenario",
+              "objective_number": 5,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O05:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O05-A03",
+              "name": "general rules for providing a safe environment — Objective Practice Check",
+              "objective_number": 5,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O05:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L06",
+          "lesson_title": "Objective 6: Describe general rules for providing a safe environment for the patient/resident",
+          "estimated_minutes": 14,
+          "objective_number": 6,
+          "weighted_minutes": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L06",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l06.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l6",
+                "location": "module.m04.lesson.l06.card.c01_overview"
+              },
+              "scene_title": "Objective 6 Overview",
+              "display_title": "Objective 6 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Overview",
+                "alt_text": "Training visual: Objective 6 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the patient/resident",
+              "learner_facing_content": "Objective 6: Describe general rules for providing a safe environment for the patient/resident. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 6 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 6: Describe general rules for providing a safe environment for the patient/resident. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L06",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l06.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l6",
+                "location": "module.m04.lesson.l06.card.c02_delivery"
+              },
+              "scene_title": "Objective 6 Source Delivery",
+              "display_title": "Source Delivery: Objective 6",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 6. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the patient/resident",
+              "learner_facing_content": "Source-traced focus: Describe general rules for providing a safe environment for the patient/resident. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe general rules for providing a safe environment for the patient/resident. A. Know the National Patient Safety Goals B. Check wrist bands/name tags before performing any task on a patient/resident C. Use side rails when appropriate and know facility policy and procedure on side rails D. Have the patient/resident use handrails/appropriate assistive device when unstable Module 4: Prevention and Management of Catastrophes and Unusual Occurrences E. Have patient/resident wear non-skid footwea",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe general rules for providing a safe environment for the patient/resident. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe general rules for providing a safe environment for the patient/resident. A. Know the National Patient Safety Goals B. Check wrist bands/name tags before performing any task on a patient/resident C. Use side rails when appropriate and know facility policy and procedure on side rails D. Have the patient/resident use handrails/appropriate assistive device when unstable Module 4: Prevention and Management of Catastrophes and Unusual Occurrences E. Have patient/resident wear non-skid footwea",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L06",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l06.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l6",
+                "location": "module.m04.lesson.l06.card.c03_challenge"
+              },
+              "scene_title": "Objective 6 Practice Check",
+              "display_title": "Practice Check: Objective 6",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Practice Check",
+                "alt_text": "Training visual: Objective 6 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe general rules for providing a safe environment for the patient/resident",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 6 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q06",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 6, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+                "objective_number": 6
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O06-A01",
+              "name": "general rules for providing a safe environment — Source Trace Card Sort",
+              "objective_number": 6,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O06:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O06-A02",
+              "name": "general rules for providing a safe environment — CNA Scope and Reporting Scenario",
+              "objective_number": 6,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O06:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O06-A03",
+              "name": "general rules for providing a safe environment — Objective Practice Check",
+              "objective_number": 6,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O06:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L07",
+          "lesson_title": "Objective 7: Identify two safety issues for the patients/residents and interventions to prevent them",
+          "estimated_minutes": 18,
+          "objective_number": 7,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L07",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l07.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l7",
+                "location": "module.m04.lesson.l07.card.c01_overview"
+              },
+              "scene_title": "Objective 7 Overview",
+              "display_title": "Objective 7 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Overview",
+                "alt_text": "Training visual: Objective 7 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Identify two safety issues for the patients/residents and interventions to prevent them",
+              "learner_facing_content": "Objective 7: Identify two safety issues for the patients/residents and interventions to prevent them. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 7 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 7: Identify two safety issues for the patients/residents and interventions to prevent them. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L07",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l07.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l7",
+                "location": "module.m04.lesson.l07.card.c02_delivery"
+              },
+              "scene_title": "Objective 7 Source Delivery",
+              "display_title": "Source Delivery: Objective 7",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 7. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Identify two safety issues for the patients/residents and interventions to prevent them",
+              "learner_facing_content": "Source-traced focus: Identify two safety issues for the patients/residents and interventions to prevent them. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Describe two of the top safety issues for B. Shows videos for use of B. Uses assistive devices patients/residents and interventions to prevent them. A. Falls are 70% of all patient/resident-related accidents. Most devices according to policy C. Demonstrate use of C. Reports and corrects falls occur during 4:00pm and 8:00pm and during shift changes B. Ways to prevent falls devices including gait fall hazards belt and heating pads D. Monitors temperature 1. Pr",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Identify two safety issues for the patients/residents and interventions to prevent them. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Describe two of the top safety issues for B. Shows videos for use of B. Uses assistive devices patients/residents and interventions to prevent them. A. Falls are 70% of all patient/resident-related accidents. Most devices according to policy C. Demonstrate use of C. Reports and corrects falls occur during 4:00pm and 8:00pm and during shift changes B. Ways to prevent falls devices including gait fall hazards belt and heating pads D. Monitors temperature 1. Pr",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L07",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l07.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l7",
+                "location": "module.m04.lesson.l07.card.c03_challenge"
+              },
+              "scene_title": "Objective 7 Practice Check",
+              "display_title": "Practice Check: Objective 7",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Practice Check",
+                "alt_text": "Training visual: Objective 7 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Identify two safety issues for the patients/residents and interventions to prevent them",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 7 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q07",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 7, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+                "objective_number": 7
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O07-A01",
+              "name": "two safety issues for the patients/residents a — Source Trace Card Sort",
+              "objective_number": 7,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O07:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O07-A02",
+              "name": "two safety issues for the patients/residents a — CNA Scope and Reporting Scenario",
+              "objective_number": 7,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O07:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O07-A03",
+              "name": "two safety issues for the patients/residents a — Objective Practice Check",
+              "objective_number": 7,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O07:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L08",
+          "lesson_title": "Objective 8: Describe major causes of fire and general fire prevention rules",
+          "estimated_minutes": 18,
+          "objective_number": 8,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L08",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l08.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l8",
+                "location": "module.m04.lesson.l08.card.c01_overview"
+              },
+              "scene_title": "Objective 8 Overview",
+              "display_title": "Objective 8 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Overview",
+                "alt_text": "Training visual: Objective 8 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe major causes of fire and general fire prevention rules",
+              "learner_facing_content": "Objective 8: Describe major causes of fire and general fire prevention rules. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 8 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 8: Describe major causes of fire and general fire prevention rules. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L08",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l08.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l8",
+                "location": "module.m04.lesson.l08.card.c02_delivery"
+              },
+              "scene_title": "Objective 8 Source Delivery",
+              "display_title": "Source Delivery: Objective 8",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 8. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe major causes of fire and general fire prevention rules",
+              "learner_facing_content": "Source-traced focus: Describe major causes of fire and general fire prevention rules. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: ) students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences Objective 3: Describe ways the Nurse A",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe major causes of fire and general fire prevention rules. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: ) students to locate H. Do not act beyond level of knowledge emergency equipment, I. Move patient/resident if in immediate danger fire extinguishers, and J. Remain with patient/resident alarm boxes K. Keep patient/resident comfortable and calm L. Evacuate patient/resident to safety according to facility fire & disaster plans F. Send family or visitors to the facility-designated area Module 4: Prevention and Management of Catastrophes and Unusual Occurrences Objective 3: Describe ways the Nurse A",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L08",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l08.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l8",
+                "location": "module.m04.lesson.l08.card.c03_challenge"
+              },
+              "scene_title": "Objective 8 Practice Check",
+              "display_title": "Practice Check: Objective 8",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Practice Check",
+                "alt_text": "Training visual: Objective 8 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe major causes of fire and general fire prevention rules",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 8 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q08",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 8, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+                "objective_number": 8
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O08-A01",
+              "name": "major causes of fire and general fire preventi — Source Trace Card Sort",
+              "objective_number": 8,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O08:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O08-A02",
+              "name": "major causes of fire and general fire preventi — CNA Scope and Reporting Scenario",
+              "objective_number": 8,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O08:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O08-A03",
+              "name": "major causes of fire and general fire preventi — Objective Practice Check",
+              "objective_number": 8,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O08:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L09",
+          "lesson_title": "Objective 9: List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+          "estimated_minutes": 18,
+          "objective_number": 9,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L09",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l09.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l9",
+                "location": "module.m04.lesson.l09.card.c01_overview"
+              },
+              "scene_title": "Objective 9 Overview",
+              "display_title": "Objective 9 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Overview",
+                "alt_text": "Training visual: Objective 9 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+              "learner_facing_content": "Objective 9: List the safety rules to be followed for the patient/resident receiving oxygen therapy. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 9 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 9: List the safety rules to be followed for the patient/resident receiving oxygen therapy. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L09",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l09.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l9",
+                "location": "module.m04.lesson.l09.card.c02_delivery"
+              },
+              "scene_title": "Objective 9 Source Delivery",
+              "display_title": "Source Delivery: Objective 9",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 9. De-identified illustration; no PHI."
+              },
+              "learning_goal": "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+              "learner_facing_content": "Source-traced focus: List the safety rules to be followed for the patient/resident receiving oxygen therapy. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: List the safety rules to be followed for the patient/resident receiving oxygen therapy. A. Oxygen therapy A. Lecture/Discussion A. Written test 1. Oxygen is abbreviated O2 and measured in liters per minute B. Show Video on oxygen B. Observes safety (L/min) use guidelines when caring 2. A colorless, odorless, tasteless gas is essential for respiration C. Show examples of for patient/resident with (breathing) oxygen equipment like oxygen 3. Some patients/residents need supplemental oxygen to assis",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: List the safety rules to be followed for the patient/resident receiving oxygen therapy. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: List the safety rules to be followed for the patient/resident receiving oxygen therapy. A. Oxygen therapy A. Lecture/Discussion A. Written test 1. Oxygen is abbreviated O2 and measured in liters per minute B. Show Video on oxygen B. Observes safety (L/min) use guidelines when caring 2. A colorless, odorless, tasteless gas is essential for respiration C. Show examples of for patient/resident with (breathing) oxygen equipment like oxygen 3. Some patients/residents need supplemental oxygen to assis",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L09",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l09.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l9",
+                "location": "module.m04.lesson.l09.card.c03_challenge"
+              },
+              "scene_title": "Objective 9 Practice Check",
+              "display_title": "Practice Check: Objective 9",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Practice Check",
+                "alt_text": "Training visual: Objective 9 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "List the safety rules to be followed for the patient/resident receiving oxygen therapy",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 9 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q09",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 9, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+                "objective_number": 9
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O09-A01",
+              "name": "the safety rules to be followed for the patien — Source Trace Card Sort",
+              "objective_number": 9,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O09:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O09-A02",
+              "name": "the safety rules to be followed for the patien — CNA Scope and Reporting Scenario",
+              "objective_number": 9,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O09:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O09-A03",
+              "name": "the safety rules to be followed for the patien — Objective Practice Check",
+              "objective_number": 9,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O09:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L10",
+          "lesson_title": "Objective 10: Describe the safe application of postural supports and the implication for their use",
+          "estimated_minutes": 17,
+          "objective_number": 10,
+          "weighted_minutes": 17,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L10",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l10.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l10",
+                "location": "module.m04.lesson.l10.card.c01_overview"
+              },
+              "scene_title": "Objective 10 Overview",
+              "display_title": "Objective 10 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Overview",
+                "alt_text": "Training visual: Objective 10 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe the safe application of postural supports and the implication for their use",
+              "learner_facing_content": "Objective 10: Describe the safe application of postural supports and the implication for their use. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 10 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 10: Describe the safe application of postural supports and the implication for their use. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L10",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l10.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l10",
+                "location": "module.m04.lesson.l10.card.c02_delivery"
+              },
+              "scene_title": "Objective 10 Source Delivery",
+              "display_title": "Source Delivery: Objective 10",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 10. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe the safe application of postural supports and the implication for their use",
+              "learner_facing_content": "Source-traced focus: Describe the safe application of postural supports and the implication for their use. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A Written test Describe the safe application of postural supports and the implications for their use. A. Postural supports/soft protective devices/restraints description A Lecture/Discussion and purpose 1. Used to prevent the patient/resident from harming self or others 2. Used to prevent patient/resident from a. Falling out of bed/chair b. Crawling over side rails or the end of the bed c. Interfering with therapy by removing tubing or dressings d. Hurting themselves or others Module 4: Preventi",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Describe the safe application of postural supports and the implication for their use. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A Written test Describe the safe application of postural supports and the implications for their use. A. Postural supports/soft protective devices/restraints description A Lecture/Discussion and purpose 1. Used to prevent the patient/resident from harming self or others 2. Used to prevent patient/resident from a. Falling out of bed/chair b. Crawling over side rails or the end of the bed c. Interfering with therapy by removing tubing or dressings d. Hurting themselves or others Module 4: Preventi",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L10",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l10.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l10",
+                "location": "module.m04.lesson.l10.card.c03_challenge"
+              },
+              "scene_title": "Objective 10 Practice Check",
+              "display_title": "Practice Check: Objective 10",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Practice Check",
+                "alt_text": "Training visual: Objective 10 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Describe the safe application of postural supports and the implication for their use",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 10 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q10",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 10, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+                "objective_number": 10
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O10-A01",
+              "name": "the safe application of postural supports and — Source Trace Card Sort",
+              "objective_number": 10,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O10:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O10-A02",
+              "name": "the safe application of postural supports and — CNA Scope and Reporting Scenario",
+              "objective_number": 10,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O10:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O10-A03",
+              "name": "the safe application of postural supports and — Objective Practice Check",
+              "objective_number": 10,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O10:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L11",
+          "lesson_title": "Objective 11: Discuss the legal and psychological implication of the use of postural supports",
+          "estimated_minutes": 14,
+          "objective_number": 11,
+          "weighted_minutes": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L11",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l11.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l11",
+                "location": "module.m04.lesson.l11.card.c01_overview"
+              },
+              "scene_title": "Objective 11 Overview",
+              "display_title": "Objective 11 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 11 Overview",
+                "alt_text": "Training visual: Objective 11 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the legal and psychological implication of the use of postural supports",
+              "learner_facing_content": "Objective 11: Discuss the legal and psychological implication of the use of postural supports. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 11 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 11: Discuss the legal and psychological implication of the use of postural supports. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L11",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l11.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l11",
+                "location": "module.m04.lesson.l11.card.c02_delivery"
+              },
+              "scene_title": "Objective 11 Source Delivery",
+              "display_title": "Source Delivery: Objective 11",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 11 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 11. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the legal and psychological implication of the use of postural supports",
+              "learner_facing_content": "Source-traced focus: Discuss the legal and psychological implication of the use of postural supports. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Discuss the legal and psychological implications of the use of B. Review patient/resident B. Observes patient rights postural supports. A. Legal implications of the use of postural supports rights when using postural supports, protective 1. Must have a doctor's order to use protective devices including devices and restraints stated reason for use, type of device, and for how long 2. Must have informed consent 3. Patient/resident rights require that patient/r",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Discuss the legal and psychological implication of the use of postural supports. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: A. Lecture/Discussion A. Written test Discuss the legal and psychological implications of the use of B. Review patient/resident B. Observes patient rights postural supports. A. Legal implications of the use of postural supports rights when using postural supports, protective 1. Must have a doctor's order to use protective devices including devices and restraints stated reason for use, type of device, and for how long 2. Must have informed consent 3. Patient/resident rights require that patient/r",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L11",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l11.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l11",
+                "location": "module.m04.lesson.l11.card.c03_challenge"
+              },
+              "scene_title": "Objective 11 Practice Check",
+              "display_title": "Practice Check: Objective 11",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 11 Practice Check",
+                "alt_text": "Training visual: Objective 11 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the legal and psychological implication of the use of postural supports",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 11 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q11",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 11, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+                "objective_number": 11
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O11-A01",
+              "name": "the legal and psychological implication of the — Source Trace Card Sort",
+              "objective_number": 11,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O11:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O11-A02",
+              "name": "the legal and psychological implication of the — CNA Scope and Reporting Scenario",
+              "objective_number": 11,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O11:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O11-A03",
+              "name": "the legal and psychological implication of the — Objective Practice Check",
+              "objective_number": 11,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O11:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        },
+        {
+          "lesson_id": "L12",
+          "lesson_title": "Objective 12: Discuss the overview of bioterrorism",
+          "estimated_minutes": 10,
+          "objective_number": 12,
+          "weighted_minutes": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+          "cards": [
+            {
+              "module_id": "M04",
+              "lesson_id": "L12",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m04.lesson.l12.card.c01_overview",
+              "app": {
+                "route": "/modules/m4/lesson/l12",
+                "location": "module.m04.lesson.l12.card.c01_overview"
+              },
+              "scene_title": "Objective 12 Overview",
+              "display_title": "Objective 12 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 12 Overview",
+                "alt_text": "Training visual: Objective 12 Overview. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the overview of bioterrorism",
+              "learner_facing_content": "Objective 12: Discuss the overview of bioterrorism. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "why_it_matters": [
+                "Keeps the dry-run aligned to the approved CCCCO NATP source objective.",
+                "Protects CNA scope, reporting, privacy, and clinical-credit boundaries."
+              ],
+              "cna_practice_example": "A learner applies Objective 12 using fictional/de-identified residents and reports required findings to licensed staff when indicated.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 12: Discuss the overview of bioterrorism. This dry-run lesson is mapped to Module 4: Prevention and Management of Catastrophes and Unusual Occurrences and remains within CNA theory/support boundaries.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L12",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m04.lesson.l12.card.c02_delivery",
+              "app": {
+                "route": "/modules/m4/lesson/l12",
+                "location": "module.m04.lesson.l12.card.c02_delivery"
+              },
+              "scene_title": "Objective 12 Source Delivery",
+              "display_title": "Source Delivery: Objective 12",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 12 Source Delivery",
+                "alt_text": "Training visual: source-traced Objective 12. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the overview of bioterrorism",
+              "learner_facing_content": "Source-traced focus: Discuss the overview of bioterrorism. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe the overview of bioterrorism. A. Define terrorism A. Lecture/Discussion B. Possible terrorist acts B. Handout 412 � 1. Biological threat Homeland Security a. Bacteria � Anthrax Advisory System b. Viruses � Smallpox C. Ask students to view c. Toxins � Ricin information on US 2. Chemical threat Department of 3. Explosions Homeland Security 4. Nuclear blast website 5. Radiation threat http://wwwdhsgov/natio C. Possible types of bioterrorism threats nal-terrorism-advisory- 1. Explosion syst",
+              "why_it_matters": [
+                "Practice is anchored in the approved source PDF rather than backup or stale prior-module content."
+              ],
+              "cna_practice_example": "Use the source objective to choose the safest CNA support action and document/report within scope.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Source-traced focus: Discuss the overview of bioterrorism. Review the approved source outline, use de-identified examples only, and apply report/observe/defer boundaries. Source excerpt support: Describe the overview of bioterrorism. A. Define terrorism A. Lecture/Discussion B. Possible terrorist acts B. Handout 412 � 1. Biological threat Homeland Security a. Bacteria � Anthrax Advisory System b. Viruses � Smallpox C. Ask students to view c. Toxins � Ricin information on US 2. Chemical threat Department of 3. Explosions Homeland Security 4. Nuclear blast website 5. Radiation threat http://wwwdhsgov/natio C. Possible types of bioterrorism threats nal-terrorism-advisory- 1. Explosion syst",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "sme_review_flag": "SME review required before production."
+            },
+            {
+              "module_id": "M04",
+              "lesson_id": "L12",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m04.lesson.l12.card.c03_challenge",
+              "app": {
+                "route": "/modules/m4/lesson/l12",
+                "location": "module.m04.lesson.l12.card.c03_challenge"
+              },
+              "scene_title": "Objective 12 Practice Check",
+              "display_title": "Practice Check: Objective 12",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 12 Practice Check",
+                "alt_text": "Training visual: Objective 12 challenge. De-identified illustration; no PHI."
+              },
+              "learning_goal": "Discuss the overview of bioterrorism",
+              "learner_facing_content": "Choose the source-aligned CNA action. Internal answer keys are not learner-facing.",
+              "why_it_matters": [
+                "Reinforces source alignment and boundary-safe reporting."
+              ],
+              "cna_practice_example": "Use a fictional scenario only; do not enter PHI.",
+              "key_terms": [
+                {
+                  "term": "CNA scope",
+                  "definition": "Observe, assist, document where assigned, and report to licensed staff per source/facility policy."
+                }
+              ],
+              "transcript_text": "Objective 12 practice check. Choose the source-aligned CNA action.",
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "sme_review_flag": "SME review required before production.",
+              "internal_challenge": {
+                "id": "M04-Q12",
+                "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 12, which action stays within the source-traced CNA dry-run boundary?",
+                "choices": [
+                  {
+                    "id": "a",
+                    "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+                  },
+                  {
+                    "id": "b",
+                    "label": "Use patient-identifying details to make the activity more realistic."
+                  },
+                  {
+                    "id": "c",
+                    "label": "Treat the online activity as completed clinical competency."
+                  },
+                  {
+                    "id": "d",
+                    "label": "Skip reporting because the activity is only a dry run."
+                  }
+                ],
+                "correct_id_internal": "a",
+                "answer_key_policy": "internal_only_do_not_render_to_learners",
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+                "objective_number": 12
+              }
+            }
+          ],
+          "required_activities": [
+            {
+              "activity_id": "M04-O12-A01",
+              "name": "the overview of bioterrorism — Source Trace Card Sort",
+              "objective_number": 12,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O12:A01",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O12-A02",
+              "name": "the overview of bioterrorism — CNA Scope and Reporting Scenario",
+              "objective_number": 12,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O12:A02",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            },
+            {
+              "activity_id": "M04-O12-A03",
+              "name": "the overview of bioterrorism — Objective Practice Check",
+              "objective_number": 12,
+              "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+              "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+              "completion_event": "activity_complete:M04:O12:A03",
+              "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "assessments": {
+    "module_assessments": {
+      "M04": {
+        "module_id": "M04",
+        "title": "Module 4 Knowledge Check",
+        "pass_percent": 80,
+        "answer_key_policy": "internal_only_do_not_render_to_learners",
+        "questions": [
+          {
+            "id": "M04-Q01",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 1, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+            "objective_number": 1
+          },
+          {
+            "id": "M04-Q02",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 2, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+            "objective_number": 2
+          },
+          {
+            "id": "M04-Q03",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 3, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+            "objective_number": 3
+          },
+          {
+            "id": "M04-Q04",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 4, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+            "objective_number": 4
+          },
+          {
+            "id": "M04-Q05",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 5, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+            "objective_number": 5
+          },
+          {
+            "id": "M04-Q06",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 6, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+            "objective_number": 6
+          },
+          {
+            "id": "M04-Q07",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 7, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+            "objective_number": 7
+          },
+          {
+            "id": "M04-Q08",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 8, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+            "objective_number": 8
+          },
+          {
+            "id": "M04-Q09",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 9, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+            "objective_number": 9
+          },
+          {
+            "id": "M04-Q10",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 10, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+            "objective_number": 10
+          },
+          {
+            "id": "M04-Q11",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 11, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+            "objective_number": 11
+          },
+          {
+            "id": "M04-Q12",
+            "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 12, which action stays within the source-traced CNA dry-run boundary?",
+            "choices": [
+              {
+                "id": "a",
+                "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+              },
+              {
+                "id": "b",
+                "label": "Use patient-identifying details to make the activity more realistic."
+              },
+              {
+                "id": "c",
+                "label": "Treat the online activity as completed clinical competency."
+              },
+              {
+                "id": "d",
+                "label": "Skip reporting because the activity is only a dry run."
+              }
+            ],
+            "correct_id_internal": "a",
+            "answer_key_policy": "internal_only_do_not_render_to_learners",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+            "objective_number": 12
+          }
+        ]
+      }
+    },
+    "final_assessment": {
+      "title": "Module 4 Dry-Run Review Check",
+      "attempt_size": 10,
+      "pass_percent": 80,
+      "answer_key_policy": "internal_only_do_not_render_to_learners",
+      "questions": [
+        {
+          "id": "M04-Q01",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 1, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "objective_number": 1
+        },
+        {
+          "id": "M04-Q02",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 2, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-1",
+          "objective_number": 2
+        },
+        {
+          "id": "M04-Q03",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 3, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "objective_number": 3
+        },
+        {
+          "id": "M04-Q04",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 4, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-5",
+          "objective_number": 4
+        },
+        {
+          "id": "M04-Q05",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 5, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "objective_number": 5
+        },
+        {
+          "id": "M04-Q06",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 6, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-6",
+          "objective_number": 6
+        },
+        {
+          "id": "M04-Q07",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 7, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-7-8",
+          "objective_number": 7
+        },
+        {
+          "id": "M04-Q08",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 8, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-9-10",
+          "objective_number": 8
+        },
+        {
+          "id": "M04-Q09",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 9, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-11",
+          "objective_number": 9
+        },
+        {
+          "id": "M04-Q10",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 10, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#pages-12-14",
+          "objective_number": 10
+        },
+        {
+          "id": "M04-Q11",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 11, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-15",
+          "objective_number": 11
+        },
+        {
+          "id": "M04-Q12",
+          "prompt": "For NATP Module 4: Prevention and Management of Catastrophes and Unusual Occurrences, Objective 12, which action stays within the source-traced CNA dry-run boundary?",
+          "choices": [
+            {
+              "id": "a",
+              "label": "Use the module source objective, follow the care plan/facility policy, and report required findings to licensed staff."
+            },
+            {
+              "id": "b",
+              "label": "Use patient-identifying details to make the activity more realistic."
+            },
+            {
+              "id": "c",
+              "label": "Treat the online activity as completed clinical competency."
+            },
+            {
+              "id": "d",
+              "label": "Skip reporting because the activity is only a dry run."
+            }
+          ],
+          "correct_id_internal": "a",
+          "answer_key_policy": "internal_only_do_not_render_to_learners",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-4.pdf#page-16",
+          "objective_number": 12
+        }
+      ]
+    }
+  },
+  "compliance": {
+    "dry_run_only": true,
+    "approval_claimed": false,
+    "certificate_enabled": false,
+    "online_clinical_credit_claimed": false,
+    "online_hands_on_competency_validated": false,
+    "phi_allowed": false
+  }
+}

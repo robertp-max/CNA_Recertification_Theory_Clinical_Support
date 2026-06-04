@@ -1,0 +1,150 @@
+{
+  "module_id": "M05",
+  "queue_status": "ready_for_review_not_generated",
+  "prompts": [
+    {
+      "prompt_id": "M05-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O02-IMG01",
+      "title": "the purpose and rules of proper body mechanics — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 2: Explain the purpose and rules of proper body mechanics.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O02-IMG02",
+      "title": "the purpose and rules of proper body mechanics — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 2: Explain the purpose and rules of proper body mechanics.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O02-IMG03",
+      "title": "the purpose and rules of proper body mechanics — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 2: Explain the purpose and rules of proper body mechanics.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O03-IMG01",
+      "title": "comfort and safety measures used to lift, turn — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 3: Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O03-IMG02",
+      "title": "comfort and safety measures used to lift, turn — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 3: Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O03-IMG03",
+      "title": "comfort and safety measures used to lift, turn — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 3: Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O04-IMG01",
+      "title": "and describe body positions for bedridden pati — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 4: List and describe body positions for bedridden patients/residents.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O04-IMG02",
+      "title": "and describe body positions for bedridden pati — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 4: List and describe body positions for bedridden patients/residents.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O04-IMG03",
+      "title": "and describe body positions for bedridden pati — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 4: List and describe body positions for bedridden patients/residents.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O05-IMG01",
+      "title": "patient/resident transfers — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 5: Describe patient/resident transfers.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O05-IMG02",
+      "title": "patient/resident transfers — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 5: Describe patient/resident transfers.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O05-IMG03",
+      "title": "patient/resident transfers — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 5: Describe patient/resident transfers.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O06-IMG01",
+      "title": "appropriate body mechanics used to ambulate a — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 6: Describe appropriate body mechanics used to ambulate a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O06-IMG02",
+      "title": "appropriate body mechanics used to ambulate a — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 6: Describe appropriate body mechanics used to ambulate a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M05-O06-IMG03",
+      "title": "appropriate body mechanics used to ambulate a — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 5: Body Mechanics, Objective 6: Describe appropriate body mechanics used to ambulate a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

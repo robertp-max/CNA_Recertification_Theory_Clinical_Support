@@ -1,0 +1,461 @@
+{
+  "run_name": "NATP Module 5: Body Mechanics — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf",
+  "source_title": "Module 5: Body Mechanics",
+  "learner_facing_title": "NATP Module 5: Body Mechanics",
+  "minimum_theory_hours": 2.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": 4.0,
+  "selected_theory_hours": 4.0,
+  "selected_theory_basis": "source recommended theory hours",
+  "theory_minutes_total": 240,
+  "clinical_hours": 4.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of the unit is to provide students with an understanding of efficient and proper use of the body in performing tasks related to the role of the CNA. Students will understand the principles of positioning and transporting patients/residents and will implement these principles when providing patient/resident care.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Activities of Daily Living (ADL)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Alignment",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Ambulate",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Base of support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Body mechanics",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Dangle",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Dorsal recumbent",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Fowler's position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Gait belt",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Grasp",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Hoyer lift",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Lateral position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Lift/draw/turn",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Lift team",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Lithotomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Logroll",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Mechanical lift",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Pivot",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Prone position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Sim's position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Supine position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Trapeze",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Trendelenburg",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Total Quality Improvement (TQI)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Work-related musculoskeletal disorder (WRMD",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology.",
+      "exact_objective_statement": "Define key terminology.",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "source_excerpt": "Assignments Define key terminology A. Have students select A. Review the terms listed in the terminology section A. Lecture/Discussion five words from the list B. Spell the listed terms accurately B. Games: word searches, of key terminology and C. Pronounce the terms correctly write a sentence for D. Use the terms in their proper context crossword puzzles, each defining the term Family Feud, Jeopardy,",
+      "weighted_minutes": 21,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology.",
+        "Source excerpt support: Assignments Define key terminology A. Have students select A. Review the terms listed in the terminology section A. Lecture/Discussion five words from the list B. Spell the listed terms accurately B. Games: word searches, of key terminology and C. Pronounce the terms correctly write a sentence for D. Use the terms in their proper context crossword puzzles, each defining the term Family Feud, Jeopardy,",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Explain the purpose and rules of proper body mechanics.",
+      "exact_objective_statement": "Explain the purpose and rules of proper body mechanics.",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+      "source_excerpt": "bingo, spelling bee, B. Administer vocabulary Explain the purpose and rules of proper body mechanics. hangman, and pre-test and post-test A. Proper body mechanics ensures the Nurse Assistant is using the concentration C. Encourage use of C. Uses appropriate body in an efficient and safe way internet, medical terminology when 1. Practice body mechanics at all times dictionary, and charting and reporting to 2. Everyone should use good body mechanics even textbooks licensed personnel D. Create flashcards for patients/residents and families learning purposes A. Written test 3. Protects both employee and patient/resident from injury B. Uses proper body B. Basic rules of body mechanics A. Lecture/Discussion 1. Assess the \"job\" to be done B. Show pictures or video mechanics when 2. Use wide base of support; feet 12 inches apart or shoulder performing on proper body patient/resident care width mechanics tasks 3. Use stronger, larger muscle groups like legs, not the back and C. Handout 5.2a- Body Mechanics Crossword arms D. Handout 5.2b- Body 4. Use correct posture and keep body aligned � back straight, Mechanics Crossword- KEY knees bent 5. Keep objects close to body when lifting or carrying istants - Revised September 2013 Module 5: Body Mechanics 6. Never twist your body, turn or pivot feet � face work 7. Push, slide, or pull heavy objects instead of lifting � pivot 8. Avoid sudden jerky motions; use smooth movements 9. Use both hands when lifting 10. Team work � one leader who communicates/directs the group 11. Explain procedure to patient/resident C. Legal and Total Quality Imp",
+      "weighted_minutes": 52,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Explain the purpose and rules of proper body mechanics.",
+        "Source excerpt support: bingo, spelling bee, B. Administer vocabulary Explain the purpose and rules of proper body mechanics. hangman, and pre-test and post-test A. Proper body mechanics ensures the Nurse Assistant is using the concentration C. Encourage use of C. Uses appropriate body in an efficient and safe way internet, medical terminology when 1. Practice body mechanics at all times dictionary, and charting and reporting to 2. Everyone should use good body mechanics even textbooks licensed personnel D. Create flashcards for patients/residents and families learning purposes A. Written test 3. Protects both employee and patient/resident from injury B. Uses proper body B. Basic rules of body mechanics A. Lecture/",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the purpose and rules of proper body mechanics — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and rules of proper body mechanics — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and rules of proper body mechanics — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.",
+      "exact_objective_statement": "Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+      "source_excerpt": "Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed. A. Comfort measures for lifting and moving patients/residents A. Lecture/Discussion A. Written test B. Uses proper body 1. Inform the patient/resident of what you are doing and why B. Demonstrate stoop, mechanics to move 2. Provide privacy reach, lift, pivot, patient/resident up in bed with single or 3. Raise bed to working height to promote safe body mechanics push/pull, and carry double assist 4. Position the patient/resident in proper body alignment close techniques 5. Use pillows and/or foam pads to support and cushion the C. Demonstrate use of patient/resident and protect bony prominences pull/draw sheet, gait 6. Protect all tubing belt 7. Do not slide or drag to prevent skin shearing, abrasion, tear D. Show videos B. Safety measures for lifting and moving patients/residents demonstrating 1. Assess the task techniques a. Size up the load E. Manual Skills 5.3a- b. Obtain help if needed Turning and Positioning 1) If more than two people are needed, a mechanical lift the Patient/resident is recommended F. Manual Skills 5.3b- 2) Some facilities have a lift team Moving the Helpless 2. Using appropriate body mechanics, reposition patient/resident in Patient/resident to Head bed of Bed istants - Revised September 2013 Module 5: Body Mechanics a. Move the patient/resident up in bed using Two Assistants 1) Use lift sheet if appropriate 2) Two people needed to move patient/resident and should stand at head of bed b. Turn patient/resident on side 1) Move patient/resident toward ",
+      "weighted_minutes": 52,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.",
+        "Source excerpt support: Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed. A. Comfort measures for lifting and moving patients/residents A. Lecture/Discussion A. Written test B. Uses proper body 1. Inform the patient/resident of what you are doing and why B. Demonstrate stoop, mechanics to move 2. Provide privacy reach, lift, pivot, patient/resident up in bed with single or 3. Raise bed to working height to promote safe body mechanics push/pull, and carry double assist 4. Position the patient/resident in proper body alignment close techniques 5. Use pillows and/or foam pads to support and cushion the C. Demonstrate use of patient/resident and protect bony prominen",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "comfort and safety measures used to lift, turn — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "comfort and safety measures used to lift, turn — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "comfort and safety measures used to lift, turn — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "List and describe body positions for bedridden patients/residents.",
+      "exact_objective_statement": "List and describe body positions for bedridden patients/residents.",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+      "source_excerpt": "List and describe body positions for bedridden patients/residents. A. Positioning the patient/resident A. Lecture/Discussion A. Written test B. Properly positions 1. Technique B. Demonstrate patients/residents in a. Do at least every two hours positioning five basic positions using supportive b. Use lift-sheet and move patient/resident to opposite side C. Share policies from devices of bed you wish to turn the patient/resident to (for side facilities used for clinical lying position) D. Manual skills 5.4- c. Turn and position Positions on side 2. Basic positions a. Supine � back b. Prone � abdomen c. Lateral � side d. Sim's e. Fowler's f. Semi-Fowler's g. Trendelenberg h. Reverse Trendelenberg i. Lithotomy B. Use supportive devices to provide comfort and support limb position (pillows and foam wedges) istants - Revised September 2013 Module 5: Body Mechanics",
+      "weighted_minutes": 32,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: List and describe body positions for bedridden patients/residents.",
+        "Source excerpt support: List and describe body positions for bedridden patients/residents. A. Positioning the patient/resident A. Lecture/Discussion A. Written test B. Properly positions 1. Technique B. Demonstrate patients/residents in a. Do at least every two hours positioning five basic positions using supportive b. Use lift-sheet and move patient/resident to opposite side C. Share policies from devices of bed you wish to turn the patient/resident to (for side facilities used for clinical lying position) D. Manual skills 5.4- c. Turn and position Positions on side 2. Basic positions a. Supine � back b. Prone � abdomen c. Lateral � side d. Sim's e. Fowler's f. Semi-Fowler's g. Trendelenberg h. Reverse Trendelenbe",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "and describe body positions for bedridden pati — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and describe body positions for bedridden pati — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and describe body positions for bedridden pati — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe patient/resident transfers.",
+      "exact_objective_statement": "Describe patient/resident transfers.",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe patient/resident transfers. B. Demonstrate and return B. Uses proper techniques A. Transfers demonstration of when transferring 1. Bed to chair transfer techniques patient/resident from 2. Chair to bed C. Practice using slide bed to chair and chair 3. Bed to gurney board and turn sheet to bed B. Transfer techniques D. Manual skills 5.5a- C. Uses transfer equipment C. Assistive equipment used to transfer patients/residents Assisted Transfer from at facility 1. Mechanical lift Bed to Chair/Wheelchair 2. Trapeze � patient/resident uses arms to help lift and Return to Bed 3. Slide board � requires at least two healthcare workers to turn E. Manual skills 5.5b- Mechanical Lift sheet to \"slide\" patient/resident over 4. Gait belt (transfer belt) A. Lecture/Discussion A. Written test B. Show video ambulation B. Uses proper techniques a. Use to promote safety b. Apply to patient's/resident's waist techniques when ambulating c. Check for wounds, colostomy, and tubes on abdomen C. Demonstrate and return patient/resident C. Uses gait belt as prior to application of belt demonstration of required d. Apply over clothing, not next to skin a. Protective fall e. Check if belt is too tight or too loose f. Watch for continued proper placement of gait belt procedure b. Ambulation",
+      "weighted_minutes": 52,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-7",
+      "content_outline": [
+        "Source objective statement: Describe patient/resident transfers.",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe patient/resident transfers. B. Demonstrate and return B. Uses proper techniques A. Transfers demonstration of when transferring 1. Bed to chair transfer techniques patient/resident from 2. Chair to bed C. Practice using slide bed to chair and chair 3. Bed to gurney board and turn sheet to bed B. Transfer techniques D. Manual skills 5.5a- C. Uses transfer equipment C. Assistive equipment used to transfer patients/residents Assisted Transfer from at facility 1. Mechanical lift Bed to Chair/Wheelchair 2. Trapeze � patient/resident uses arms to help lift and Return to Bed 3. Slide board � requires at least two healthcare workers to turn E. Manual sk",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "patient/resident transfers — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "patient/resident transfers — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "patient/resident transfers — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe appropriate body mechanics used to ambulate a patient/resident.",
+      "exact_objective_statement": "Describe appropriate body mechanics used to ambulate a patient/resident.",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+      "source_excerpt": "Describe appropriate body mechanics used to ambulate a techniques patient/resident. D. Manual skills 5.6a- A. Ambulation procedures Assisted Ambulation of 1. Dangle before ambulation Patient/resident 2. Ambulate patient/resident C. Manual skills 5.6b- 3. Ambulate patient/resident with assistive devices a. Walker b. Cane c. Gait belt B. Prevention of injury if fall occurs during ambulation 1. Protection of patient/resident a. Guide the patient/resident to the floor b. Protect the patient's/resident's head c. Keep firm grip on the gait belt 2. Protection of self istants - Revised September 2013 Module 5: Body Mechanics a. Keep back straight Assisting the b. Slide patient/resident to floor using the upper leg for support Patient/resident to Ambulate with Walker/Cane D. Manual skills 5.6c- Assists to ambulate using a transfer belt istants - Revised September 2013 Module 5: Body Mechanics",
+      "weighted_minutes": 31,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-7",
+      "content_outline": [
+        "Source objective statement: Describe appropriate body mechanics used to ambulate a patient/resident.",
+        "Source excerpt support: Describe appropriate body mechanics used to ambulate a techniques patient/resident. D. Manual skills 5.6a- A. Ambulation procedures Assisted Ambulation of 1. Dangle before ambulation Patient/resident 2. Ambulate patient/resident C. Manual skills 5.6b- 3. Ambulate patient/resident with assistive devices a. Walker b. Cane c. Gait belt B. Prevention of injury if fall occurs during ambulation 1. Protection of patient/resident a. Guide the patient/resident to the floor b. Protect the patient's/resident's head c. Keep firm grip on the gait belt 2. Protection of self istants - Revised September 2013 Module 5: Body Mechanics a. Keep back straight Assisting the b. Slide patient/resident to floor usin",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "appropriate body mechanics used to ambulate a — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "appropriate body mechanics used to ambulate a — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "appropriate body mechanics used to ambulate a — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 5 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 5 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 6,
+    "terminology_count": 25,
+    "weighted_minutes_total": 240,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

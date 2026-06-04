@@ -1,0 +1,1048 @@
+                                                                                  Module 6: Medical and Surgical Asepsis
+
+Module 6: Medical and Surgical Asepsis
+Minimum Number of Theory Hours: 2
+Suggested Theory Hours: 5
+Recommended Clinical Hours: 8
+
+Statement of Purpose:
+The purpose of this unit is to present information about asepsis and the control of infection. Procedures and precautions to protect
+patient/patients/residents, health care workers and others from infection are presented, including standard precautions, transmission-
+based precautions and biohazardous waste management.
+
+Terminology                                21. Escherichia coli (E. coli)         40. Non-intact
+                                           22. Excretions                         41. Nosocomial
+1. Acquired Immunodeficiency               23. Exposure incident                  42. Occupational Safety and Health
+     Syndrome (AIDS)                       24. Flora
+                                           25. Fungus                                 Administration (OSHA)
+2. Airborne precautions                    26. Health Care-Associated Infection   43. Pathogens
+3. Asepsis                                                                        44. Personal Protective Equipment
+4. Athlete's foot                               (HAI)
+5. Bacteria                                27. Hepatitis A, B, C, D, E                (PPE)
+6. Barriers                                28. Herpes zoster                      45. Pneumonia
+7. Biohazard symbol                        29. Host                               46. Precautions
+8. Bloodborne                              30. Immunity                           47. Protozoa
+9. Carrier spore                           31. Infection                          48. Reservoir
+10. Centers for Disease Control (CDC)      32. Infectious agent                   49. Reverse isolation
+11. Chain of infection                     33. Influenza                          50. Rickettsia
+12. Communicable                           34. Isolation                          51. Scabies
+13. Contact precautions                    35. Lice                               52. Sepsis
+14. Contagious microbes                    36. Material Safety Data Sheet (MSDS)  53. Standard precautions
+15. Contamination                          37. Methicillin-Resistant              54. Sterilization
+16. Disinfection                                                                  55. Streptococcus
+17. Disorientation                              Staphylococcus aureus (MRSA)      56. Transmission-based
+18. Disposable                             38. Microorganisms                     57. Tuberculosis
+19. Droplet precautions                    39. Nausea                             58. Vancomycin-Resistant Enterococci (VRE)
+20. Environmental Protection Agency (EPA)
+                                                                                  59. Virus
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 1 of 31
+                                                                                    Module 6: Medical and Surgical Asepsis
+
+Patient, patient/resident, and client are synonymous terms referring to the person
+receiving care
+
+Performance Standards (Objectives):
+
+Upon completion of the two (2) hours of class plus homework assignments and eight (8) hours of clinical experience, the learner will
+
+be able to:
+
+1. Define key terminology
+2. Name four infectious agents (microbes) and discuss the diseases they cause
+3. Discuss two antibiotic resistant bacteria
+4. State five conditions necessary for infectious agents to grow
+5. Identify the six parts of the chain of infection
+6. List four lines of defense against infection in the body
+7. Describe the signs and symptoms of infection
+8. Differentiate between medical and surgical asepsis
+9. Identify the roles of the Centers for Disease Control (CDC) and the Occupational Safety and Health Administration (OSHA) in
+
+       the prevention of infections
+10. Explain standard precaution procedures
+11. Describe personal protective equipment (PPE) and proper use
+12. Define transmission-based precautions
+13. Identify the psychological effects of standard precaution and transmission based precautions on patient/patients/residents
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 2 of 31
+Module 6: Medical and Surgical Asepsis
+
+References:
+     1. Acello, B. & Hegner, B. (2016). Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage Learning.
+     2. Acello, B. (2016). Workbook to accompany: Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage
+          Learning
+     3. California Medical Waste Management Act, California Health and Safety Code, Division 20, Chapter 6.1, Section 25015.
+          https://www.cdph.ca.gov/Programs/CEH/DRSEM/CDPH%20Document%20Library/EMB/MedicalWaste/MedicalWasteManage
+          mentAct.pdf
+     4. Carter, P. J. (2017). Lippincott Essentials for Nursing Assistants: a Humanistic Approach to Caregiving. (4th ed.) Philadelphia,
+          PA. Lippincott Williams & Wilkins
+     5. Centers for Disease Control and Prevention (2007) Guideline for Isolation Precautions: Preventing Transmission of Infectious
+          Agents in Healthcare Settings https://stacks.cdc.gov/view/cdc/45809
+     6. Centers for Disease Control and Prevention. (2003). Guidelines for Environmental Infection Control in Health-Care Facilities
+          http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5210a1.htm (No updated CDC source)
+     7. Centers for Disease Control and Prevention. (2008) Hand Hygiene Saves Lives: Patient Admissions Video Available at
+          https://tools.cdc.gov/medialibrary/index.aspx#/landing/mediatype/Video/language/english/page/1/sort/desc/group/0/query/Hand
+          %2520Hygiene
+     8. Deck, M.L. (2004). Instant Teaching Tools for the New Millennium. St. Louis: Mosby.
+     9. Guideline Prevention and Control of Antibiotic Resistant Microorganisms - California Long-Term Care Facilities. Department of
+          Health Services, January 17, 1996. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375028/
+     10. Hartman Publishing (2018). Workbook for Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+          Hartman Publishing, Inc.
+     11. Haroun, L. & Royce, S. (2004). Teaching Ideas and Activities for Health Care. Albany, NY. Delmar Publishers
+     12. Hedman, S. A., Fuzy, J., & Rymer, S. (2018). Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque,
+          NM. Hartman Publishing, Inc.
+     13. Pearson Vue (2018). California Nurse Assistant Candidate Handbook for National Nurse Aide Assessment Program.
+          Philadelphia, PA. Pearson Education, Inc.
+     14. Sorrentino, S. A., Remmert, L., & and Kelly, R. (2018) Workbook and Competency Evaluation Review for Moby's Textbook for
+          Nursing Assistants (9th ed.) St. Louis, MO. Mosby Company
+     15. Sorrentino, S.A. & Remmert, L. (2018) Mosby's Textbook for Nursing Assistants. (9th ed.). St Louis,
+          MO. Elsevier
+     16. Sack, K. (2008). Infection control guidelines issued.The New York Times. p A21. Accessed 2/23/09
+          http://www.nytimes.com/2008/10/09/us/09infection.html?ref=us
+
+     17. Standards, Toxic and Hazardous Substances and Bloodbourne Pathogens, 1910.1030.
+
+          http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10051
+
+     18. Weaver, L. & Wilding, M. (2013). The Dimensions of Engaged Teaching: a Practical Guide for Educators. Bloomington, IN.
+          Solution Tree Press.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 3 of 31
+                                                              Module 6: Medical and Surgical Asepsis
+
+                                   Content Outline            Recommended Teaching           Clinical Demonstration/
+                                                                     Strategies and           Method of Evaluation
+Objective 1                                                           Assignments
+Define key terminology.
+A. Review the terms listed in the terminology section         A. Lecture/Discussion          A. Have students select
+B. Spell the listed terms accurately                          B. Games: word searches,           five words from the list
+C. Pronounce the terms correctly                                                                 of key terminology and
+D. Use the terms in their proper context                          crossword puzzles,             write a sentence for
+                                                                  Family Feud, Jeopardy,         each defining the term
+Objective 2                                                       bingo, spelling bee,
+Name four infectious agents (microbes) and discuss the            hangman, and               B. Administer vocabulary
+diseases they cause.                                              concentration                  pre-test and post-test
+A. Bacteria                                                   C. Encourage use of
+                                                                  internet, medical          C. Uses appropriate
+    1. Streptococcus ­ strep throat, pneumonia                    dictionary, and                terminology when
+    2. E. coli ­ urinary infections                               textbooks                      charting and reporting to
+    3. Tuberculosis ­ lung disease                            D. Create flashcards for           licensed personnel
+    4. Rickettsia                                                 learning purposes
+
+         a. Lice ­ itching (body, head and pubic)             A. Lecture/Discussion          A. Written test
+         b. Scabies ­ skin rash                               B. Share personal              B. Class participation
+B. Virus
+    1. HIV (AIDS virus) ­ acquired immunodeficiency syndrome      experiences with
+    2. Hepatitis A, B, C ­ liver disease                          diseases and identify
+    3. Common cold ­ respiratory infection                        infectious agent
+    4. Influenza ­ fever, chills, body aches                      involved
+    5. Herpes zoster ­ shingles                               C. Discuss why the elderly
+                                                                  might be more prone to
+                                                                  these illnesses
+                                                              D. Discuss possible
+                                                                  feelings about caring for
+                                                                  a
+                                                                  patient/patient/resident
+                                                                  with an infectious
+                                                                  disease
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 4 of 31
+                                                                                Module 6: Medical and Surgical Asepsis
+
+C. Fungi                                                         A. Lecture/Discussion        A. Written test
+    1. Tinea pedis ­ athlete's foot                              B. Discuss why               B. Class participation
+    2. Candida albicans ­ yeast infection
+                                                                     microorganisms have
+D. Protozoa                                                          become antibiotic-
+    1. Malaria                                                       resistant
+
+Objective 3                                                      A. Lecture                   A. Written test
+Discuss two antibiotic resistant bacteria.                       B. Discussion                B. Class participation
+A. Methicillin resistant staphylococcus auerus (MRSA) infection
+B. Vancomycin resistant enterococcus (VRE) ­ infection           A. Lecture/Discussion        A. Written test
+                                                                 B. Handout 6.5- Chain of     B. Class participation
+Objective 4
+State five conditions necessary for infectious agents to grow.       Infection
+A. Food source                                                   C. Demonstrate and return
+B. Moisture
+C. Oxygen or lack of oxygen                                          demonstration for
+D. Warmth                                                            passing ice
+E. Darkness                                                      D. Ask class to identify
+                                                                     ways to break the chain
+Objective 5                                                          of infection
+Identify the six parts of the chain of infection.                E. Manual Skills 6.5-
+A. Causative agent                                                   Passing Ice
+
+    1. Bacteria
+    2. Viruses
+    3. Fungi
+    4. Insects
+B. Reservoir
+    1. Patient/resident
+    2. Health care worker
+    3. Environment
+    4. Equipment
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 5 of 31
+                                                                          Module 6: Medical and Surgical Asepsis
+
+C. Portal of exit                                          A. Lecture             A. Written test
+   1. Wound drainage                                       B. Discussion          B. Class participation
+   2. Bodily fluids
+   3. Feces                                                A. Lecture/Discussion  A. Written test
+   4. Blood
+   5. Respiratory, reproductive and urinary tracts
+   6. Saliva
+
+D. Method of transmission
+    1. Airborne
+    2. Droplet
+    3. Contact (direct and indirect)
+    4. Food/water
+    5. Animals/insects
+
+E. Portal of entry
+    1. Non-intact skin (cut on hand)
+    2. Mucous membrane (mouth)
+    3. Respiratory tract
+    4. Urinary tract
+    5. Reproductive tract
+
+F. Susceptible host
+    1. Patient/resident
+    2. Health care worker
+    3. Families
+
+Obj4e.ctiVveisi6tors
+List four lines of defense against infection in the body.
+A. Normal flora
+B. Intact skin
+C. Mucous membranes
+D. Immune system
+Objective 7
+Describe the signs and symptoms of infection.
+A. Appetite loss
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 6 of 31
+                                                                       Module 6: Medical and Surgical Asepsis
+
+B. Pain                                                                B. Have class share:                   B. Identify and report signs
+C. Diarrhea                                                                1. How a specific                      and symptoms of
+D. Drainage                                                                     illness might have                infection to licensed
+E. Disorientation                                                               been prevented?                   nurse
+F. Fatigue                                                                 2. What signs and
+G. Fever                                                                        symptoms would be
+H. Nausea                                                                       evident?
+I. Rash
+J. Redness                                                             A. Lecture/Discussion                  A. Written test
+K. Swelling                                                            B. Demonstrate and return              B. Differentiate between
+L. Tenderness
+M. Vomiting                                                                demonstration for hand                 items that are sterile,
+                                                                           washing                                clean, and dirty
+Objective 8                                                            C. Present several
+Differentiate between medical and surgical asepsis.                        examples of violation in
+A. Medical Asepsis/clean techniques                                        aseptic technique and
+                                                                           ask students to identify
+    1. Hand washing                                                        problem and solution
+    2. Disinfection - process of destroying pathogens utilizing water  D. Hand Hygiene Saves
+                                                                           Lives: Patient
+         and/or disinfectant                                               Admissions Video (free
+B. Surgical asepsis/sterile technique                                      PodCast) from the CDC
+                                                                           at:
+    1. Use of equipment which has been sterilized
+    2. Use of barriers to prevent transmission of infectious agents          https://tools.cdc.gov/medialibr
+                                                                             ary/index.aspx#/landing/medi
+                                                                             atype/Video/language/english/
+                                                                             page/1/sort/desc/group/0/quer
+                                                                             y/Hand%2520Hygiene
+
+                                                                       E. Manual Skills 6.8-
+                                                                           Standard Precautions
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018    Page 7 of 31
+                                                                      Module 6: Medical and Surgical Asepsis
+
+Objective 9                                                           A. Lecture                  A. Written test
+Identify the roles of Center for Disease Control (CDC) and            B. Discussion               B. Class participation
+Occupational Safety and Health Administration (OSHA) in the           C. Explore how CDC and      C. Follow CDC and OSHA
+prevention of infections.
+A. CDC ­ Centers for Disease Control and Prevention                       OSHA requirements are       regulations
+                                                                          implemented on the job
+    1. Located in Atlanta, Georgia                                                                A. Written Test
+                                                                      A. Lecture/Discussion       B. Consistently follows
+    2. Under the Department of Health and Human Services (a           B. Video or other A/V on
+                                                                                                      Standard Precautions
+         federal agency)                                                  Standard precautions
+                                                                      C. Manual Skills 6.10-
+    3. Makes non-regulatory recommendations for disease control
+                                                                          Washes Hands
+    4. Introduced categories of precautions
+
+         a. "Standard precautions"
+
+         b. "Transmission-based precautions"
+
+B. Occupational Safety and Health Administration (OSHA)
+
+    1. State regulatory agency which publishes and endorses rules
+
+         to keep workers safe includes an infection control plan
+
+    2. Requires written documentation and follow-up on exposure
+
+         incidents
+
+Objective 10
+Explain standard precautions procedures.
+A. Standard precautions
+
+    1. Precautions used for the care of all patients/residents
+         regardless of their diagnosis or presumed infectious status
+
+    2. Designed to reduce the risk of transmission of
+         microorganisms from moist body fluids, including
+         a. Blood
+         b. All body fluids, secretions and excretions except sweat
+         c. Non-intact skin
+         d. Mucous membranes
+
+B. Contamination
+    1. Process by which an object, person or area becomes unclean
+    2. Microorganisms are present
+
+C. Methods to prevent contamination
+    1. Hand washing
+         a. Beginning of shift
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 8 of 31
+                                                                          Module 6: Medical and Surgical Asepsis
+
+         b. Between patients/residents
+         c. After using the bathroom
+         d. Before handling food
+         e. After removing gloves
+         f. After covering nose and mouth when coughing or sneezing
+         g. When providing toothbrushes, drinking glasses, towels
+
+              and washcloths, etc.
+         h. Prior to handling raw fruit and vegetables before serving
+    2. Alcohol foams, gels, or disposable antiseptic towelettes
+         a. May be substituted for soap and water and used during
+
+              procedures which involve multiple patient/resident contact
+              over a period of time
+         b. The use of these products is not recommended if the
+              hands are accidentally soiled with blood or other body
+              fluids
+    3. Sharps disposal (needles and razors)
+         a. Needles are never bent, broken or recapped by hand
+         b. Dispose in appropriate sharps containers (biohazardous
+              containers)
+D. Environmental controls
+    1. Use Environmental Protection Agency (EPA) registered
+         disinfectant on solid surfaces including floors, furniture,
+         bathrooms and utility rooms
+    2. Reusable equipment must be cleaned or disinfected before
+         reuse
+    3. Mouthpieces for resuscitation should be available
+    4. Waste and soiled linen should be placed in plastic bags and
+         disposed of according to agency policy
+    5. Use separate containers for regular wastes and biohazardous
+         wastes (blood and body fluids that contain blood)
+    6. Wipe up body fluid spills immediately. Disinfect area
+         according to agency's policy
+    7. Do not eat, drink, apply cosmetics or handle contact lenses in
+         contaminated areas
+    8. Labeling
+         a. Biohazard symbol for sharps and liquid blood
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 9 of 31
+                                                                         Module 6: Medical and Surgical Asepsis
+
+         b. Laboratory specimens and specimen containers are             A. Lecture/Discussion      A. Written test
+              potentially infectious                                     B. Audiovisual aids that   B. Class participation
+
+         c. See agency policies for labeling and transporting                show donning and       A. Written test
+Objective 11                                                                 removing PPE           B. Consistently uses
+Describe personal protective equipment (PPE) and proper use.             C. Manual Skills 6.11a-
+A. Gloves                                                                    Standard Precautions:      appropriate
+                                                                             Gloving, Gowning and       transmission-based
+    1. Required when                                                         Applying Mask              precautions
+         a. In contact with blood, body fluids, dressings, tissues or    D. Manual Skills 6.11b-
+              surfaces contaminated with blood or body fluids                Donning and Removing
+         b. In contact with non-intact skin or mucous membranes              PPE: Gown and Gloves
+
+    2. Remove gloves when contact is completed and wash hands            A. Lecture/Discussion
+    3. If gloves become punctured or torn, they should be removed        B. Divide into groups to
+    4. Change gloves between patients/residents
+    5. Do not reuse gloves                                                   review types of
+B. Gowns or aprons                                                           precautions and
+    1. Required when the possibility of soiling with blood or body           required PPE
+
+         fluids might occur
+    2. Remove when procedure is complete and prior to leaving the
+
+         room
+    3. Gloves are not to be washed
+C. Facial protection
+    1. Masks, goggles or face shields
+    2. Required when splashing may occur to protect the worker's
+
+         eyes, nose and mouth
+
+Objective 12
+Define transmission-based precautions.
+A. Transmission based precautions are used for patients/residents
+
+    known or suspected to be infected with pathogens which can be
+    transmitted through air, droplet, contact, or contaminated surfaces
+B. Guidelines by CDC indicate specific precautions and barriers to
+    be used
+    Transmission based precautions are used in addition to standard
+    precautions
+C.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 10 of 31
+                                                                          Module 6: Medical and Surgical Asepsis
+
+1. Airborne precautions
+    a. Used to prevent transmission of infectious agents that
+         remain infectious over long distances when suspended in
+         the air (e.g., rubeola virus [measles], varicella virus
+         [chickenpox], Mycobacterium tuberculosis, and possibly
+         SARS-CoV.)
+    b. The preferred placement for patients who require Airborne
+         Precautions is in an airborne infection isolation room
+         (AIIR) equipped with special air handling and ventilation
+         capacity (i.e., monitored negative pressure)
+    c. In settings where Airborne Precautions cannot be
+         implemented due to limited engineering resources (e.g.,
+         physician offices), masking the patient, placing the patient
+         in a private room (e.g., office examination room) with the
+         door closed, and providing N95 or higher level respirators
+         or masks for healthcare personnel will reduce the
+         likelihood of airborne transmission until the patient is either
+         transferred or placed in isolation
+    d. Healthcare personnel caring for patients on Airborne
+         Precautions must wear a mask or respirator, depending on
+         the disease-specific recommendations
+    e. Whenever possible, non-immune healthcare workers
+         should not care for patients with vaccine-preventable
+         airborne diseases (e.g., measles, chickenpox, and
+         smallpox)
+
+2. Droplet precautions
+    a. Used to prevent spread through close respiratory or
+         mucous membrane contact with respiratory secretions
+         usually within a three-foot radius
+    b. Because these pathogens do not remain infectious over
+         long distances in a healthcare facility, special air handling
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 11 of 31
+                                                                            Module 6: Medical and Surgical Asepsis
+
+              and ventilation are not required to prevent droplet           A. Lecture/Discussion        A. Written test
+              transmission                                                  B. Provide a simulation of   B. Provides emotional
+         c. Infectious agents for which Droplet Precautions are
+              indicated include B. pertussis, influenza virus, adenovirus,      isolation with students      support for
+              rhinovirus, N. meningitides, and group A streptococcus                                         patients/residents in
+              (for the first 24 hours of antimicrobial therapy)
+         d. Healthcare personnel wear a mask (a respirator is not
+              necessary) for close contact with an infectious
+              patient/resident
+    3. Contact precautions
+         a. Used to prevent spread by direct or indirect contact with
+              the patient or the patient's environment
+         b. Apply in the presence of excessive wound drainage, fecal
+              incontinence, or other discharges from the body suggest
+              an increased potential for extensive environmental
+              contamination and risk of transmission
+         c. Healthcare personnel caring for patients on Contact
+              Precautions should wear a gown and gloves for all
+              interactions that may involve contact with the patient or
+              potentially contaminated areas in the patient's
+              environment
+D. Isolation means to separate the patient/resident with a
+    communicable disease to prevent the spread of pathogens
+    1. Isolation precautions used are dependent on how pathogen is
+         transmitted
+    2. Consult agency's guidelines for identification of pathogen and
+Objectirveela1te3d barriers
+Identify the psychological effects of standard precautions and
+transmission based precautions on patients/residents.
+A. Placing the patient/resident in isolation may interfere with
+    following basic needs as defined by Maslow
+    1. Safety needs
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 12 of 31
+                                                                         Module 6: Medical and Surgical Asepsis
+
+    2. Love, belonging, affiliation needs                                taking turns in role of  isolation
+    3. Self-esteem                                                       Nurse Assistant and
+    4. Self-actualization                                                patient/resident
+B. Methods of assisting the patient/resident to meet these needs
+    1. Explain the reasons for the isolation to the patient/resident
+    2. Frequently check on the patient's/resident's condition
+    3. Provide the patient/resident with newspapers, books, &
+
+         magazines, if appropriate
+    4. Instruct the family and visitors on the details of the isolation
+
+         technique to make it easier for them to visit the
+         patient/resident
+    5. Make sure the necessary equipment for the isolation
+         technique is available
+    6. Place the call bell within the patient's/resident's reach
+         and be sure he/she knows how to use it. Respond to
+         the call bell promptly
+    7. Talk with the patient/resident while in the room giving care
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018   Page 13 of 31
+                                                                                             Module 6: Medical and Surgical Asepsis
+
+Sample Test: Module 6- Medical and Surgical Asepsis
+
+1. A small living plant or animal that cannot be seen without the aid of a microscope is a:
+         A. Microwave
+         B. Macrocosm
+         C. Microphagus
+         D. Microorganism
+
+2. The process by which all microorganisms are destroyed is called:
+         A. Isolation
+         B. Sterilization
+         C. Disinfection
+         D. Asepsis
+
+3. A body best protects itself against infections through:
+         A. The shedding of tears
+         B. Maintaining intact skin
+         C. Active peristalsis
+         D. A productive cough
+
+4. Hepatitis B is an example of a:
+         A. Fungus
+         B. Virus
+         C. Bacteria
+         D. Protozoa
+
+5. Strep (streptococcal) throat results from invasion by:
+         A. A fungus
+         B. A virus
+         C. Rickettsia
+         D. Bacteria
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 14 of 31
+                                                                                 Module 6: Medical and Surgical Asepsis
+
+6. Microorganisms will grow best in:
+         A. High temperatures
+         B. Moist places
+         C. Direct sunlight
+         D. Dry places
+
+7. Which of the following is a sign of infection?
+         A. High blood pressure
+         B. Bruising
+         C. Increased appetite
+         D. Fever
+
+8. Washing hands is one way to prevent the spread of infectious agents through:
+         A. Direct contact
+         B. Droplet spread
+         C. Airborne transmission
+         D. Food and water
+
+9. The health worker can break the chain of infection:
+         A. When a susceptible host exhibits the signs of infection
+         B. At any link of the chain
+         C. Only at the portal of exit
+         D. Only with transmission based precautions
+
+10. Following good aseptic techniques, the health worker will wash hands:
+         A. After handling food
+         B. Before using the bathroom
+         C. Between patients/residents
+         D. After going home
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 15 of 31
+                                                                                    Module 6: Medical and Surgical Asepsis
+
+11. Which of the following is an example of contamination?
+         A. Turning gloves inside out when removing them
+         B. Carrying linen away from the uniform
+         C. Touching the inside of the sink
+         D. Using paper towel to turn off the faucet
+
+12. After bathing a patient/resident, the health worker should wash his/her hands:
+         A. Keeping the hands pointed up
+         B. Only if they are contaminated
+         C. With hot water and bar soap
+         D. In a circular motion with friction
+
+13. Asepsis means:
+         A. Clean technique
+         B. The process of destroying pathogens
+         C. An infection acquired after admission to a health care agency
+         D. Being free of disease-producing microbes
+
+14. Clean technique is the same as:
+         A. Sterile technique
+         B. Surgical asepsis
+         C. Medical asepsis
+         D. Normal flora
+
+15. A person has protection against a certain disease. The person has:
+         A. Immunity
+         B. Personal protective equipment
+         C. A vaccine
+         D. A germicide
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 16 of 31
+                                                                                       Module 6: Medical and Surgical Asepsis
+
+16. A vaccine is:
+         A. A suspension containing weakened or killed microorganisms
+         B. Used to disinfect supplies and equipment
+         C. Used to treat infection
+         D. Normal flora
+
+17. Who can develop nosocomial or Healthcare Associated Infection (HAI)?
+         A. Patients/residents
+         B. Nursing team
+         C. Doctors
+         D. Health team
+
+18. Which is the easiest and most important way to prevent infections from spreading?
+         A. Standard precautions
+         B. Wearing gloves at all times
+         C. Transmission-Based Precautions
+         D. The Blood borne Pathogen Standard
+
+19. When cleaning the perineal area of the female body, you need to clean:
+         A. From bottom to top
+         B. Away from your body
+         C. From front to back
+         D. As fast as possible
+
+20. Standard Precautions apply to:
+         A. All persons
+         B. All patients/residents
+         C. The health team
+         D. Persons with infections
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 17 of 31
+                                                                                      Module 6: Medical and Surgical Asepsis
+
+21. Soiled linens are:
+         A. Handled according to the center's policies
+         B. Discarded
+         C. Sent home with the family
+         D. Washed in the person's room
+
+22. The nurse hands you a used plastic syringe with the needle attached. You should:
+         A. Bend the needle
+         B. Break the needle off of the syringe
+         C. Place cap on the needle
+         D. Place the needle and syringe in a puncture-resistant container
+
+23. A wet gown is considered to be:
+         A. Sterile
+         B. Contaminated
+         C. Safe
+         D. Clean
+
+24. The hepatitis B vaccination involves:
+         A. 1 injection
+         B. 2 injections
+         C. 3 injections
+         D. 4 injections
+
+25. Persons needing isolation precautions often experience
+         A. Loss of self-esteem
+         B. Self-actualization
+         C. Love and belonging
+         D. Safety
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 18 of 31
+                                                                                                                            Module 6: Medical and Surgical Asepsis
+
+26. The Nurse Assistant is leaving an isolation room. After hand washing, the Nurse Assistant should:
+         A. Use a disposable glove to open the door and put glove in the basket outside the room
+         B. Use a paper towel to open the door and put the basket inside the room near the door
+         C. Use a paper towel to open the door and put the paper towel in the basket outside the room
+         D. Open the door with clean, washed hands
+
+27. Standard precautions require the Nurse Assistant to wear gloves when caring for a patient/resident if the Nurse Assistant has:
+         A. A cold
+         B. Long fingernails
+         C. A cut or sore on the hand
+         D. Dirty hands
+
+28. The Nurse Assistant should know that the proper hand washing includes soap, friction and:
+         A. A clean sink
+         B. Running water
+         C. Plenty of towels
+         D. An antiseptic solution
+
+29. The correct order for removing protective clothing before leaving a patient's/resident's isolation room is:
+         A. Gloves, gown, mask, and wash hands
+         B. Mask, gown, gloves, and wash hands
+         C. Mask, gloves, gown, and wash hands
+         D. Gown, gloves, mask and wash hands
+
+30. When changing bed linens, which actions by the Nurse Assistant would ensure that medical asepsis is being followed?
+         A. Hold the clean, new linen close to the body
+         B. Shake the linens before placing them on the bed
+         C. Place all dirty linens on the floor
+         D. Place all clean linens on a clean surface
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 19 of 31
+                                                                               Module 6: Medical and Surgical Asepsis
+
+31. Which of the following is NOT a common sign of infection?
+         A. Redness or swelling at a wound site
+         B. Elevated temperature or chills
+         C. Drainage from a wound
+         D. Dizziness when getting up
+
+32. The Nurse Assistant is collecting a urine specimen using standard precautions. Which of the following should the Nurse Assistant
+    do?
+         A. Wash hands and apply gloves before beginning the urine collection
+         B. Have the patient/resident empty the bladder before the urine collection
+         C. Place a label on the specimen container before the urine is collected
+         D. Wash the perineum with soap and water
+
+33. After hand washing, the Nurse Assistant should turn off the faucet using:
+         A. Clean hands before drying them
+         B. Clean hands after drying them
+         C. Clean, dry paper towel after hands are dried
+         D. Clean elbow before hands are dried
+
+34. Between routine patient/resident contacts, the Nurse Assistant should wash or scrub his/her hands under clean running water for at
+    least:
+         A. 10 seconds
+         B. 20 seconds
+         C. 3 minutes
+         D. 5 minutes
+
+35. To most effectively prevent the spread of infection while providing patient/resident care, the Nurse Assistant should:
+         A. Bathe the patient/resident every day
+         B. Wash hands after caring for each patient/resident
+         C. Provide proper fluid and nourishment
+         D. Change linen daily
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018                  Page 20 of 31
+                                                                                                                            Module 6: Medical and Surgical Asepsis
+
+36. To ensure medical asepsis when collecting a specimen from a patient/resident, the Nurse Assistant must:
+         A. Use only sterile equipment
+         B. Refrigerate the specimen for 24 hours
+         C. Wash hands before and after the procedure
+         D. Send specimen to the laboratory as soon as possible
+
+37. The Nurse Assistant should wear a mask and gloves when the patient/resident:
+         A. Has a skin rash
+         B. Has a reddened pressure area on the coccyx
+         C. Coughs up bloody secretions
+         D. Is using a bedpan
+
+38. The Nurse Assistant comes to work with a cold. Which of the following actions would be appropriate?
+         A. Put on a mask and perform patient/resident care as usual
+         B. Report the cold to the licensed nurse and put on mask
+         C. Tell the patient/resident about the cold
+         D. Check own temperature regularly
+
+39. Which of the following should the Nurse Assistant recognize as an important part of standard precautions?
+         A. Take blood pressure
+         B. Enforce a non-smoking policy near oxygen sources
+         C. Raise side rails on patient's/resident's bed
+         D. Wear gloves when touching body secretions
+
+40. When caring for a patient/resident who is in isolation, how would the Nurse Assistant safely remove soiled linen?
+         A. Leave soiled linen in room for housekeeping to remove
+         B. Wear gloves when bringing out the soiled linen
+         C. Double-bag the soiled linen when required by your facility
+         D. Take soiled linen to a container outside of the room
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 21 of 31
+                                                                                                                            Module 6: Medical and Surgical Asepsis
+
+41. The licensed nurse tells the Nurse Assistant that a patient's/resident's bedpan needs to be cleaned. The MOST effective way to
+    kill all the organisms would be to:
+         A. Wash the bedpan with soap and water
+         B. Use a chemical disinfectant on the bedpan
+         C. Put the bedpan in a bedpan washer
+         D. Wash the bedpan in hot water
+
+42. The Nurse Assistant should NOT wear gloves when:
+         A. Caring for a patient's/resident's pressure sores
+         B. Emptying a urinary catheter collection bag
+         C. Feeding a patient/resident
+         D. Assisting the nurse during a dressing change
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 22 of 31
+Sample Test Answers: Module 6                           Module 6: Medical and Surgical Asepsis
+
+    1. D                       22. D
+    2. B                       23. B
+    3. B                       24. C
+    4. B                       25. A
+    5. D                       26. B
+    6. B                       27. C
+    7. D                       28. B
+    8. A                       29. A
+    9. B                       30. D
+    10. C                      31. D
+    11. C                      32. A
+    12. D                      33. C
+    13. D                      34. B
+    14. C                      35. B
+    15. A                      36. C
+    16. A                      37. C
+    17. A                      38. B
+    18. A                      39. D
+    19. C                      40. C
+    20. A                      41. B
+    21. A                      42. C
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 23 of 31
+Module 6: Medical and Surgical Asepsis                             Manual Skills 6.5 Passing Ice
+
+EQUIPMENT:                              MANUAL SKILL: Passing Ice
+Clean water pitcher
+Ice chest
+Ice machine
+Ice scoop
+
+SKILL STEPS:
+
+1. Wash hands
+2. Apply gloves
+3. Fill ice chest with clean ice from ice machine. Do not touch ice with your hands
+4. Return ice scoop to holder
+5. Close lid on ice chest during transport
+6. Empty old ice and water from patient's/resident's water pitcher into a sink or obtain a clean water pitcher
+7. Pick up ice scoop by handle only
+8. Fill water pitcher with clean ice. Do not put unused ice into the ice chest
+9. Place scoop in holder or tray when not in use. Do not leave scoop in ice
+10. Close lid on ice chest
+11. Place the filled water pitcher at the bedside
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018      Page 24 of 31
+Module 6: Medical and Surgical Asepsis  Manual Skills 6.8- Standard Precautions
+
+                                                MANUAL SKILL: Standard Precautions - Hand-Washing
+
+EQUIPMENT:
+Orange stick or nail file (optional)
+Paper towels
+Running water
+Soap Dispenser
+Waste container
+
+SKILL STEPS:
+
+1. Push your watch up 4-5 inches higher on your arm.
+2. Stand away from sink so that your uniform does not touch the sink.
+3. Turn on the faucet, using a paper towel unless foot pedal is used.
+4. Adjust the water temperature until it is warm.
+5. Toss the used paper towel into the wastebasket.
+6. Completely wet your hands and wrists. Keep your fingertips pointed downward.
+7. Press hand soap dispenser or step on foot pedal, collecting soap in palm of one hand.
+8. Rub your palms together in a circular motion, work up a good lather, and rub vigorously.
+9. Wash your hands for at least 20 seconds generating friction on all surfaces of hands & fingers.
+
+         a. Wash each wrist.
+         b. Rub back of each hand by interlacing fingers.
+         c. Rub palms of hands together, interlacing fingers.
+         d. Clean under fingernails by rubbing the tips of your fingers against your palms to clean with friction around the nail beds.
+         e. Never touch inside of sink.
+10. Optional: clean your short fingernails with a blunt edge of an orange stick or personal finger brush.
+11. Rinse with running water. Rinse from four inches above your wrists down to your hands. Hold your hands and fingertips down,
+    allowing the water to flow off at the fingertips.
+12. Pat dry your wrists and hands with paper towels and throw away the towel.
+13. Turn off the faucet with a clean paper towel placed between your hands and the faucet to avoid contamination.
+14. Toss paper towel into wastebasket.
+
+Note: Waterless antiseptic agents (alcohol-based gels & foams) may be used for when hands are not visibly soiled.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 25 of 31
+Module 6: Medical and Surgical Asepsis  Manual Skills 6.10- Washes Hands
+
+                                                        Manual Skills: Hand Hygiene (Hand Washing)
+
+Equipment
+Paper towel
+Soap
+
+Skill Steps:
+1. Addresses client by name and introduces self to client.
+2. Turns on water at sink.
+3. Wets hands and wrists thoroughly.
+4. Applies soap to hands.
+5. Lather all surfaces of wrists, hands, and fingers producing friction, for at least twenty seconds.
+6. Cleans fingernails by rubbing fingertips against palms of the opposite hand.
+7. Rinses all surfaces of wrists, hands, and fingers keeping hands lower than the elbows and the fingertips down.
+8. Uses clean, dry paper towel to dry all surfaces of hands, wrists, and fingers then disposes of paper towel into waste container.
+9. Uses clean, dry paper towel to turn off faucet then disposes of paper towel into waste container or uses knee/foot control to turn
+
+    off faucet.
+10. Does not touch inside of sink at any time.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 26 of 31
+Module 6: Medical and Surgical Asepsis  Manual Skills 6.11a- Standard Precautions
+
+               MANUAL SKILL: Standard Precautions: Gloving, Gowning, and Applying Mask
+
+EQUIPMENT:
+Gloves
+Goggles
+Gown or Apron
+Mask
+
+PRINCIPLES:
+
+1. Wear disposable gloves when touching blood, body fluids, and mucous membranes or materials contaminated by them.
+2. Wear disposable gloves when you have cuts, breaks or openings in the skin.
+3. Gloves are worn when there is possible contact with urine, feces, vomitus, dressings, soiled drainage, soiled linen, or soiled
+
+    clothing.
+4. Change gloves between patients/residents and wash hands.
+5. Remove gloves if they tear or become heavily soiled. Wash hands and apply a new pair.
+6. Masks, goggles, or face shields are worn when splattering or splashing of blood or body fluids is possible.
+7. Gowns or aprons are worn when splashing, splattering, smearing, or soiling from blood or body fluids is possible.
+8. Hand washing is done after contact with mucous membranes, blood or body fluids, non-intact skin, regardless of glove use.
+
+SKILL STEPS:
+
+Gloving:
+
+1. Wear gloves to protect the hands from body fluids from the patient/resident.
+2. Put on a pair of gloves over clean hands.
+3. Provide necessary care.
+4. When both hands are still gloved, be sure to not touch your skin.
+5. To remove one glove, grasp it just below the cuff.
+6. Pull the glove down over your hand so that it is turned inside out.
+7. Hold the removed glove with your other gloved hand.
+8. Reach inside the other glove at the wrist with the first two fingers of your ungloved hand.
+9. Pull the glove down over your hand and the other glove.
+10. Discard the gloves in the regular trash.
+11. Wash your hands.
+
+Applying gowns:                                                                                             Page 27 of 31
+1. Remove your watch and all jewelry.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018
+Module 6: Medical and Surgical Asepsis  Manual Skills 6.11a- Standard Precautions
+
+2. If mask and goggles or face shield is required, put on before gowning.
+3. Pick up clean gown. Hold it out in front of you so that it can unfold. Do not shake the gown.
+4. Put the gown on, making sure the gown covers the front of your uniform. Tie strings at neck.
+5. Overlap the back of the gown.
+6. Tie the waist strings at the back.
+7. Put on gloves if needed.
+8. Provide the necessary patient/resident care.
+
+Removing gowns:
+1. Remove the gown by untying the neck strings from behind.
+2. Untie the waist strings; do not touch the outside of the gown. Slip fingers of one hand into inside cuff of the other hand without
+
+    touching outside of gown.
+3. Using gown-covered hand, pull gown over the dominant hand.
+4. Using the gown covered hand, pull gown down over other hand and remove without touching outside of gown.
+5. Discard gown in appropriate container.
+6. Wash your hands.
+
+Applying masks:
+1. Position the mask over your nose. Your nose and mouth must be covered.
+2. Place the upper strings over the top of your ears. Tie the strings in the back toward the top of your head.
+3. Tie the lower strings at the back of your neck. Make sure the lower part of the mask is under your chin. If you wear glasses, the
+
+    mask should fit snugly over your nose and under the bottom edge of the glasses.
+4. Mold the metal strip over the bridge of your nose.
+5. Avoid coughing, sneezing, and unnecessary talking while wearing the mask.
+6. Use a new mask for each patient/resident contact when a mask is required.
+
+Removing masks:
+1. Wash your hands before untying the mask. Untie bottom ties first, then top.
+2. Discard mask by holding strings (avoid touching the inside of the mask).
+3. Discard the mask in regular trash.
+
+Applying goggles:
+1. Put on mask.
+2. Position goggles over eyes.
+3. Change goggles and mask if soiled during procedure.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 28 of 31
+Module 6: Medical and Surgical Asepsis                        Manual Skills 6.11a- Standard Precautions
+
+4. Provide necessary care.
+
+Removing goggles:
+1. Remove gloves and wash hands.
+2. Remove goggles prior to removing the mask.
+3. Goggles can be washed with soap and water for future use.
+
+Sequencing for applying barriers (PPE's):
+1. Wash hands.
+2. Gown.
+3. Mask.
+4. Goggles.
+5. Gloves.
+
+Sequencing for removing barriers (PPE's):
+1. Gloves.
+2. Wash hands.
+3. Goggles.
+4. Gown.
+5. Mask.
+6. Wash Hands.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 29 of 31
+Module 6: Medical and Surgical Asepsis  Manual Skills 6.11b: Donning and Removing PPE
+
+                                        MANNUAL SKILLS: Donning and Removing PPE: Gown and Gloves
+
+Equipment:
+Gloves
+Gown
+
+Skill Steps:
+1. Picks up gown and unfolds.
+2. Facing the back opening of the gown places arms through each sleeve.
+3. Fasten the neck opening.
+4. Secure gown at waist making sure that back of clothing is covered by gown (as much as possible).
+5. Put on gloves.
+6. Cuffs of gloves overlap cuffs of gown.
+7. Before removing gown, with one gloved hand, grasps the other glove at the palm, remove glove.
+8. Slips fingers from ungloved hand underneath cuff of remaining glove at wrist, and removes glove turning it inside out as it is
+
+    removed.
+9. Disposed of gloves into designated waste container without contaminating self.
+10. After removing gloves, unfastens gown at neck and waist.
+11. After removing gloves, removes gown without touching outside of gown.
+12. While removing gown, holds gown away from body, turns gown inward and keeps it inside out.
+13. Disposes of gown in designated container without contaminating self.
+14. Washes hands.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 30 of 31
+Module 6: Medical and Surgical Asepsis                                      Handout 6.5- Chain of Infection
+
+                                        Susceptible  Causative
+                                            host       agent
+
+                                                                       Reservoir
+
+                                        Portal                     Portal
+                                          of                       of exit
+
+                                        entry
+
+                                                      Method of
+                                                     transmission
+
+The Chain of Infection. Components of the infectious disease process.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 31 of 31
+

@@ -1,0 +1,787 @@
+                                                                                           Module 12: Emergency Procedures
+
+Module 12: Emergency Procedures
+Minimum Number of Theory Hours: 2
+Recommended Clinical Hours: 1
+
+Statement of Purpose:
+The purpose of this unit is to introduce the student to the concepts and procedures related to emergency procedures, signs and
+symptoms of distress, and the role of the Nurse Assistant in Long Term Care (LTC) in the response to immediate and temporary
+intervention in emergency situations.
+
+Terminology:                                              19. Emergency Medical Services (EMS)
+1. Abdominal thrusts                                      20. Heimlich maneuver
+2. Advance directive                                      21. Hemiplegia
+3. Agitation                                              22. Hemorrhage
+4. Airway                                                 23. Hyperventilation
+5. Aphasia                                                24. Hypoglycemia
+6. Aspirate                                               25. Hypoventilation
+7. Automated External Device (AED)                        26. Hypoxia
+8. Barrier device                                         27. Pallor
+9. Bradypnea                                              28. Pocket mask
+10. Breathing                                             29. Recovery position
+11. Cardiac arrest                                        30. Respiratory arrest
+12. Cardiopulmonary Resuscitation (CPR)                   31. Respiratory distress
+13. Compressions, Airway, Breathing (CAB)-formerly (ABC)  32. Stat
+14. Cyanosis                                              33. Syncope
+15. Defibrillator                                         34. Tachypnea
+16. Diaphoresis                                           35. Unconscious
+17. Do Not Resuscitate (DNR)
+18. Dyspnea
+
+Patient, resident, and client are synonymous terms referring to the person receiving care
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 1 of 24
+                                                                                                                                    Module 12: Emergency Procedures
+Performance Standards (Objectives):
+
+  1. Define key terminology.
+  2. Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's
+
+       role and responsibility in preventing and/or responding.
+  3. Describe the immediate interventions in a medical emergency.
+  4. List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.
+  5. Describe common emergency codes used in long-term care facilities.
+
+This module may be taught concurrently with Module 4: Safe Environment
+
+References:
+  1. Acello, B. & Hegner, B. (2016). Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage Learning.
+  2. Acello, B. (2016). Workbook to accompany: Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage
+       Learning
+  3. Carter, P. J. (2017). Lippincott Essentials for Nursing Assistants: a Humanistic Approach to Caregiving. (4th ed.) Philadelphia, PA.
+       Lippincott Williams & Wilkins
+  4. Deck, M. L. (2004). Instant Teaching Tools for the New Millennium. St Louis, MO. Mosby
+  5. Hedman, S. A., Fuzy, J., & Rymer, S. (2018). Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+       Hartman Publishing, Inc.
+  6. Hartman Publishing. (2018). Workbook for Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+       Hartman Publishing, Inc.
+  7. Haroun, L. & Royce, S. (2004). Teaching Ideas and Activities for Health Care. Albany, NY. Delmar Publishers
+  8. Pearson Vue (2018) California Nurse Assistant Candidate Handbook for National Nurse Aide Assessment Program. Philadelphia,
+       PA. Pearson Education, Inc.
+  9. Sorrentino, S. A., Remmert, L., & and Kelly, R. (2018) Workbook and Competency Evaluation Review for Moby's Textbook for
+       Nursing Assistants (9th ed.) St. Louis, MO. Mosby Company
+  10. Sorrentino, S.A. and Remmert, L. (2018) Mosby's Textbook for Nursing Assistants. (9th ed.). St Louis, MO. Elsevier
+  11. Weaver, L. & Wilding, M. (2013) The Dimensions of Engaged Teaching: a Practical Guide for Educators. Bloomington, IN.
+       Solution Tree Press.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 2 of 24
+                                                                       Module 12: Emergency Procedures
+
+                                   Content Outline                     Recommended Teaching           Clinical Demonstration/
+Objective 1                                                                   Strategies and           Method of Evaluation
+Define Key Terminology.                                                        Assignments
+A. Review the terms listed in the terminology section
+B. Spell the listed terms accurately                                   A. Lecture/Discussion          A. Have students select
+C. Pronounce the terms correctly                                       B. Games: word searches,           five words from the list
+D. Use the terms in their proper context                                                                  of key terminology and
+                                                                           crossword puzzles,             write a sentence for
+Objective 2                                                                Family Feud, Jeopardy,         each defining the term
+Identify common signs and symptoms of conditions associated                bingo, spelling bee,
+with patient/resident distress and describe the Nurse                      hangman, and               B. Administer vocabulary
+Assistant's role and responsibility in preventing and/or                   concentration                  pre-test and post-test
+responding.                                                            C. Encourage use of
+A. Myocardial infarction (MI, heart attack)                                internet, medical          C. Uses appropriate
+                                                                           dictionary, and                terminology when
+    1. A disruption of the flow of blood to an area of the muscle of       textbooks                      charting and reporting to
+         the heart with subsequent death of the tissue at that area    D. Create flashcards               licensed personnel
+                                                                       E. Handout 12.1a-
+    2. Signs and symptoms                                                  Emergency Procedures
+         a. Chest pain                                                     Crossword
+              1) May be described as crushing, squeezing, or pressure  F. Handout 12.1b-
+              2) May radiate down arms, jaw, or back                       Emergency Procedures
+                                                                           Crossword- KEY
+
+                                                                       A. Lecture                     A. Written test
+                                                                       B. Discussion                  B. Recognizes
+
+                                                                           Show online video (13          patients/residents in
+                                                                           min) "Act in Time to           distress and reports
+                                                                           Heart Attack Signs" from       signs and symptoms
+                                                                           National Heart and Lung        immediately to charge
+                                                                           Institute. (May need to        nurse
+                                                                           download RealPlayer)       C. Provides appropriate
+                                                                           http://www.nhlbi.nih.gov/
+                                                                           actintime/video.htm
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 3 of 24
+                                                                           Module 12: Emergency Procedures
+
+              2) Complaint may be severe indigestion, heartburn, or        D. Go to American Stroke         care or emergency
+                   stomach pain                                                Association website for      measures until qualified
+                                                                               stroke information:          help arrives
+         b. Shortness of breath, Dyspnea or absence of breathing               http://www.strokeassoci  D. Documents according to
+         c. Diaphoresis                                                        ation.org/STROKEORG/         facility policy
+         d. Wet, cold, clammy skin                                             AboutStroke/Lets-Talk-
+         e. Confusion, mental status change, anxiety                           About-Stroke-atient-
+         f. Syncope, fainting                                                  Information-
+         g. Weakness, fatigue                                                  Sheets_UCM_310731_
+         h. Nausea, vomiting                                                   Article.jsp
+         i. Irregular pulse
+    3. Nurse Assistant Role
+         a. Call for help loudly and pull the emergency light if
+
+              available
+         b. Remain calm
+         c. Stay with the patient/resident
+         d. Place patient/resident in comfortable position (some
+
+              heart attack victims can breathe easier in a sitting rather
+              than lying position)
+         e. Reassure the patient/resident
+         f. Intervene at level of competence as directed by licensed
+              nurse
+         g. Assess condition and vital signs while awaiting assistance
+              from licensed nurse
+         h. Keep the patient/resident warm as needed
+B. Cardiac Arrest
+    1. Absence of heart function
+    2. Signs and symptoms
+         a. No Pulse, no circulation
+         b. Loss of consciousness
+         c. No effective breathing (may be agonal breathing)
+         d. Enlargement of pupils
+         e. Gray color to skin, cyanotic nail beds
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 4 of 24
+                                                                             Module 12: Emergency Procedures
+
+    3. Nurse Assistant Role - See Objective 3 for role in medical
+         emergency
+
+C. Cerebrovascular accident (CVA, Stroke, or brain attack)
+    1. A disturbance or obstruction of the flow of blood to a particular
+         area of the brain with subsequent death of tissue
+    2. Signs and Symptoms
+         a. Hemiplegia or weakness of one side of the body or
+              numbness or tingling on one side of the body
+         b. Aphasia-difficulty in speaking or understanding speech
+         c. Headache
+         d. Vision changes, blurred vision, pupils unequal
+         e. Facial changes
+              1) Cheeks may "puff "on exhalation
+              2) One eyelid or eye may droop
+              3) Face may appear asymmetrical
+              4) Drooling
+         f. Loss of bowel or bladder control
+         g. Shaking or trembling
+    3. Give Me 5 for Stroke Tool from American Stroke Association
+         a. Walk (Is their balance off?)
+         b. Talk (Is their speech slurred or is their face droopy?)
+         c. Reach (Is one side weak or numb?)
+         d. See (Is their vision all or partly lost)
+         e. Feel (Is their headache severe?)
+    4. FAST from American Stroke Association
+         a. Face drooping
+         b. Arm weakness
+         c. Speech difficulty
+         d. Time to call 9-1-1
+    5. Nurse Assistant Role
+         a. Call for help loudly and pull emergency call light if available
+         b. Remain calm
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 5 of 24
+                                                                             Module 12: Emergency Procedures
+
+         c. Stay with the patient/resident
+         d. Place patient/resident in a position of comfort
+         e. Reassure patient/resident
+         f. Intervene at level of competence as directed by the
+
+              licensed nurse
+         g. Assess patient's/resident's condition and take vital
+
+              signs while awaiting assistance from the licensed
+              nurse
+         h. Keep patient/resident warm as needed
+D. Syncope, fainting episode
+    1. A feeling of dizziness with possible temporary loss of
+         consciousness
+    2. Signs and Symptoms
+         a. Dizziness
+         b. Visual changes-temporary loss of vision
+         c. Pallor or paleness of the skin
+         d. Cool, moist skin
+         e. Eyes may roll back
+         f. Unsteadiness or loss of upright position (patient/resident
+              may fall)
+         g. Weak pulse
+    3. Nursing Assistant Role
+         a. Before loss of consciousness and during dizziness
+              1) Remain calm, call for help loudly, pull call light
+              2) Assist to floor, protect from injury
+              3) If sitting, place head towards knees
+              4) If lying flat on back, elevate legs slightly if no spinal,
+
+                   head or back injuries (If unsure, leave flat on back)
+              5) Loosen tight or binding clothing
+              6) Observe for any changes in condition
+         b. After loss of consciousness
+              1) Raise legs approximately 8-12 inches if no spinal, head
+
+                   or back injuries (If unsure, leave flat on back)
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 6 of 24
+                                                                         Module 12: Emergency Procedures
+
+              2) Loosen tight or binding clothing
+
+              3) Observe for any changes in condition and monitor vital
+                   signs while waiting for help to arrive
+
+E. Seizures; convulsions or epilepsy
+
+    1. An interference with the normal electrical activity of the brain
+         with subsequent changes in mental status
+
+    2. Types of seizures and related Signs and Symptoms
+         a. Absence or partial (petit mal) seizure
+              1) A mild blackout
+
+              2) Looks as though daydreaming
+
+         b. Generalized tonic-clonic or grand mal seizure
+              1) Uncontrolled muscular contractions
+
+              2) Can be minimal to major with possible violent head
+                   jerking
+
+              3) May be frothing at the mouth
+
+              4) May be loss of bowel and bladder control
+    3. Nurse Assistant Role
+
+         a. Assist patient/resident to ground safely
+
+         b. Note time
+
+         c. Cushion head
+         d. Remain calm, call for help loudly, and pull emergency call
+
+              light
+         e. Stay with patient/resident and observe
+
+         f. If possible, gently turn head to one side to reduce risk of
+              choking (This may not be possible in a violent seizure)
+
+         g. Loosen clothing and/or jewelry
+         h. Pad any items that may be dangerous to the
+
+              patient/resident or move items away from
+              patient/resident (i.e. furniture)
+         i. Do NOT attempt to restrain nor put anything into
+              patient's/resident's mouth
+         j. Note time seizure ends
+         k. Follow licensed nurse instructions to assist with putting
+              patient/resident into recovery position
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 7 of 24
+                                                                           Module 12: Emergency Procedures
+
+F. Insulin Shock
+    1. Definition
+         a. Hypoglycemia
+         b. Condition resulting from an overdose of insulin resulting in
+              reduction of the blood sugar level below normal
+         c. May develop due to an insulin-dependent patient/resident
+              skipping meals or snacks, stress, diarrhea and vomiting or
+              possible medication reaction
+    2. Signs and Symptoms
+         a. Pale, moist skin
+         b. Rapid bounding pulse
+         c. Headache, confusion, weakness
+         d. Anxiety, excitement
+         e. Hunger
+         f. Low blood pressure (hypotension)
+         g. Unconsciousness
+    3. Nurse Assistant Role
+         a. Stay with patient/resident
+         b. Remain calm, call for help loudly, and pull emergency call
+              light
+         c. Administer orange juice, milk, or snack if instructed by
+              licensed nurse
+
+G. Hemorrhaging, severe bleeding
+    1. An extreme or unexpected loss of blood
+    2. Signs and Symptoms
+         a. External bleeding
+              1) Bleeding in spurts (arterial)
+              2) Steady flow of blood (venous)
+              3) Slow oozing of blood (capillary)
+         b. Internal bleeding
+              1) Coughing up bright red blood
+              2) Vomit that has the appearance of coffee grounds
+              3) Blood in urine or stool (stool may be black and tarry in
+                   appearance)
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 8 of 24
+                                                                           Module 12: Emergency Procedures
+
+    3. Nurse Assistant Role
+         a. Remain calm, call for assistance loudly, and pull
+              emergency call light
+         b. Stay with patient/resident
+         c. Observe standard precautions, wear gloves
+         d. Apply direct pressure, with gauze pad, over area that is
+              bleeding
+         e. Elevate affected limb
+         f. Do not offer food or drink
+         g. Keep patient/resident calm and cover to keep warm
+
+H. Shock
+    1. Failure of the cardiovascular system to provide sufficient
+         blood circulation to every part of the body
+    2. Signs and Symptoms
+         a. Skin pale, cold and clammy, or moist
+         b. Pulse rapid (over 100) and weak; low or falling blood
+              pressure
+         c. Respiration shallow, irregular, or labored
+         d. Eyes dull and lackluster
+
+         e. Nausea, vomiting, and/or thirst
+         f. Confusion, anxiety, restlessness
+
+         g. May collapse (faint)
+    3. Nurse Assistant Role
+
+         a. Remain calm, call for help loudly, and pull emergency call
+              light
+
+         b. Stay with patient/resident, give reassurance
+         c. Maintain an open airway (head tilt-chin lift or modified chin
+
+              lift)
+         d. Do not give food or drink
+         e. Cover patient/resident to keep warm
+
+I. Respiratory Distress
+    1. Increase or decrease in the effort and frequency of breathing
+         movements
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 9 of 24
+                                                                                              Module 12: Emergency Procedures
+
+2. Signs & Symptoms
+    a. Shortness of breath (SOB)
+    b. Cyanosis
+    c. Dyspnea
+    d. Hyper/Hypoventilation
+    e. Hypoxia
+    f. Bradypnea/Tachypnea
+    g. Anxiety confusion
+
+3. Nursing Assistant Role
+    a. Stay with patient/resident
+    b. Elevate HOB, or allow patient/resident to assume
+         position of comfort
+    c. Remain calm, call for help and pull emergency call light
+    d. Reassure/calm patient/resident
+    e. Assess vital signs while awaiting assistance from licensed
+         nurse
+    f. Be prepared to gather equipment as instructed by nurse;
+         i.e., oxygen tank and tubing
+
+Objective 3                                                           A. Lecture              A. Written test
+Describe the immediate interventions in a medical emergency.          B. Discussion           B. Responds to
+                                                                      C. Review and practice
+A. Advance directives                                                                             emergencies safely and
+                                                                          CPR with manikins       per facility protocols
+    1. Signed document with instructions for care if you become                               C. Locates emergency
+         unable to make medical decisions (if you are in a coma, for                              equipment in facility
+         example)
+
+    2. Full code
+
+    3. Do Not Resuscitate (DNR)
+    4. Living will
+    5. Durable Power of Attorney for Healthcare
+B. Immediate interventions
+    1. Note that this is not a CPR course. The information is not
+
+         intended to take the place of a CPR course
+    2. American Heart Association is re-arranging the ABCs of
+
+         cardiopulmonary resuscitation (CPR) in its 2010 American
+         Heart Association Guidelines
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 10 of 24
+                                                                          Module 12: Emergency Procedures
+
+    3. Perform CPR only if trained
+         a. Check to see if patient/resident is conscious
+         b. Circulation
+              1) Check for circulation by feeling for a pulse, palpating
+                   the carotid artery
+              2) If no definite pulse within 10 seconds, give chest
+                   compressions
+         c. Airway
+              1) Open the airway if patient/resident unconscious
+              2) Use head tilt, chin lift or modified chin lift
+         d. Breathing
+              1) Check for breathing by looking, listening and feeling
+              2) Give two full breaths using a barrier device (pocket
+                   mask)
+              3) A mask must be used by the Nurse Assistant to do
+                   rescue breathing
+         e. Circulation
+              1) Check for circulation by feeling for a pulse, palpating
+                   the carotid artery
+              2) If no definite pulse within ten seconds, give chest
+                   compressions
+         f. Sequence; continue per current standards with 30
+              compressions to 2 ventilations (30:2)
+
+C. General guidelines for a emergency situation with a patient/resident
+    1. Stay calm
+    2. Call for help ­ gain assistance of licensed nurse
+    3. Charge nurse will initiate EMS system by calling 911
+    4. Remain with patient/resident
+    5. Intervene at level of competence as directed by licensed nurse
+    6. Reassure/calm patient/resident
+    7. Emergency/crash cart; knowing the location of the crash cart is
+         mandatory at most facilities
+    8. Automated External Defibrillator (AED)
+
+         a. Be aware of AED location
+
+         b. Chance of survival is greater with early defibrillation
+         c. Must be trained to use defibrillators
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 11 of 24
+                                                                                Module 12: Emergency Procedures
+
+Objective 4                                                      A. Lecture                     A. Written test
+List the causes and signs of choking and discuss the use of the  B. Discussion                  B. Recognizes universal
+                                                                 C. Manual Skill 12.4:
+abdominal thrusts for relief of obstructed airway.                                                  sign for choking
+                                                                     Choking victim-            C. Demonstrates correct
+A. Airway obstruction or choking can lead to cardiac arrest          Conscious and
+                                                                     Unconscious                    technique for abdominal
+B. Causes                                                        D. Practice abdominal              thrusts for conscious
+     1. Foreign body ­ such as poorly chewed pieces of meat          thrusts on manikin-            and victim using
+     2. Tongue ­ in the unconscious patient/resident the tongue      standing, sitting, and on      manikin
+          can fall backward in the throat and block the airway       floor                      D. Responds to
+     3. Small objects                                            E. May also be reviewed            emergencies safely and
+     4. Vomitus ­ aspiration of vomit                                during Module 11-              per facility protocol
+     5. Thick mucus                                                  Feeding
+     6. Dentures
+                                                                 A. Lecture                     A. Written test
+C. Signs of choking                                              B. Discussion                  B. Recognizes
+     1. Respiratory difficulty ­ victim cannot breathe
+     2. High pitched sounds                                                                         emergency codes in
+     3. Inability to speak or cough                                                                 facility
+     4. Universal choking sign ­ victim clutches throat
+
+D. Abdominal thrusts (Heimlich maneuver) are used to relieve,
+     obstructed airway in a conscious victim
+
+E. Chest compressions are used if the victim is unconscious and
+     rescuer is unable to ventilate
+
+Objective 5
+Describe common emergency codes used in long-term care
+facilities.
+A. Emergency code colors and meanings
+
+    1. Code Red ­ fire
+    2. Code Blue ­ adult medical emergency (Cardiac or
+
+         Respiratory)
+    3. Code Yellow ­bomb threat
+    4. Code Gray ­ combative person
+    5. Code Silver ­ person with weapon or hostage
+    6. Code Orange ­ hazardous waste spill or release
+B. Codes may vary according to facility
+C. Observe special consideration for hearing and sight impaired
+    patients/residents
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 12 of 24
+                                                                                            Module 12: Emergency Procedures
+
+Sample Test: Module 12 - Emergency Procedures
+
+1. Most communities have a common emergency telephone number that notifies the Emergency Medical Service (EMS). Which of
+    the following numbers is the emergency number?
+         A. 911
+         B. 484
+         C. 411
+         D. 916
+
+2. Mr. Johnson has cut his hand on a broken piece of glass and is bleeding heavily. The Nurse Assistant should:
+         A. Apply a circular strap around the wrist to act as a tourniquet
+         B. Call 911, STAT (immediately)
+         C. Have Mr. Johnson lower his hand below his heart to slow circulation to the site
+         D. Apply direct pressure (with a gloved hand) using a pad, raising the hand above the level of the heart
+
+3. A patient/resident has epilepsy. In the event of a seizure, the Nurse Assistant should:
+         A. Leave the patient/resident to summon help
+         B. Protect the patient/resident from injury
+         C. Force the patient's/resident's mouth open
+         D. Call for help in order to restrain the patient's/resident's movements
+
+4. Which of the following best describes the "universal choking sign" given by the victim:
+         A. Both hands clasped around his/her neck
+         B. His/her arms waving up and down
+         C. Pointing to his mouth with one hand
+         D. The victim coughs and calls for help
+
+5. The Nurse Assistant discovers an unconscious victim on the floor in the hall. What action should the Nurse Assistant take first?
+         A. Move the victim to his room
+         B. Search the victim for any areas of bleeding
+         C. Call for assistance, then open the victim's airway and check for breathing
+         D. Straighten out any obvious deformities in the victim's arms & legs
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018         Page 13 of 24
+                                                                                                                                  Module 12: Emergency Procedures
+
+6. Your patient/resident is complaining that he is having pains in his chest. He is sweating and breathing heavily. As the Nurse
+    Assistant who is with the patient/resident, you should:
+         A. Tell the patient/resident this happens to you when you eat spicy foods, also
+         B. Stay with the patient/resident & call for the nurse in charge
+         C. Begin CPR
+         D. Tell the patient/resident that he is having a heart attack
+
+7. What procedure is done for a conscious choking patient/resident?
+         A. Chest compressions
+         B. Rescue breathing
+         C. Abdominal thrusts
+         D. Head tilt, chin lift
+
+8. Mr. D's family is present when Mr. D has a seizure. Which of the following actions should the Nurse Assistant take for the family?
+         A. Ask them to wait in a nearby room
+         B. Tell them how you feel the patient's/resident's condition is doing
+         C. Ask them to stay with the patient/resident as you get help
+         D. Ask them to assist in holding the patient/resident down
+
+9. Which of the following might be most helpful in preventing choking?
+         A. Have the patient/resident eat all his solid foods before liquids
+         B. Cut foods, especially meat into small, bite size pieces
+         C. Feed the patient/resident quickly to reduce the risk of choking
+         D. Have the patient/resident stand while eating so it will go down better
+
+10. Which of the following are causes for hypoglycemia?
+         A. Not enough insulin
+         B. Decrease activity, vomiting, and undiagnosed diabetes
+         C. Too much insulin, omitting a meal, vomiting
+         D. Stress, increased activity
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 14 of 24
+                                                                     Module 12: Emergency Procedures
+
+11. Which of the following might be a sign of an obstructed airway?
+         A. Elevated temperature
+         B. Pinpoint pupils
+         C. Inability to speak
+         D. Coughing
+
+12. When performing abdominal thrusts, place the fist in one hand:
+         A. Just above the pubis and below the navel (belly button)
+         B. On the neck
+         C. Between the navel and end of the sternum (breast bone)
+         D. Over the ribs
+
+13. Mrs. Harvey is complaining that her chest and arm hurt very badly. She is breathing heavily and sweating. While waiting for the
+    nurse what should the Nurse Assistant do?
+         A. Perform ROM on all extremities so patient/resident will not lose function of joints
+         B. Give patient/resident oxygen
+         C. Reassure patient/resident while putting her in a comfortable sitting position
+         D. Leave to get emergency equipment in case you need it
+
+14. Mr. Jones is showing the following signs and symptoms: dizziness, headache, weakness on his right side, and aphasia. What
+    could be the cause?
+         A. Heart attack
+         B. CVA
+         C. Syncope
+         D. Shock
+
+15. What personal protective equipment would be used when caring for a patient/resident with external bleeding?
+         A. Gloves
+         B. Goggles
+         C. Gown
+         D. All of the above
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018       Page 15 of 24
+                                                                                                                                  Module 12: Emergency Procedures
+
+16. While ambulating Mrs. S, she has a fainting episode (syncope). What should the Nurse Assistant do first?
+         A. Go get help
+         B. Take Mrs. S's vital signs
+         C. Assist Mrs. S to the floor
+         D. Get Mrs. S a glass of water
+
+17. Which of the following are signs and symptoms of internal bleeding?
+         A. Bleeding in spurts
+         B. Coffee ground vomit
+         C. Normal appearance of urine
+         D. Slow oozing of blood
+
+18. What is the Nurse Assistant's role in caring for a patient/resident in shock?
+         A. Keep patient/resident calm and warm
+         B. Give water and ROM
+         C. Maintain open airway and keep cool
+         D. Keep active and fed
+
+19. DNR, Living Will and Durable Power of Attorney are examples of:
+         A. Boundaries of Care
+         B. Scope of Practice
+         C. Advanced Directives
+         D. Nursing plan
+
+20. CAB in reference to emergency care mean:
+         A. Sequence of assessment
+         B. Caring, Ambulation, Bathing
+         C. Cycle, Airway, Bleeding
+         D. Compressions, Airway, Breathing
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 16 of 24
+                                                                                                Module 12: Emergency Procedures
+
+21. Mr. G is coughing forcefully after swallowing a piece of meat. The Nurse Assistant should:
+         A. Call for help
+         B. Stay with Mr. G to monitor coughing
+         C. Abdominal thrusts only if not coughing
+         D. Give Mr. Gomez a glass of water
+
+22. While eating, a patient/resident suddenly clutches his throat. The Nurse Assistant should FIRST:
+         A. Give the patient/resident back blows
+         B. Have the patient/resident sip some water
+         C. Ask the patient/resident if he is choking, call for help
+         D. Do a finger sweep of the patient's/resident's mouth
+
+23. A patient/resident is choking and unable to speak. Which of the following actions should the Nurse Assistant take?
+         A. Place the patient/resident in a chair
+         B. Perform an arm lift
+         C. Perform abdominal thrusts
+         D. Administer sharp back blows
+
+24. AED delivers an electric shock to the heart. What is an AED?
+         A. Automatic External Device
+         B. Automated External Device
+         C. Automatic External Defibrillator
+         D. Automated Exit Defibrillator
+
+25. While eating, a patient/resident suddenly has a problem breathing but is able to say, "I'm choking" and is not coughing. Which
+    of the following should the Nurse Assistant do?
+         A. Administer abdominal thrusts
+         B. Do a finger sweep of the patient's/resident's mouth
+         C. Apply chest thrusts
+         D. Give the patient/resident black blows
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018              Page 17 of 24
+                                                                                                                                  Module 12: Emergency Procedures
+
+26. Mr. S has epilepsy and suffers from grand mal seizures. During a seizure it is important to:
+         A. Restrain the patient/resident securely
+         B. Attempt to keep the patient's/resident's jaws open
+         C. Try to get the patient/resident to control his movements
+         D. Protect the patient/resident from injury
+
+27. The Nurse Assistant finds a patient/resident having shortness of breath. The Nurse Assistant should do all of the following except:
+         A. Keep calm
+         B. Leave the patient
+         C. Turn on the call light
+         D. Call for help
+
+28. A patient/resident complains of chest pain. The Nurse Assistant should know that the patient/resident may possibly be having:
+         A. An insulin reaction
+         B. A stroke
+         C. Arthritis
+         D. A heart attack
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 18 of 24
+                                       Module 12: Emergency Procedures
+
+Sample Test Answers: Module 12  15. D
+                                16. C
+1. A                            17. B
+2. D                            18. A
+3. B                            19. C
+4. A                            20. D
+5. C                            21. B
+6. B                            22. C
+7. C                            23. C
+8. A                            24. C
+9. B                            25. A
+10. C                           26. D
+11. C                           27. B
+12. C                           28. D
+13. C
+14. B
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 19 of 24
+Module 12: Emergency Procedures  Manual Skills 12.4- Abdominal Thrusts
+
+MANUAL SKILL: Abdominal Thrusts (Heimlich Maneuver) for the Conscious and Unconscious Patient/resident
+
+CONSCIOUS PATIENT/RESIDENT
+
+STEPS:
+
+1. Remain calm, call RN STAT, remain with patient/resident, and ask patient/resident if he/she is choking.
+2. Identify knowledge of first aid for choking.
+3. If the patient/resident can cough, continue to observe.
+4. If the patient/resident is sitting or standing, stand behind him/her.
+5. When the patient/resident cannot speak, cough, or breathe, apply abdominal thrusts:
+
+    a. Wrap your arms around the patient's/resident's waist.
+    b. Make a fist with one hand.
+    c. Place the thumb side of your fist against the patient's/resident's abdomen ­ just below the lower end of the sternum and
+
+         above the navel.
+    d. Grasp the fist with the opposite hand.
+    e. Using both hands, push forcefully with the thumb side of fist against the midline of the patient's/resident's abdomen,
+
+         inward and upward with a quick trust.
+    f. Repeat until the foreign body comes out or the patient/resident loses consciousness.
+    g. When normal breathing returns, watch for several minutes to be sure that breathing continues.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 20 of 24
+Module 12: Emergency Procedures     Manual Skills 12.4- Abdominal Thrusts
+UNCONSCIOUS PATIENT/RESIDENT
+
+EQUIPMENT:
+
+Gloves (if available)
+Ventilation device (i.e. ambu bag)
+Pocket mask (if available)
+
+STEPS:
+
+1. Call for help, but do not leave patient/resident.
+2. Lower patient/resident to floor and position on back.
+3. Apply gloves (if available), tilt head, open airway by pushing on forehead and lifting chin with fingertips.
+4. Try two slow breaths using pocket mask, or ambu bag (one breath every five seconds).
+5. Straddle patient's/resident's thighs.
+6. Place heel of one hand on patient's/resident's abdomen below the lower end of the sternum and above the navel, place second
+
+    hand over first (fingers pointing toward head), give six to ten thrusts.
+7. Remove object if seen.
+8. Attempt to give breaths through pocket mask or ambu bag.
+9. If still obstructed repeat thrusts, checking for object and giving breaths until object is dislodged.
+10. Continue until airway is open, help arrives, or rescuer cannot continue.
+
+California Community Colleges Chancellor's Office Nurse Assistant Model Curriculum - Revised December 2018  Page 21 of 24
+Module 12: Emergency Procedures
+
+                          Across                                            Down
+6 The heart or lungs stop.                       1 Immediately.
+8 Protective gloves.                             2 Difficult breathing
+11 A sudden threatening membranes.               3 Restlessness.
+13 Pale skin or mucous membranes.                4 Written Idea about what to do in case of a
+                                                 fire or disaster.
+15 Supports used to help prevent injury.         5 Unconscious.
+16 A bluish discoloration of the skin or mucous  7 Too much insulin produced.
+membranes.
+17 Excessive perspiration.                       9 A maneuver to help someone chocking.
+                                                 10 Abnormal bleeding.
+                                                 12 Someone having problems breathing has
+                                                 respiratory.
+                                                 14 Abbreviation for oxygen.
+
+Module Curriculum for Nurse California Community Colleges Chancellor's Office  Page 23 of 24
+Nurse Assistant Model Curriculum - Revised December 2018
+Module 12: Emergency Procedures
+
+Module Curriculum for Nurse California Community Colleges Chancellor's Office  Page 24 of 24
+Nurse Assistant Model Curriculum - Revised December 2018
+

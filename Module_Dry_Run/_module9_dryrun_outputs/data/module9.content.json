@@ -1,0 +1,1127 @@
+{
+  "run_name": "NATP Module 9: Patient Care Procedures — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf",
+  "source_title": "Module 9: Patient Care Procedures",
+  "learner_facing_title": "NATP Module 9: Patient Care Procedures",
+  "minimum_theory_hours": 7.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": null,
+  "selected_theory_hours": 7.0,
+  "selected_theory_basis": "source minimum theory hours",
+  "theory_minutes_total": 420,
+  "clinical_hours": 20.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to provide learning experiences that will prepare the Nurse Assistant to safely carry out procedures that support the patient/resident in meeting physical care needs that cannot be performed independently.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Admission",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Anti-embolic stockings",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Bandage",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Binders",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Clean catch",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Defecate",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Discharge",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Draw sheet",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Edema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Elastic bandage",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Electric bed",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Evacuation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Excoriated",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Expectorate",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Fanfold",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Fluid",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Gastrostomy tube",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Hives",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Intake",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Integumentary system",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Intravenous (IV)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Lesions",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Manual bed",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Mitered corner",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Mucous",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Nasogastric tube (NGT)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 27,
+      "term": "Non-prescription",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 28,
+      "term": "Occupied bed",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 29,
+      "term": "Ointment",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 30,
+      "term": "Output",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 31,
+      "term": "Percutaneous Endoscopic Gastrostomy (PEG)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 32,
+      "term": "Pruritus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 33,
+      "term": "Reflux",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 34,
+      "term": "Reverse Trendelenburg",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 35,
+      "term": "Scaly",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 36,
+      "term": "Semi-Fowler's position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 37,
+      "term": "Side rails",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 38,
+      "term": "Specimen",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 39,
+      "term": "Suppository",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 40,
+      "term": "Transfer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 41,
+      "term": "Trendelenburg",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    },
+    {
+      "term_number": 42,
+      "term": "Unoccupied bed",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "source_excerpt": "Assignments Define key terminology. A. Ask students to select A. Review the terms listed in the terminology section A. Lecture/Discussion five words from the list B. Spell the listed terms accurately B. Games: word searches, of key terminology and C. Pronounce the terms correctly write a sentence for D. Use the terms in their proper context crossword puzzles, each defining the term Family Feud, Jeopardy,",
+      "weighted_minutes": 11,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Assignments Define key terminology. A. Ask students to select A. Review the terms listed in the terminology section A. Lecture/Discussion five words from the list B. Spell the listed terms accurately B. Games: word searches, of key terminology and C. Pronounce the terms correctly write a sentence for D. Use the terms in their proper context crossword puzzles, each defining the term Family Feud, Jeopardy,",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool)",
+      "exact_objective_statement": "Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool)",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "source_excerpt": "bingo, spelling bee, B. Administer vocabulary Describe the Nurse Assistant's role in collecting specimens hangman, and pre-test and post-test (sputum, urine, and/or stool). concentration A. Sputum Specimens C. Encourage use of C. Uses appropriate internet, medical terminology when 1. Purpose dictionary, and charting and reporting to a. Respiratory disorders cause the secretion of mucus from textbooks licensed personnel lungs, bronchi and trachea D. Create flashcards for b. Mucous secretion is called sputum (not related to saliva) learning purposes A. Written test c. Expectorated from upper airways B. Uses correct techniques d. Sputum is studied for blood, microorganisms, and A. Lecture/Discussion abnormal cells B. Ask students to role play to collect, label, and document obtaining a 2. Assisting the patient/resident in raising sputum for a specimen what to tell specimens a. Secretions are more easily coughed up after the patient/resident patient/resident wakes up in early a.m. specifically. It is not b. Allow the patient/resident to rinse their mouth with water, enough to have them as this reduces the amount of saliva in the mouth and say \"I'll explain it to the removes food particles patient/resident\". Each skill has requirement to \"Explain procedure, speaking clearly, slowly, and directly. Maintain face to face contact whenever possible.\" They need to practice what to say Module 9: Patient Care Procedures c. Do not use mouthwash, as this may destroy some of the C. Demonstrate and organisms return demonstration using d. Coughing up sputum may be embarrassing to the vanilla",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool)",
+        "Source excerpt support: bingo, spelling bee, B. Administer vocabulary Describe the Nurse Assistant's role in collecting specimens hangman, and pre-test and post-test (sputum, urine, and/or stool). concentration A. Sputum Specimens C. Encourage use of C. Uses appropriate internet, medical terminology when 1. Purpose dictionary, and charting and reporting to a. Respiratory disorders cause the secretion of mucus from textbooks licensed personnel lungs, bronchi and trachea D. Create flashcards for b. Mucous secretion is called sputum (not related to saliva) learning purposes A. Written test c. Expectorated from upper airways B. Uses correct techniques d. Sputum is studied for blood, microorganisms, and A. Lecture/Discu",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant's role in collecting speci — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in collecting speci — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in collecting speci — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Discuss procedures for bed making and maintaining proper body mechanics",
+      "exact_objective_statement": "Discuss procedures for bed making and maintaining proper body mechanics",
+      "source_pages": [
+        7,
+        8
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Discuss procedures for bed making and maintaining proper B. Demonstrate and return B. Demonstrates proper body mechanics. demonstration bed making in clinical C. Manual Skills 9.3a- setting A. Bed making is an important part of the Nurse Assistant role C. Uses proper body Occupied Bed Making mechanics during bed 1. A clean, dry, neat bed makes the patient/resident more D. Manual Skills 9.3b- making in clinical comfortable setting Unoccupied Bed 2. The body exerts uneven points of pressure over bony Making prominences (elbow, sacrum), etc., when against the mattress for extended periods. Use a mattress pad, if ordered 3. Bed linen must be wrinkle-free to prevent it from becoming an irritant to skin 4. The state of mind of the patient/resident is affected by the condition of the bed. To create and maintain a positive attitude, the bed should be kept a. In good repair b. Clean bedframe by damp dusting daily c. Well-made, wrinkle-free d. Attractive with use of bedspread 5. Keep call bell in place, clipped to linen 6. Keep the patient/resident reality-oriented by use of patient's/resident's personal pillow, afghan, etc. (familiar objects) Module 9: Patient Care Procedures 1. Use sheets to separate the blanket from the patient's/resident's skin, thus preventing blanket fibers from causing irritation 2. Keep bottom linens tucked in and wrinkle-free 3. Cover plastic draw sheet with cotton draw sheet 4. Straighten and tighten loose sheets, blankets and bedspreads whenever necessary 5. Strong laundry soaps may cause skin irritation; observe for p",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-7-8",
+      "content_outline": [
+        "Source objective statement: Discuss procedures for bed making and maintaining proper body mechanics",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Discuss procedures for bed making and maintaining proper B. Demonstrate and return B. Demonstrates proper body mechanics. demonstration bed making in clinical C. Manual Skills 9.3a- setting A. Bed making is an important part of the Nurse Assistant role C. Uses proper body Occupied Bed Making mechanics during bed 1. A clean, dry, neat bed makes the patient/resident more D. Manual Skills 9.3b- making in clinical comfortable setting Unoccupied Bed 2. The body exerts uneven points of pressure over bony Making prominences (elbow, sacrum), etc., when against the mattress for extended periods. Use a mattress pad, if ordered 3. Bed linen must be wrinkle-free to ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "procedures for bed making and maintaining prop — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedures for bed making and maintaining prop — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedures for bed making and maintaining prop — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Discuss types of beds and bed positions",
+      "exact_objective_statement": "Discuss types of beds and bed positions",
+      "source_pages": [
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+      "source_excerpt": "Discuss types of beds and bed positions A. Functions and structures of a hospital bed 1. Manually operated beds have hand cranks at the foot of the bed which raise or lower the head, foot, or total bed. Cranks are to be kept down when not in use 2. Electric beds have electric controls located on the side or foot of the bed for the patient/resident and staff use 3. Side rails a. Uses 1) Prevent patient/resident from falling out of bed 2) Provide security 3) Give patient/resident support to hold or grasp when moving or turning while in bed b. Regulations regarding use 1) Considered restraints 2) Must have consent to use 3) Need for use must be noted in patient's/resident's record and care plan 4) Patient/resident must be checked frequently if side rails are ordered B. Bed Positions 1. High position encourages the staff to use good body mechanics when giving care to patients/residents, moving patients/residents to stretchers, or when making the bed Module 9: Patient Care Procedures 2. Low position is used to encourage the ambulatory patient/resident to get in and out of bed with ease and safety 3. Fowler's position (backrest raised 45to 90) is used for patient/resident comfort to eat meals and to breathe more easily in certain respiratory and cardiac conditions 4. Semi-Fowler's position (backrest 45with knees raised 15) is used for comfort and to keep the patient/resident from sliding down in bed 5. Trendelenburg position is when the head of the bed is lowered and the foot of the bed is raised. This position requires a doctor's order 6. Reverse Trendelenburg position is when t",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-9",
+      "content_outline": [
+        "Source objective statement: Discuss types of beds and bed positions",
+        "Source excerpt support: Discuss types of beds and bed positions A. Functions and structures of a hospital bed 1. Manually operated beds have hand cranks at the foot of the bed which raise or lower the head, foot, or total bed. Cranks are to be kept down when not in use 2. Electric beds have electric controls located on the side or foot of the bed for the patient/resident and staff use 3. Side rails a. Uses 1) Prevent patient/resident from falling out of bed 2) Provide security 3) Give patient/resident support to hold or grasp when moving or turning while in bed b. Regulations regarding use 1) Considered restraints 2) Must have consent to use 3) Need for use must be noted in patient's/resident's record and care plan",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "types of beds and bed positions — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "types of beds and bed positions — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "types of beds and bed positions — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Discuss ways to maintain the patient's/resident's environment",
+      "exact_objective_statement": "Discuss ways to maintain the patient's/resident's environment",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Discuss ways to maintain the patient's/resident's environment. B. Ask students to think of B. Maintains safe and A. Patients/residents spend a lot of time in their rooms creative ways to make comfortable room 1. Rooms should be comfortable. Control temperature, the patient's/resident's environment for ventilation, noise, light, and odor room safe and patient/resident comfortable as well as 2. Rooms should be safe promote independence a. Maintain furniture and equipment for communicating in a safe and effective manner b. Patient's/resident's rights to privacy should be considered when furnishing a room. Allow the patient/resident choices and selection of own furniture from home to the extent of facility policies c. Make sure bed wheels are locked when giving care or transferring patients/residents B. General rules for maintaining the patient's/resident's unit 1. Make sure patient/resident can reach bedside stand and overbed table 2. Arrange personal belongings the way the patient/resident prefers, with patient/resident safety in mind and within easy reach Module 9: Patient Care Procedures 3. Keep call bell within patient's/resident's reach A. Lecture/Discussion A. Written test 4. Make sure patient/resident can reach telephone, television B. Demonstrate and return B. Administers enema controls, and light controls demonstration on according to policy 5. Provide the patient/resident with tissues, toilet paper and manikin C. Manual Skills 9.6a- a waste container Administering a Soap 6. Adjust lighting and temperature for patient's/resident's",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-10",
+      "content_outline": [
+        "Source objective statement: Discuss ways to maintain the patient's/resident's environment",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Discuss ways to maintain the patient's/resident's environment. B. Ask students to think of B. Maintains safe and A. Patients/residents spend a lot of time in their rooms creative ways to make comfortable room 1. Rooms should be comfortable. Control temperature, the patient's/resident's environment for ventilation, noise, light, and odor room safe and patient/resident comfortable as well as 2. Rooms should be safe promote independence a. Maintain furniture and equipment for communicating in a safe and effective manner b. Patient's/resident's rights to privacy should be considered when furnishing a room. Allow the patient/resident choices and selection of ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "ways to maintain the patient's/resident's envi — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways to maintain the patient's/resident's envi — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways to maintain the patient's/resident's envi — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe the Nurse Assistant's role in administering an enema",
+      "exact_objective_statement": "Describe the Nurse Assistant's role in administering an enema",
+      "source_pages": [
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+      "source_excerpt": "Enema Describe the Nurse Assistant role in administering an enema. A. An enema is the introduction of fluids into the rectum and lower colon; ordered by a doctor B. The purpose of a enema is to 1. Stimulate a bowel movement 2. Relieve constipation or fecal impaction 3. Cleanse bowel of feces prior to surgery and diagnostic procedures 4. Remove flatus (gas) C. Types of enemas 1. Cleansing enemas to remove feces from colon and rectum a. Tap water b. Soap suds 2. Oil retention enema; given for constipation or fecal impaction for lubrication of feces 3. Commercial mixtures; given for constipation (i.e., Fleet's) D. General rules to follow when giving an enema 1. Before Nursing Assistant administers enema, make sure: a. State governing board allows Nursing Assistants to give enemas b. Procedure is in job description c. Have obtained the necessary education and training d. There is a nurse available to supervise the procedure Module 9: Patient Care Procedures 2. Temperature of solution should be 105F. A. Lecture/Discussion A. Written test 3. Amount of solution is 500-1000 ml for adults B. Demonstrate and return B. Administers suppository 4. Patient/resident positioned in left Sim's position 5. Height of enema bag is no more than 18\" above the mattress demonstration on according to policy 6. Depth of tube insertion is about 2\" to 4\" into rectum and tube manikin C. Manual Skills 9.7- Rectal must be lubricated 7. Administer solution slowly over ten to fifteen minutes Suppository-Laxative (Solution is usually held in rectum for a variable length of time until urge to defecate occurs)",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-11",
+      "content_outline": [
+        "Source objective statement: Describe the Nurse Assistant's role in administering an enema",
+        "Source excerpt support: Enema Describe the Nurse Assistant role in administering an enema. A. An enema is the introduction of fluids into the rectum and lower colon; ordered by a doctor B. The purpose of a enema is to 1. Stimulate a bowel movement 2. Relieve constipation or fecal impaction 3. Cleanse bowel of feces prior to surgery and diagnostic procedures 4. Remove flatus (gas) C. Types of enemas 1. Cleansing enemas to remove feces from colon and rectum a. Tap water b. Soap suds 2. Oil retention enema; given for constipation or fecal impaction for lubrication of feces 3. Commercial mixtures; given for constipation (i.e., Fleet's) D. General rules to follow when giving an enema 1. Before Nursing Assistant administ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant's role in administering an — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in administering an — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in administering an — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "Describe the Nurse Assistant's role in giving a suppository",
+      "exact_objective_statement": "Describe the Nurse Assistant's role in giving a suppository",
+      "source_pages": [
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+      "source_excerpt": "Describe the Nurse Assistant's role in giving a suppository. A. A rectal suppository is used to 1. Stimulate to empty the bowel 2. Lubricate the stool to ease evacuation B. Nurse Assistant role 1. Facility policy dictates if the Nurse Assistant may insert a suppository 2. General rules to follow when inserting a suppository a. Nurse Assistants may not administer medicated suppositories b. Identify the patient/resident by checking the arm band c. Remove wrapper from the suppository (if wrapped) d. Place suppository 1 to 1-1/2 inches past anal sphincter using gloved hand and index finger f. Instruct the patient/resident to hold the suppository in the rectum as long as possible g. Observe for results of the suppository e. Report the results to the licensed nurse Module 9: Patient Care Procedures",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-12",
+      "content_outline": [
+        "Source objective statement: Describe the Nurse Assistant's role in giving a suppository",
+        "Source excerpt support: Describe the Nurse Assistant's role in giving a suppository. A. A rectal suppository is used to 1. Stimulate to empty the bowel 2. Lubricate the stool to ease evacuation B. Nurse Assistant role 1. Facility policy dictates if the Nurse Assistant may insert a suppository 2. General rules to follow when inserting a suppository a. Nurse Assistants may not administer medicated suppositories b. Identify the patient/resident by checking the arm band c. Remove wrapper from the suppository (if wrapped) d. Place suppository 1 to 1-1/2 inches past anal sphincter using gloved hand and index finger f. Instruct the patient/resident to hold the suppository in the rectum as long as possible g. Observe for r",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant's role in giving a supposi — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in giving a supposi — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in giving a supposi — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "List the types and uses of gastrointestinal (GI) tubes",
+      "exact_objective_statement": "List the types and uses of gastrointestinal (GI) tubes",
+      "source_pages": [
+        13
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+      "source_excerpt": "A. Lecture/Discussion A. Written test List types and uses of gastrointestinal (GI) tubes. B. Show students B. Correctly identifies types A. Nasogastric tube examples of nasogastric of GI tubes 1. Inserted through nose into stomach or intestine to and gastrostomy tubes or if unavailable, show a. Drain the GI tract by means of suction to prevent post- pictures of tubes operative vomiting, obstruction, or gas formation b. Diagnose a disease c. Wash out stomach content d. Provide a route for feeding one who is unable to take food by mouth B. Gastrostomy tube/PEG 1. Surgically inserted through abdominal wall into the stomach 2. Purpose of tube is for feeding the patient/resident",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-13",
+      "content_outline": [
+        "Source objective statement: List the types and uses of gastrointestinal (GI) tubes",
+        "Source excerpt support: A. Lecture/Discussion A. Written test List types and uses of gastrointestinal (GI) tubes. B. Show students B. Correctly identifies types A. Nasogastric tube examples of nasogastric of GI tubes 1. Inserted through nose into stomach or intestine to and gastrostomy tubes or if unavailable, show a. Drain the GI tract by means of suction to prevent post- pictures of tubes operative vomiting, obstruction, or gas formation b. Diagnose a disease c. Wash out stomach content d. Provide a route for feeding one who is unable to take food by mouth B. Gastrostomy tube/PEG 1. Surgically inserted through abdominal wall into the stomach 2. Purpose of tube is for feeding the patient/resident",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the types and uses of gastrointestinal (GI) tu — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the types and uses of gastrointestinal (GI) tu — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the types and uses of gastrointestinal (GI) tu — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy)",
+      "exact_objective_statement": "Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy)",
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe major nursing care activities for patients/residents with B. Ask students to discuss B. Maintains patient feeding tubes (nasogastric or gastrostomy). A. Care of patient/resident with nasogastric tube what it would feel like to NPO/ice chips as not be able to eat ordered 1. Give frequent oral hygiene and keep the lips and mouth moist. normal food C. Provides safe care for The mouth becomes very dry and may have a bad taste patient/resident with feeding tube 2. Nose and nostrils need to be cleaned frequently D. Uses nursing measures to provide comfort to 3. Increase freedom of movement by securing tubing with clamp patient/resident with a or tape to the patient's/resident's clothing to permit maximum feeding tube activity E. Reports unusual signs or symptoms to licensed 4. Check to see that the patient/resident does not sit or lie nurse on tubing (tubing must be free of kinks) 5. Check to see if the suction machine is operating satisfactorily and reporting at once if it is not working (if suction is ordered) 6. Permitting the patient/resident (if allowed) to suck on ice chips, throat lozenges, or hard candy to keep throat slightly moist. Patient/resident is usually NPO (nothing by mouth) Positioning the patient/resident with head of bed elevated at 45 degrees during the feeding and for 30-60 minutes afterward, and then 30 degrees after the feeding Module 9: Patient Care Procedures B. Care of patient/resident with gastrostomy tube 1. Give frequent oral hygiene and keep the lips and mouth moist The mouth becomes very dry and may ha",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-13-14",
+      "content_outline": [
+        "Source objective statement: Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy)",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe major nursing care activities for patients/residents with B. Ask students to discuss B. Maintains patient feeding tubes (nasogastric or gastrostomy). A. Care of patient/resident with nasogastric tube what it would feel like to NPO/ice chips as not be able to eat ordered 1. Give frequent oral hygiene and keep the lips and mouth moist. normal food C. Provides safe care for The mouth becomes very dry and may have a bad taste patient/resident with feeding tube 2. Nose and nostrils need to be cleaned frequently D. Uses nursing measures to provide comfort to 3. Increase freedom of movement by securing tubing with clamp patient/resident with a or tape ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "major nursing care activities for patients/res — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "major nursing care activities for patients/res — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "major nursing care activities for patients/res — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy",
+      "exact_objective_statement": "Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy",
+      "source_pages": [
+        15
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+      "source_excerpt": "Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy. A. Reasons for using I.V. therapy 1. I.V. therapy provides the body with needed elements that can't be given as rapidly or efficiently by other means 2. I.V. may contain a. Blood, plasma b. Nutritional requirements for water, salt, sugar, etc. c. Medications 3. Rate of I.V. flow is often controlled by an infusion pump B. Nursing Assistant responsibilities include observing for flow from I.V. 1. Keeping tubing free of twisting or kinking 2. Observing position of tubing and condition of injection site for any infiltration a. An infiltrated I.V. is one in which the needle has come out of the vein and the I.V. leaks into the tissue, causing swelling b. Report this condition immediately to the charge nurse Module 9: Patient Care Procedures 3. Checking restraints or soft protective devices to be sure that A. Lecture A. Written test they are not blocking the vein. Follow your agency's policy B. Discuss creative ways to B. Follows instructions for regarding restraints and soft protective measure encourage increase in patient/resident fluid C. Nursing Assistant responsibilities fluid intake intake 1. Maintain a patient's/resident's physical comfort 2. Bathe the patient/resident according to daily routine a. Wash gently around the area where needle is inserted b. Do not loosen the tape that holds needle in place c. When drying, do not rub over area, pat gently to avoid dislodging the needle 3. Assist the patient/resident with eating by cutting food, preparing liquids, and arranging utensils ",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-15",
+      "content_outline": [
+        "Source objective statement: Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy",
+        "Source excerpt support: Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy. A. Reasons for using I.V. therapy 1. I.V. therapy provides the body with needed elements that can't be given as rapidly or efficiently by other means 2. I.V. may contain a. Blood, plasma b. Nutritional requirements for water, salt, sugar, etc. c. Medications 3. Rate of I.V. flow is often controlled by an infusion pump B. Nursing Assistant responsibilities include observing for flow from I.V. 1. Keeping tubing free of twisting or kinking 2. Observing position of tubing and condition of injection site for any infiltration a. An infiltrated I.V. is one in which the needle has come out of the vein and t",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "nursing care activities for a patient/resident — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "nursing care activities for a patient/resident — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "nursing care activities for a patient/resident — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance",
+      "exact_objective_statement": "Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance",
+      "source_pages": [
+        16,
+        17
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+      "source_excerpt": "Describe the Nursing Assistant role in assisting the patient/resident to maintain fluid balance. A. Importance of maintaining fluid balance 1. Next to oxygen, water is the most important physical need 2. Death can result from taking in inadequate fluids, from losing too much fluid or too much fluid intake a. Water enters body through food and fluid b. Water is lost through urine, sweat, feces, and lungs Module 9: Patient Care Procedures 3. Balance between amount of fluid taken in and the amount of fluid lost is necessary to maintain health a. Amount of fluid taken in and the amount of fluid lost must be equal b. An adult needs about 2000 ml of fluid a day c. Edema; fluid intake exceeds fluid output, tissues swell with water d. Dehydration; fluid output exceeds fluid intake, decrease in the amount of fluid in tissues 4. Patients/residents depend on nursing personnel to meet part or all of their food and fluid needs B. Encouraging increase in fluid intake 1. Forcing Fluids a. When physician orders \"force fluids\" it means to have the patient/resident drink an increased amount of fluid b. May order specific amount of fluid for 24-hour period c. Maintains fluid balance d. May be for general or specific amount of fluid 2. Nurse Assistant's responsibility to encourage fluid intake a. Keep record of amount taken in b. Provide variety of fluids c. Place within patient's/resident's reach d. Offer fluids frequently to patients/residents who cannot feed themselves C. Restricting fluid intake 1. When physician orders \"restrict fluids\" it means fluids are restricted to a specific amount ",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-16-17",
+      "content_outline": [
+        "Source objective statement: Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance",
+        "Source excerpt support: Describe the Nursing Assistant role in assisting the patient/resident to maintain fluid balance. A. Importance of maintaining fluid balance 1. Next to oxygen, water is the most important physical need 2. Death can result from taking in inadequate fluids, from losing too much fluid or too much fluid intake a. Water enters body through food and fluid b. Water is lost through urine, sweat, feces, and lungs Module 9: Patient Care Procedures 3. Balance between amount of fluid taken in and the amount of fluid lost is necessary to maintain health a. Amount of fluid taken in and the amount of fluid lost must be equal b. An adult needs about 2000 ml of fluid a day c. Edema; fluid intake exceeds fluid",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nursing Assistant's role in assisting the — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nursing Assistant's role in assisting the — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nursing Assistant's role in assisting the — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident",
+      "exact_objective_statement": "Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident",
+      "source_pages": [
+        18
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe the purpose and procedure for measuring the amount B. Review metric and B. Records accurate intake of fluid taken in and fluids excreted by the patient/resident (see module 7). household systems of and output according to A. Purpose of \"intake and output\" (I & O) measurement measurement in Module facility policy 15- Fluid Measurement 1. The doctor or nurse may want to keep track of a Handout 15.5 patient's/resident's fluid intake and output to evaluate C. Provide exercises for a. Fluid balance students to practice intake and output b. Kidney function measurement D. Manual Skills 9.12- c. Response to medical treatment Measuring Oral Intake 2. Accurate measurement is needed and documented on the I & O record E. Refer to Module 8 B. Measurement of patient's/resident's intake Manual Skill: 8.16- 1. Measured in milliliters (ml) Measuring Urinary 2. Determine the fluid capacity of bowls, dishes, cups, pitchers, Output glasses, and other containers used to serve fluids 3. Count as intake a. Water, milk, coffee, juice, soup, etc. b. All food in liquid form when eaten or those that later revert to liquid, i.e., Jell-O, ice cream 4. A conversion table is provided on the intake and output record used to chart intake Module 9: Patient Care Procedures 5. A container called a graduated cylinder is used to measure fluid C. Measurement of patient's/resident's output 1. Measure all fluids excreted by patient/resident done in ml. 2. All liquid output will be measured including urine, vomitus, liquid stool, drains and suctions 3. Plastic urinals ",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-18",
+      "content_outline": [
+        "Source objective statement: Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe the purpose and procedure for measuring the amount B. Review metric and B. Records accurate intake of fluid taken in and fluids excreted by the patient/resident (see module 7). household systems of and output according to A. Purpose of \"intake and output\" (I & O) measurement measurement in Module facility policy 15- Fluid Measurement 1. The doctor or nurse may want to keep track of a Handout 15.5 patient's/resident's fluid intake and output to evaluate C. Provide exercises for a. Fluid balance students to practice intake and output b. Kidney function measurement D. Manual Skills 9.12- c. Response to medical treatment Measuring Oral Intake 2. Acc",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the purpose and procedure for measuring the am — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and procedure for measuring the am — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and procedure for measuring the am — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 13,
+      "objective_title": "Discuss the Nursing's Assistant role in the use of bandages, binders and dressings",
+      "exact_objective_statement": "Discuss the Nursing's Assistant role in the use of bandages, binders and dressings",
+      "source_pages": [
+        19,
+        20
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Discuss the Nursing Assistant role in the use of bandages, B. Demonstrate and return B. Follows instructions of binders and dressings. A. Purpose of bandages and binders demonstration of licensed nurse for dressing and bandage application and removal 1. Apply pressure (compression) in order to stop bleeding or application of bandages and swelling, and to assist in absorbing tissue fluids dressings 2. Provide for immobilization of an injured part; a fractured (broken) arm 3. Hold dressings in place 4. Protect open wounds from contaminants Module 9: Patient Care Procedures 5. Apply warmth to a joint, as for persons suffering from painful joints due to arthritis 6. Provide support and aid in venous (return blood flow) circulation, as when bandaging the leg of a patient/resident suffering from varicose veins or limited circulation in the extremities (arms or legs) B. Dressings are ordered by the physician and initially applied by the licensed nurse C. Nurse Assistant role 1. Apply simple, dry, non-sterile dressings to uncomplicated wounds 2. Assist the licensed nurse with complex wounds D. The licensed nurse will inform the Nurse Assistant when to change a dressing and what supplies to use E. Materials used for dressings and bandages 1. Dressings are made from a variety of materials, mainly gauze which comes in 2 inch, 3 inch, and 4 inch squares. The size depends on the area of the body involved and the purpose of the dressing 2. Bandages and binders are made from muslin, gauze, flannel, rubber, and elastic fiber 3. Dressings are held in pl",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-19-20",
+      "content_outline": [
+        "Source objective statement: Discuss the Nursing's Assistant role in the use of bandages, binders and dressings",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Discuss the Nursing Assistant role in the use of bandages, B. Demonstrate and return B. Follows instructions of binders and dressings. A. Purpose of bandages and binders demonstration of licensed nurse for dressing and bandage application and removal 1. Apply pressure (compression) in order to stop bleeding or application of bandages and swelling, and to assist in absorbing tissue fluids dressings 2. Provide for immobilization of an injured part; a fractured (broken) arm 3. Hold dressings in place 4. Protect open wounds from contaminants Module 9: Patient Care Procedures 5. Apply warmth to a joint, as for persons suffering from painful joints due to arth",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nursing's Assistant role in the use of ban — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nursing's Assistant role in the use of ban — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nursing's Assistant role in the use of ban — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 14,
+      "objective_title": "Describe the use and method of applying anti-embolic hose/elastic stockings",
+      "exact_objective_statement": "Describe the use and method of applying anti-embolic hose/elastic stockings",
+      "source_pages": [
+        21
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe the use and method of applying anti-embolic B. Demonstrate and return B. Applies Anti-embolic hose/elastic stockings. A. Anti-embolic hose/elastic stockings are used to increase demonstration in hose/elastic stockings applying anti-embolic according to procedure circulation by improving venous return from the legs to the heart hose/elastic stockings C. Removes Anti-embolic B. Key points when applying elastic stockings C. Manual Skill 9.14- Anti- hose/elastic stockings according to facility 1. Always apply before patient/resident gets out of bed embolic Hose/Elastic policy 2. Check for wrinkles 3. Check skin color and temperature Stockings A. Written test 4. Check popliteal pulse B. Applies non-prescription C. Anti-embolic hose/elastic stockings are to be removed every 8 hrs. or according to facility policy ointments, lotions and",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-21",
+      "content_outline": [
+        "Source objective statement: Describe the use and method of applying anti-embolic hose/elastic stockings",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe the use and method of applying anti-embolic B. Demonstrate and return B. Applies Anti-embolic hose/elastic stockings. A. Anti-embolic hose/elastic stockings are used to increase demonstration in hose/elastic stockings applying anti-embolic according to procedure circulation by improving venous return from the legs to the heart hose/elastic stockings C. Removes Anti-embolic B. Key points when applying elastic stockings C. Manual Skill 9.14- Anti- hose/elastic stockings according to facility 1. Always apply before patient/resident gets out of bed embolic Hose/Elastic policy 2. Check for wrinkles 3. Check skin color and temperature Stockings A. Wri",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the use and method of applying anti-embolic ho — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the use and method of applying anti-embolic ho — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the use and method of applying anti-embolic ho — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 15,
+      "objective_title": "Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders",
+      "exact_objective_statement": "Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders",
+      "source_pages": [
+        21,
+        22
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+      "source_excerpt": "Identify the Nurse Assistant's role in the care of patient's/resident's skin conditions and the use of non- prescription ointments, lotions, or powders. A. Lecture/Discussion B. Demonstrate and return A. The Nurse Assistant can provide care to patients/residents with the demonstration of foot following intact skin conditions care with lotion 1. Foot care application 2. Dandruff 3. Dry Skin Module 9: Patient Care Procedures B. The Nurse Assistant must reports the following existing skin C. Refer to Module 8 powders according to conditions to the licensed nurse Manual Skill 8.7b- Foot facility policy 1. Acne Care 2. Minor burn 3. Rash 4. Excoriation, abrasions, skin tears 5. Eczema or psoriasis 6. Poison ivy or poison oak 7. Minor wounds 8. Insect bites or stings C. The Nurse Assistant can apply over-the-counter ointments, lotions, or powders to intact skin surface only D. The Nurse Assistant does not apply ointments, lotions, or powders to irritated skin surfaces OR open lesions E. Over-the-counter ointments, lotions, or powders that the Nurse Assistant may apply to intact skin 1. Zinc oxide 2. A and D ointment 3. Clearasil 4. Stri-dex medicated pads 5. Selsun Blue 6. Keri Lotion 7. Corn Huskers 8. Johnson's Medicated Powder 9. Tinactin Foot Powder F. General rules for application of ointment, lotion, or powder 1. Prepare the patient/resident 2. Position the patient/resident 3. Cleanse the skin 4. Protect the surrounding skin 4. Applying ointments, lotions, or powders A. Lecture Module 9: Patient Care Procedures a. Apply as directed, wear gloves B. Discussion b. Creams or li",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-21-22",
+      "content_outline": [
+        "Source objective statement: Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders",
+        "Source excerpt support: Identify the Nurse Assistant's role in the care of patient's/resident's skin conditions and the use of non- prescription ointments, lotions, or powders. A. Lecture/Discussion B. Demonstrate and return A. The Nurse Assistant can provide care to patients/residents with the demonstration of foot following intact skin conditions care with lotion 1. Foot care application 2. Dandruff 3. Dry Skin Module 9: Patient Care Procedures B. The Nurse Assistant must reports the following existing skin C. Refer to Module 8 powders according to conditions to the licensed nurse Manual Skill 8.7b- Foot facility policy 1. Acne Care 2. Minor burn 3. Rash 4. Excoriation, abrasions, skin tears 5. Eczema or psoriasi",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant's role in the care of pati — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in the care of pati — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant's role in the care of pati — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 16,
+      "objective_title": "Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility",
+      "exact_objective_statement": "Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility",
+      "source_pages": [
+        23
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+      "source_excerpt": "Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility. A. Admission to a long-term facility is stressful to both the patient/resident and family 1. First impressions of the facility are important for the adjustment of the patient/resident to the facility 2. The new patient/resident may have many feelings of loss a. Home b. Possessions c. Independence d. Family e. Freedom f. Privacy g. Control over one's life B. Welcome the patient/resident 1. Greet patient/resident by name 2. Introduce yourself 3. Explain what you will be doing Model Curriculum for Nurse Assistants - Revised September 2013 Module 9: Patient Care Procedures 4. Convey a warm welcome through tone of voice and facial A. Lecture A. Written test expression C. Collect base line information about the patient/resident 1. Measure patient's/resident's height and weight 2. Measure patient's/resident's vital signs 3. Observe the patient's/resident's a. Grooming b. Condition of hair and nails c. Condition of skin d. Mental alertness e. Sight and hearing f. Presence of any prosthesis g. Ability to move around D. Report all questions and concerns of the patient/resident or family to the licensed nurse E. Orient the patient/resident and family to the facility 1. Review facility routine 2. Introduce patient/resident to roommate and staff 3. Tour the facility 4. Explain the operation of bed controls, TV controls, and nurse call system F. Care for personal belongings 1. Patients/residents must know they have control over their possessions and can decide where to put item 2. Fill out the",
+      "weighted_minutes": 27,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-23",
+      "content_outline": [
+        "Source objective statement: Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility",
+        "Source excerpt support: Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility. A. Admission to a long-term facility is stressful to both the patient/resident and family 1. First impressions of the facility are important for the adjustment of the patient/resident to the facility 2. The new patient/resident may have many feelings of loss a. Home b. Possessions c. Independence d. Family e. Freedom f. Privacy g. Control over one's life B. Welcome the patient/resident 1. Greet patient/resident by name 2. Introduce yourself 3. Explain what you will be doing Model Curriculum for Nurse Assistants - Revised September 2013 Module 9: Patient Care Procedures 4. Convey a warm welcome thr",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the role of the Nurse Assistant in the admissi — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in the admissi — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in the admissi — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 17,
+      "objective_title": "Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility",
+      "exact_objective_statement": "Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility",
+      "source_pages": [
+        24
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+      "source_excerpt": "Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility. A. Tell the patient/resident in advance about the transfer, and explain the reason for moving B. Discussion Module 9: Patient Care Procedures B. Collect all the patient's/resident's belongings and take them to B. Follows transfer A. Lecture procedures of facility the new room B. Discussion 1. Be careful not to lose any items A. Written test 2. Check all drawers and closets for personal items B. Follows discharge C. Introduce patient/resident to new roommates 1. New surroundings may cause confusion; orient procedures of facility patient/resident to new room 2. Continue to remind patient/resident of new room",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-24",
+      "content_outline": [
+        "Source objective statement: Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility",
+        "Source excerpt support: Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility. A. Tell the patient/resident in advance about the transfer, and explain the reason for moving B. Discussion Module 9: Patient Care Procedures B. Collect all the patient's/resident's belongings and take them to B. Follows transfer A. Lecture procedures of facility the new room B. Discussion 1. Be careful not to lose any items A. Written test 2. Check all drawers and closets for personal items B. Follows discharge C. Introduce patient/resident to new roommates 1. New surroundings may cause confusion; orient procedures of facility patient/resident to new room 2. Continue to r",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the role of the Nurse Assistant in transferrin — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in transferrin — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in transferrin — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 18,
+      "objective_title": "Explain the role of the Nurse Assistant in the discharge of a patient/resident",
+      "exact_objective_statement": "Explain the role of the Nurse Assistant in the discharge of a patient/resident",
+      "source_pages": [
+        25
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+      "source_excerpt": "Explain the role of the Nurse Assistant in the discharge of a patient/resident. A. Collect base line information about the patient/resident: 1. Measure patient's/resident's height and weight 2. Measure patient's/resident's vital signs 3. Observe the patient's/resident's: a. Grooming b. Condition of hair and nails c. Condition of skin d. Mental alertness e. Sight and hearing f. Presence of any prosthesis g. Ability to move around B. Collect all personal belongings of the patient/resident: 1. Check all drawers and closets for personal items 2. Review facility list of possessions for items that might be in the safe or locked cabinet or the laundry C. Assist the patient/resident to his or her vehicle or designated mode of transportation after checking with licensed nurse. Patient/resident usually leaves by wheelchair Module 9: Patient Care Procedures",
+      "weighted_minutes": 17,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-25",
+      "content_outline": [
+        "Source objective statement: Explain the role of the Nurse Assistant in the discharge of a patient/resident",
+        "Source excerpt support: Explain the role of the Nurse Assistant in the discharge of a patient/resident. A. Collect base line information about the patient/resident: 1. Measure patient's/resident's height and weight 2. Measure patient's/resident's vital signs 3. Observe the patient's/resident's: a. Grooming b. Condition of hair and nails c. Condition of skin d. Mental alertness e. Sight and hearing f. Presence of any prosthesis g. Ability to move around B. Collect all personal belongings of the patient/resident: 1. Check all drawers and closets for personal items 2. Review facility list of possessions for items that might be in the safe or locked cabinet or the laundry C. Assist the patient/resident to his or her ve",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the role of the Nurse Assistant in the dischar — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in the dischar — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the role of the Nurse Assistant in the dischar — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 9 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 9 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 18,
+    "terminology_count": 42,
+    "weighted_minutes_total": 420,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "module_id": "M17",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "weighted_minutes": 55,
+      "activities": [
+        {
+          "activity_id": "M17-O01-A01",
+          "name": "Terminology Flashcards",
+          "title": "Terminology Flashcards",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O01-A02",
+          "name": "Term Context Sort",
+          "title": "Term Context Sort",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Term Context Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O01-A03",
+          "name": "Report Using Source Terms",
+          "title": "Report Using Source Terms",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Report Using Source Terms; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Identify and discuss types of elder abuse",
+      "weighted_minutes": 92,
+      "activities": [
+        {
+          "activity_id": "M17-O02-A01",
+          "name": "and discuss types of elder abuse — Source Trace Card Sort",
+          "title": "and discuss types of elder abuse — Source Trace Card Sort",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and discuss types of elder abuse — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O02-A02",
+          "name": "and discuss types of elder abuse — CNA Scope and Reporting Scenario",
+          "title": "and discuss types of elder abuse — CNA Scope and Reporting Scenario",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and discuss types of elder abuse — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O02-A03",
+          "name": "and discuss types of elder abuse — Objective Practice Check",
+          "title": "and discuss types of elder abuse — Objective Practice Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and discuss types of elder abuse — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Discuss the issues related to elder abuse",
+      "weighted_minutes": 91,
+      "activities": [
+        {
+          "activity_id": "M17-O03-A01",
+          "name": "the issues related to elder abuse — Source Trace Card Sort",
+          "title": "the issues related to elder abuse — Source Trace Card Sort",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the issues related to elder abuse — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O03-A02",
+          "name": "the issues related to elder abuse — CNA Scope and Reporting Scenario",
+          "title": "the issues related to elder abuse — CNA Scope and Reporting Scenario",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the issues related to elder abuse — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O03-A03",
+          "name": "the issues related to elder abuse — Objective Practice Check",
+          "title": "the issues related to elder abuse — Objective Practice Check",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the issues related to elder abuse — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Explain the Nurse Assistant role in preventing elder abuse",
+      "weighted_minutes": 91,
+      "activities": [
+        {
+          "activity_id": "M17-O04-A01",
+          "name": "the Nurse Assistant role in preventing elder a — Source Trace Card Sort",
+          "title": "the Nurse Assistant role in preventing elder a — Source Trace Card Sort",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in preventing elder a — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O04-A02",
+          "name": "the Nurse Assistant role in preventing elder a — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant role in preventing elder a — CNA Scope and Reporting Scenario",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in preventing elder a — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O04-A03",
+          "name": "the Nurse Assistant role in preventing elder a — Objective Practice Check",
+          "title": "the Nurse Assistant role in preventing elder a — Objective Practice Check",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in preventing elder a — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe the Nurse Assistant role in reporting elder abuse",
+      "weighted_minutes": 91,
+      "activities": [
+        {
+          "activity_id": "M17-O05-A01",
+          "name": "the Nurse Assistant role in reporting elder ab — Source Trace Card Sort",
+          "title": "the Nurse Assistant role in reporting elder ab — Source Trace Card Sort",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in reporting elder ab — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O05-A02",
+          "name": "the Nurse Assistant role in reporting elder ab — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant role in reporting elder ab — CNA Scope and Reporting Scenario",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in reporting elder ab — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M17-O05-A03",
+          "name": "the Nurse Assistant role in reporting elder ab — Objective Practice Check",
+          "title": "the Nurse Assistant role in reporting elder ab — Objective Practice Check",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M17:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant role in reporting elder ab — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    }
+  ]
+}

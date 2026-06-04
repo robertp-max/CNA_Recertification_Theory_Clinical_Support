@@ -5,6 +5,11 @@ import sys
 import time
 from pathlib import Path
 
+# The output directory is named `qwen_tts/`, which otherwise shadows the
+# installed/editable Qwen package when this script is executed from the audio
+# folder. Put the actual Qwen source checkout first on sys.path before import.
+sys.path.insert(0, r"C:/AI/Qwen3-TTS")
+
 import soundfile as sf
 import torch
 from qwen_tts import Qwen3TTSModel
@@ -64,6 +69,7 @@ def write_state(manifest, package, generated, failures, ref_text, status_note):
         "status": status_note,
         "qwen_sent": True,
         "qwen_voice_cloning_started": True,
+        "qwen_voice_cloning_completed": status_note == "qwen_tts_generated",
         "qwen_model": MODEL_PATH,
         "voice_reference": REF_AUDIO,
         "voice_reference_transcript": ref_text,
@@ -73,8 +79,11 @@ def write_state(manifest, package, generated, failures, ref_text, status_note):
         "compliance": "Qwen TTS generation is required for this run. No SFX/image generation or approval/clinical-credit/competency claim.",
     })
     package.update({
+        "status": status_note,
         "qwen_sent": True,
         "voice_cloning_started": True,
+        "qwen_voice_cloning_started": True,
+        "qwen_voice_cloning_completed": status_note == "qwen_tts_generated",
         "qwen_model": MODEL_PATH,
         "voice_reference": REF_AUDIO,
         "voice_reference_transcript": ref_text,

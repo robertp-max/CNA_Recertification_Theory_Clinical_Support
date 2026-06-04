@@ -74,3 +74,6 @@ No blocking preflight item was found for source-first Module 13 work, provided t
 ## Recommended Next Action
 
 Stop here. Ask the user to explicitly authorize continuation into the Module 13 source extraction / saved foreground dry-run chain. If authorized, continue source-first using only `CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf`, produce theory/support artifacts only, avoid CSV narration outputs, keep media manifest-only, and do not disturb unrelated dirty user work.
+
+## Post-Run Qwen Update
+The original preflight media gate reflected the state before user-authorized Qwen voice-clone generation. Post-run reconciliation confirms Module 13 Qwen TTS completed: 32/32 manifest clips generated, 32 WAV files readable, 0 failures. Image and SFX generation remain gated/not generated.

@@ -1,0 +1,1320 @@
+{
+  "module_id": "M09",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "weighted_minutes": 11,
+      "activities": [
+        {
+          "activity_id": "M09-O01-A01",
+          "name": "Terminology Flashcards",
+          "title": "Terminology Flashcards",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O01-A02",
+          "name": "Term Context Sort",
+          "title": "Term Context Sort",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Term Context Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O01-A03",
+          "name": "Report Using Source Terms",
+          "title": "Report Using Source Terms",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Report Using Source Terms; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool)",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O02-A01",
+          "name": "the Nurse Assistant's role in collecting speci — Source Trace Card Sort",
+          "title": "the Nurse Assistant's role in collecting speci — Source Trace Card Sort",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in collecting speci — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O02-A02",
+          "name": "the Nurse Assistant's role in collecting speci — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant's role in collecting speci — CNA Scope and Reporting Scenario",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in collecting speci — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O02-A03",
+          "name": "the Nurse Assistant's role in collecting speci — Objective Practice Check",
+          "title": "the Nurse Assistant's role in collecting speci — Objective Practice Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in collecting speci — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Discuss procedures for bed making and maintaining proper body mechanics",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O03-A01",
+          "name": "procedures for bed making and maintaining prop — Source Trace Card Sort",
+          "title": "procedures for bed making and maintaining prop — Source Trace Card Sort",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for procedures for bed making and maintaining prop — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O03-A02",
+          "name": "procedures for bed making and maintaining prop — CNA Scope and Reporting Scenario",
+          "title": "procedures for bed making and maintaining prop — CNA Scope and Reporting Scenario",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for procedures for bed making and maintaining prop — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O03-A03",
+          "name": "procedures for bed making and maintaining prop — Objective Practice Check",
+          "title": "procedures for bed making and maintaining prop — Objective Practice Check",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for procedures for bed making and maintaining prop — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Discuss types of beds and bed positions",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O04-A01",
+          "name": "types of beds and bed positions — Source Trace Card Sort",
+          "title": "types of beds and bed positions — Source Trace Card Sort",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for types of beds and bed positions — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O04-A02",
+          "name": "types of beds and bed positions — CNA Scope and Reporting Scenario",
+          "title": "types of beds and bed positions — CNA Scope and Reporting Scenario",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for types of beds and bed positions — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O04-A03",
+          "name": "types of beds and bed positions — Objective Practice Check",
+          "title": "types of beds and bed positions — Objective Practice Check",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for types of beds and bed positions — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Discuss ways to maintain the patient's/resident's environment",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O05-A01",
+          "name": "ways to maintain the patient's/resident's envi — Source Trace Card Sort",
+          "title": "ways to maintain the patient's/resident's envi — Source Trace Card Sort",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for ways to maintain the patient's/resident's envi — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O05-A02",
+          "name": "ways to maintain the patient's/resident's envi — CNA Scope and Reporting Scenario",
+          "title": "ways to maintain the patient's/resident's envi — CNA Scope and Reporting Scenario",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for ways to maintain the patient's/resident's envi — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O05-A03",
+          "name": "ways to maintain the patient's/resident's envi — Objective Practice Check",
+          "title": "ways to maintain the patient's/resident's envi — Objective Practice Check",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for ways to maintain the patient's/resident's envi — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe the Nurse Assistant's role in administering an enema",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O06-A01",
+          "name": "the Nurse Assistant's role in administering an — Source Trace Card Sort",
+          "title": "the Nurse Assistant's role in administering an — Source Trace Card Sort",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O06:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in administering an — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O06-A02",
+          "name": "the Nurse Assistant's role in administering an — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant's role in administering an — CNA Scope and Reporting Scenario",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O06:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in administering an — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O06-A03",
+          "name": "the Nurse Assistant's role in administering an — Objective Practice Check",
+          "title": "the Nurse Assistant's role in administering an — Objective Practice Check",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O06:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in administering an — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "Describe the Nurse Assistant's role in giving a suppository",
+      "weighted_minutes": 17,
+      "activities": [
+        {
+          "activity_id": "M09-O07-A01",
+          "name": "the Nurse Assistant's role in giving a supposi — Source Trace Card Sort",
+          "title": "the Nurse Assistant's role in giving a supposi — Source Trace Card Sort",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O07:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in giving a supposi — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O07-A02",
+          "name": "the Nurse Assistant's role in giving a supposi — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant's role in giving a supposi — CNA Scope and Reporting Scenario",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O07:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in giving a supposi — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O07-A03",
+          "name": "the Nurse Assistant's role in giving a supposi — Objective Practice Check",
+          "title": "the Nurse Assistant's role in giving a supposi — Objective Practice Check",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O07:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in giving a supposi — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "List the types and uses of gastrointestinal (GI) tubes",
+      "weighted_minutes": 17,
+      "activities": [
+        {
+          "activity_id": "M09-O08-A01",
+          "name": "the types and uses of gastrointestinal (GI) tu — Source Trace Card Sort",
+          "title": "the types and uses of gastrointestinal (GI) tu — Source Trace Card Sort",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O08:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the types and uses of gastrointestinal (GI) tu — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O08-A02",
+          "name": "the types and uses of gastrointestinal (GI) tu — CNA Scope and Reporting Scenario",
+          "title": "the types and uses of gastrointestinal (GI) tu — CNA Scope and Reporting Scenario",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O08:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the types and uses of gastrointestinal (GI) tu — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O08-A03",
+          "name": "the types and uses of gastrointestinal (GI) tu — Objective Practice Check",
+          "title": "the types and uses of gastrointestinal (GI) tu — Objective Practice Check",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O08:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the types and uses of gastrointestinal (GI) tu — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy)",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O09-A01",
+          "name": "major nursing care activities for patients/res — Source Trace Card Sort",
+          "title": "major nursing care activities for patients/res — Source Trace Card Sort",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O09:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for major nursing care activities for patients/res — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O09-A02",
+          "name": "major nursing care activities for patients/res — CNA Scope and Reporting Scenario",
+          "title": "major nursing care activities for patients/res — CNA Scope and Reporting Scenario",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O09:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for major nursing care activities for patients/res — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O09-A03",
+          "name": "major nursing care activities for patients/res — Objective Practice Check",
+          "title": "major nursing care activities for patients/res — Objective Practice Check",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O09:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for major nursing care activities for patients/res — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O10-A01",
+          "name": "nursing care activities for a patient/resident — Source Trace Card Sort",
+          "title": "nursing care activities for a patient/resident — Source Trace Card Sort",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O10:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for nursing care activities for a patient/resident — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O10-A02",
+          "name": "nursing care activities for a patient/resident — CNA Scope and Reporting Scenario",
+          "title": "nursing care activities for a patient/resident — CNA Scope and Reporting Scenario",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O10:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for nursing care activities for a patient/resident — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O10-A03",
+          "name": "nursing care activities for a patient/resident — Objective Practice Check",
+          "title": "nursing care activities for a patient/resident — Objective Practice Check",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O10:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for nursing care activities for a patient/resident — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O11-A01",
+          "name": "the Nursing Assistant's role in assisting the — Source Trace Card Sort",
+          "title": "the Nursing Assistant's role in assisting the — Source Trace Card Sort",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O11:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing Assistant's role in assisting the — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O11-A02",
+          "name": "the Nursing Assistant's role in assisting the — CNA Scope and Reporting Scenario",
+          "title": "the Nursing Assistant's role in assisting the — CNA Scope and Reporting Scenario",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O11:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing Assistant's role in assisting the — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O11-A03",
+          "name": "the Nursing Assistant's role in assisting the — Objective Practice Check",
+          "title": "the Nursing Assistant's role in assisting the — Objective Practice Check",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O11:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing Assistant's role in assisting the — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O12-A01",
+          "name": "the purpose and procedure for measuring the am — Source Trace Card Sort",
+          "title": "the purpose and procedure for measuring the am — Source Trace Card Sort",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O12:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and procedure for measuring the am — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O12-A02",
+          "name": "the purpose and procedure for measuring the am — CNA Scope and Reporting Scenario",
+          "title": "the purpose and procedure for measuring the am — CNA Scope and Reporting Scenario",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O12:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and procedure for measuring the am — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O12-A03",
+          "name": "the purpose and procedure for measuring the am — Objective Practice Check",
+          "title": "the purpose and procedure for measuring the am — Objective Practice Check",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O12:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and procedure for measuring the am — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 13,
+      "objective_title": "Discuss the Nursing's Assistant role in the use of bandages, binders and dressings",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O13-A01",
+          "name": "the Nursing's Assistant role in the use of ban — Source Trace Card Sort",
+          "title": "the Nursing's Assistant role in the use of ban — Source Trace Card Sort",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O13:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing's Assistant role in the use of ban — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O13-A02",
+          "name": "the Nursing's Assistant role in the use of ban — CNA Scope and Reporting Scenario",
+          "title": "the Nursing's Assistant role in the use of ban — CNA Scope and Reporting Scenario",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O13:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing's Assistant role in the use of ban — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O13-A03",
+          "name": "the Nursing's Assistant role in the use of ban — Objective Practice Check",
+          "title": "the Nursing's Assistant role in the use of ban — Objective Practice Check",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O13:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nursing's Assistant role in the use of ban — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 14,
+      "objective_title": "Describe the use and method of applying anti-embolic hose/elastic stockings",
+      "weighted_minutes": 17,
+      "activities": [
+        {
+          "activity_id": "M09-O14-A01",
+          "name": "the use and method of applying anti-embolic ho — Source Trace Card Sort",
+          "title": "the use and method of applying anti-embolic ho — Source Trace Card Sort",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O14:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the use and method of applying anti-embolic ho — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O14-A02",
+          "name": "the use and method of applying anti-embolic ho — CNA Scope and Reporting Scenario",
+          "title": "the use and method of applying anti-embolic ho — CNA Scope and Reporting Scenario",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O14:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the use and method of applying anti-embolic ho — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O14-A03",
+          "name": "the use and method of applying anti-embolic ho — Objective Practice Check",
+          "title": "the use and method of applying anti-embolic ho — Objective Practice Check",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O14:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the use and method of applying anti-embolic ho — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 15,
+      "objective_title": "Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O15-A01",
+          "name": "the Nurse Assistant's role in the care of pati — Source Trace Card Sort",
+          "title": "the Nurse Assistant's role in the care of pati — Source Trace Card Sort",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O15:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in the care of pati — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O15-A02",
+          "name": "the Nurse Assistant's role in the care of pati — CNA Scope and Reporting Scenario",
+          "title": "the Nurse Assistant's role in the care of pati — CNA Scope and Reporting Scenario",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O15:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in the care of pati — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O15-A03",
+          "name": "the Nurse Assistant's role in the care of pati — Objective Practice Check",
+          "title": "the Nurse Assistant's role in the care of pati — Objective Practice Check",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O15:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the Nurse Assistant's role in the care of pati — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 16,
+      "objective_title": "Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility",
+      "weighted_minutes": 27,
+      "activities": [
+        {
+          "activity_id": "M09-O16-A01",
+          "name": "the role of the Nurse Assistant in the admissi — Source Trace Card Sort",
+          "title": "the role of the Nurse Assistant in the admissi — Source Trace Card Sort",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O16:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the admissi — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O16-A02",
+          "name": "the role of the Nurse Assistant in the admissi — CNA Scope and Reporting Scenario",
+          "title": "the role of the Nurse Assistant in the admissi — CNA Scope and Reporting Scenario",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O16:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the admissi — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O16-A03",
+          "name": "the role of the Nurse Assistant in the admissi — Objective Practice Check",
+          "title": "the role of the Nurse Assistant in the admissi — Objective Practice Check",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O16:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the admissi — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 17,
+      "objective_title": "Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility",
+      "weighted_minutes": 17,
+      "activities": [
+        {
+          "activity_id": "M09-O17-A01",
+          "name": "the role of the Nurse Assistant in transferrin — Source Trace Card Sort",
+          "title": "the role of the Nurse Assistant in transferrin — Source Trace Card Sort",
+          "objective_number": 17,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O17:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in transferrin — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O17-A02",
+          "name": "the role of the Nurse Assistant in transferrin — CNA Scope and Reporting Scenario",
+          "title": "the role of the Nurse Assistant in transferrin — CNA Scope and Reporting Scenario",
+          "objective_number": 17,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O17:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in transferrin — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O17-A03",
+          "name": "the role of the Nurse Assistant in transferrin — Objective Practice Check",
+          "title": "the role of the Nurse Assistant in transferrin — Objective Practice Check",
+          "objective_number": 17,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O17:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in transferrin — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 18,
+      "objective_title": "Explain the role of the Nurse Assistant in the discharge of a patient/resident",
+      "weighted_minutes": 17,
+      "activities": [
+        {
+          "activity_id": "M09-O18-A01",
+          "name": "the role of the Nurse Assistant in the dischar — Source Trace Card Sort",
+          "title": "the role of the Nurse Assistant in the dischar — Source Trace Card Sort",
+          "objective_number": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O18:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the dischar — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O18-A02",
+          "name": "the role of the Nurse Assistant in the dischar — CNA Scope and Reporting Scenario",
+          "title": "the role of the Nurse Assistant in the dischar — CNA Scope and Reporting Scenario",
+          "objective_number": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O18:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the dischar — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M09-O18-A03",
+          "name": "the role of the Nurse Assistant in the dischar — Objective Practice Check",
+          "title": "the role of the Nurse Assistant in the dischar — Objective Practice Check",
+          "objective_number": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M09:O18:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the role of the Nurse Assistant in the dischar — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    }
+  ]
+}

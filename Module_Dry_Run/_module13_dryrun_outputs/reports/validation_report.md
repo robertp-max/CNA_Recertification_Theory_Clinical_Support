@@ -10,7 +10,7 @@ Validation result: **PASS**
 | weighted minutes exactly 780 | PASS | total=780 |
 | >=3 activities per objective | PASS | all objectives |
 | JSON narration package/no CSV | PASS | json present, csv absent |
-| Qwen/TTS processing launched | PASS | User clarified Qwen TTS is part of the requirement. Resumable Qwen TTS generator/runner scripts were created and launched in background; completed WAVs are skipped on restart and manifests/logs update as processing continues. |
+| Qwen/TTS processing completed | PASS | User clarified Qwen TTS is part of the requirement. Resumable Qwen TTS generator/runner scripts were repaired and completed: 32/32 manifest clips generated, 32 WAVs readable, 0 failures. See `qwen_audio_reconciliation_report.md`. |
 | image alt text | PASS | items=9 |
 | sfx license gated | PASS | items=7 |
 | source authority only Module 13 PDF | PASS | no backups/ContentV2/prior outputs used as authority |
@@ -23,11 +23,11 @@ Validation result: **PASS**
 - No online hands-on competency validation claim.
 - No PHI examples or requests intentionally generated.
 - Sample test answer key mapped internal-only.
-- Audio/TTS/Qwen processing is now authorized as a run requirement and is running through the resumable background runner.
+- Audio/TTS/Qwen processing was authorized as a run requirement and completed through the resumable runner.
 
 ## Residual Risks
 - Generated content is source-map-derived draft and requires SME/compliance review.
-- Speech audio generation may still be in progress asynchronously; monitor `Module_Dry_Run/_module13_dryrun_outputs/audio/logs/qwen_tts_resume_runner.log` and `audio_manifest.json`.
+- Speech audio generation is complete for the current 32-clip Module 13 manifest; future script reruns should skip existing generated WAVs.
 - SFX assets license-gated/queued.
 - Images prompt queue only.
 - Root repo has unrelated dirty state; no broad Git cleanup performed.

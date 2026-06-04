@@ -1,0 +1,444 @@
+{
+  "module_id": "M05",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology.",
+      "weighted_minutes": 21,
+      "activities": [
+        {
+          "activity_id": "M05-O01-A01",
+          "name": "Terminology Flashcards",
+          "title": "Terminology Flashcards",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O01-A02",
+          "name": "Term Context Sort",
+          "title": "Term Context Sort",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Term Context Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O01-A03",
+          "name": "Report Using Source Terms",
+          "title": "Report Using Source Terms",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Report Using Source Terms; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Explain the purpose and rules of proper body mechanics.",
+      "weighted_minutes": 52,
+      "activities": [
+        {
+          "activity_id": "M05-O02-A01",
+          "name": "the purpose and rules of proper body mechanics — Source Trace Card Sort",
+          "title": "the purpose and rules of proper body mechanics — Source Trace Card Sort",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and rules of proper body mechanics — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O02-A02",
+          "name": "the purpose and rules of proper body mechanics — CNA Scope and Reporting Scenario",
+          "title": "the purpose and rules of proper body mechanics — CNA Scope and Reporting Scenario",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and rules of proper body mechanics — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O02-A03",
+          "name": "the purpose and rules of proper body mechanics — Objective Practice Check",
+          "title": "the purpose and rules of proper body mechanics — Objective Practice Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-1",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for the purpose and rules of proper body mechanics — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Identify comfort and safety measures used to lift, turn, move, and position patients/residents in bed.",
+      "weighted_minutes": 52,
+      "activities": [
+        {
+          "activity_id": "M05-O03-A01",
+          "name": "comfort and safety measures used to lift, turn — Source Trace Card Sort",
+          "title": "comfort and safety measures used to lift, turn — Source Trace Card Sort",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for comfort and safety measures used to lift, turn — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O03-A02",
+          "name": "comfort and safety measures used to lift, turn — CNA Scope and Reporting Scenario",
+          "title": "comfort and safety measures used to lift, turn — CNA Scope and Reporting Scenario",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for comfort and safety measures used to lift, turn — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O03-A03",
+          "name": "comfort and safety measures used to lift, turn — Objective Practice Check",
+          "title": "comfort and safety measures used to lift, turn — Objective Practice Check",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-5",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for comfort and safety measures used to lift, turn — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "List and describe body positions for bedridden patients/residents.",
+      "weighted_minutes": 32,
+      "activities": [
+        {
+          "activity_id": "M05-O04-A01",
+          "name": "and describe body positions for bedridden pati — Source Trace Card Sort",
+          "title": "and describe body positions for bedridden pati — Source Trace Card Sort",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and describe body positions for bedridden pati — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O04-A02",
+          "name": "and describe body positions for bedridden pati — CNA Scope and Reporting Scenario",
+          "title": "and describe body positions for bedridden pati — CNA Scope and Reporting Scenario",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and describe body positions for bedridden pati — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O04-A03",
+          "name": "and describe body positions for bedridden pati — Objective Practice Check",
+          "title": "and describe body positions for bedridden pati — Objective Practice Check",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-6",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for and describe body positions for bedridden pati — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe patient/resident transfers.",
+      "weighted_minutes": 52,
+      "activities": [
+        {
+          "activity_id": "M05-O05-A01",
+          "name": "patient/resident transfers — Source Trace Card Sort",
+          "title": "patient/resident transfers — Source Trace Card Sort",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for patient/resident transfers — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O05-A02",
+          "name": "patient/resident transfers — CNA Scope and Reporting Scenario",
+          "title": "patient/resident transfers — CNA Scope and Reporting Scenario",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for patient/resident transfers — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O05-A03",
+          "name": "patient/resident transfers — Objective Practice Check",
+          "title": "patient/resident transfers — Objective Practice Check",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for patient/resident transfers — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe appropriate body mechanics used to ambulate a patient/resident.",
+      "weighted_minutes": 31,
+      "activities": [
+        {
+          "activity_id": "M05-O06-A01",
+          "name": "appropriate body mechanics used to ambulate a — Source Trace Card Sort",
+          "title": "appropriate body mechanics used to ambulate a — Source Trace Card Sort",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O06:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for appropriate body mechanics used to ambulate a — Source Trace Card Sort; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O06-A02",
+          "name": "appropriate body mechanics used to ambulate a — CNA Scope and Reporting Scenario",
+          "title": "appropriate body mechanics used to ambulate a — CNA Scope and Reporting Scenario",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O06:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for appropriate body mechanics used to ambulate a — CNA Scope and Reporting Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M05-O06-A03",
+          "name": "appropriate body mechanics used to ambulate a — Objective Practice Check",
+          "title": "appropriate body mechanics used to ambulate a — Objective Practice Check",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-5.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M05:O06:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for appropriate body mechanics used to ambulate a — Objective Practice Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory/support only; no PHI, approval claim, certificate issuance, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    }
+  ]
+}

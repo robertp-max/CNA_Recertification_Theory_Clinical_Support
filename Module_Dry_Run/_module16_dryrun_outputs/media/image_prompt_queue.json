@@ -1,0 +1,198 @@
+{
+  "module_id": "M16",
+  "queue_status": "ready_for_review_not_generated",
+  "prompts": [
+    {
+      "prompt_id": "M16-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O02-IMG01",
+      "title": "the five stages of the grieving process accord — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O02-IMG02",
+      "title": "the five stages of the grieving process accord — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O02-IMG03",
+      "title": "the five stages of the grieving process accord — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 2: Describe the five stages of the grieving process according to Dr. Kubler-Ross. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O03-IMG01",
+      "title": "approaches to meet common emotional and spirit — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill patients/residents and their families. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O03-IMG02",
+      "title": "approaches to meet common emotional and spirit — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill patients/residents and their families. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O03-IMG03",
+      "title": "approaches to meet common emotional and spirit — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 3: Describe approaches to meet common emotional and spiritual needs of terminally ill patients/residents and their families. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O04-IMG01",
+      "title": "the rights of the dying patient/resident — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 4: List the rights of the dying patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O04-IMG02",
+      "title": "the rights of the dying patient/resident — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 4: List the rights of the dying patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O04-IMG03",
+      "title": "the rights of the dying patient/resident — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 4: List the rights of the dying patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O05-IMG01",
+      "title": "between common signs of approaching death and — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 5: Differentiate between common signs of approaching death and biological death. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O05-IMG02",
+      "title": "between common signs of approaching death and — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 5: Differentiate between common signs of approaching death and biological death. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O05-IMG03",
+      "title": "between common signs of approaching death and — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 5: Differentiate between common signs of approaching death and biological death. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O06-IMG01",
+      "title": "care and comfort measures for dying patients/r — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 6: Identify care and comfort measures for dying patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O06-IMG02",
+      "title": "care and comfort measures for dying patients/r — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 6: Identify care and comfort measures for dying patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O06-IMG03",
+      "title": "care and comfort measures for dying patients/r — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 6: Identify care and comfort measures for dying patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O07-IMG01",
+      "title": "the philosophy and goals of hospice and the Nu — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant's role when the patient/resident is cared for by a licensed hospice nurse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O07-IMG02",
+      "title": "the philosophy and goals of hospice and the Nu — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant's role when the patient/resident is cared for by a licensed hospice nurse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O07-IMG03",
+      "title": "the philosophy and goals of hospice and the Nu — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 7: Identify the philosophy and goals of hospice and the Nurse Assistant's role when the patient/resident is cared for by a licensed hospice nurse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O08-IMG01",
+      "title": "procedures and responsibilities for postmortem — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 8: Describe procedures and responsibilities for postmortem care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O08-IMG02",
+      "title": "procedures and responsibilities for postmortem — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 8: Describe procedures and responsibilities for postmortem care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M16-O08-IMG03",
+      "title": "procedures and responsibilities for postmortem — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 16: Death and Dying, Objective 8: Describe procedures and responsibilities for postmortem care. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-16.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

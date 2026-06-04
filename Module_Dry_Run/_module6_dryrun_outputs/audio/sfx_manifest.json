@@ -1,0 +1,18 @@
+{
+  "module_id": "M06",
+  "status": "queued_manifest_only_no_generated_sfx",
+  "items": [
+    {
+      "sfx_id": "M06-SUCCESS",
+      "purpose": "short non-speech success cue",
+      "generation_status": "not_generated",
+      "boundary": "No TTS-generated SFX in dry run."
+    },
+    {
+      "sfx_id": "M06-RETRY",
+      "purpose": "short non-speech retry cue",
+      "generation_status": "not_generated",
+      "boundary": "No TTS-generated SFX in dry run."
+    }
+  ]
+}

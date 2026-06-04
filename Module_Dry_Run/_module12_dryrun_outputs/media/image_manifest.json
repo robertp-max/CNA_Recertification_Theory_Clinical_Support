@@ -1,0 +1,126 @@
+{
+  "module_id": "M12",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M12-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O02-IMG01",
+      "title": "common signs and symptoms of conditions associ — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 2: Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O02-IMG02",
+      "title": "common signs and symptoms of conditions associ — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 2: Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O02-IMG03",
+      "title": "common signs and symptoms of conditions associ — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 2: Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O03-IMG01",
+      "title": "the immediate interventions in a medical emerg — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 3: Describe the immediate interventions in a medical emergency.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O03-IMG02",
+      "title": "the immediate interventions in a medical emerg — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 3: Describe the immediate interventions in a medical emergency.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O03-IMG03",
+      "title": "the immediate interventions in a medical emerg — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 3: Describe the immediate interventions in a medical emergency.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O04-IMG01",
+      "title": "the causes and signs of choking and discuss th — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O04-IMG02",
+      "title": "the causes and signs of choking and discuss th — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O04-IMG03",
+      "title": "the causes and signs of choking and discuss th — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 4: List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O05-IMG01",
+      "title": "common emergency codes used in long-term care — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 5: Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O05-IMG02",
+      "title": "common emergency codes used in long-term care — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 5: Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M12-O05-IMG03",
+      "title": "common emergency codes used in long-term care — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 12: Emergency Procedures, Objective 5: Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

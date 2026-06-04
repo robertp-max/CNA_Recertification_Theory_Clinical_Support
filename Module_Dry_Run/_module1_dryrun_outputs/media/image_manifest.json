@@ -1,0 +1,198 @@
+{
+  "module_id": "M01",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M01-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O02-IMG01",
+      "title": "the legal implications of California Code of R — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 2: Discuss the legal implications of California Code of Regulations, Title 22, Division 5, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O02-IMG02",
+      "title": "the legal implications of California Code of R — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 2: Discuss the legal implications of California Code of Regulations, Title 22, Division 5, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O02-IMG03",
+      "title": "the legal implications of California Code of R — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 2: Discuss the legal implications of California Code of Regulations, Title 22, Division 5, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O03-IMG01",
+      "title": "Nurse Assistant requirements as set forth in T — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 3: Identify Nurse Assistant requirements as set forth in Title 22, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-5-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O03-IMG02",
+      "title": "Nurse Assistant requirements as set forth in T — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 3: Identify Nurse Assistant requirements as set forth in Title 22, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-5-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O03-IMG03",
+      "title": "Nurse Assistant requirements as set forth in T — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 3: Identify Nurse Assistant requirements as set forth in Title 22, and OBRA. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-5-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O04-IMG01",
+      "title": "the qualities of a successful Nurse Assistant — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 4: Describe the qualities of a successful Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O04-IMG02",
+      "title": "the qualities of a successful Nurse Assistant — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 4: Describe the qualities of a successful Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O04-IMG03",
+      "title": "the qualities of a successful Nurse Assistant — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 4: Describe the qualities of a successful Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O05-IMG01",
+      "title": "the role and responsibilities of the Nurse Ass — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 5: Describe the role and responsibilities of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O05-IMG02",
+      "title": "the role and responsibilities of the Nurse Ass — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 5: Describe the role and responsibilities of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O05-IMG03",
+      "title": "the role and responsibilities of the Nurse Ass — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 5: Describe the role and responsibilities of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O06-IMG01",
+      "title": "professionalism for the Nurse Assistant — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 6: Describe professionalism for the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O06-IMG02",
+      "title": "professionalism for the Nurse Assistant — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 6: Describe professionalism for the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O06-IMG03",
+      "title": "professionalism for the Nurse Assistant — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 6: Describe professionalism for the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O07-IMG01",
+      "title": "the ethical behavior expected of the Nurse Ass — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 7: Explain the ethical behavior expected of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O07-IMG02",
+      "title": "the ethical behavior expected of the Nurse Ass — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 7: Explain the ethical behavior expected of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O07-IMG03",
+      "title": "the ethical behavior expected of the Nurse Ass — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 7: Explain the ethical behavior expected of the Nurse Assistant. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O08-IMG01",
+      "title": "behaviors that maintain confidentiality — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 8: Describe behaviors that maintain confidentiality. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O08-IMG02",
+      "title": "behaviors that maintain confidentiality — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 8: Describe behaviors that maintain confidentiality. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M01-O08-IMG03",
+      "title": "behaviors that maintain confidentiality — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 1: Introduction to Nurse Assistant, Objective 8: Describe behaviors that maintain confidentiality. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-1.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

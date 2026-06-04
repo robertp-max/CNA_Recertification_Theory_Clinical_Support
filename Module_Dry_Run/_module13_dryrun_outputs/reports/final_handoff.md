@@ -63,7 +63,7 @@ Preserve/reuse existing `LessonPlayerPage.tsx`; feed Module 13 generated data.
 
 ## Images / Speech / SFX
 - Images: queued prompt-only, no images generated.
-- Speech: JSON narration batch import package and audio manifest generated; no CSV. User clarified Qwen TTS is part of the requirement, so Qwen voice-clone TTS processing was launched in background using a resumable runner. Existing completed WAVs are skipped on restart; remaining clips continue asynchronously.
+- Speech: JSON narration batch import package and audio manifest generated; no CSV. User clarified Qwen TTS is part of the requirement, so the Qwen voice-clone TTS resumable runner was repaired and completed. Reconciliation: 32/32 manifest clips generated, 32 WAV files readable in `audio/qwen_tts/`, 0 failures. See `reports/qwen_audio_reconciliation_report.md`.
 - SFX: manifest generated with queued/license-gated items.
 
 ## Build Result
@@ -105,7 +105,6 @@ No PHI, approval, certificate-production, online clinical-credit, online hands-o
 
 ## Unresolved Dependencies
 - SME/compliance review before production.
-- Qwen TTS background generation may still be in progress; monitor `Module_Dry_Run/_module13_dryrun_outputs/audio/logs/qwen_tts_resume_runner.log`, `audio_manifest.json`, and `audio/qwen_tts/`.
 - Licensed SFX selection required.
 - Image generation approval/tooling required.
 - Root repo dirty state needs separate owner review; no broad cleanup performed.

@@ -22,10 +22,14 @@ function Read-ManifestStatus {
   }
   try {
     $m = Get-Content $Manifest -Raw -Encoding UTF8 | ConvertFrom-Json
+    $generatedCount = 0
+    $failedCount = 0
+    if ($null -ne $m.generated_count) { $generatedCount = [int]$m.generated_count }
+    if ($null -ne $m.failed_count) { $failedCount = [int]$m.failed_count }
     return [pscustomobject]@{
       status = [string]$m.status
-      generated_count = [int]($m.generated_count ?? 0)
-      failed_count = [int]($m.failed_count ?? 0)
+      generated_count = $generatedCount
+      failed_count = $failedCount
     }
   } catch {
     return [pscustomobject]@{ status = "manifest_read_error: $($_.Exception.Message)"; generated_count = 0; failed_count = 0 }
@@ -38,7 +42,10 @@ for ($attempt = 1; $attempt -le $MaxAttempts; $attempt++) {
   $before = Read-ManifestStatus
   "[$(Get-Date -Format s)] Attempt $attempt starting. Before status=$($before.status) generated=$($before.generated_count) failed=$($before.failed_count)" | Add-Content -Path $RunLog -Encoding UTF8
 
-  & $Python $Script 2>&1 | Tee-Object -FilePath $RunLog -Append
+  # Use cmd redirection instead of PowerShell 2>&1 piping so model warnings on
+  # stderr do not become PowerShell RemoteException records or terminate retries.
+  $cmdLine = '"' + $Python + '" "' + $Script + '" 1>> "' + $RunLog + '" 2>&1'
+  & cmd.exe /d /c $cmdLine
   $exitCode = $LASTEXITCODE
 
   $after = Read-ManifestStatus

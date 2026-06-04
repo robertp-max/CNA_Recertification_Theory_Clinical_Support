@@ -1,0 +1,480 @@
+{
+  "run_name": "NATP Module 17: Patient/Resident Abuse — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf",
+  "source_title": "Module 17: Patient/Resident Abuse",
+  "learner_facing_title": "NATP Module 17: Patient/Resident Abuse",
+  "minimum_theory_hours": 6.0,
+  "suggested_theory_hours": 7.0,
+  "recommended_theory_hours": null,
+  "selected_theory_hours": 7.0,
+  "selected_theory_basis": "source suggested theory hours",
+  "theory_minutes_total": 420,
+  "clinical_hours": 0.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to introduce the Nurse Assistant to patient/resident abuse. The module will focus on the nurse assistant role in preventing, recognizing, and reporting instances of patient/resident abuse.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Advance Directive",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Aiding and abetting",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Assault",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Battery",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Choice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Chronic",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Coercion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Confidential",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Defamation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Defamation of character",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Do Not Resuscitate (DNR)/ No",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Ethical standard",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "False imprisonment",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Financial abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Grievances",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "HIPAA",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Informed consent",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Involuntary seclusion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Laws",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Legal standard",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Libel",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Mandated reporter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Neglect",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Negligence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Ombudsman",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 27,
+      "term": "Physical abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 28,
+      "term": "Policy and Procedure",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 29,
+      "term": "Privacy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 30,
+      "term": "Psychological abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 31,
+      "term": "Resident council",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 32,
+      "term": "Restraints",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 33,
+      "term": "Scope of practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 34,
+      "term": "Sexual abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 35,
+      "term": "Slander",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 36,
+      "term": "Social services",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 37,
+      "term": "Theft",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    },
+    {
+      "term_number": 38,
+      "term": "Verbal abuse",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+      "source_excerpt": "Assignments Define key terminology A. Have students select A. Review the terms listed in the terminology section. A. Lecture/Discussion five words from the list B. Spell the listed terms accurately. B. Games: word searches, of key terminology and C. Pronounce the terms correctly. write a sentence for D. Use the terms in their proper context. crossword puzzles, each defining the term. Family Feud, Jeopardy, bingo, spelling bee, B. Administer vocabulary hangman, and pre-test and post-test. concentration. C. Encourage use of C. Uses appropriate internet, medical terminology when dictionary, and charting and reporting to textbooks. licensed personnel. D. Create flashcards. A. Written test",
+      "weighted_minutes": 55,
+      "weight_reason": "Deterministic source-density allocation from source suggested theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Assignments Define key terminology A. Have students select A. Review the terms listed in the terminology section. A. Lecture/Discussion five words from the list B. Spell the listed terms accurately. B. Games: word searches, of key terminology and C. Pronounce the terms correctly. write a sentence for D. Use the terms in their proper context. crossword puzzles, each defining the term. Family Feud, Jeopardy, bingo, spelling bee, B. Administer vocabulary hangman, and pre-test and post-test. concentration. C. Encourage use of C. Uses appropriate internet, medical terminology when dictionary, and charting and reporting to textbooks. licensed personnel. D. Create flashcards. A. Written test",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Identify and discuss types of elder abuse",
+      "exact_objective_statement": "Identify and discuss types of elder abuse",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+      "source_excerpt": "A. Lecture/Discussion B. Class participation Identify and discuss types of elder abuse B. Arrange for tour of a A. Define Abuse long term care facility. 1. An intentional act or failure to act by a caregiver or another C. Arrange for a guest person in a relationship involving an expectation of trust that causes or creates a risk of harm to an older adult who speaker from a long is someone age 60 or older term care facility. 2. A crime and is one or more of the following elements: 1) Willful causing of injury 2) Unreasonable confinement 3) Intimidation, making someone afraid 4) Punishment 5) Refusal of goods or services needed for physical, mental or psychological well-being 3. Can happen to any older person, but often affects those who depend on others for help with activities of everyday life 4. Likely targets are older people who have no family or Module 17: Patient/Resident Abuse problems, cognitive problems, or dementia B. Forms or types of Elder Abuse (National Institute of Aging): 1. Verbal 1) Teasing 2) Profanity 3) Racial slanders 4) Threats 2. Physical 1) Battery: kicking, biting, hitting, shoving, pulling hair 2) Rough handling 3. Psychological (Emotional abuse) 1) Ridiculing or saying hurtful words 2) Ignoring repeatedly 3) Manipulating 4) Yelling at or threatening 4. Involuntary seclusion 1) Isolation 2) Keeping that person from seeing close friends and relatives 5. Abandonment 1) Leaving someone unattended 2) No planning for patient's/resident's care 6. Neglect 1) Failure to provide care that a reasonable person would provide 2) Not answering call light 3) Smel",
+      "weighted_minutes": 92,
+      "weight_reason": "Deterministic source-density allocation from source suggested theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-7",
+      "content_outline": [
+        "Source objective statement: Identify and discuss types of elder abuse",
+        "Source excerpt support: A. Lecture/Discussion B. Class participation Identify and discuss types of elder abuse B. Arrange for tour of a A. Define Abuse long term care facility. 1. An intentional act or failure to act by a caregiver or another C. Arrange for a guest person in a relationship involving an expectation of trust that causes or creates a risk of harm to an older adult who speaker from a long is someone age 60 or older term care facility. 2. A crime and is one or more of the following elements: 1) Willful causing of injury 2) Unreasonable confinement 3) Intimidation, making someone afraid 4) Punishment 5) Refusal of goods or services needed for physical, mental or psychological well-being 3. Can happen to ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "and discuss types of elder abuse — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and discuss types of elder abuse — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and discuss types of elder abuse — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Discuss the issues related to elder abuse",
+      "exact_objective_statement": "Discuss the issues related to elder abuse",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+      "source_excerpt": ": A. Lecture/Discussion A. Written test B. Handout 2.5- Abuse B. Class participation Discuss the issues related to elder abuse Reporting Form- SOC A. Abuse is a crime and is one or more of the following elements: 341 1. Willful causing of injury. C. Video \"Your Legal 2. Unreasonable confinement. Duty: Reporting Elder 3. Intimidation, making someone afraid. and Dependent Adult 4. Punishment. Abuse\" Fax requests 5. Refusal of goods or services needed for physical, mental or psychological well-being. Module 17: Patient/Resident Abuse B. Elder abuse has been: to Bureau of Medi-Cal 1. Poorly or imprecisely defined Fraud and Elder 2. Defined specifically to reflect the unique statutes or conditions Abuse. FAX: 916- present in specific states, counties, or cities 263-2565. 3. Defined specifically for research purposes Downloadable publications from CA C. All states require the reporting of elder abuse or child abuse Attorney General's D. Forms of elder abuse (refer to objective 2) office available at www.safestate.org/publ 1. Physical abuse i cations 2. Verbal abuse D. Bureau of Medi-Cal 3. Involuntary seclusion Fraud and Elder 4. Financial abuse Abuse 5. Psychological abuse (emotional/mental abuse) http://ag.ca.gov/bmfea/ 5. Sexual abuse el der.php 6. Neglect 7. Abandonment 8. Healthcare Fraud D. Recognizing the evidence and observation of elder abuse 1. Living conditions are unsafe, unclean or inadequate 2. Personal hygiene is lacking. 3. Weight loss 4. Frequent injuries 5. Old bruises 6. Quiet and withdrawn attitude 7. Anxious to please caregiver 8. Private conversations not al",
+      "weighted_minutes": 91,
+      "weight_reason": "Deterministic source-density allocation from source suggested theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: Discuss the issues related to elder abuse",
+        "Source excerpt support: : A. Lecture/Discussion A. Written test B. Handout 2.5- Abuse B. Class participation Discuss the issues related to elder abuse Reporting Form- SOC A. Abuse is a crime and is one or more of the following elements: 341 1. Willful causing of injury. C. Video \"Your Legal 2. Unreasonable confinement. Duty: Reporting Elder 3. Intimidation, making someone afraid. and Dependent Adult 4. Punishment. Abuse\" Fax requests 5. Refusal of goods or services needed for physical, mental or psychological well-being. Module 17: Patient/Resident Abuse B. Elder abuse has been: to Bureau of Medi-Cal 1. Poorly or imprecisely defined Fraud and Elder 2. Defined specifically to reflect the unique statutes or condition",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the issues related to elder abuse — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the issues related to elder abuse — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the issues related to elder abuse — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Explain the Nurse Assistant role in preventing elder abuse",
+      "exact_objective_statement": "Explain the Nurse Assistant role in preventing elder abuse",
+      "source_pages": [
+        7,
+        8,
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+      "source_excerpt": "Explain the Nurse Assistant role in recognizing and preventing elder abuse Module 17: Patient/Resident Abuse A. Explain the difference between negligence and abuse A. Lecture/Discussion A. Written test B. Recognize the evidence of elder abuse B. Locate facility policies B. Class participation C. Locate facility policies, 1. Living conditions are unsafe, unclean or inadequate. and procedures and 2. Personal hygiene is lacking. patient/resident rights procedures, and 3. Weight loss documents. patient/resident rights 4. Frequent injuries C. Role-play a situation that documents. 5. Old bruises involves a threat to D. Consistently promotes 6. Quiet and withdrawn attitude patient/resident rights patient/resident rights 7. Anxious to please caregiver 8. Private conversations not allowed 9. Medications not taken properly 10. Frequent Visits to ER, hospital, or clinics 11. May go from one doctor to another C. Explain Nurse Assistant role in preventing abuse 1. Identify combination of individual, relational, community, and societal factors contribute to the risk of abuse 2. Current diagnosis of mental illness 3. Current abuse of alcohol 4. High levels of hostility 5. Poor or inadequate preparation or training for care giving responsibilities 6. Assumption of caregiving responsibilities at an early age 7. Inadequate coping skills 8. Exposure to abuse as a child 9. High financial and emotional dependence upon a vulnerable elder 10. Lack of support 11. Unsympathetic or negative attitudes toward patients/residents 12. Chronic staffing problems 13. Lack of administrative oversight, staff ",
+      "weighted_minutes": 91,
+      "weight_reason": "Deterministic source-density allocation from source suggested theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-7-9",
+      "content_outline": [
+        "Source objective statement: Explain the Nurse Assistant role in preventing elder abuse",
+        "Source excerpt support: Explain the Nurse Assistant role in recognizing and preventing elder abuse Module 17: Patient/Resident Abuse A. Explain the difference between negligence and abuse A. Lecture/Discussion A. Written test B. Recognize the evidence of elder abuse B. Locate facility policies B. Class participation C. Locate facility policies, 1. Living conditions are unsafe, unclean or inadequate. and procedures and 2. Personal hygiene is lacking. patient/resident rights procedures, and 3. Weight loss documents. patient/resident rights 4. Frequent injuries C. Role-play a situation that documents. 5. Old bruises involves a threat to D. Consistently promotes 6. Quiet and withdrawn attitude patient/resident rights p",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant role in preventing elder a — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role in preventing elder a — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role in preventing elder a — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe the Nurse Assistant role in reporting elder abuse",
+      "exact_objective_statement": "Describe the Nurse Assistant role in reporting elder abuse",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+      "source_excerpt": ": and Dependant Adult Abuse\" Fax requests Describe the Nurse Assistant role in reporting elder abuse to Bureau of Medi- Cal Fraud and Elder and/or patients'/residents' rights violations Abuse. FAX: 916- 263-2565. A. Review types of elder abuse and/or patients'/residents' rights Downloadable violations (refer to objective 2 &3) publications from CA Attorney General's B. Reporting office available at 1. Discuss your observations with a licensed nurse and/or other www.safestate.org/pu appropriate personnel bli cations 1) If Nurse Assistant observes the abuse incident, the Nurse Assistant is responsible for reporting; mandated D. Bureau of Medi-Cal reporter Fraud and Elder 2) LVN or RN may assist the Nurse Assistant in completing Abuse mandated forms and in submitting required forms to http://ag.ca.gov/bmfea reporting agencies /el der.php 2. Report observations as a mandated reporter, following federal mandate for reporting suspected or actual elder abuse and/or E. Red Flags of Abuse patients'/residents' rights violations located at 3. Follow agency policies regarding abuse reporting https://ncea.acl.gov/N 4. Follow up on reported incident with licensed personnel CEA/media/docs/Red- 5. Reporting Resources Flags-of-Elder-Abuse- 1) Adult Protective Services (APS) English.pdf 2) Long-Term Care Ombudsmen 3) Eldercare Locator 4) National Center on Elder Abuse (NCEA) Module 17: Patient/Resident Abuse",
+      "weighted_minutes": 91,
+      "weight_reason": "Deterministic source-density allocation from source suggested theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-10",
+      "content_outline": [
+        "Source objective statement: Describe the Nurse Assistant role in reporting elder abuse",
+        "Source excerpt support: : and Dependant Adult Abuse\" Fax requests Describe the Nurse Assistant role in reporting elder abuse to Bureau of Medi- Cal Fraud and Elder and/or patients'/residents' rights violations Abuse. FAX: 916- 263-2565. A. Review types of elder abuse and/or patients'/residents' rights Downloadable violations (refer to objective 2 &3) publications from CA Attorney General's B. Reporting office available at 1. Discuss your observations with a licensed nurse and/or other www.safestate.org/pu appropriate personnel bli cations 1) If Nurse Assistant observes the abuse incident, the Nurse Assistant is responsible for reporting; mandated D. Bureau of Medi-Cal reporter Fraud and Elder 2) LVN or RN may assis",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant role in reporting elder ab — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role in reporting elder ab — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role in reporting elder ab — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 17 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 17 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 5,
+    "terminology_count": 38,
+    "weighted_minutes_total": 420,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

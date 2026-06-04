@@ -1,0 +1,447 @@
+{
+  "run_name": "NATP Module 7: Weights and Measures — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf",
+  "source_title": "Module 7: Weights and Measures",
+  "learner_facing_title": "NATP Module 7: Weights and Measures",
+  "minimum_theory_hours": 1.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": 1.0,
+  "selected_theory_hours": 1.0,
+  "selected_theory_basis": "source recommended theory hours",
+  "theory_minutes_total": 60,
+  "clinical_hours": 1.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to introduce a measuring system for weight, length, and volume used by nursing assistant in the clinical setting.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Centimeter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Fluid ounce (fl oz.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Foot (ft.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Gallon (gal)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Gram",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Greenwich",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Household system",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Inch (in)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Kilogram (Kg)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Liter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Meter (M)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Metric system",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Military time (or international time)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Milliliter (ml)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Millimeter (mm)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Ounce (oz.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Pint (pt.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Pound (lb.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Quart",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Tablespoon (Tbsp.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Teaspoon (tsp.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Yard (yd.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "source_excerpt": "Strategies and Method of Evaluation Define Key Terminology. Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select C. Pronounce the terms correctly B. Games: word searches, five words from the list D. Use the terms in their proper context of key terminology and crossword puzzles, write a sentence for",
+      "weighted_minutes": 6,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Strategies and Method of Evaluation Define Key Terminology. Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select C. Pronounce the terms correctly B. Games: word searches, five words from the list D. Use the terms in their proper context of key terminology and crossword puzzles, write a sentence for",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Identify units of measurement used in the household and metric systems for weight, length, and volume",
+      "exact_objective_statement": "Identify units of measurement used in the household and metric systems for weight, length, and volume",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+      "source_excerpt": ": Family Feud, Jeopardy, each defining the term Identify units of measurement used in the household and metric bingo, spelling bee, systems for weight, height, and volume. hangman, and B. Administer vocabulary A. U.S. Customary weights and measurements (household) concentration pre-test and post-test C. Encourage use of 1. Weight � ounce (oz) and pound (lb) internet, medical C. Uses appropriate 2. Length � inch (in), feet (ft), yard (yd), mile (mi) dictionary, and terminology when 3. Volume � fluid ounce (fl oz), pint (pt), quart (qt), gallon (gal), textbooks charting and reporting to D. Create flashcards licensed personnel teaspoon (tsp), tablespoon (Tbsp) E. Handout 7.1a- Weights B. International weights and measurements (metric) and Measures Crossword 1. Weight - gram (gm), kilogram (kg) F. Handout 7.1b- Weights 2. Length - millimeter (mm), centimeter (cm), meter (M) and Measures 3. Volume - milliliter (ml), liter (L) Crossword- KEY A. Lecture/Discussion A. Written test B. Flash cards of terms and B. Correctly identify metric abbreviations and household C. Show examples of measuring equipment and the units of measure equipment used to for each measure weight, length, and volume Module 7- Weights and Measures",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Identify units of measurement used in the household and metric systems for weight, length, and volume",
+        "Source excerpt support: : Family Feud, Jeopardy, each defining the term Identify units of measurement used in the household and metric bingo, spelling bee, systems for weight, height, and volume. hangman, and B. Administer vocabulary A. U.S. Customary weights and measurements (household) concentration pre-test and post-test C. Encourage use of 1. Weight � ounce (oz) and pound (lb) internet, medical C. Uses appropriate 2. Length � inch (in), feet (ft), yard (yd), mile (mi) dictionary, and terminology when 3. Volume � fluid ounce (fl oz), pint (pt), quart (qt), gallon (gal), textbooks charting and reporting to D. Create flashcards licensed personnel teaspoon (tsp), tablespoon (Tbsp) E. Handout 7.1a- Weights B. Intern",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "units of measurement used in the household and — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "units of measurement used in the household and — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "units of measurement used in the household and — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume",
+      "exact_objective_statement": "Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+      "source_excerpt": ": A. Lecture/Discussion A. Written test Identify and describe equipment commonly used by the Nurse B. Show examples of B. Correctly identify metric Assistant for measuring weight, length, and volume (see module 8). equipment used to and household A. Volume measuring equipment measure weight, length, measuring equipment and volume and the units of measure 1. Graduated cylinders (metric and household) for each a. Marked with lines and numbers b. Usually marked in ounces and milliliters c. Measuring cups and spoons (household) d. Serving containers B. Length measuring equipment 1. Yardstick 2. Tape measure 3. Standing scale with measuring rod a. Marked in fractions of inches, feet b. Marked in centimeters C. Weight measuring equipment 1. Scales a. Marked in ounces, pounds, grams, and kilograms b. Can be electronic or digital 2. Types of scales a. Standing 1) Used for patient/resident who can stand unassisted and not hold onto scale 2) Patient/resident must be steady on feet b. Wheelchair 1) Used for patient/resident who cannot stand unassisted 2) Weigh unoccupied wheelchair, then weigh patient/resident in wheelchair and subtract wheelchair weight from total weight c. Mechanical lift 1) Cloth sling to hold patient/resident and a hydraulic lift to raise and lower 2) Weigh sling and any linen first, then subtract sling/linens from total weight Module 7- Weights and Measures d. Bed scale 1) Used for patient/resident who is on bed rest or unable to be in a chair or ambulate 2) Weigh any linens first then subtract linens from total weight 3) Patient's/resident's body must not be tou",
+      "weighted_minutes": 15,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: Identify and describe equipment commonly used by the Nurse Assistant for measuring weight, length, height, and volume",
+        "Source excerpt support: : A. Lecture/Discussion A. Written test Identify and describe equipment commonly used by the Nurse B. Show examples of B. Correctly identify metric Assistant for measuring weight, length, and volume (see module 8). equipment used to and household A. Volume measuring equipment measure weight, length, measuring equipment and volume and the units of measure 1. Graduated cylinders (metric and household) for each a. Marked with lines and numbers b. Usually marked in ounces and milliliters c. Measuring cups and spoons (household) d. Serving containers B. Length measuring equipment 1. Yardstick 2. Tape measure 3. Standing scale with measuring rod a. Marked in fractions of inches, feet b. Marked in ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "and describe equipment commonly used by the Nu — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and describe equipment commonly used by the Nu — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and describe equipment commonly used by the Nu — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Convert common measurements between the household and metric systems",
+      "exact_objective_statement": "Convert common measurements between the household and metric systems",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+      "source_excerpt": ": A. Lecture/Discussion A. Written test Convert common measurements between the household and B. Handout 7.4- Lab B. Identify instances in metric systems. A. Weight (wt) Activity Practice which conversion Worksheet between household and 1 Kg = 2.2 pounds (lb) C. Have students make metric systems is B. Length flashcards of equivalents required and additional 1 inch = 2.5 centimeters (cm) abbreviations C. Volume D. Assign workbook exercises for homework 1. 1 ounce = 30 milliliters (ml) 2. 1 cup = 240 ml = 8 ounce (oz) 3. 1 pint = 500 ml 4. 1 quart = 1000 ml = 1 liter (L) 5. 1 teaspoon (tsp) = 5ml 6. 1 tablespoon (Tbsp) = 15 ml",
+      "weighted_minutes": 6,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: Convert common measurements between the household and metric systems",
+        "Source excerpt support: : A. Lecture/Discussion A. Written test Convert common measurements between the household and B. Handout 7.4- Lab B. Identify instances in metric systems. A. Weight (wt) Activity Practice which conversion Worksheet between household and 1 Kg = 2.2 pounds (lb) C. Have students make metric systems is B. Length flashcards of equivalents required and additional 1 inch = 2.5 centimeters (cm) abbreviations C. Volume D. Assign workbook exercises for homework 1. 1 ounce = 30 milliliters (ml) 2. 1 cup = 240 ml = 8 ounce (oz) 3. 1 pint = 500 ml 4. 1 quart = 1000 ml = 1 liter (L) 5. 1 teaspoon (tsp) = 5ml 6. 1 tablespoon (Tbsp) = 15 ml",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Convert common measurements between the househ — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Convert common measurements between the househ — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Convert common measurements between the househ — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Measure and record weight, height, and volume using the metric and household systems",
+      "exact_objective_statement": "Measure and record weight, height, and volume using the metric and household systems",
+      "source_pages": [
+        6,
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+      "source_excerpt": ": A. Lecture/Discussion A. Written test Measure and record weight, length, and volume using metric B. Handout 7.5- Fluid B. Record accurately all and household systems. A. Procedure for measuring weight on a standing scale Measurement Lab measurements on Activity appropriate facility 1. Prior to beginning procedure, make sure the scale is balanced C. Provide sample trays to forms at zero 2. Place paper towel on platform 3. Help patient/resident step onto center of the scale Module 7- Weights and Measures calculate fluid intake 4. Read the scale when in balance to the nearest quarter pound D. Correctly measure and (or tenth of kilogram) record weight of two classmates using two 5. Help patient/resident off the scale different types of scales 6. Clean and return equipment E. Correctly measure height of two 7. Record measurement using correct abbreviation for unit of classmates, one measurement standing and one simulating contractures B. Procedure for measuring length F. Manual Skills 7.5a- 1. Length is also measured as height Measures and Records Weight of Ambulatory 2. A measuring tape can be used for a patient/resident who is Patient/resident stooped, contracted, or in bed a. Measure all segments b. Add all measurements together to find total height 3. Measuring a patient's/resident's height using an upright scale G. Manual Skills 7.5b- a. Assist the patient/resident to remove their slippers Weighing the b. Raise the height rod on the upright scale Patient/resident in Bed c. Assist the patient/resident to stand on the scale platform, H. Manual Skills 7.5c- d. arms at sides ",
+      "weighted_minutes": 15,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-6-7",
+      "content_outline": [
+        "Source objective statement: Measure and record weight, height, and volume using the metric and household systems",
+        "Source excerpt support: : A. Lecture/Discussion A. Written test Measure and record weight, length, and volume using metric B. Handout 7.5- Fluid B. Record accurately all and household systems. A. Procedure for measuring weight on a standing scale Measurement Lab measurements on Activity appropriate facility 1. Prior to beginning procedure, make sure the scale is balanced C. Provide sample trays to forms at zero 2. Place paper towel on platform 3. Help patient/resident step onto center of the scale Module 7- Weights and Measures calculate fluid intake 4. Read the scale when in balance to the nearest quarter pound D. Correctly measure and (or tenth of kilogram) record weight of two classmates using two 5. Help patien",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Measure and record weight, height, and volume — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Measure and record weight, height, and volume — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Measure and record weight, height, and volume — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures",
+      "exact_objective_statement": "Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures",
+      "source_pages": [
+        8
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+      "source_excerpt": "Convert between standard time and military time (24-hour clock) A. Systems of telling time 1. Standard a. A.M. = morning, midnight to noon b. P.M. = evening, noon to midnight B. Military (24-hour clock) 1. Four digits 2. No colons 3. Do not use A.M. or P.M. 4. Starts one minute after midnight (0001) and ends at midnight 24 hours later (2400) 5. 5. Noon is 1200 Module 7- Weights and Measures",
+      "weighted_minutes": 6,
+      "weight_reason": "Deterministic source-density allocation from source recommended theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-8",
+      "content_outline": [
+        "Source objective statement: Convert between standard time and military time (24 hour clock) Module 7- Weights and Measures",
+        "Source excerpt support: Convert between standard time and military time (24-hour clock) A. Systems of telling time 1. Standard a. A.M. = morning, midnight to noon b. P.M. = evening, noon to midnight B. Military (24-hour clock) 1. Four digits 2. No colons 3. Do not use A.M. or P.M. 4. Starts one minute after midnight (0001) and ends at midnight 24 hours later (2400) 5. 5. Noon is 1200 Module 7- Weights and Measures",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Convert between standard time and military tim — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Convert between standard time and military tim — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Convert between standard time and military tim — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 7 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 7 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-7.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 6,
+    "terminology_count": 22,
+    "weighted_minutes_total": 60,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

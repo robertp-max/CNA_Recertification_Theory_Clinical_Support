@@ -1,0 +1,850 @@
+{
+  "run_name": "NATP Module 14: Rehabilitative Nursing — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf",
+  "source_title": "Module 14: Rehabilitative Nursing",
+  "learner_facing_title": "NATP Module 14: Rehabilitative Nursing",
+  "minimum_theory_hours": 2.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": null,
+  "selected_theory_hours": 2.0,
+  "selected_theory_basis": "source minimum theory hours",
+  "theory_minutes_total": 120,
+  "clinical_hours": 4.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to introduce the Nurse Assistant to restorative care. Each individual is entitled to reach his/her optimal level of functioning. The Nurse Assistant assists the patient/resident in achieving maximum independent living skills through use of rehabilitative or restorative procedures.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Active-assistive range of motion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Active range of motion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Activities of daily living (ADL)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Adaptive",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Airbed (Kinair, Clinitron, Hill-Rom)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Alternating pressure mattress",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Ambulation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Atrophy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Bed cradle",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Cast",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Contractures",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Decline (ORIF)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Decubitus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Disability",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Egg-crate mattress",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Embolism",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Eversion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "IDT-Interdisciplinary team",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Heel/elbow protector",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Fleece pad",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Flotation pads",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Foot board",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Hemiplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Independence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Inversion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Joint",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 27,
+      "term": "Open Reduction Internal Fixation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 28,
+      "term": "Paralysis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 29,
+      "term": "Paraplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 30,
+      "term": "Passive range of motion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 31,
+      "term": "Phlebitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 32,
+      "term": "Pneumonia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 33,
+      "term": "Pressure ulcers",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 34,
+      "term": "Prosthesis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 35,
+      "term": "Quadriplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 36,
+      "term": "Range of Motion (ROM)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 37,
+      "term": "Restorative care/rehabilitation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 38,
+      "term": "Risk factors",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 39,
+      "term": "Self-care activities",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 40,
+      "term": "Stasis pneumonia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 41,
+      "term": "Thrombophlebitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 42,
+      "term": "Traction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 43,
+      "term": "Trochanter rolls",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 44,
+      "term": "Turn, cough, deep breathe (TCDB)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    },
+    {
+      "term_number": 45,
+      "term": "Water bed",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "source_excerpt": "Define key terminology. Recommended Teaching Clinical Demonstration/ A. Review the terms listed in the terminology section Strategies and Assignments Method of Evaluation B. Spell the listed terms accurately C. Pronounce the terms correctly A. Lecture/Discussion A. Have students select D. Use the terms in their proper context B. Games: word searches, five words from the list of key terminology and",
+      "weighted_minutes": 5,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Define key terminology. Recommended Teaching Clinical Demonstration/ A. Review the terms listed in the terminology section Strategies and Assignments Method of Evaluation B. Spell the listed terms accurately C. Pronounce the terms correctly A. Lecture/Discussion A. Have students select D. Use the terms in their proper context B. Games: word searches, five words from the list of key terminology and",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential",
+      "exact_objective_statement": "Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+      "source_excerpt": "crossword puzzles, Family write a sentence for Discuss rehabilitation (restorative care) and how it promotes Feud, Jeopardy, bingo, each defining the term independence and patient/resident potential. spelling bee, hangman, A. Disability is a physical and/or mental condition which interferes and concentration B. Administer vocabulary C. Encourage use of internet, pre-test and post-test with meeting basic human needs medical dictionary, and B. Effects of disability related to Maslow's hierarchy textbooks C. Uses appropriate D. Create flashcards for terminology when 1. Feelings of loss learning purposes charting and reporting 2. Damage to self-image E. Handout 14.1a- to licensed personnel 3. Loss of self-esteem Rehabilitative and C. Restorative/rehab care helps disabled individuals return to their Restorative Care Crossword F. Handout 14.1b- Rehabilitative and Restorative Care Crossword � KEY A. Lecture A. Written test B. Discussion B. Class Participation C. Guest speaker on rehab Module 14- Rehabilitative Nursing highest possible level of physical and psychological functioning; A. Lecture A. Written test promotes independence B. Discussion B. Promotes 1. Helps patient/resident adjust to the disability 2. Emphasizes abilities � learn new skills and retain old skills patient's/resident's 3. Prevention of deterioration � leading to decline in condition independence in self- 4. Prevents complications � rehab begins when care activities patient/resident first enters facility A. Lecture A. Written test 5. Identify risk factors contributing to disability B. Discussion B. Provides C.",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential",
+        "Source excerpt support: crossword puzzles, Family write a sentence for Discuss rehabilitation (restorative care) and how it promotes Feud, Jeopardy, bingo, each defining the term independence and patient/resident potential. spelling bee, hangman, A. Disability is a physical and/or mental condition which interferes and concentration B. Administer vocabulary C. Encourage use of internet, pre-test and post-test with meeting basic human needs medical dictionary, and B. Effects of disability related to Maslow's hierarchy textbooks C. Uses appropriate D. Create flashcards for terminology when 1. Feelings of loss learning purposes charting and reporting 2. Damage to self-image E. Handout 14.1a- to licensed personnel 3. Lo",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "rehabilitation (restorative care) and how it p — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "rehabilitation (restorative care) and how it p — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "rehabilitation (restorative care) and how it p — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "State goals of restorative care that promote independence and patient/resident potential",
+      "exact_objective_statement": "State goals of restorative care that promote independence and patient/resident potential",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "source_excerpt": "patient/resident care State goals of restorative care that promote independence and from a rehab facility consistent with patient/resident potential. D. Show examples of rehabilitation efforts A. Physical goals of rehabilitation/restorative care and ADLs patient/resident 1. Maintain present level of function rehabilitation plan 2. Improve/restore physical function E. Participate in 3. Encourage independence and performance of self-care patient/resident care activities conference B. Psychosocial goals of rehabilitation/restorative care 1. Adjust to psychosocial effects of disability 2. Recognizes small and simple accomplishments a. Social service referrals b. Job skill development",
+      "weighted_minutes": 8,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: State goals of restorative care that promote independence and patient/resident potential",
+        "Source excerpt support: patient/resident care State goals of restorative care that promote independence and from a rehab facility consistent with patient/resident potential. D. Show examples of rehabilitation efforts A. Physical goals of rehabilitation/restorative care and ADLs patient/resident 1. Maintain present level of function rehabilitation plan 2. Improve/restore physical function E. Participate in 3. Encourage independence and performance of self-care patient/resident care activities conference B. Psychosocial goals of rehabilitation/restorative care 1. Adjust to psychosocial effects of disability 2. Recognizes small and simple accomplishments a. Social service referrals b. Job skill development",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "goals of restorative care that promote indepen — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "goals of restorative care that promote indepen — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "goals of restorative care that promote indepen — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team",
+      "exact_objective_statement": "Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team",
+      "source_pages": [
+        5
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+      "source_excerpt": "Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. A. Rehabilitation team 1. Rehabilitation is a skilled care provided by licensed therapy staff and their assistants 2. Members a. Patient/resident b. Family members c. Nurse Assistant d. Licensed nursing staff e. Physical Therapist f. Occupational Therapist A. Lecture Module 14- Rehabilitative Nursing g. Speech Therapist B. Discussion h. Physician A. Written test i. Activity Leader B. Demonstrates j. Social Worker k. Clergy consistent application l. Dietitian of Nurse Assistant B. Purpose of rehabilitation responsibilities in 1. Discuss and evaluate patient's/resident's level of functioning promoting self-care 2. Establish patient's/resident's care plan and goals for rehabilitation 3. Evaluate progress and adjust plan of care to achieve patient's/resident's goals with a greater degree of patient/resident independence 4. Restore the patient/resident to his/her optimal level of functioning C. Nurse Assistant responsibilities as a member of the rehabilitation team 1. Participate in patient/resident care planning conferences 2. Observe and report patient's/resident's responses to care 3. Follow the patient's/resident's care plan 4. Encourage the patient/resident to follow the rehabilitation plan 5. Observe and report early signs and symptoms of complications",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-5",
+      "content_outline": [
+        "Source objective statement: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team",
+        "Source excerpt support: Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team. A. Rehabilitation team 1. Rehabilitation is a skilled care provided by licensed therapy staff and their assistants 2. Members a. Patient/resident b. Family members c. Nurse Assistant d. Licensed nursing staff e. Physical Therapist f. Occupational Therapist A. Lecture Module 14- Rehabilitative Nursing g. Speech Therapist B. Discussion h. Physician A. Written test i. Activity Leader B. Demonstrates j. Social Worker k. Clergy consistent application l. Dietitian of Nurse Assistant B. Purpose of rehabilitation responsibilities in 1. Discuss and evaluate patient's/resident's le",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the rehabilitation team, state its purpose, an — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the rehabilitation team, state its purpose, an — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the rehabilitation team, state its purpose, an — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "List the responsibilities of the Nurse Assistant in promoting patient/resident self-care",
+      "exact_objective_statement": "List the responsibilities of the Nurse Assistant in promoting patient/resident self-care",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+      "source_excerpt": "List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. A. Protect patient's/resident's rights B. Ensure safety and privacy C. Communicate therapeutically � ask patient's/residents' opinions and let them have control D. Adhere to legal and ethical principles E. Follow instructions of immediate supervisor and plan of care Module 14- Rehabilitative Nursing F. Report significant changes in patient/resident condition A. Lecture A. Written test G. Practice appropriate and effective nursing care B. Discussion B. Assist H. Implement rehabilitative measures as ordered, i.e., ROM, training C. Clinical observation patients/residents in plan for patient/resident self-care performing ADLs as I. Encourage patient/resident independence � praise necessary even small accomplishments A. Lecture A. Written test J. Provide emotional support and reassurance B. Discussion B. Uses adaptive/comfort K. Follow the documentation guidelines C. Demonstrate devices L. Concentrate on patient's/resident's abilities D. Catalogs from medical devices appropriately M. Use equipment and devices appropriately (cast, prosthesis, stores to show pictures walker, cane, wedge for post open reduction internal fixation � hip E. Role play students surgery) N. Protect patient/resident from abuse",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care",
+        "Source excerpt support: List the responsibilities of the Nurse Assistant in promoting patient/resident self-care. A. Protect patient's/resident's rights B. Ensure safety and privacy C. Communicate therapeutically � ask patient's/residents' opinions and let them have control D. Adhere to legal and ethical principles E. Follow instructions of immediate supervisor and plan of care Module 14- Rehabilitative Nursing F. Report significant changes in patient/resident condition A. Lecture A. Written test G. Practice appropriate and effective nursing care B. Discussion B. Assist H. Implement rehabilitative measures as ordered, i.e., ROM, training C. Clinical observation patients/residents in plan for patient/resident self-c",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the responsibilities of the Nurse Assistant in — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the responsibilities of the Nurse Assistant in — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the responsibilities of the Nurse Assistant in — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "List activities that make up Activities of Daily Living (ADLs)",
+      "exact_objective_statement": "List activities that make up Activities of Daily Living (ADLs)",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "source_excerpt": "List activities that make up Activities of Daily Living (ADLs). A. Daily hygiene, grooming, eating, and self-care activities necessary for normal functioning in society B. Examples: 1. Grooming 2. Dressing 3. Eating 4. Hygiene 5. Elimination � bowel and bladder 6. Mobility/ambulation 7. Self-turning and positioning",
+      "weighted_minutes": 3,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-7",
+      "content_outline": [
+        "Source objective statement: List activities that make up Activities of Daily Living (ADLs)",
+        "Source excerpt support: List activities that make up Activities of Daily Living (ADLs). A. Daily hygiene, grooming, eating, and self-care activities necessary for normal functioning in society B. Examples: 1. Grooming 2. Dressing 3. Eating 4. Hygiene 5. Elimination � bowel and bladder 6. Mobility/ambulation 7. Self-turning and positioning",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "activities that make up Activities of Daily Li — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "activities that make up Activities of Daily Li — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "activities that make up Activities of Daily Li — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "List common comfort and adaptive devices and explain the purposes of each",
+      "exact_objective_statement": "List common comfort and adaptive devices and explain the purposes of each",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+      "source_excerpt": "List common comfort and adaptive devices and explain the purposes of each. A. Comfort devices and their purposes: 1. Footboard; prevents plantar flexion 2. Trochanter roll; prevents external rotation and pressure sores 3. Hard splint; prevents contractures 4. Bed cradle; prevents foot drop Module 14- Rehabilitative Nursing 5. Trapeze; strengthens muscles and facilitates movement assisting disabled persons with adaptive devices 6. Sheepskin; avoids friction, skin breakdown F. Return demonstration on range-of-motion manual 7. Heel/elbow protectors; protect against friction, skin breakdown skills and care of casts G. Manual Skills 14.7- 8. Flotation pads, egg crate mattress, water bed, alternating Providing Cast Care pressure mattress; Clinitron bed protects pressure points, prevents skin breakdown 9. Pillows and boosters; provide support, positioning, and prevent contractures 10. Cast/traction; keep the affected site in proper alignment, prevent complication B. Adaptive/self-help devices � their purpose and use: 1. Cuffed or swivel-handled utensils, plate guards or holders eating utensils 2. Long-handled combs/brushes, button hooks, sock puller, specially designed clothing; hygiene and grooming aides 3. Reachers, telephone holder, communication boards; promote independence 4. Artificial limbs, application, care and removal 5. Casts and splints; immobilization, alignment, and support, cast care",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-7",
+      "content_outline": [
+        "Source objective statement: List common comfort and adaptive devices and explain the purposes of each",
+        "Source excerpt support: List common comfort and adaptive devices and explain the purposes of each. A. Comfort devices and their purposes: 1. Footboard; prevents plantar flexion 2. Trochanter roll; prevents external rotation and pressure sores 3. Hard splint; prevents contractures 4. Bed cradle; prevents foot drop Module 14- Rehabilitative Nursing 5. Trapeze; strengthens muscles and facilitates movement assisting disabled persons with adaptive devices 6. Sheepskin; avoids friction, skin breakdown F. Return demonstration on range-of-motion manual 7. Heel/elbow protectors; protect against friction, skin breakdown skills and care of casts G. Manual Skills 14.7- 8. Flotation pads, egg crate mattress, water bed, alternat",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "common comfort and adaptive devices and explai — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common comfort and adaptive devices and explai — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common comfort and adaptive devices and explai — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "Identify steps to prevent complications from inactivity",
+      "exact_objective_statement": "Identify steps to prevent complications from inactivity",
+      "source_pages": [
+        8,
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+      "source_excerpt": "A. Lecture A. Written test Identify steps to prevent complications from inactivity. B. Discussion B. Uses appropriate A. Complications methods to prevent 1. Types: complications from a. Neurological (stress, depression, changes in behavior, inactivity sleep disturbances) b. Respiratory (stasis pneumonia or atelectasis) c. Circulatory 1) Thrombophlebitis 2) Pulmonary embolism d. Musculo-skeletal 1) Contractures � are permanent 2) Osteoporosis � demineralization due to lack of weight bearing 3) Muscle atrophy Module 14- Rehabilitative Nursing e. Integumentary (pressure sores) f. Gastro-intestinal (constipation and decrease of appetite) g. Genito-urinary (kidney stones, urinary tract infection) h. Psychosocial (loneliness, depression) 2. Causes: a. Bed rest b. Prolonged illness c. Immobility due to injury d. Surgery B. Preventive methods 1. Turning/repositioning 2. TCDB (turn, cough, and deep-breathing exercises) 3. Body alignment 4. Range of motion 5. Supportive devices 6. Skin care 7. Encouraging patient/resident independence 8. Toileting 9. Bowel and bladder training 10. Elastic stockings 11. Ambulation is best a. Maintains muscles and bones; moves joints b. Reduces pressure on the skin c. Increases circulation d. Increases respiratory and heart function e. Improves bowel function and promotes emptying of bladder f. Promotes independence and self-esteem g. If patient/resident cannot walk, at least stand, or transfer them to a chair Module 14- Rehabilitative Nursing",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-8-9",
+      "content_outline": [
+        "Source objective statement: Identify steps to prevent complications from inactivity",
+        "Source excerpt support: A. Lecture A. Written test Identify steps to prevent complications from inactivity. B. Discussion B. Uses appropriate A. Complications methods to prevent 1. Types: complications from a. Neurological (stress, depression, changes in behavior, inactivity sleep disturbances) b. Respiratory (stasis pneumonia or atelectasis) c. Circulatory 1) Thrombophlebitis 2) Pulmonary embolism d. Musculo-skeletal 1) Contractures � are permanent 2) Osteoporosis � demineralization due to lack of weight bearing 3) Muscle atrophy Module 14- Rehabilitative Nursing e. Integumentary (pressure sores) f. Gastro-intestinal (constipation and decrease of appetite) g. Genito-urinary (kidney stones, urinary tract infection)",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "steps to prevent complications from inactivity — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "steps to prevent complications from inactivity — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "steps to prevent complications from inactivity — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#pages-8-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "Describe range-of-motion exercises (ROM)",
+      "exact_objective_statement": "Describe range-of-motion exercises (ROM)",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+      "source_excerpt": "A. Lecture A. Written test Describe range-of-motion exercises (ROM). B. Discussion B. Performs basic range A. Range of motion is movement of joints through their normal range C. Demonstrate ROM; active of motion exercises of movement to the point of resistance or discomfort and passive correctly B. Purpose D. Manual Skills 14.9a - 1. Maintain muscle strength Range of Motion 2. Stimulate circulation exercises 3. Maintain body alignment and make positioning easier E. Manual Skills 14.9b - 4. Prevent thrombophlebitis Performs passive range of 5. Prevent contractures motion - PROM for one C. Frequency knee and one ankle 1. At least three times each day with at least three repetitions of F. Manual skills 14.9c - Passive range of motion- each movement of the joint PROM for one shoulder 2. As indicated in the care plan D. Technique 1. Active ROM a. Best b. Patient/resident moves own joints through their normal range of movement c. Maintains muscle 2. Passive ROM a. Nurse Assistant moves the patient's/resident's joints through their normal range of movement to the point of resistance or discomfort b. Still gets muscle atrophy 3. Active assistive ROM - the Nurse Assistant helps the patient/resident move his/her joints through their normal range of movement to the point of resistance or discomfort or the patient/resident uses a resistive device E. General rules to avoid injury 1. Exercise joint correctly 2. Avoid unnecessary exposure of patient/resident 3. Use good body mechanics Module 14- Rehabilitative Nursing 4. Fully support each extremity A. Lecture A. Written test 5. Move join",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-10",
+      "content_outline": [
+        "Source objective statement: Describe range-of-motion exercises (ROM)",
+        "Source excerpt support: A. Lecture A. Written test Describe range-of-motion exercises (ROM). B. Discussion B. Performs basic range A. Range of motion is movement of joints through their normal range C. Demonstrate ROM; active of motion exercises of movement to the point of resistance or discomfort and passive correctly B. Purpose D. Manual Skills 14.9a - 1. Maintain muscle strength Range of Motion 2. Stimulate circulation exercises 3. Maintain body alignment and make positioning easier E. Manual Skills 14.9b - 4. Prevent thrombophlebitis Performs passive range of 5. Prevent contractures motion - PROM for one C. Frequency knee and one ankle 1. At least three times each day with at least three repetitions of F. Manua",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "range-of-motion exercises (ROM) — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "range-of-motion exercises (ROM) — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "range-of-motion exercises (ROM) — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment",
+      "exact_objective_statement": "Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment",
+      "source_pages": [
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+      "source_excerpt": "would help them Identify procedures and devices used to promote mobility and D. Demo, practice ambulation for patients/residents with physical and/or visual E. Review video showing impairment. techniques as needed A. Things to check to determine if patient/resident can be more independent 1. Physical strength and ability 2. Available special training 3. Assistive devices 4. Financial resources 5. Cognitive ability 6. Motivation B. Procedures 1. Transfer techniques � review from Module 5 a. Follow facility policy on lifting and transferring b. Patient/resident weight above 100 lbs. requires two person assists c. Patient/resident with osteoporosis should be transferred using manual team lift 2. Gait training 3. Training in self-transfer techniques 4. Use of gait belt for ambulation 5. Check to see if the patient/resident can sit unassisted and steadily, as well as stand a few seconds alone C. Assistive devices 1. Cane 2. Walker 3. Wheelchair 4. Transfer board A. Lecture Module 14- Rehabilitative Nursing 5. Braces, splints, and prostheses B. Discussion 6. Service animals (Seeing Eye and Hearing Ear dogs) A. Written test 7. Braille B. Practices consistent, 8. Modifications to accommodate wheelchair access 9. Disabled parking effective therapeutic D. Care and use of adaptive, assistive, and orthotic devices communication with patients/residents",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-11",
+      "content_outline": [
+        "Source objective statement: Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment",
+        "Source excerpt support: would help them Identify procedures and devices used to promote mobility and D. Demo, practice ambulation for patients/residents with physical and/or visual E. Review video showing impairment. techniques as needed A. Things to check to determine if patient/resident can be more independent 1. Physical strength and ability 2. Available special training 3. Assistive devices 4. Financial resources 5. Cognitive ability 6. Motivation B. Procedures 1. Transfer techniques � review from Module 5 a. Follow facility policy on lifting and transferring b. Patient/resident weight above 100 lbs. requires two person assists c. Patient/resident with osteoporosis should be transferred using manual team lift 2",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "procedures and devices used to promote mobilit — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedures and devices used to promote mobilit — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedures and devices used to promote mobilit — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Discuss relationship between patient's/resident's self-esteem and family involvement in care",
+      "exact_objective_statement": "Discuss relationship between patient's/resident's self-esteem and family involvement in care",
+      "source_pages": [
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "source_excerpt": "and their families Discuss relationship between patient's/resident's self-esteem and family involvement in care. A. Written test A. Basic needs as defined by Maslow which can be met by involving B. Assist student to the patient/resident and his/her family in developing and participating in the plan of restorative care 1. Love/belonging/affiliation needs 2. The need for self-esteem 3. The need for self-actualization B. Methods of assisting the patient/resident to meet these needs � therapeutic communication 1. Promote interaction between the patient/resident, the family, and the rehabilitation team 2. Treat the patient/resident and family with respect and dignity 3. Be supportive of the patient/resident and his/her family and use praise as appropriate to reinforce progress 4. Encourage patient/resident independence 5. Use a positive approach to restorative plan",
+      "weighted_minutes": 8,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-12",
+      "content_outline": [
+        "Source objective statement: Discuss relationship between patient's/resident's self-esteem and family involvement in care",
+        "Source excerpt support: and their families Discuss relationship between patient's/resident's self-esteem and family involvement in care. A. Written test A. Basic needs as defined by Maslow which can be met by involving B. Assist student to the patient/resident and his/her family in developing and participating in the plan of restorative care 1. Love/belonging/affiliation needs 2. The need for self-esteem 3. The need for self-actualization B. Methods of assisting the patient/resident to meet these needs � therapeutic communication 1. Promote interaction between the patient/resident, the family, and the rehabilitation team 2. Treat the patient/resident and family with respect and dignity 3. Be supportive of the patie",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "relationship between patient's/resident's self — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "relationship between patient's/resident's self — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "relationship between patient's/resident's self — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Discuss the process of documentation and the Nurse Assistant role in care plan meeting",
+      "exact_objective_statement": "Discuss the process of documentation and the Nurse Assistant role in care plan meeting",
+      "source_pages": [
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+      "source_excerpt": "A. Lecture Discuss the process of documentation and the Nurse Assistant B. Discussion role in care plan meeting. A. Nurse Assistant helps the team members in completing the Patient/resident Assessment Instrument (RAI) as mandated by federal government Module 14- Rehabilitative Nursing B. RAI consist of three parts: C. Sample minimum data set review the 1. Minimum Data Set 3.0 (MDS 3.0) � assessment tool 3.0 Form patient/resident 2. Triggers � condition that identifies problem (risk factors) that clinical record under may require care plan D. Download MDS form at MDS section and Care 3. Patient/resident Assessment Protocol (RAPs) � list of http://www.cms.hhs.gov/ Plan section of the information and guidelines that will link to care plan goals record E. Show sample of Care Plan C. Interpret the codes as C. MDS Assessment is utilized and completed upon admission, Form appropriate that reflect quarterly, annually, and when there is a significant change in patient/resident condition functioning D. Nurse Assistant will provide information to complete the appropriate section(s) of the MDS E. Care Plan will be reviewed during IDT meeting F. Team discusses the appropriate interventions; updates the information that reflects current patient/resident functioning G. Nurse Assistant contributes valuable information because of being the direct patient care provided, especially in the areas of activities of daily living Module 14- Rehabilitative Nursing",
+      "weighted_minutes": 12,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-12",
+      "content_outline": [
+        "Source objective statement: Discuss the process of documentation and the Nurse Assistant role in care plan meeting",
+        "Source excerpt support: A. Lecture Discuss the process of documentation and the Nurse Assistant B. Discussion role in care plan meeting. A. Nurse Assistant helps the team members in completing the Patient/resident Assessment Instrument (RAI) as mandated by federal government Module 14- Rehabilitative Nursing B. RAI consist of three parts: C. Sample minimum data set review the 1. Minimum Data Set 3.0 (MDS 3.0) � assessment tool 3.0 Form patient/resident 2. Triggers � condition that identifies problem (risk factors) that clinical record under may require care plan D. Download MDS form at MDS section and Care 3. Patient/resident Assessment Protocol (RAPs) � list of http://www.cms.hhs.gov/ Plan section of the informati",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the process of documentation and the Nurse Ass — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the process of documentation and the Nurse Ass — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the process of documentation and the Nurse Ass — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 14 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 14 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-14.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 12,
+    "terminology_count": 45,
+    "weighted_minutes_total": 120,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

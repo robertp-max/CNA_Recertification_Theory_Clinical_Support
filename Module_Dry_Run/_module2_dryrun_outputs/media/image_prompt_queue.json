@@ -1,0 +1,198 @@
+{
+  "module_id": "M02",
+  "queue_status": "ready_for_review_not_generated",
+  "prompts": [
+    {
+      "prompt_id": "M02-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O02-IMG01",
+      "title": "the purpose of a long-term care facility — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 2: Explain the purpose of a long-term care facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O02-IMG02",
+      "title": "the purpose of a long-term care facility — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 2: Explain the purpose of a long-term care facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O02-IMG03",
+      "title": "the purpose of a long-term care facility — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 2: Explain the purpose of a long-term care facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O03-IMG01",
+      "title": "the role of the Nurse Assistant in maintaining — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 3: Recognize the role of the Nurse Assistant in maintaining patient/resident rights, as stated in federal and state regulation. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-4-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O03-IMG02",
+      "title": "the role of the Nurse Assistant in maintaining — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 3: Recognize the role of the Nurse Assistant in maintaining patient/resident rights, as stated in federal and state regulation. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-4-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O03-IMG03",
+      "title": "the role of the Nurse Assistant in maintaining — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 3: Recognize the role of the Nurse Assistant in maintaining patient/resident rights, as stated in federal and state regulation. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-4-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O04-IMG01",
+      "title": "California Code of Regulations Title 22, Divis — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 4: Compare California Code of Regulations Title 22, Division 5, Chapter 3, 72527, with Title 42 Code of Federal Regulations 483.10 regarding patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O04-IMG02",
+      "title": "California Code of Regulations Title 22, Divis — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 4: Compare California Code of Regulations Title 22, Division 5, Chapter 3, 72527, with Title 42 Code of Federal Regulations 483.10 regarding patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O04-IMG03",
+      "title": "California Code of Regulations Title 22, Divis — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 4: Compare California Code of Regulations Title 22, Division 5, Chapter 3, 72527, with Title 42 Code of Federal Regulations 483.10 regarding patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O05-IMG01",
+      "title": "the Nurse Assistant role in preventing neglige — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 5: Explain the Nurse Assistant role in preventing negligent acts and violation of patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O05-IMG02",
+      "title": "the Nurse Assistant role in preventing neglige — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 5: Explain the Nurse Assistant role in preventing negligent acts and violation of patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O05-IMG03",
+      "title": "the Nurse Assistant role in preventing neglige — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 5: Explain the Nurse Assistant role in preventing negligent acts and violation of patient/resident rights. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O06-IMG01",
+      "title": "the Nurse Assistant role in reporting patient/ — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 6: Describe the Nurse Assistant role in reporting patient/resident rights violations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O06-IMG02",
+      "title": "the Nurse Assistant role in reporting patient/ — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 6: Describe the Nurse Assistant role in reporting patient/resident rights violations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O06-IMG03",
+      "title": "the Nurse Assistant role in reporting patient/ — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 6: Describe the Nurse Assistant role in reporting patient/resident rights violations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O07-IMG01",
+      "title": "the role of an ombudsman — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 7: Describe the role of an ombudsman. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O07-IMG02",
+      "title": "the role of an ombudsman — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 7: Describe the role of an ombudsman. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O07-IMG03",
+      "title": "the role of an ombudsman — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 7: Describe the role of an ombudsman. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O08-IMG01",
+      "title": "examples of patient/resident rights, which sup — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 8: Identify examples of patient/resident rights, which support a patient's/resident's need for security, belonging and self-esteem. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O08-IMG02",
+      "title": "examples of patient/resident rights, which sup — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 8: Identify examples of patient/resident rights, which support a patient's/resident's need for security, belonging and self-esteem. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M02-O08-IMG03",
+      "title": "examples of patient/resident rights, which sup — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 2: Patient/Resident Rights, Objective 8: Identify examples of patient/resident rights, which support a patient's/resident's need for security, belonging and self-esteem. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-2.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

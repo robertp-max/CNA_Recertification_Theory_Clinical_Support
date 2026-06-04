@@ -1,0 +1,1405 @@
+{
+  "run_name": "NATP Module 8: Patient Care Skills — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf",
+  "source_title": "Module 8: Patient Care Skills",
+  "learner_facing_title": "NATP Module 8: Patient Care Skills",
+  "minimum_theory_hours": 14.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": null,
+  "selected_theory_hours": 14.0,
+  "selected_theory_basis": "source minimum theory hours",
+  "theory_minutes_total": 840,
+  "clinical_hours": 40.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to teach the students skills needed to support and/or assist the patient/resident in the areas of personal hygiene, an area of activities of daily living, and elimination. Personal hygiene or personal care is generally performed independently. The Nurse Assistant should assist with or perform personal care only when patients/residents are unable to perform a skill for themselves. Other activities included in this module are use of prosthetic devices, bowel and bladder retraining, and weighing and measuring height of the patient/resident.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Abrasion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Aspiration",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Axilla",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Catheter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Colostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Constipation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Cyanosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Decubitus ulcer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Defecation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Dermis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Diarrhea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Elimination",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Epidermis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Erythema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Eschar",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Excoriation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Fecal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Feces",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Flatulence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Hour of sleep (h.s.)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Ileostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Impaction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Incontinence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Jejunostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Neuropathy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Nits",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 27,
+      "term": "Oral hygiene",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 28,
+      "term": "Osteomyelitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 29,
+      "term": "Ostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 30,
+      "term": "Perineum/Perineal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 31,
+      "term": "Pressure sore",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 32,
+      "term": "Prosthesis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 33,
+      "term": "Stoma",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 34,
+      "term": "Stool",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 35,
+      "term": "Urinal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 36,
+      "term": "Urinary incontinence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 37,
+      "term": "Urination",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    },
+    {
+      "term_number": 38,
+      "term": "Urine",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+      "source_excerpt": "Strategies and Method of Evaluation Define Key Terminology Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select five C. Pronounce the terms correctly B. Games: word searches, words from the list of key D. Use the terms in their proper context terminology and write a crossword puzzles, sentence for each",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology",
+        "Source excerpt support: Strategies and Method of Evaluation Define Key Terminology Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select five C. Pronounce the terms correctly B. Games: word searches, words from the list of key D. Use the terms in their proper context terminology and write a crossword puzzles, sentence for each",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Identify and assist patients/residents with daily routine care, promoting independence and dignity",
+      "exact_objective_statement": "Identify and assist patients/residents with daily routine care, promoting independence and dignity",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+      "source_excerpt": "Family Feud, Jeopardy, defining the term Identify and assist patients/residents with daily routine care, bingo, spelling bee, promoting independence and dignity. hangman, and B. Administer vocabulary A. Each facility has specific policies and procedures related to AM concentration pre-test and post-test C. Encourage use of care, PM care and h.s. care internet, medical C. Uses appropriate B. Early morning (AM) care dictionary, and terminology when textbooks charting and reporting to 1. Offer bedpan/urinal or assist to bathroom, incontinence care, D. Handout 8.1a- licensed personnel linen change Patient/resident Care Skills Crossword-1. E. Handout 8.1b- Patient/resident Care Skills Crossword-1- KEY F. Handout 8.1c- Patient/resident Care Skills Crossword-2 G. Handout 8.1d- Patient/resident Care Skills Crossword-2- KEY A. Lecture/Discussion A. Written test B. Demonstration/return B. Assists demonstration patients/residents C. Role play with daily routine care Specific manual skills are listed under each objective 2. Wash face and hands Module 8: Patient Care Skills 3. Offer oral hygiene 4. Assist with grooming E. Refer to Manual Skills 5. Straighten bed and unit procedure 8.2- Back rub 6. Position patient/resident for breakfast C. Morning care after breakfast 1. Oral hygiene 2. Offer bedpan/urinal or assist to bathroom 3. Bathing (includes foot care) 4. Shaving 5. Hair care 6. Dressing 7. Skin care 8. Assisting with activity (ROM, ambulation) 9. Linen change 10. Unit maintenance D. Afternoon care (prepare for meals - lunch and dinner) 1. Offer bedpan/urinal or assist to bathroo",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Identify and assist patients/residents with daily routine care, promoting independence and dignity",
+        "Source excerpt support: Family Feud, Jeopardy, defining the term Identify and assist patients/residents with daily routine care, bingo, spelling bee, promoting independence and dignity. hangman, and B. Administer vocabulary A. Each facility has specific policies and procedures related to AM concentration pre-test and post-test C. Encourage use of care, PM care and h.s. care internet, medical C. Uses appropriate B. Early morning (AM) care dictionary, and terminology when textbooks charting and reporting to 1. Offer bedpan/urinal or assist to bathroom, incontinence care, D. Handout 8.1a- licensed personnel linen change Patient/resident Care Skills Crossword-1. E. Handout 8.1b- Patient/resident Care Skills Crossword-1",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "and assist patients/residents with daily routi — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and assist patients/residents with daily routi — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "and assist patients/residents with daily routi — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Identify benefits of bathing and list five areas of body that require bathing daily",
+      "exact_objective_statement": "Identify benefits of bathing and list five areas of body that require bathing daily",
+      "source_pages": [
+        6
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-6",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Identify benefits of bathing and list five areas of body that B. Specific manual skills B. Assists in bathing for requires bathing daily. A. Benefits of bathing listed under each patients/residents objective according to 1. Cleanliness guidelines and facility 2. Reduce bacteria and germs policy 3. Promote skin integrity 4. Stimulate circulation A. Written test 5. Provide movement and exercise B. Assists in bathing for 6. Relaxation 7. Sense of well-being patients/residents 8. Opportunity for communication and observation according to B. Body areas that require bathing guidelines and facility 1. Face policy 2. Arms/underarms (axilla) 3. Hands 4. Legs/feet 5. Perineal area a. Genitals b. Anal area 6. Back 7. Any area where skin folds or creases, e.g., under breasts",
+      "weighted_minutes": 26,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-6",
+      "content_outline": [
+        "Source objective statement: Identify benefits of bathing and list five areas of body that require bathing daily",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Identify benefits of bathing and list five areas of body that B. Specific manual skills B. Assists in bathing for requires bathing daily. A. Benefits of bathing listed under each patients/residents objective according to 1. Cleanliness guidelines and facility 2. Reduce bacteria and germs policy 3. Promote skin integrity 4. Stimulate circulation A. Written test 5. Provide movement and exercise B. Assists in bathing for 6. Relaxation 7. Sense of well-being patients/residents 8. Opportunity for communication and observation according to B. Body areas that require bathing guidelines and facility 1. Face policy 2. Arms/underarms (axilla) 3. Hands 4. Legs/feet",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "benefits of bathing and list five areas of bod — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "benefits of bathing and list five areas of bod — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "benefits of bathing and list five areas of bod — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Describe the procedure for bathing patients/residents and safety guidelines",
+      "exact_objective_statement": "Describe the procedure for bathing patients/residents and safety guidelines",
+      "source_pages": [
+        6,
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-6-7",
+      "source_excerpt": "A. Lecture/Discussion Describe the procedure for bathing patients/residents B. Demonstration/return and safety guidelines. A. General steps for bed bath demonstration C. Role play 1.Check with licensed nurse regarding type of bath D. Refer to Manual Skills a. Complete bed bath procedure 8.4a- Bed b. Partial bed bath Bath 1) Done on days when complete bed bath not given E. Refer to Manual Skills 2) The partial bath consists of washing the patient's/resident's face, hands, axilla, back, buttocks, and genital area (perineal care) 2. Gather equipment (bath blanket, basin, soap, water Module 8: Patient Care Skills thermometer, wash cloths, bath towels) procedure 8.4b- Tub 3. Wash hands Bath 4. Check patient's/resident's personal choices (water F. Refer to Manual Skills Procedure 8.4c- Modified temperature, soap etc.) Bed Bath-For Testing 5. Identify patient/resident G. Refer to Objective 17 for Perineal Care 6. Identify yourself to patient/resident 7. Provide privacy a. Close door b. Pull curtain around patient/resident c. Only uncover area being washed d. Facility policy may vary 8. Follow standard precautions and blood borne pathogen standards 9. Assure adequate comfort, such as room temperature, freedom from drafts and adequately covered 10. Use comfortably warm water, change it when it becomes soapy, dirty or cold 11. Bathe areas soiled by fecal material or urine with soap and water 12. Wash from cleanest to dirtiest area 13. Rinse off all soap 14. Pat skin dry 15. Encourage patient/resident to help as much as possible B. Safety guidelines 1. Monitor correct water temperatur",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-6-7",
+      "content_outline": [
+        "Source objective statement: Describe the procedure for bathing patients/residents and safety guidelines",
+        "Source excerpt support: A. Lecture/Discussion Describe the procedure for bathing patients/residents B. Demonstration/return and safety guidelines. A. General steps for bed bath demonstration C. Role play 1.Check with licensed nurse regarding type of bath D. Refer to Manual Skills a. Complete bed bath procedure 8.4a- Bed b. Partial bed bath Bath 1) Done on days when complete bed bath not given E. Refer to Manual Skills 2) The partial bath consists of washing the patient's/resident's face, hands, axilla, back, buttocks, and genital area (perineal care) 2. Gather equipment (bath blanket, basin, soap, water Module 8: Patient Care Skills thermometer, wash cloths, bath towels) procedure 8.4b- Tub 3. Wash hands Bath 4. Ch",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the procedure for bathing patients/residents a — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the procedure for bathing patients/residents a — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the procedure for bathing patients/residents a — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-6-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "List purposes and schedule for oral hygiene",
+      "exact_objective_statement": "List purposes and schedule for oral hygiene",
+      "source_pages": [
+        8
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-8",
+      "source_excerpt": "List purposes and schedule for oral hygiene. A. Purpose 1. Cleanliness of mouth and teeth 2. Prevent mouth odor and infection 3. Prevent dental disease and tooth loss 4. Comfort 5. Pleasant taste 6. Improve taste of food B. When to perform oral hygiene 1. On awakening 2. After each meal 3. At bed time C. Special circumstances; when the patient/resident needs more frequent care 1. Unconscious � patient/resident should be side-lying to avoid choking and aspiration 2. Mouth breather 3. O2 4. NG tube or NPO 5. Elevated temperature Module 8: Patient Care Skills",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-8",
+      "content_outline": [
+        "Source objective statement: List purposes and schedule for oral hygiene",
+        "Source excerpt support: List purposes and schedule for oral hygiene. A. Purpose 1. Cleanliness of mouth and teeth 2. Prevent mouth odor and infection 3. Prevent dental disease and tooth loss 4. Comfort 5. Pleasant taste 6. Improve taste of food B. When to perform oral hygiene 1. On awakening 2. After each meal 3. At bed time C. Special circumstances; when the patient/resident needs more frequent care 1. Unconscious � patient/resident should be side-lying to avoid choking and aspiration 2. Mouth breather 3. O2 4. NG tube or NPO 5. Elevated temperature Module 8: Patient Care Skills",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "purposes and schedule for oral hygiene — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "purposes and schedule for oral hygiene — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "purposes and schedule for oral hygiene — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe procedure of oral hygiene and denture care for a patient/resident needing assistance, and for the unconscious individual",
+      "exact_objective_statement": "Describe procedure of oral hygiene and denture care for a patient/resident needing assistance, and for the unconscious individual",
+      "source_pages": [
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe procedure of oral hygiene and denture care for a B. Demonstration/return B. Performs or assists with patient/resident needing assistance, and for the unconscious individual. demonstration oral hygiene and reports A. Carry out procedure using standard precautions C. Role play significant findings D. Refer to Manual Skill 1. Contact with mucous membranes 2. Gums may bleed procedure 8.6a- 3. Pathogens may exist in the mouth Providing Mouth Care B. Examine oral cavity and report findings E. Refer to Manual Skill 1. Dry, cracked, swollen or blistered lips procedure 8.6b- 2. Redness, swelling, sores or white patches in the mouth or on Assisting with Mouth Care the tongue F. Refer to Manual Skill 3. Redness, swelling or bleeding of gums procedure 8.6c- Mouth 4. Loose broken or chipped teeth Care of the Unconscious 5. Patient/resident complaints Patient/resident C. Dentures G. Refer to Manual Skill 1. Dentures are very costly and fragile procedure 8.6d- 2. Handle with care at all times Providing Denture Care 3. Any observed damage to dentures A. Lecture/Discussion A. Written test",
+      "weighted_minutes": 35,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-9",
+      "content_outline": [
+        "Source objective statement: Describe procedure of oral hygiene and denture care for a patient/resident needing assistance, and for the unconscious individual",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe procedure of oral hygiene and denture care for a B. Demonstration/return B. Performs or assists with patient/resident needing assistance, and for the unconscious individual. demonstration oral hygiene and reports A. Carry out procedure using standard precautions C. Role play significant findings D. Refer to Manual Skill 1. Contact with mucous membranes 2. Gums may bleed procedure 8.6a- 3. Pathogens may exist in the mouth Providing Mouth Care B. Examine oral cavity and report findings E. Refer to Manual Skill 1. Dry, cracked, swollen or blistered lips procedure 8.6b- 2. Redness, swelling, sores or white patches in the mouth or on Assisting with M",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "procedure of oral hygiene and denture care for — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedure of oral hygiene and denture care for — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedure of oral hygiene and denture care for — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "Identify the Nurse Assistant role and responsibility for patient/resident nail care",
+      "exact_objective_statement": "Identify the Nurse Assistant role and responsibility for patient/resident nail care",
+      "source_pages": [
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+      "source_excerpt": "B. Demonstration/return B. Performs nail care Identify the Nurse Assistant's role and responsibility for patient/resident nail care and foot care. demonstration according to guidelines A. Performed to prevent infection, injury and odors. Guidelines: C. Role play and reports observations D. Refer to Manual Skill as required 1. Nails are easier to clean after soaking in warm, soapy water 2. Cut fingernails with clippers, not scissors (if facility allows) procedure 8.7a- 3. File fingernails with emery board Fingernail Care 4. When trimming fingernails, be cautious to prevent damage to E. Refer to Manual Skill Procedure 8.7b- Foot tissues 5. Do not trim nails on patient/resident with diabetes or if on Care medication that affects blood clotting and circulatory problems 6. Do not cut or trim toenails Module 8: Patient Care Skills 7. Report unusual conditions to licensed nurse such as redness or A. Lecture/Discussion A. Written test tenderness of finger tips, cuticles or toes B. Demonstration/return B. Cares for 8. Follow facility procedure demonstration patient's/resident's hair",
+      "weighted_minutes": 35,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-9",
+      "content_outline": [
+        "Source objective statement: Identify the Nurse Assistant role and responsibility for patient/resident nail care",
+        "Source excerpt support: B. Demonstration/return B. Performs nail care Identify the Nurse Assistant's role and responsibility for patient/resident nail care and foot care. demonstration according to guidelines A. Performed to prevent infection, injury and odors. Guidelines: C. Role play and reports observations D. Refer to Manual Skill as required 1. Nails are easier to clean after soaking in warm, soapy water 2. Cut fingernails with clippers, not scissors (if facility allows) procedure 8.7a- 3. File fingernails with emery board Fingernail Care 4. When trimming fingernails, be cautious to prevent damage to E. Refer to Manual Skill Procedure 8.7b- Foot tissues 5. Do not trim nails on patient/resident with diabetes or",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the Nurse Assistant role and responsibility fo — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role and responsibility fo — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the Nurse Assistant role and responsibility fo — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "Identify Nurse Assistant role and responsibility for caring for hair of patients/residents",
+      "exact_objective_statement": "Identify Nurse Assistant role and responsibility for caring for hair of patients/residents",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+      "source_excerpt": "C. Role play daily Identify the Nurse Assistant's role and responsibility for caring D. Refer to Manual Skill for hair or patients/residents. A. Written test A. Hair care Procedure 8.8a - B. Follows guidelines for Combing the 1. Part of daily care Patient's/resident's Hair shaving 2. Important for identity and self-esteem E. Refer to Manual Skill patients/residents 3. Accommodate patient/resident preferences for style, hair procedure 8.8b- Shampoo with products Shower/Tub Bath 4. Shampoo Types F. Refer to Manual Skill procedure 8.8c- a. Shower/tub Shampoo of Bedridden b. Sink Patient/resident c. Bed 5. Medicinal shampoos are performed per facility policy A. Lecture/Discussion B. Report observations B. Demonstration/return 1. Scalp sores 2. Flaking demonstration 3. Presence of lice C. Role play 4. Patches of hair loss D. Refer to Manual Skill 5. Very dry or oily hair 6. How procedure was tolerated Procedure 8.9- Shaving the Patient/resident",
+      "weighted_minutes": 26,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-10",
+      "content_outline": [
+        "Source objective statement: Identify Nurse Assistant role and responsibility for caring for hair of patients/residents",
+        "Source excerpt support: C. Role play daily Identify the Nurse Assistant's role and responsibility for caring D. Refer to Manual Skill for hair or patients/residents. A. Written test A. Hair care Procedure 8.8a - B. Follows guidelines for Combing the 1. Part of daily care Patient's/resident's Hair shaving 2. Important for identity and self-esteem E. Refer to Manual Skill patients/residents 3. Accommodate patient/resident preferences for style, hair procedure 8.8b- Shampoo with products Shower/Tub Bath 4. Shampoo Types F. Refer to Manual Skill procedure 8.8c- a. Shower/tub Shampoo of Bedridden b. Sink Patient/resident c. Bed 5. Medicinal shampoos are performed per facility policy A. Lecture/Discussion B. Report obser",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Nurse Assistant role and responsibility for ca — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Nurse Assistant role and responsibility for ca — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Nurse Assistant role and responsibility for ca — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "Describe procedure for shaving a patient/resident",
+      "exact_objective_statement": "Describe procedure for shaving a patient/resident",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+      "source_excerpt": "Describe procedure for shaving a patient/resident. A. Important for feelings of comfort and self-esteem B. Guidelines 1. Use either electric razor or safety razor (patient/resident choice/facility policy) 2. If using an electric razor use appropriate safety precautions for electrical equipment 3. Safety razors can cause nicks or cuts; use standard precautions to prevent contact with blood Module 8: Patient Care Skills",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-10",
+      "content_outline": [
+        "Source objective statement: Describe procedure for shaving a patient/resident",
+        "Source excerpt support: Describe procedure for shaving a patient/resident. A. Important for feelings of comfort and self-esteem B. Guidelines 1. Use either electric razor or safety razor (patient/resident choice/facility policy) 2. If using an electric razor use appropriate safety precautions for electrical equipment 3. Safety razors can cause nicks or cuts; use standard precautions to prevent contact with blood Module 8: Patient Care Skills",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "procedure for shaving a patient/resident — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedure for shaving a patient/resident — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "procedure for shaving a patient/resident — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "List ways to maintain healthy skin and identify at risk patients.",
+      "exact_objective_statement": "List ways to maintain healthy skin and identify at risk patients.",
+      "source_pages": [
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-11",
+      "source_excerpt": "A. Lecture A. Written test List ways to maintain healthy skin and identify at risk patients. B. Discussion B. Provides care to A. Maintain skin health C. Handout 8.10- High Risk maintain skin health and 1. Encourage well-balanced diet and fluids Factors for Skin prevent skin breakdown 2. Provide skin care Breakdown and Interventions to Prevent a. Bathe as necessary b. Rinse off soap thoroughly c. Apply lotion as necessary d. Massage healthy skin e. Keep skin clean and dry 3. Observe high-risk patients/residents for potential problems 4. Give special attention to bony prominences a. Turn and position the patient/resident correctly b. Keep pressure off of reddened or irritated areas 5. Do not massage red, purple, or irritated areas 6. Only massage healthy tissue around the area 7. Keep bed free of small objects and linen free of wrinkles 8. Keep patient/resident clean & dry 9. Prevent shearing and friction 10. Report and record observations B. Factors that place patients/residents at high risk for skin breakdown 1. Mobility/sensory problems a. Paraplegic or quadriplegic b. CVA c. Peripheral vascular disease d. Bed rest or decreased mobility e. Decreased sensation f. COPD 1) Low oxygen level 2) Continuous high Fowlers 3) Medications g. Circulatory problems Module 8: Patient Care Skills 1) Diabetes 2) Arterial disease with decreased sensation (neuropathy) 3) Poor circulation and healing 2. Elimination a. Incontinent of stool or urine b. Diarrhea c. Diaphoresis d. Dehydrated e. Leaking tubes or drainage 3. Fluid status a. Edema (swelling) b. Dehydration 4. Nutrition/body structu",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-11",
+      "content_outline": [
+        "Source objective statement: List ways to maintain healthy skin and identify at risk patients.",
+        "Source excerpt support: A. Lecture A. Written test List ways to maintain healthy skin and identify at risk patients. B. Discussion B. Provides care to A. Maintain skin health C. Handout 8.10- High Risk maintain skin health and 1. Encourage well-balanced diet and fluids Factors for Skin prevent skin breakdown 2. Provide skin care Breakdown and Interventions to Prevent a. Bathe as necessary b. Rinse off soap thoroughly c. Apply lotion as necessary d. Massage healthy skin e. Keep skin clean and dry 3. Observe high-risk patients/residents for potential problems 4. Give special attention to bony prominences a. Turn and position the patient/resident correctly b. Keep pressure off of reddened or irritated areas 5. Do not ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "ways to maintain healthy skin and identify at — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways to maintain healthy skin and identify at — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "ways to maintain healthy skin and identify at — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Describe causes, signs and symptoms, and staging of pressure sores.",
+      "exact_objective_statement": "Describe causes, signs and symptoms, and staging of pressure sores.",
+      "source_pages": [
+        12,
+        13
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-12-13",
+      "source_excerpt": "A. Lecture A. Written test Describe causes, signs and symptoms, and staging of pressure B. Discussion sores. C. Handout 8.11- Staging for A. Common conditions which can lead to pressure sores pressure sores 1. Pressure leads to decreased blood flow and nutrition of an area resulting in tissue loss 2. Excessively wet or dry skin Module 8: Patient Care Skills B. Stages; signs and symptoms 1. Stage 1 a. Skin is not broken. The epidermis and dermis are intact b. Erythema (redness) that does not resolve within 15-30 minutes 2. Stage 2 a. Skin not intact b. Partial skin loss of the inner and/or outer skin layer (epidermis is damaged and part of the dermis can be involved) c. Skin can be blistered, cracked, and open with erythema or appear as a shallow crater d. No necrotic or dead tissue is present e. Wound bed is moist, pink and painful 3. Stage 3 a. Full-thickness skin loss with both epidermis and dermis gone b. Damage extends to, but not through the tissue that covers the muscle c. Can have part of dermis left with necrotic tissue d. Possible drainage 4. Stage 4 a. Full skin loss with major destruction and tissue death b. Involves subcutaneous tissues � possible fatty tissue, muscle and/or bone c. Can see pink healthy cells, necrotic tissue and eschar d. Wound can tunnel or have undermining in skin surrounding wound e. Risk that bone may become infected (osteomyelitis) Model Curriculum for Nurse Assistants - Revised September 2013 Module 8: Patient Care Skills",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-12-13",
+      "content_outline": [
+        "Source objective statement: Describe causes, signs and symptoms, and staging of pressure sores.",
+        "Source excerpt support: A. Lecture A. Written test Describe causes, signs and symptoms, and staging of pressure B. Discussion sores. C. Handout 8.11- Staging for A. Common conditions which can lead to pressure sores pressure sores 1. Pressure leads to decreased blood flow and nutrition of an area resulting in tissue loss 2. Excessively wet or dry skin Module 8: Patient Care Skills B. Stages; signs and symptoms 1. Stage 1 a. Skin is not broken. The epidermis and dermis are intact b. Erythema (redness) that does not resolve within 15-30 minutes 2. Stage 2 a. Skin not intact b. Partial skin loss of the inner and/or outer skin layer (epidermis is damaged and part of the dermis can be involved) c. Skin can be blistered,",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "causes, signs and symptoms, and staging of pre — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-12-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "causes, signs and symptoms, and staging of pre — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-12-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "causes, signs and symptoms, and staging of pre — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-12-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Describe general nursing measures to prevent and treat pressure sores",
+      "exact_objective_statement": "Describe general nursing measures to prevent and treat pressure sores",
+      "source_pages": [
+        14,
+        15
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-14-15",
+      "source_excerpt": "Describe general nursing measures to prevent and treat pressure sores. A. Nursing measures to prevent and treat pressure sores A. Lecture/Discussion A. Written test B. Uses techniques to 1. Mobility/sensory B. Show pictures of wounds in various stages prevent pressure sores a. Control pressure by pressure-reducing devices or special C. Reports signs and beds C. Handout 8.12- Sitting on hand exercise: Sit on symptoms of pressure b. Turn every two hours at least hands for 5 minutes sore formation to Observe changes in licensed nurse c. Position with proper support of the body and limbs color, sensation, etc. d. Promote active range of motion exercises or assist D. Share examples of how patient/resident with them nursing assistants can be involved in QA/PI e. Teach or assist patient/resident using a wheel chair to activities change position frequently f. Prevent shearing and friction during lifting, moving, transferring and repositioning procedures g. Keep bed linens clean, crumb free, and avoid wrinkles h. Watch tubing (like Foley Catheter) does not cause pressure i. Remove patients/residents from toilets and bedpans promptly j. Encourage circulation by gentle massage around red area not over red area k. Check skin every eight hours l. Keep head of bed (H.O.B.) at 30 degrees as much as possible to avoid sacral pressure 2. Elimination a. Keep skin clean and dry; apply powder where skin touches skin. Watch diaphoretic (sweaty) patient/resident b. Check incontinent patient/resident every two hours and ensure dry and clean (even when using adult incontinence garment) c. Monitor i",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-14-15",
+      "content_outline": [
+        "Source objective statement: Describe general nursing measures to prevent and treat pressure sores",
+        "Source excerpt support: Describe general nursing measures to prevent and treat pressure sores. A. Nursing measures to prevent and treat pressure sores A. Lecture/Discussion A. Written test B. Uses techniques to 1. Mobility/sensory B. Show pictures of wounds in various stages prevent pressure sores a. Control pressure by pressure-reducing devices or special C. Reports signs and beds C. Handout 8.12- Sitting on hand exercise: Sit on symptoms of pressure b. Turn every two hours at least hands for 5 minutes sore formation to Observe changes in licensed nurse c. Position with proper support of the body and limbs color, sensation, etc. d. Promote active range of motion exercises or assist D. Share examples of how patient",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "general nursing measures to prevent and treat — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-14-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general nursing measures to prevent and treat — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-14-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general nursing measures to prevent and treat — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-14-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 13,
+      "objective_title": "Describe general guidelines for selecting and caring for patient's/resident's clothing",
+      "exact_objective_statement": "Describe general guidelines for selecting and caring for patient's/resident's clothing",
+      "source_pages": [
+        16
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+      "source_excerpt": "A. Lecture Module 8: Patient Care Skills Describe general guidelines for selecting and caring for B. Discussion A. Written test patient's/resident's clothing. A. Selecting clothing for the patient/resident A. Lecture/Discussion A. Written test B. Demonstration/return B. Follows guidelines in 1. Fits well demonstration dressing a dependent 2. Comfortable � including finding out whether the C. Role play patient/resident and in patient/resident is warm enough, but not too warm assistant 3. Easy to get on and off 4. Neat - looks nice and attractive � respect the patient's/resident's own individual taste and choice of what clothing to wear 5. In good condition � has no wrinkles or holes, has snaps, fasteners, buckles and buttons, which function as they should B. Clothing is personal property 1. Label clothes with patient's/resident's name and write on personal belongings list 2. Avoid cutting or tearing 3. Do not discard 4. Store in the patient's/resident's unit 5. Fold neatly or hang on hangers in closet 6. Find out whether family or facility will clean soiled clothing and put into dirty clothes container 7. Assist patient/resident or family to choose clothing that meets physical needs and looks good 8. Do not use patient's/resident's clothing or personal items for another patient/resident",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-16",
+      "content_outline": [
+        "Source objective statement: Describe general guidelines for selecting and caring for patient's/resident's clothing",
+        "Source excerpt support: A. Lecture Module 8: Patient Care Skills Describe general guidelines for selecting and caring for B. Discussion A. Written test patient's/resident's clothing. A. Selecting clothing for the patient/resident A. Lecture/Discussion A. Written test B. Demonstration/return B. Follows guidelines in 1. Fits well demonstration dressing a dependent 2. Comfortable � including finding out whether the C. Role play patient/resident and in patient/resident is warm enough, but not too warm assistant 3. Easy to get on and off 4. Neat - looks nice and attractive � respect the patient's/resident's own individual taste and choice of what clothing to wear 5. In good condition � has no wrinkles or holes, has snap",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "general guidelines for selecting and caring fo — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general guidelines for selecting and caring fo — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "general guidelines for selecting and caring fo — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 14,
+      "objective_title": "Discuss rationale for use of street clothes and guidelines for dressing or undressing a patient/resident",
+      "exact_objective_statement": "Discuss rationale for use of street clothes and guidelines for dressing or undressing a patient/resident",
+      "source_pages": [
+        16
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+      "source_excerpt": "Discuss rationale for use of street clothes and guidelines for dressing or undressing a patient/resident. A. Purpose of dressing in street clothes 1. How a patient/resident looks has an effect and influences their feelings of dignity and self-esteem as well as how others perceive them 2. It encourages patients/residents to be more independent about their activities in daily living (ADL's) Module 8: Patient Care Skills B. Factors that limit a patient's/resident's ability to dress self D. Refer to Manual Skill a partially dependent 1. Limitation of body movement Procedure 8.14a- patient/resident a. Brain impairment, as in dementia, mental retardation, injury, Dressing and Undressing or coma a Patient/resident b. Weakness c. Pain E. Refer to Manual Skill d. Fractures Procedure 8.14b- e. Contractures Dressing a f. Amputation Patient/resident with an g. Paralysis Affected (Weak) Right 2. Other factors Arm a. Special equipment, such as IV's, casts or braces b. Blindness c. Psychological factors, such as depression, fear of pain C. Guidelines for dressing/undressing patient/resident 1. Provide for privacy 2. Encourage the patient/resident to do as much as possible 3. Allow patients/residents to choose what to wear 4. While assisting the patient/resident, be gentle, while supporting all extremities 5. Follow patient's/resident's individual choices in use of makeup, jewelry, perfume, etc. D. Reportable observations 1. How much help is provided 2. How patient/resident tolerated procedure 3. Any complaint from patient/resident",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-16",
+      "content_outline": [
+        "Source objective statement: Discuss rationale for use of street clothes and guidelines for dressing or undressing a patient/resident",
+        "Source excerpt support: Discuss rationale for use of street clothes and guidelines for dressing or undressing a patient/resident. A. Purpose of dressing in street clothes 1. How a patient/resident looks has an effect and influences their feelings of dignity and self-esteem as well as how others perceive them 2. It encourages patients/residents to be more independent about their activities in daily living (ADL's) Module 8: Patient Care Skills B. Factors that limit a patient's/resident's ability to dress self D. Refer to Manual Skill a partially dependent 1. Limitation of body movement Procedure 8.14a- patient/resident a. Brain impairment, as in dementia, mental retardation, injury, Dressing and Undressing or coma a ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "rationale for use of street clothes and guidel — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "rationale for use of street clothes and guidel — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "rationale for use of street clothes and guidel — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 15,
+      "objective_title": "Describe the usual frequency pattern for urination",
+      "exact_objective_statement": "Describe the usual frequency pattern for urination",
+      "source_pages": [
+        17
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-17",
+      "source_excerpt": "A. Lecture/Discussion A. Written test Describe the usual frequency pattern for urination. B. Demonstrate and return B. Assists patient/resident A. Frequency of urination depends on with 1. Amount of fluid ingested 2. Personal habits 3. Availability of toilet facilities Module 8: Patient Care Skills 4. Physical activities demonstration of bedpan as needed 5. Illness/infection positioning bedpan C. Follows facility policy for B. Frequency ranges from every 2-3 hours to every 8-12 hours C. Role Play 1. Each patient/resident has different urination needs D. Refer to Manual Skill bladder training 2. It is important to keep the patient's/resident's routine as Procedure 8.15- Assist with Use of normal as possible Bedpan/Urinal",
+      "weighted_minutes": 26,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-17",
+      "content_outline": [
+        "Source objective statement: Describe the usual frequency pattern for urination",
+        "Source excerpt support: A. Lecture/Discussion A. Written test Describe the usual frequency pattern for urination. B. Demonstrate and return B. Assists patient/resident A. Frequency of urination depends on with 1. Amount of fluid ingested 2. Personal habits 3. Availability of toilet facilities Module 8: Patient Care Skills 4. Physical activities demonstration of bedpan as needed 5. Illness/infection positioning bedpan C. Follows facility policy for B. Frequency ranges from every 2-3 hours to every 8-12 hours C. Role Play 1. Each patient/resident has different urination needs D. Refer to Manual Skill bladder training 2. It is important to keep the patient's/resident's routine as Procedure 8.15- Assist with Use of nor",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the usual frequency pattern for urination — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the usual frequency pattern for urination — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the usual frequency pattern for urination — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-17",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 16,
+      "objective_title": "List the observations to be made about urine",
+      "exact_objective_statement": "List the observations to be made about urine",
+      "source_pages": [
+        18
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-18",
+      "source_excerpt": "A. Lecture/Discussion A. Written test List the observations to be made about urine. B. Refer to Manual Skill B. Reports observations A. Observations made about urine: Procedure 8.16- and patient/resident 1. Color Measures and Records complaints according to 2. Clarity Urinary Output policy 3. Odor 4. Amount A. Lecture/Discussion A. Written test B. Information that should be reported to the licensed nurse B. Demonstrate and return B. Performs hygiene 1. Urine that appears abnormal demonstration on measures in a safe a. Cloudy, stones, gravel, sediment manikin manner while avoiding b. Pinkish or reddish tint c. Dark color/concentration 2. Patient/resident complaints a. Urgency b. Burning on urination c. Difficulty in urinating d. Feeling of pressure in area of bladder e. Frequency f. Strong odor",
+      "weighted_minutes": 26,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-18",
+      "content_outline": [
+        "Source objective statement: List the observations to be made about urine",
+        "Source excerpt support: A. Lecture/Discussion A. Written test List the observations to be made about urine. B. Refer to Manual Skill B. Reports observations A. Observations made about urine: Procedure 8.16- and patient/resident 1. Color Measures and Records complaints according to 2. Clarity Urinary Output policy 3. Odor 4. Amount A. Lecture/Discussion A. Written test B. Information that should be reported to the licensed nurse B. Demonstrate and return B. Performs hygiene 1. Urine that appears abnormal demonstration on measures in a safe a. Cloudy, stones, gravel, sediment manikin manner while avoiding b. Pinkish or reddish tint c. Dark color/concentration 2. Patient/resident complaints a. Urgency b. Burning on ur",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the observations to be made about urine — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the observations to be made about urine — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the observations to be made about urine — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-18",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 17,
+      "objective_title": "Describe urinary incontinence and the need for immediate care",
+      "exact_objective_statement": "Describe urinary incontinence and the need for immediate care",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-7-14",
+      "source_excerpt": "for Perineal Care 6. Identify yourself to patient/resident 7. Provide privacy a. Close door b. Pull curtain around patient/resident c. Only uncover area being washed d. Facility policy may vary 8. Follow standard precautions and blood borne pathogen standards 9. Assure adequate comfort, such as room temperature, freedom from drafts and adequately covered 10. Use comfortably warm water, change it when it becomes soapy, dirty or cold 11. Bathe areas soiled by fecal material or urine with soap and water 12. Wash from cleanest to dirtiest area 13. Rinse off all soap 14. Pat skin dry 15. Encourage patient/resident to help as much as possible B. Safety guidelines 1. Monitor correct water temperature 2. Use safety equipment, such as grab bars, nonskid surfaces, emergency call buttons and safety belts 3. Stay with patient/resident 4. Use correct body mechanics C. Reportable observations during bathing 1. Color of skin, whites of eyes, lips, nail beds 2. Rashes; locations and description 3. Dry skin, bruising or open areas A. Lecture Module 8: Patient Care Skills 4. Pale or reddened areas B. Discussion 5. Drainage or bleeding A. Written test 6. Swollen legs or feet B. Performs or assists with 7. Complaints of pain or discomfort 8. Skin temperature oral hygiene and reports significant findings Objective 5 List purposes and schedule for oral hygiene. A. Purpose 1. Cleanliness of mouth and teeth 2. Prevent mouth odor and infection 3. Prevent dental disease and tooth loss 4. Comfort 5. Pleasant taste 6. Improve taste of food B. When to perform oral hygiene 1. On awakening 2. After each ",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-7-14",
+      "content_outline": [
+        "Source objective statement: Describe urinary incontinence and the need for immediate care",
+        "Source excerpt support: for Perineal Care 6. Identify yourself to patient/resident 7. Provide privacy a. Close door b. Pull curtain around patient/resident c. Only uncover area being washed d. Facility policy may vary 8. Follow standard precautions and blood borne pathogen standards 9. Assure adequate comfort, such as room temperature, freedom from drafts and adequately covered 10. Use comfortably warm water, change it when it becomes soapy, dirty or cold 11. Bathe areas soiled by fecal material or urine with soap and water 12. Wash from cleanest to dirtiest area 13. Rinse off all soap 14. Pat skin dry 15. Encourage patient/resident to help as much as possible B. Safety guidelines 1. Monitor correct water temperatu",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "urinary incontinence and the need for immediat — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-7-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "urinary incontinence and the need for immediat — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-7-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "urinary incontinence and the need for immediat — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-7-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 18,
+      "objective_title": "Describe the purpose and general rules of care for urinary catheters",
+      "exact_objective_statement": "Describe the purpose and general rules of care for urinary catheters",
+      "source_pages": [
+        20,
+        21
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-20-21",
+      "source_excerpt": "Describe the purpose and general rules of care for urinary catheters. A. Definition of urinary catheter 1. Plastic or rubber tube used to drain or inject fluid through a body opening 2. Most commonly used to drain the bladder 3. One end is placed in the bladder and the other end is attached by tubing to a drainage bag 4. Catheters are inserted by licensed personnel using sterile technique B. Types of indwelling catheters a. \"Foley\" b. Retention c. Suprapubic d. Straight catheter C. Purpose of urinary catheter Module 8: Patient Care Skills 1. Complete loss of bladder control 2. Urinary retention (inability to urinate) 3. Before, during, and after surgical procedures 4. Too weak or disabled to use commode, bedpan or bathroom 5. Prevention of urine contamination on wounds and pressure ulcers 6. Not for convenience D. Complication resulting from catheters 1. Bladder infection 2. Blockage 3. General rules of catheter care a. Tubing should not be kinked or compressed (urine should flow without obstruction). Coil tubing on the bed b. Do not pull on catheter tubing c. Keep drainage bag below level of the bladder d. Drainage bag should be attached to the bed frame, not the side rail e. Never allow bag to touch the floor f. Catheter should be secured to the inner thigh g. Clean the perineal area and around the catheter, soapy water is adequate (use the procedure for catheter care preferred by facility) h. Drainage bag should be emptied and measured each shift (or more often if ordered/required) i. Report patient/resident complaints promptly to the licensed nurse j. Follow the rules o",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-20-21",
+      "content_outline": [
+        "Source objective statement: Describe the purpose and general rules of care for urinary catheters",
+        "Source excerpt support: Describe the purpose and general rules of care for urinary catheters. A. Definition of urinary catheter 1. Plastic or rubber tube used to drain or inject fluid through a body opening 2. Most commonly used to drain the bladder 3. One end is placed in the bladder and the other end is attached by tubing to a drainage bag 4. Catheters are inserted by licensed personnel using sterile technique B. Types of indwelling catheters a. \"Foley\" b. Retention c. Suprapubic d. Straight catheter C. Purpose of urinary catheter Module 8: Patient Care Skills 1. Complete loss of bladder control 2. Urinary retention (inability to urinate) 3. Before, during, and after surgical procedures 4. Too weak or disabled to",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the purpose and general rules of care for urin — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-20-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and general rules of care for urin — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-20-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose and general rules of care for urin — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-20-21",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 19,
+      "objective_title": "Describe the goals and methods for bowel and bladder training",
+      "exact_objective_statement": "Describe the goals and methods for bowel and bladder training",
+      "source_pages": [
+        22
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-22",
+      "source_excerpt": "B. Share sample policy for B. Follows facility policy for Describe the goals and methods for bowel and bladder training. A. General Guidelines bowel and bladder bowel and bladder training training 1. Goal is to regain voluntary control of bowels and bladder C. Handout 8.19- Bowel 2. Follow standard precautions and Bladder Assessment 3. Follow bowel and bladder training schedule Program 4. Offer toileting per facility protocol 5. Explain schedule to patient/resident A. Lecture/Discussion A. Written test 6. Encourage proper diet B. Refer to Manual Skill B. Assists 7. Answer call light immediately 8. Provide for privacy Procedure 8.20- patients/residents with 9. Assist with perineal care to prevent skin breakdown Assisting elimination as needed 10. Keep accurate record of elimination pattern following facility Patient/resident to protocol B. Bladder training 1. If having difficulty voiding a. Have patient/resident lean forward slightly b. Run water c. Never rush patient/resident 2. Follow facility policy for clamping of urinary catheter C. Bowel training 1. Suppository at a regular time 2. Increase fluids 3. Diet will affect regularity",
+      "weighted_minutes": 35,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-22",
+      "content_outline": [
+        "Source objective statement: Describe the goals and methods for bowel and bladder training",
+        "Source excerpt support: B. Share sample policy for B. Follows facility policy for Describe the goals and methods for bowel and bladder training. A. General Guidelines bowel and bladder bowel and bladder training training 1. Goal is to regain voluntary control of bowels and bladder C. Handout 8.19- Bowel 2. Follow standard precautions and Bladder Assessment 3. Follow bowel and bladder training schedule Program 4. Offer toileting per facility protocol 5. Explain schedule to patient/resident A. Lecture/Discussion A. Written test 6. Encourage proper diet B. Refer to Manual Skill B. Assists 7. Answer call light immediately 8. Provide for privacy Procedure 8.20- patients/residents with 9. Assist with perineal care to pre",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the goals and methods for bowel and bladder tr — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the goals and methods for bowel and bladder tr — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the goals and methods for bowel and bladder tr — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-22",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 20,
+      "objective_title": "Describe the normal pattern of bowel movements and reportable observations",
+      "exact_objective_statement": "Describe the normal pattern of bowel movements and reportable observations",
+      "source_pages": [
+        22,
+        23
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-22-23",
+      "source_excerpt": "Describe the normal pattern of bowel movements and reportable observations. A. Each person is different and has own pattern 1. Frequency � daily to every 2 to 3 days 2. Time of day � morning or evening 3. The Nurse Assistant should note and report stool shape, size, Module 8: Patient Care Skills frequency, color, consistency, complaints of pain with Commode/Toilet defecation, etc. B. Notable observations 1. Stool shape 2. Size 3. Frequency 4. Color 5. Consistency 6. Amount 7. Complaints of pain with defecation C. Factors influencing bowel movements 1. Privacy � fear of others, hearing and/or smelling 2. Age � as patient/resident ages, more problems 3. Diet � need balanced diet with regular meals, food stimulates bowel movement 4. Fluids � need adequate fluid 5. Activity � stimulates 6. Medications � most tend to constipate 7. Personal habits 8. Disabilities D. General rules for maintaining normal elimination patterns 1. Promptly provide the bedpan, urinal, or commode, or help the patient/resident to the bathroom when the request is made 2. Assist the patient/resident to get into normal position (as much as is possible or safe) 3. Cover the patient/resident for privacy and warmth 4. Remain nearby if the person is weak or frail 5. Place the signal light and toilet tissue nearby 6. Allow the person time to carry out the elimination process 7. If patient/resident has difficulty, ask them what kinds of things they did at home to assist them, i.e., running water, reading or looking at a magazine Module 8: Patient Care Skills 8. Provide perineal care if needed A. Lecture/Discussio",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-22-23",
+      "content_outline": [
+        "Source objective statement: Describe the normal pattern of bowel movements and reportable observations",
+        "Source excerpt support: Describe the normal pattern of bowel movements and reportable observations. A. Each person is different and has own pattern 1. Frequency � daily to every 2 to 3 days 2. Time of day � morning or evening 3. The Nurse Assistant should note and report stool shape, size, Module 8: Patient Care Skills frequency, color, consistency, complaints of pain with Commode/Toilet defecation, etc. B. Notable observations 1. Stool shape 2. Size 3. Frequency 4. Color 5. Consistency 6. Amount 7. Complaints of pain with defecation C. Factors influencing bowel movements 1. Privacy � fear of others, hearing and/or smelling 2. Age � as patient/resident ages, more problems 3. Diet � need balanced diet with regular m",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the normal pattern of bowel movements and repo — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-22-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the normal pattern of bowel movements and repo — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-22-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the normal pattern of bowel movements and repo — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-22-23",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 21,
+      "objective_title": "Explain the purpose of an ostomy and the care of patients/residents with an ostomy",
+      "exact_objective_statement": "Explain the purpose of an ostomy and the care of patients/residents with an ostomy",
+      "source_pages": [
+        24,
+        25,
+        26
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-24-26",
+      "source_excerpt": "Explain the purpose of an ostomy and the care of colostomy care providing care for patients/residents with an ostomy. C. Demonstrate/return patient's/resident's with A. Definition of ostomy colostomy 1. Surgical creation of an artificial opening most commonly into demonstration on C. Follows guidelines when manikin for colostomy changing ostomy colon or small intestine care appliance 2. Some ostomies are for urinary drainage, i.e. nephrostomy, D. Refer to Manual Skill D. Follows guidelines when procedure 8.21- emptying ostomy bag ureterostomy Colostomy Care E. Provides skin care to 3. Urine or feces and flatus pass through opening patient/resident with an 4. Allow for healing of intestine after surgery or disease ostomy 5. Can be temporary or permanent B. Terms used with ostomy patients/residents 1. Stoma � a portion of the intestine brought to the surface of the abdomen to allow for drainage a. Pink and moist/red like mucous membrane b. Size and shape are different depending on area of intestine and patient/resident c. Can bleed when cleaned 2. Peristomal skin � the skin around the stoma; it should be clean, intact and dry 3. Appliance � the wafer and pouch or bag that protects the patient's/resident's skin and collects the drainage C. Ostomy types 1. Location depends on the disease or injury 2. Names according to location a. Colostomy 1) Ascending and transverse a) Stool is consistency of pureed liquid with slightly acidic content b) Must wear pouch all the time Module 8: Patient Care Skills 2) Descending and sigmoid a) Stool formed and looks \"normal\" b) Pattern of stool ",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-24-26",
+      "content_outline": [
+        "Source objective statement: Explain the purpose of an ostomy and the care of patients/residents with an ostomy",
+        "Source excerpt support: Explain the purpose of an ostomy and the care of colostomy care providing care for patients/residents with an ostomy. C. Demonstrate/return patient's/resident's with A. Definition of ostomy colostomy 1. Surgical creation of an artificial opening most commonly into demonstration on C. Follows guidelines when manikin for colostomy changing ostomy colon or small intestine care appliance 2. Some ostomies are for urinary drainage, i.e. nephrostomy, D. Refer to Manual Skill D. Follows guidelines when procedure 8.21- emptying ostomy bag ureterostomy Colostomy Care E. Provides skin care to 3. Urine or feces and flatus pass through opening patient/resident with an 4. Allow for healing of intestine af",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the purpose of an ostomy and the care of patie — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-24-26",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose of an ostomy and the care of patie — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-24-26",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the purpose of an ostomy and the care of patie — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-24-26",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 22,
+      "objective_title": "Describe the procedures for weighing and measuring height of the patient/resident",
+      "exact_objective_statement": "Describe the procedures for weighing and measuring height of the patient/resident",
+      "source_pages": [
+        27
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-27",
+      "source_excerpt": "Describe the procedures for weighing and measuring height of Procedures patient/resident height the patient/resident (see module 7). a. 8.22a- Measures and and weight according to A. Measure height and weight on admission and as ordered guidelines and facility B. Patient/resident wears gown or pajamas Records Weight of policy, using standing C. Should urinate before being weighed Ambulatory scale, bed scale or wheel D. Do routine weights at the same time each day if physician ordered Patient/resident chair scale as E. Most accurate weights completed during early morning care b. 8.22b- Weighing the appropriate Patient/resident in",
+      "weighted_minutes": 18,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-27",
+      "content_outline": [
+        "Source objective statement: Describe the procedures for weighing and measuring height of the patient/resident",
+        "Source excerpt support: Describe the procedures for weighing and measuring height of Procedures patient/resident height the patient/resident (see module 7). a. 8.22a- Measures and and weight according to A. Measure height and weight on admission and as ordered guidelines and facility B. Patient/resident wears gown or pajamas Records Weight of policy, using standing C. Should urinate before being weighed Ambulatory scale, bed scale or wheel D. Do routine weights at the same time each day if physician ordered Patient/resident chair scale as E. Most accurate weights completed during early morning care b. 8.22b- Weighing the appropriate Patient/resident in",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the procedures for weighing and measuring heig — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-27",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the procedures for weighing and measuring heig — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-27",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the procedures for weighing and measuring heig — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-27",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 23,
+      "objective_title": "Describe common prosthetic devices and their care (artificial limbs, contact lenses, dentures, eyeglasses and hearing aids)",
+      "exact_objective_statement": "Describe common prosthetic devices and their care (artificial limbs, contact lenses, dentures, eyeglasses and hearing aids)",
+      "source_pages": [
+        27,
+        28
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-27-28",
+      "source_excerpt": "Bed A. Written test Describe common prosthetic devices and their care (artificial c. 8.22c- Measuring B. Assists limbs, hearing aids, contact lenses, eye glasses and dentures). Weight of A. Types of prosthetic devices � cosmetic, adaptive and restorative Patient/resident in patients/residents Wheel Chair with prosthetic 1. Artificial limbs; arms and legs d. 8.22d- Measuring the devices a. Specially fitted to the individual patient/resident Patient's/resident's b. Nursing considerations Height Using an 1) Ask charge nurse for guidelines Upright Scale 2) Observe patient's/resident's ability and/or assist e. 8.22e- Measuring patient/resident to Height of Patient/resident in A. LectBuered/Discussion B. Show pictures of various prosthetic devices C. Use internet resources Module 8: Patient Care Skills participate in ADLs and ambulation 3) Assist patient/resident to apply brace as ordered 4) Maintain body alignment when in chair or bed 5) Keep call bell and personal items within reach 6) Assist patient/resident with ROM to affected muscles 7) Assist patient/resident with aids to foster ADL and independence 8) Use pad brace, if necessary 9) Use stump sock to reduce swelling 10) Give constant praise for rehabilitative efforts 11) Provide skin care at pressure points of device to prevent skin breakdown 12) Observe for complaint of arm/leg pain or numbness, or weakness with use of prosthetic device 13) Encourage physical strengthening exercises for involved and non-involved extremities 2. Contact lenses a. Cleanse contact lenses as directed b. Special caution due to fragile nature of",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-27-28",
+      "content_outline": [
+        "Source objective statement: Describe common prosthetic devices and their care (artificial limbs, contact lenses, dentures, eyeglasses and hearing aids)",
+        "Source excerpt support: Bed A. Written test Describe common prosthetic devices and their care (artificial c. 8.22c- Measuring B. Assists limbs, hearing aids, contact lenses, eye glasses and dentures). Weight of A. Types of prosthetic devices � cosmetic, adaptive and restorative Patient/resident in patients/residents Wheel Chair with prosthetic 1. Artificial limbs; arms and legs d. 8.22d- Measuring the devices a. Specially fitted to the individual patient/resident Patient's/resident's b. Nursing considerations Height Using an 1) Ask charge nurse for guidelines Upright Scale 2) Observe patient's/resident's ability and/or assist e. 8.22e- Measuring patient/resident to Height of Patient/resident in A. LectBuered/Discus",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "common prosthetic devices and their care (arti — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-27-28",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common prosthetic devices and their care (arti — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-27-28",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common prosthetic devices and their care (arti — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#pages-27-28",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 24,
+      "objective_title": "Describe the application, removal and care for \"behind the ear\" hearing aids",
+      "exact_objective_statement": "Describe the application, removal and care for \"behind the ear\" hearing aids",
+      "source_pages": [
+        29
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-29",
+      "source_excerpt": "Explain the purpose of a hearing aid and the procedures for maintenance and care of the hearing aid. A. Purposes of a hearing aid 1. Makes sound louder 2. Even the best hearing aid cannot restore full, normal hearing ability a. The patient/resident may still have trouble hearing b. Always face the patient/resident when talking to him/her and speak clearly B. Parts of a hearing aid 1. Microphone- changes sound waves into electric signals and transmits sound 2. Battery and Battery compartment 3. Amplifier uses battery energy to make the sound signals strong 4. Earmold channels the sound through the external ear canal to the ear drum (tympanic membrane) Module 8: Patient Care Skills 5. Cord- connects the amplifier to the earmold 6. On/off switch-turns hearing aid on/off and may control volume C. Care of Hearing aids 1. Caution: Never wash a hearing aid or immerse in water, as it will be ruined 2. Report to licensed nurse when the hearing aid needs cleaning or appears damaged 3. Check the battery periodically 4. Never drop the hearing aid 5. Do not attempt to repair hearing aids 6. Do not expose the hearing aid to heat 7. Do not let moisture get into the hearing aid 8. Do not use any kind of hair spray or medical spray on patients/residents while their hearing aids are in place the spray can clog the microphone opening 9. Check food trays and bed linens for misplaced hearing aids D. Storage of a hearing aid 1. Turn the hearing aid off when it is not in use 2. Store a hearing aid in a well-marked container labeled with patient's/resident's name and room number 3. Label hearing a",
+      "weighted_minutes": 43,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-29",
+      "content_outline": [
+        "Source objective statement: Describe the application, removal and care for \"behind the ear\" hearing aids",
+        "Source excerpt support: Explain the purpose of a hearing aid and the procedures for maintenance and care of the hearing aid. A. Purposes of a hearing aid 1. Makes sound louder 2. Even the best hearing aid cannot restore full, normal hearing ability a. The patient/resident may still have trouble hearing b. Always face the patient/resident when talking to him/her and speak clearly B. Parts of a hearing aid 1. Microphone- changes sound waves into electric signals and transmits sound 2. Battery and Battery compartment 3. Amplifier uses battery energy to make the sound signals strong 4. Earmold channels the sound through the external ear canal to the ear drum (tympanic membrane) Module 8: Patient Care Skills 5. Cord- co",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the application, removal and care for \"behind — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-29",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the application, removal and care for \"behind — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-29",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the application, removal and care for \"behind — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#page-29",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 8 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 8 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-8.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 24,
+    "terminology_count": 38,
+    "weighted_minutes_total": 840,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

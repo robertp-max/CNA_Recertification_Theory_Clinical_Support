@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Module 8 Dry Run Content Schema",
+  "type": "object",
+  "required": [
+    "app_copy",
+    "control_facts",
+    "modules",
+    "assessments",
+    "compliance"
+  ],
+  "properties": {
+    "app_copy": {
+      "type": "object"
+    },
+    "control_facts": {
+      "type": "object"
+    },
+    "modules": {
+      "type": "array",
+      "minItems": 1
+    },
+    "assessments": {
+      "type": "object"
+    },
+    "compliance": {
+      "type": "object"
+    }
+  }
+}

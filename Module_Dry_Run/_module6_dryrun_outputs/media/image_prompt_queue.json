@@ -1,0 +1,318 @@
+{
+  "module_id": "M06",
+  "queue_status": "ready_for_review_not_generated",
+  "prompts": [
+    {
+      "prompt_id": "M06-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O02-IMG01",
+      "title": "Name four infectious agents (microbes) and dis — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 2: Name four infectious agents (microbes) and discuss the diseases they cause. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O02-IMG02",
+      "title": "Name four infectious agents (microbes) and dis — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 2: Name four infectious agents (microbes) and discuss the diseases they cause. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O02-IMG03",
+      "title": "Name four infectious agents (microbes) and dis — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 2: Name four infectious agents (microbes) and discuss the diseases they cause. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O03-IMG01",
+      "title": "two antibiotic resistant bacteria — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 3: Discuss two antibiotic resistant bacteria. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O03-IMG02",
+      "title": "two antibiotic resistant bacteria — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 3: Discuss two antibiotic resistant bacteria. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O03-IMG03",
+      "title": "two antibiotic resistant bacteria — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 3: Discuss two antibiotic resistant bacteria. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O04-IMG01",
+      "title": "five conditions necessary for infectious agent — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 4: State five conditions necessary for infectious agents to grow. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O04-IMG02",
+      "title": "five conditions necessary for infectious agent — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 4: State five conditions necessary for infectious agents to grow. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O04-IMG03",
+      "title": "five conditions necessary for infectious agent — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 4: State five conditions necessary for infectious agents to grow. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O05-IMG01",
+      "title": "the six parts of the chain of infection — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 5: Identify the six parts of the chain of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O05-IMG02",
+      "title": "the six parts of the chain of infection — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 5: Identify the six parts of the chain of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O05-IMG03",
+      "title": "the six parts of the chain of infection — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 5: Identify the six parts of the chain of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O06-IMG01",
+      "title": "four lines of defense against infection in the — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 6: List four lines of defense against infection in the body. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O06-IMG02",
+      "title": "four lines of defense against infection in the — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 6: List four lines of defense against infection in the body. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O06-IMG03",
+      "title": "four lines of defense against infection in the — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 6: List four lines of defense against infection in the body. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O07-IMG01",
+      "title": "the signs and symptoms of infection — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 7: Describe the signs and symptoms of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O07-IMG02",
+      "title": "the signs and symptoms of infection — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 7: Describe the signs and symptoms of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O07-IMG03",
+      "title": "the signs and symptoms of infection — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 7: Describe the signs and symptoms of infection. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O08-IMG01",
+      "title": "between medical and surgical asepsis — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 8: Differentiate between medical and surgical asepsis. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O08-IMG02",
+      "title": "between medical and surgical asepsis — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 8: Differentiate between medical and surgical asepsis. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O08-IMG03",
+      "title": "between medical and surgical asepsis — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 8: Differentiate between medical and surgical asepsis. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O09-IMG01",
+      "title": "the roles of the Centers for Disease Control ( — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 9: Identify the roles of the Centers for Disease Control (CDC) and the Occupational Safety and Health Administration (OSHA) in the prevention of infections. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O09-IMG02",
+      "title": "the roles of the Centers for Disease Control ( — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 9: Identify the roles of the Centers for Disease Control (CDC) and the Occupational Safety and Health Administration (OSHA) in the prevention of infections. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O09-IMG03",
+      "title": "the roles of the Centers for Disease Control ( — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 9: Identify the roles of the Centers for Disease Control (CDC) and the Occupational Safety and Health Administration (OSHA) in the prevention of infections. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O10-IMG01",
+      "title": "standard precaution procedures — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 10: Explain standard precaution procedures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O10-IMG02",
+      "title": "standard precaution procedures — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 10: Explain standard precaution procedures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O10-IMG03",
+      "title": "standard precaution procedures — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 10: Explain standard precaution procedures. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#pages-8-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O11-IMG01",
+      "title": "personal protective equipment (PPE) and proper — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 11: Describe personal protective equipment (PPE) and proper use. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O11-IMG02",
+      "title": "personal protective equipment (PPE) and proper — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 11: Describe personal protective equipment (PPE) and proper use. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O11-IMG03",
+      "title": "personal protective equipment (PPE) and proper — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 11: Describe personal protective equipment (PPE) and proper use. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O12-IMG01",
+      "title": "transmission-based precautions — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 12: Define transmission-based precautions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O12-IMG02",
+      "title": "transmission-based precautions — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 12: Define transmission-based precautions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O12-IMG03",
+      "title": "transmission-based precautions — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 12: Define transmission-based precautions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O13-IMG01",
+      "title": "the psychological effects of standard precauti — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 13: Identify the psychological effects of standard precaution and transmission based precautions on patient/patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O13-IMG02",
+      "title": "the psychological effects of standard precauti — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 13: Identify the psychological effects of standard precaution and transmission based precautions on patient/patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M06-O13-IMG03",
+      "title": "the psychological effects of standard precauti — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 6: Medical and Surgical Asepsis, Objective 13: Identify the psychological effects of standard precaution and transmission based precautions on patient/patients/residents. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-6.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

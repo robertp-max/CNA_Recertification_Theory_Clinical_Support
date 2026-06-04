@@ -1,0 +1,469 @@
+{
+  "run_name": "NATP Module 12: Emergency Procedures — Source-First Dry Run",
+  "generated_at": "2026-06-04T11:18:02",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf",
+  "source_title": "Module 12: Emergency Procedures",
+  "learner_facing_title": "NATP Module 12: Emergency Procedures",
+  "minimum_theory_hours": 2.0,
+  "suggested_theory_hours": null,
+  "recommended_theory_hours": null,
+  "selected_theory_hours": 2.0,
+  "selected_theory_basis": "source minimum theory hours",
+  "theory_minutes_total": 120,
+  "clinical_hours": 1.0,
+  "clinical_hours_label": "recommended clinical hours",
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "The purpose of this unit is to introduce the student to the concepts and procedures related to emergency procedures, signs and symptoms of distress, and the role of the Nurse Assistant in Long Term Care (LTC) in the response to immediate and temporary intervention in emergency situations.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Abdominal thrusts",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 2,
+      "term": "Advance directive",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 3,
+      "term": "Agitation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 4,
+      "term": "Airway",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 5,
+      "term": "Aphasia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 6,
+      "term": "Aspirate",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 7,
+      "term": "Automated External Device (AED)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 8,
+      "term": "Barrier device",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 9,
+      "term": "Bradypnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 10,
+      "term": "Breathing",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 11,
+      "term": "Cardiac arrest",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 12,
+      "term": "Cardiopulmonary Resuscitation (CPR)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 13,
+      "term": "Compressions, Airway, Breathing (CAB)-formerly (ABC)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 14,
+      "term": "Cyanosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 15,
+      "term": "Defibrillator",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 16,
+      "term": "Diaphoresis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 17,
+      "term": "Do Not Resuscitate (DNR)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 18,
+      "term": "Dyspnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 19,
+      "term": "Emergency Medical Services (EMS)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 20,
+      "term": "Heimlich maneuver",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 21,
+      "term": "Hemiplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 22,
+      "term": "Hemorrhage",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 23,
+      "term": "Hyperventilation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 24,
+      "term": "Hypoglycemia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 25,
+      "term": "Hypoventilation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 26,
+      "term": "Hypoxia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 27,
+      "term": "Pallor",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 28,
+      "term": "Pocket mask",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 29,
+      "term": "Recovery position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 30,
+      "term": "Respiratory arrest",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 31,
+      "term": "Respiratory distress",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 32,
+      "term": "Stat",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 33,
+      "term": "Syncope",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 34,
+      "term": "Tachypnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    },
+    {
+      "term_number": 35,
+      "term": "Unconscious",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology.",
+      "exact_objective_statement": "Define key terminology.",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "source_excerpt": "Strategies and Method of Evaluation Define Key Terminology. Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select C. Pronounce the terms correctly B. Games: word searches, five words from the list D. Use the terms in their proper context of key terminology and crossword puzzles, write a sentence for",
+      "weighted_minutes": 13,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Define key terminology.",
+        "Source excerpt support: Strategies and Method of Evaluation Define Key Terminology. Assignments A. Review the terms listed in the terminology section B. Spell the listed terms accurately A. Lecture/Discussion A. Have students select C. Pronounce the terms correctly B. Games: word searches, five words from the list D. Use the terms in their proper context of key terminology and crossword puzzles, write a sentence for",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Term Context Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Using Source Terms",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.",
+      "exact_objective_statement": "Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.",
+      "source_pages": [
+        1
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+      "source_excerpt": "Family Feud, Jeopardy, each defining the term Identify common signs and symptoms of conditions associated bingo, spelling bee, with patient/resident distress and describe the Nurse hangman, and B. Administer vocabulary Assistant's role and responsibility in preventing and/or concentration pre-test and post-test responding. C. Encourage use of A. Myocardial infarction (MI, heart attack) internet, medical C. Uses appropriate dictionary, and terminology when 1. A disruption of the flow of blood to an area of the muscle of textbooks charting and reporting to the heart with subsequent death of the tissue at that area D. Create flashcards licensed personnel E. Handout 12.1a- 2. Signs and symptoms Emergency Procedures a. Chest pain Crossword 1) May be described as crushing, squeezing, or pressure F. Handout 12.1b- 2) May radiate down arms, jaw, or back Emergency Procedures Crossword- KEY A. Lecture A. Written test B. Discussion B. Recognizes Show online video (13 patients/residents in min) \"Act in Time to distress and reports Heart Attack Signs\" from signs and symptoms National Heart and Lung immediately to charge Institute. (May need to nurse download RealPlayer) C. Provides appropriate http://www.nhlbi.nih.gov/ actintime/video.htm Module 12: Emergency Procedures 2) Complaint may be severe indigestion, heartburn, or D. Go to American Stroke care or emergency stomach pain Association website for measures until qualified stroke information: help arrives b. Shortness of breath, Dyspnea or absence of breathing http://www.strokeassoci D. Documents according to c. Diaphoresis ation.org",
+      "weighted_minutes": 32,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-1",
+      "content_outline": [
+        "Source objective statement: Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant's role and responsibility in preventing and/or responding.",
+        "Source excerpt support: Family Feud, Jeopardy, each defining the term Identify common signs and symptoms of conditions associated bingo, spelling bee, with patient/resident distress and describe the Nurse hangman, and B. Administer vocabulary Assistant's role and responsibility in preventing and/or concentration pre-test and post-test responding. C. Encourage use of A. Myocardial infarction (MI, heart attack) internet, medical C. Uses appropriate dictionary, and terminology when 1. A disruption of the flow of blood to an area of the muscle of textbooks charting and reporting to the heart with subsequent death of the tissue at that area D. Create flashcards licensed personnel E. Handout 12.1a- 2. Signs and symptoms ",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "common signs and symptoms of conditions associ — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common signs and symptoms of conditions associ — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common signs and symptoms of conditions associ — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Describe the immediate interventions in a medical emergency.",
+      "exact_objective_statement": "Describe the immediate interventions in a medical emergency.",
+      "source_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+      "source_excerpt": "for role in medical emergency C. Cerebrovascular accident (CVA, Stroke, or brain attack) 1. A disturbance or obstruction of the flow of blood to a particular area of the brain with subsequent death of tissue 2. Signs and Symptoms a. Hemiplegia or weakness of one side of the body or numbness or tingling on one side of the body b. Aphasia-difficulty in speaking or understanding speech c. Headache d. Vision changes, blurred vision, pupils unequal e. Facial changes 1) Cheeks may \"puff \"on exhalation 2) One eyelid or eye may droop 3) Face may appear asymmetrical 4) Drooling f. Loss of bowel or bladder control g. Shaking or trembling 3. Give Me 5 for Stroke Tool from American Stroke Association a. Walk (Is their balance off?) b. Talk (Is their speech slurred or is their face droopy?) c. Reach (Is one side weak or numb?) d. See (Is their vision all or partly lost) e. Feel (Is their headache severe?) 4. FAST from American Stroke Association a. Face drooping b. Arm weakness c. Speech difficulty d. Time to call 9-1-1 5. Nurse Assistant Role a. Call for help loudly and pull emergency call light if available b. Remain calm Module 12: Emergency Procedures c. Stay with the patient/resident d. Place patient/resident in a position of comfort e. Reassure patient/resident f. Intervene at level of competence as directed by the licensed nurse g. Assess patient's/resident's condition and take vital signs while awaiting assistance from the licensed nurse h. Keep patient/resident warm as needed D. Syncope, fainting episode 1. A feeling of dizziness with possible temporary loss of consciousness 2.",
+      "weighted_minutes": 31,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#pages-5-11",
+      "content_outline": [
+        "Source objective statement: Describe the immediate interventions in a medical emergency.",
+        "Source excerpt support: for role in medical emergency C. Cerebrovascular accident (CVA, Stroke, or brain attack) 1. A disturbance or obstruction of the flow of blood to a particular area of the brain with subsequent death of tissue 2. Signs and Symptoms a. Hemiplegia or weakness of one side of the body or numbness or tingling on one side of the body b. Aphasia-difficulty in speaking or understanding speech c. Headache d. Vision changes, blurred vision, pupils unequal e. Facial changes 1) Cheeks may \"puff \"on exhalation 2) One eyelid or eye may droop 3) Face may appear asymmetrical 4) Drooling f. Loss of bowel or bladder control g. Shaking or trembling 3. Give Me 5 for Stroke Tool from American Stroke Association a.",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the immediate interventions in a medical emerg — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the immediate interventions in a medical emerg — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the immediate interventions in a medical emerg — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#pages-5-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.",
+      "exact_objective_statement": "List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.",
+      "source_pages": [
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "source_excerpt": "A. Lecture A. Written test List the causes and signs of choking and discuss the use of the B. Discussion B. Recognizes universal C. Manual Skill 12.4: abdominal thrusts for relief of obstructed airway. sign for choking Choking victim- C. Demonstrates correct A. Airway obstruction or choking can lead to cardiac arrest Conscious and Unconscious technique for abdominal B. Causes D. Practice abdominal thrusts for conscious 1. Foreign body � such as poorly chewed pieces of meat thrusts on manikin- and victim using 2. Tongue � in the unconscious patient/resident the tongue standing, sitting, and on manikin can fall backward in the throat and block the airway floor D. Responds to 3. Small objects E. May also be reviewed emergencies safely and 4. Vomitus � aspiration of vomit during Module 11- per facility protocol 5. Thick mucus Feeding 6. Dentures A. Lecture A. Written test C. Signs of choking B. Discussion B. Recognizes 1. Respiratory difficulty � victim cannot breathe 2. High pitched sounds emergency codes in 3. Inability to speak or cough facility 4. Universal choking sign � victim clutches throat D. Abdominal thrusts (Heimlich maneuver) are used to relieve, obstructed airway in a conscious victim E. Chest compressions are used if the victim is unconscious and rescuer is unable to ventilate",
+      "weighted_minutes": 31,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-12",
+      "content_outline": [
+        "Source objective statement: List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway.",
+        "Source excerpt support: A. Lecture A. Written test List the causes and signs of choking and discuss the use of the B. Discussion B. Recognizes universal C. Manual Skill 12.4: abdominal thrusts for relief of obstructed airway. sign for choking Choking victim- C. Demonstrates correct A. Airway obstruction or choking can lead to cardiac arrest Conscious and Unconscious technique for abdominal B. Causes D. Practice abdominal thrusts for conscious 1. Foreign body � such as poorly chewed pieces of meat thrusts on manikin- and victim using 2. Tongue � in the unconscious patient/resident the tongue standing, sitting, and on manikin can fall backward in the throat and block the airway floor D. Responds to 3. Small objects E",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "the causes and signs of choking and discuss th — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the causes and signs of choking and discuss th — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "the causes and signs of choking and discuss th — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment",
+      "exact_objective_statement": "Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment",
+      "source_pages": [
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+      "source_excerpt": "Describe common emergency codes used in long-term care facilities. A. Emergency code colors and meanings 1. Code Red � fire 2. Code Blue � adult medical emergency (Cardiac or Respiratory) 3. Code Yellow �bomb threat 4. Code Gray � combative person 5. Code Silver � person with weapon or hostage 6. Code Orange � hazardous waste spill or release B. Codes may vary according to facility C. Observe special consideration for hearing and sight impaired patients/residents Module 12: Emergency Procedures",
+      "weighted_minutes": 13,
+      "weight_reason": "Deterministic source-density allocation from source minimum theory hours; assessment/clinical/certificate time excluded.",
+      "source_reference_suffix": "#page-12",
+      "content_outline": [
+        "Source objective statement: Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment",
+        "Source excerpt support: Describe common emergency codes used in long-term care facilities. A. Emergency code colors and meanings 1. Code Red � fire 2. Code Blue � adult medical emergency (Cardiac or Respiratory) 3. Code Yellow �bomb threat 4. Code Gray � combative person 5. Code Silver � person with weapon or hostage 6. Code Orange � hazardous waste spill or release B. Codes may vary according to facility C. Observe special consideration for hearing and sight impaired patients/residents Module 12: Emergency Procedures",
+        "Instruction stays within CNA observe/assist/document/report and deferred clinical-skill boundaries."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Source-traced scenario practice",
+        "Mobile-friendly knowledge check"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written/source-traced check",
+        "Hands-on clinical validation deferred to evaluator-supported setting when source-stated"
+      ],
+      "required_activities": [
+        {
+          "name": "common emergency codes used in long-term care — Source Trace Card Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common emergency codes used in long-term care — CNA Scope and Reporting Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "common emergency codes used in long-term care — Objective Practice Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#page-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "approved_source_pdf",
+      "title": "CCCCO NATP Module 12 source PDF",
+      "source_location": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf",
+      "usage_boundary": "sole authority for this dry run",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf"
+    },
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 12 terminology list",
+      "source_location": "terminology section",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-12.pdf#terminology-section"
+    }
+  ],
+  "validation": {
+    "objective_count": 5,
+    "terminology_count": 35,
+    "weighted_minutes_total": 120,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false,
+    "no_blank_activity_titles": true
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "module_id": "M15",
+  "queue_status": "ready_for_review_not_generated",
+  "prompts": [
+    {
+      "prompt_id": "M15-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O02-IMG01",
+      "title": "word elements used in medical terms — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 2: Identify word elements used in medical terms. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O02-IMG02",
+      "title": "word elements used in medical terms — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 2: Identify word elements used in medical terms. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O02-IMG03",
+      "title": "word elements used in medical terms — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 2: Identify word elements used in medical terms. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O03-IMG01",
+      "title": "medical terminology and abbreviations commonly — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O03-IMG02",
+      "title": "medical terminology and abbreviations commonly — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O03-IMG03",
+      "title": "medical terminology and abbreviations commonly — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 3: Identify medical terminology and abbreviations commonly used in medical facilities. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O04-IMG01",
+      "title": "observation and list the senses used to observ — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 4: Define observation and list the senses used to observe a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O04-IMG02",
+      "title": "observation and list the senses used to observ — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 4: Define observation and list the senses used to observe a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O04-IMG03",
+      "title": "observation and list the senses used to observ — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 4: Define observation and list the senses used to observe a patient/resident.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-4",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O05-IMG01",
+      "title": "objective and subjective observations — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 5: Describe objective and subjective observations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O05-IMG02",
+      "title": "objective and subjective observations — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 5: Describe objective and subjective observations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O05-IMG03",
+      "title": "objective and subjective observations — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 5: Describe objective and subjective observations. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O06-IMG01",
+      "title": "types of charting documents and the use for ea — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 6: List types of charting documents and the use for each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O06-IMG02",
+      "title": "types of charting documents and the use for ea — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 6: List types of charting documents and the use for each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O06-IMG03",
+      "title": "types of charting documents and the use for ea — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 6: List types of charting documents and the use for each. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O07-IMG01",
+      "title": "how to accurately complete ADL assessment for — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 7: Explain how to accurately complete ADL assessment for MDS. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O07-IMG02",
+      "title": "how to accurately complete ADL assessment for — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 7: Explain how to accurately complete ADL assessment for MDS. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O07-IMG03",
+      "title": "how to accurately complete ADL assessment for — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 7: Explain how to accurately complete ADL assessment for MDS. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#pages-6-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O08-IMG01",
+      "title": "procedures to use when recording on a patient' — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 8: Discuss procedures to use when recording on a patient's/resident's chart. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O08-IMG02",
+      "title": "procedures to use when recording on a patient' — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 8: Discuss procedures to use when recording on a patient's/resident's chart. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M15-O08-IMG03",
+      "title": "procedures to use when recording on a patient' — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 15: Observation and Charting, Objective 8: Discuss procedures to use when recording on a patient's/resident's chart. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-15.pdf#page-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

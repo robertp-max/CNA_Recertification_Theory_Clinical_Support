@@ -1,0 +1,318 @@
+{
+  "module_id": "M03",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M03-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 1: Define key terminology.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O02-IMG01",
+      "title": "and discuss the five basic physiological and p — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 2: Identify and discuss the five basic physiological and psychosocial needs of all humans, as described by Maslow's Hierarchy of Needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O02-IMG02",
+      "title": "and discuss the five basic physiological and p — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 2: Identify and discuss the five basic physiological and psychosocial needs of all humans, as described by Maslow's Hierarchy of Needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O02-IMG03",
+      "title": "and discuss the five basic physiological and p — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 2: Identify and discuss the five basic physiological and psychosocial needs of all humans, as described by Maslow's Hierarchy of Needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O03-IMG01",
+      "title": "and report patient/resident behaviors that ref — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 3: Recognize and report patient/resident behaviors that reflect unmet human needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O03-IMG02",
+      "title": "and report patient/resident behaviors that ref — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 3: Recognize and report patient/resident behaviors that reflect unmet human needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O03-IMG03",
+      "title": "and report patient/resident behaviors that ref — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 3: Recognize and report patient/resident behaviors that reflect unmet human needs.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-5",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O04-IMG01",
+      "title": "communication and therapeutic communication an — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 4: Define communication and therapeutic communication and identify two routes of communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-6-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O04-IMG02",
+      "title": "communication and therapeutic communication an — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 4: Define communication and therapeutic communication and identify two routes of communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-6-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O04-IMG03",
+      "title": "communication and therapeutic communication an — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 4: Define communication and therapeutic communication and identify two routes of communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-6-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O05-IMG01",
+      "title": "the key steps involved in the communication pr — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 5: Describe the key steps involved in the communication process and methods used in communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O05-IMG02",
+      "title": "the key steps involved in the communication pr — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 5: Describe the key steps involved in the communication process and methods used in communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O05-IMG03",
+      "title": "the key steps involved in the communication pr — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 5: Describe the key steps involved in the communication process and methods used in communication.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O06-IMG01",
+      "title": "reasons for communication breakdown — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 6: Describe reasons for communication breakdown.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O06-IMG02",
+      "title": "reasons for communication breakdown — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 6: Describe reasons for communication breakdown.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O06-IMG03",
+      "title": "reasons for communication breakdown — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 6: Describe reasons for communication breakdown.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O07-IMG01",
+      "title": "effective communication/interpersonal skills u — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 7: Describe effective communication/interpersonal skills used with patients/residents, their families and guests.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-11-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O07-IMG02",
+      "title": "effective communication/interpersonal skills u — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 7: Describe effective communication/interpersonal skills used with patients/residents, their families and guests.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-11-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O07-IMG03",
+      "title": "effective communication/interpersonal skills u — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 7: Describe effective communication/interpersonal skills used with patients/residents, their families and guests.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-11-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O08-IMG01",
+      "title": "conflict and measures for conflict resolution — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 8: Describe conflict and measures for conflict resolution.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O08-IMG02",
+      "title": "conflict and measures for conflict resolution — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 8: Describe conflict and measures for conflict resolution.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O08-IMG03",
+      "title": "conflict and measures for conflict resolution — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 8: Describe conflict and measures for conflict resolution.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O09-IMG01",
+      "title": "touch as a form of communication, including bo — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 9: Discuss touch as a form of communication, including body language and personal space.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O09-IMG02",
+      "title": "touch as a form of communication, including bo — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 9: Discuss touch as a form of communication, including body language and personal space.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O09-IMG03",
+      "title": "touch as a form of communication, including bo — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 9: Discuss touch as a form of communication, including body language and personal space.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O10-IMG01",
+      "title": "common psychological defense mechanisms — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 10: Identify common psychological defense mechanisms.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O10-IMG02",
+      "title": "common psychological defense mechanisms — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 10: Identify common psychological defense mechanisms.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O10-IMG03",
+      "title": "common psychological defense mechanisms — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 10: Identify common psychological defense mechanisms.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O11-IMG01",
+      "title": "family communication/interaction patterns and — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 11: Describe family communication/interaction patterns and the role of the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O11-IMG02",
+      "title": "family communication/interaction patterns and — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 11: Describe family communication/interaction patterns and the role of the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O11-IMG03",
+      "title": "family communication/interaction patterns and — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 11: Describe family communication/interaction patterns and the role of the Nurse Assistant.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-16",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O12-IMG01",
+      "title": "social and cultural factors influencing commun — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 12: Describe social and cultural factors influencing communication and emotional reactions to illness and disability.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O12-IMG02",
+      "title": "social and cultural factors influencing commun — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 12: Describe social and cultural factors influencing communication and emotional reactions to illness and disability.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O12-IMG03",
+      "title": "social and cultural factors influencing commun — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 12: Describe social and cultural factors influencing communication and emotional reactions to illness and disability.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O13-IMG01",
+      "title": "communication between the members of the healt — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 13: Describe communication between the members of the health care team.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O13-IMG02",
+      "title": "communication between the members of the healt — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 13: Describe communication between the members of the health care team.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M03-O13-IMG03",
+      "title": "communication between the members of the healt — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 3: Communication/Interpersonal Skills, Objective 13: Describe communication between the members of the health care team.. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-3.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

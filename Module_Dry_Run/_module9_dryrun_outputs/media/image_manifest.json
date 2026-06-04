@@ -1,0 +1,438 @@
+{
+  "module_id": "M09",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M09-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O02-IMG01",
+      "title": "the Nurse Assistant's role in collecting speci — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 2: Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O02-IMG02",
+      "title": "the Nurse Assistant's role in collecting speci — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 2: Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O02-IMG03",
+      "title": "the Nurse Assistant's role in collecting speci — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 2: Describe the Nurse Assistant's role in collecting specimens (sputum, urine, and/or stool). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O03-IMG01",
+      "title": "procedures for bed making and maintaining prop — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 3: Discuss procedures for bed making and maintaining proper body mechanics. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O03-IMG02",
+      "title": "procedures for bed making and maintaining prop — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 3: Discuss procedures for bed making and maintaining proper body mechanics. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O03-IMG03",
+      "title": "procedures for bed making and maintaining prop — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 3: Discuss procedures for bed making and maintaining proper body mechanics. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-7-8",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O04-IMG01",
+      "title": "types of beds and bed positions — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 4: Discuss types of beds and bed positions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O04-IMG02",
+      "title": "types of beds and bed positions — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 4: Discuss types of beds and bed positions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O04-IMG03",
+      "title": "types of beds and bed positions — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 4: Discuss types of beds and bed positions. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O05-IMG01",
+      "title": "ways to maintain the patient's/resident's envi — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 5: Discuss ways to maintain the patient's/resident's environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O05-IMG02",
+      "title": "ways to maintain the patient's/resident's envi — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 5: Discuss ways to maintain the patient's/resident's environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O05-IMG03",
+      "title": "ways to maintain the patient's/resident's envi — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 5: Discuss ways to maintain the patient's/resident's environment. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O06-IMG01",
+      "title": "the Nurse Assistant's role in administering an — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 6: Describe the Nurse Assistant's role in administering an enema. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O06-IMG02",
+      "title": "the Nurse Assistant's role in administering an — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 6: Describe the Nurse Assistant's role in administering an enema. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O06-IMG03",
+      "title": "the Nurse Assistant's role in administering an — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 6: Describe the Nurse Assistant's role in administering an enema. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-11",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O07-IMG01",
+      "title": "the Nurse Assistant's role in giving a supposi — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 7: Describe the Nurse Assistant's role in giving a suppository. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O07-IMG02",
+      "title": "the Nurse Assistant's role in giving a supposi — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 7: Describe the Nurse Assistant's role in giving a suppository. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O07-IMG03",
+      "title": "the Nurse Assistant's role in giving a supposi — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 7: Describe the Nurse Assistant's role in giving a suppository. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-12",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O08-IMG01",
+      "title": "the types and uses of gastrointestinal (GI) tu — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 8: List the types and uses of gastrointestinal (GI) tubes. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O08-IMG02",
+      "title": "the types and uses of gastrointestinal (GI) tu — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 8: List the types and uses of gastrointestinal (GI) tubes. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O08-IMG03",
+      "title": "the types and uses of gastrointestinal (GI) tu — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 8: List the types and uses of gastrointestinal (GI) tubes. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-13",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O09-IMG01",
+      "title": "major nursing care activities for patients/res — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 9: Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O09-IMG02",
+      "title": "major nursing care activities for patients/res — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 9: Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O09-IMG03",
+      "title": "major nursing care activities for patients/res — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 9: Describe major nursing care activities for patients/residents with feeding tube (nasogastric or gastrostomy). No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-13-14",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O10-IMG01",
+      "title": "nursing care activities for a patient/resident — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 10: Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O10-IMG02",
+      "title": "nursing care activities for a patient/resident — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 10: Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O10-IMG03",
+      "title": "nursing care activities for a patient/resident — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 10: Describe nursing care activities for a patient/resident receiving intravenous (I.V.) therapy. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-15",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O11-IMG01",
+      "title": "the Nursing Assistant's role in assisting the — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 11: Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O11-IMG02",
+      "title": "the Nursing Assistant's role in assisting the — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 11: Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O11-IMG03",
+      "title": "the Nursing Assistant's role in assisting the — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 11: Describe the Nursing Assistant's role in assisting the patient/resident to maintain fluid balance. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-16-17",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O12-IMG01",
+      "title": "the purpose and procedure for measuring the am — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 12: Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O12-IMG02",
+      "title": "the purpose and procedure for measuring the am — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 12: Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O12-IMG03",
+      "title": "the purpose and procedure for measuring the am — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 12: Describe the purpose and procedure for measuring the amount of fluid taken in and fluids excreted by the patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-18",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O13-IMG01",
+      "title": "the Nursing's Assistant role in the use of ban — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 13: Discuss the Nursing's Assistant role in the use of bandages, binders and dressings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O13-IMG02",
+      "title": "the Nursing's Assistant role in the use of ban — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 13: Discuss the Nursing's Assistant role in the use of bandages, binders and dressings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O13-IMG03",
+      "title": "the Nursing's Assistant role in the use of ban — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 13: Discuss the Nursing's Assistant role in the use of bandages, binders and dressings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-19-20",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O14-IMG01",
+      "title": "the use and method of applying anti-embolic ho — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 14: Describe the use and method of applying anti-embolic hose/elastic stockings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O14-IMG02",
+      "title": "the use and method of applying anti-embolic ho — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 14: Describe the use and method of applying anti-embolic hose/elastic stockings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O14-IMG03",
+      "title": "the use and method of applying anti-embolic ho — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 14: Describe the use and method of applying anti-embolic hose/elastic stockings. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-21",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O15-IMG01",
+      "title": "the Nurse Assistant's role in the care of pati — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 15: Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O15-IMG02",
+      "title": "the Nurse Assistant's role in the care of pati — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 15: Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O15-IMG03",
+      "title": "the Nurse Assistant's role in the care of pati — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 15: Identify the Nurse Assistant's role in the care of patients/residents' skin conditions and the use of non-prescription ointments, lotions, or powders. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#pages-21-22",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O16-IMG01",
+      "title": "the role of the Nurse Assistant in the admissi — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 16: Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O16-IMG02",
+      "title": "the role of the Nurse Assistant in the admissi — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 16: Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O16-IMG03",
+      "title": "the role of the Nurse Assistant in the admissi — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 16: Explain the role of the Nurse Assistant in the admission of a patient/resident to the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-23",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O17-IMG01",
+      "title": "the role of the Nurse Assistant in transferrin — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 17: Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O17-IMG02",
+      "title": "the role of the Nurse Assistant in transferrin — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 17: Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O17-IMG03",
+      "title": "the role of the Nurse Assistant in transferrin — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 17: Explain the role of the Nurse Assistant in transferring a patient/resident from one area to another within the facility. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-24",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O18-IMG01",
+      "title": "the role of the Nurse Assistant in the dischar — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 18: Explain the role of the Nurse Assistant in the discharge of a patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O18-IMG02",
+      "title": "the role of the Nurse Assistant in the dischar — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 18: Explain the role of the Nurse Assistant in the discharge of a patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M09-O18-IMG03",
+      "title": "the role of the Nurse Assistant in the dischar — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 9: Patient Care Procedures, Objective 18: Explain the role of the Nurse Assistant in the discharge of a patient/resident. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-9.pdf#page-25",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}

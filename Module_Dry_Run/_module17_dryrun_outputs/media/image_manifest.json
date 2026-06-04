@@ -1,0 +1,126 @@
+{
+  "module_id": "M17",
+  "status": "queued_not_generated",
+  "items": [
+    {
+      "prompt_id": "M17-O01-IMG01",
+      "title": "Terminology Flashcards",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O01-IMG02",
+      "title": "Term Context Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O01-IMG03",
+      "title": "Report Using Source Terms",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 1: Define key terminology. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-1",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O02-IMG01",
+      "title": "and discuss types of elder abuse — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 2: Identify and discuss types of elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O02-IMG02",
+      "title": "and discuss types of elder abuse — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 2: Identify and discuss types of elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O02-IMG03",
+      "title": "and discuss types of elder abuse — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 2: Identify and discuss types of elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-7",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O03-IMG01",
+      "title": "the issues related to elder abuse — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 3: Discuss the issues related to elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O03-IMG02",
+      "title": "the issues related to elder abuse — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 3: Discuss the issues related to elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O03-IMG03",
+      "title": "the issues related to elder abuse — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 3: Discuss the issues related to elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-6",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O04-IMG01",
+      "title": "the Nurse Assistant role in preventing elder a — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 4: Explain the Nurse Assistant role in preventing elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O04-IMG02",
+      "title": "the Nurse Assistant role in preventing elder a — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 4: Explain the Nurse Assistant role in preventing elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O04-IMG03",
+      "title": "the Nurse Assistant role in preventing elder a — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 4: Explain the Nurse Assistant role in preventing elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#pages-7-9",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O05-IMG01",
+      "title": "the Nurse Assistant role in reporting elder ab — Source Trace Card Sort",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 5: Describe the Nurse Assistant role in reporting elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O05-IMG02",
+      "title": "the Nurse Assistant role in reporting elder ab — CNA Scope and Reporting Scenario",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 5: Describe the Nurse Assistant role in reporting elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    },
+    {
+      "prompt_id": "M17-O05-IMG03",
+      "title": "the Nurse Assistant role in reporting elder ab — Objective Practice Check",
+      "prompt": "Create a de-identified CNA training illustration for NATP Module 17: Patient/Resident Abuse, Objective 5: Describe the Nurse Assistant role in reporting elder abuse. No PHI, no facility logos, inclusive learners, mobile-friendly composition.",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-17.pdf#page-10",
+      "status": "queued_not_generated",
+      "alt_text_required": true
+    }
+  ]
+}
