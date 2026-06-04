@@ -1,0 +1,125 @@
+{
+  "status": "prompt_queue_only_no_images_generated",
+  "items": [
+    {
+      "image_id": "M11-IMG-01",
+      "category": "balanced diet concept",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: balanced diet concept; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for balanced diet concept; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-02",
+      "category": "nutrient source visual",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: nutrient source visual; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for nutrient source visual; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-03",
+      "category": "My Plate diagram",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: My Plate diagram; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for My Plate diagram; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-04",
+      "category": "vegan four groups",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: vegan four groups; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for vegan four groups; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-05",
+      "category": "elder nutrition risk",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: elder nutrition risk; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for elder nutrition risk; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-06",
+      "category": "allergy tray check",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: allergy tray check; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for allergy tray check; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-07",
+      "category": "therapeutic diet examples",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: therapeutic diet examples; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for therapeutic diet examples; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-08",
+      "category": "safe feeding posture",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: safe feeding posture; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for safe feeding posture; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-09",
+      "category": "dysphagia signs",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: dysphagia signs; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for dysphagia signs; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-10",
+      "category": "culture food preference interview",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: culture food preference interview; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for culture food preference interview; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-11",
+      "category": "tube feeding boundary",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: tube feeding boundary; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for tube feeding boundary; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M11-IMG-12",
+      "category": "IV report checklist",
+      "prompt": "Professional healthcare education illustration for NATP Module 11 Nutrition: IV report checklist; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe feeding, aspiration distress closeup, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+      "alt_text": "Training visual for IV report checklist; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    }
+  ]
+}

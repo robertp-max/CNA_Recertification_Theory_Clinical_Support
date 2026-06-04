@@ -1,0 +1,44 @@
+{
+  "id": "74f5f0d3-f4cf-96cc-97d5-664959dfef0c",
+  "object": "chat.completion",
+  "created": 1780592901,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 09_data_schema_json — Module 10**\n\n**Verdict:** CONDITIONAL PASS\n\n**Top findings:**\n- [Critical] Declared active scope `Module10_Dry_Run` (per packet and checkpoint) is missing (exists=False); all generated data/schema artifacts are under `Module_Dry_Run/_module10_dryrun_outputs` and `Module_Dry_Run/standalone-course-mvp/src/data/`. Evidence: Actual Path / File-State Facts + Output File Inventory. Violates literal Module 10 packet path requirement.\n- [Critical] App data pointer is wrong: `Module_Dry_Run/standalone-course-mvp/src/data/contentV2.generated.ts` imports `module13CourseContent` and exports it as `courseContentV2`. Evidence: explicit TS snippet in bundle. Breaks consistency for Module 10 app data package despite module10.* files existing.\n- [High] Objective titles are empty in activities package: `data/module10.activities.json` reports count=16 and minute_sum=180 with min/max_activities=3, but titles are literally `\"1. ; 2. ; 3. ; ... 16. \"`. Evidence: Deterministic JSON/CSV Metrics section. Source_map and module10.content.json have full matching titles.\n- [High] Required narration batch JSON is absent: `audio/narration_batch_import_package.json: MISSING` (rubric preference is JSON batch package post-orchestration patch). Evidence: Deterministic JSON/CSV Metrics. Only `audio_scripts.csv` (64 rows) and `audio_manifest.json` (status: scripts_only_no_audio_generated) exist.\n- [Medium] Schema file is present but minimal and unaudited in detail: `data/module10.schema.json` (size=560). Evidence: Output File Inventory. No shape/content provided for cross-check against content/activities.\n- [Medium] Strong consistency on core metrics where present: `source_map/source_objective_map.json` and `data/module10.content.json` both show exactly 16 objectives, 180 minutes, matching titles, and source refs to the PDF. Evidence: top-level keys + objectives sections in Deterministic JSON/CSV Metrics.\n- [Medium] `data/content.generated.json` (size=233269) correctly packages M10 (`generated modules: ['M10:NATP Module 10: Vital Signs objectives=16']`) with top-level keys including modules/assessments. Evidence: Deterministic JSON/CSV Metrics.\n- [Low] Self-reported \"PASS\" in `reports/validation_report.md` and `reports/final_handoff.md` (including \"16 objectives present\", \"weighted minutes total exactly 180\") is lower-strength than the deterministic path/activities/pointer contradictions above. Evidence: Report File Contents sections.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| 16 objectives + exactly 180 min in source_objective_map.json | PASS | count=16, minute_sum=180, full titles, validation dict confirms |\n| 16 objectives + exactly 180 min in module10.content.json | PASS | count=16, minute_sum=180, matching titles and source refs |\n| 16 objectives + 180 min in module10.activities.json | PASS (partial) | count=16, minute_sum=180, min/max_activities=3; titles empty |\n| Narration batch package (JSON) present | FAIL | narration_batch_import_package.json: MISSING; only CSV present |\n| module10.schema.json present | PASS | size=560 under data/ |\n| content.generated.json includes M10 correctly | PASS | top-level keys + 'M10:NATP Module 10: Vital Signs objectives=16' |\n| Objective title consistency across source_map / content.json / activities | FAIL | Full titles in first two; blank in activities.json |\n| App data pointer matches Module 10 | FAIL | contentV2.generated.ts points to module13 |\n| Path scope matches declared `Module10_Dry_Run` | FAIL | Module10_Dry_Run missing; artifacts under Module_Dry_Run |\n\n**Open questions / residual risks:**\n- Whether the activities.json empty titles are a generation artifact or downstream consumer issue (affects lesson player / activity rendering).\n- Status of `module10.schema.json` shape validation (size only; no content in bundle for audit).\n- Whether the `Module_Dry_Run` vs `Module10_Dry_Run` mismatch is a one-time execution artifact or indicates broader scope drift that affects reproducibility of the data package.\n- No deterministic evidence of narration_batch_import_package.json ever being generated despite CSV output.\n\n**One-sentence go/no-go recommendation.** No-go for production data package use until path scope, contentV2 pointer, activities titles, and missing narration JSON batch are resolved; the core source_map + content.json metrics are solid but the package as a whole is inconsistent.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 10601,
+    "completion_tokens": 993,
+    "total_tokens": 14456,
+    "prompt_tokens_details": {
+      "text_tokens": 10601,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 64
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2862,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 182598000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module10_09_data_schema_json",
+    "attempt": 1,
+    "elapsed_sec": 23.95,
+    "status": 200
+  }
+}

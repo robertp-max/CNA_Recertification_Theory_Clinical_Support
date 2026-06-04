@@ -1,0 +1,1689 @@
+{
+  "run_name": "NATP Module 10 Vital Signs — Source-First Dry Run",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+  "source_title": "Module 10: Vital Signs",
+  "learner_facing_title": "NATP Module 10: Vital Signs",
+  "theory_minutes_total": 180,
+  "source_recommended_clinical_hours": 6,
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "Prepare students to know how, when and why vital signs are taken; report and chart procedures; measure temperature, pulse, respirations, and blood pressure; recognize and report normal and abnormal findings.",
+  "terminology": [
+    "Afebrile",
+    "Axilla",
+    "Celsius",
+    "Fahrenheit",
+    "Febrile",
+    "Metabolism",
+    "Mucosa",
+    "Pyrexia",
+    "Tympanic",
+    "Aneroid manometer",
+    "Bell",
+    "Diaphragm",
+    "Diastolic",
+    "Hypertension",
+    "Hypotension",
+    "Orthostatic hypotension",
+    "Pre-hypertension",
+    "Pulse pressure",
+    "Sphygmomanometer",
+    "Stethoscope",
+    "Systolic",
+    "Apical",
+    "Arrhythmia",
+    "Bounding",
+    "Brachial",
+    "Bradycardia",
+    "Carotid",
+    "Pulse deficit",
+    "Radial",
+    "Rhythm",
+    "Thready",
+    "Tachycardia",
+    "Abdominal respirations",
+    "Apnea",
+    "Bradypnea",
+    "Cheyne-Stokes",
+    "Cyanosis",
+    "Diaphragm",
+    "Dyspnea",
+    "Labored respiration",
+    "Orthopnea",
+    "Shallow respiration",
+    "Stertorous",
+    "Tachypnea",
+    "Temperature, Pulse, Respiration (TPR)",
+    "Acute pain",
+    "Chronic pain",
+    "Phantom pain",
+    "Pain scales"
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        4
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+      "weighted_minutes": 12,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "review listed terminology",
+        "spell/pronounce terms accurately",
+        "use terms in proper charting/reporting context"
+      ],
+      "included_instructional_minutes": 12,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "review listed terminology",
+        "spell/pronounce terms accurately",
+        "use terms in proper charting/reporting context"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Games: word searches, crossword puzzles, Family Feud, Jeopardy, bingo, spelling bee, hangman, concentration",
+        "Internet/medical dictionary/textbook lookup",
+        "Create flashcards",
+        "Handout 10.1a",
+        "Handout 10.1b"
+      ],
+      "assignments": [
+        "Create flashcards",
+        "Handout 10.1a",
+        "Handout 10.1b"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Five terminology sentences",
+        "Vocabulary pre/post test",
+        "Appropriate terminology in charting/reporting"
+      ],
+      "handouts": [
+        "Handout 10.1a Vital Signs Crossword",
+        "Handout 10.1b Vital Signs Crossword Key (internal/instructor key)"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [
+        "Afebrile",
+        "Axilla",
+        "Celsius",
+        "Fahrenheit",
+        "Febrile",
+        "Metabolism",
+        "Mucosa",
+        "Pyrexia",
+        "Tympanic",
+        "Aneroid manometer",
+        "Bell",
+        "Diaphragm",
+        "Diastolic",
+        "Hypertension",
+        "Hypotension",
+        "Orthostatic hypotension",
+        "Pre-hypertension",
+        "Pulse pressure",
+        "Sphygmomanometer",
+        "Stethoscope",
+        "Systolic",
+        "Apical",
+        "Arrhythmia",
+        "Bounding",
+        "Brachial",
+        "Bradycardia",
+        "Carotid",
+        "Pulse deficit",
+        "Radial",
+        "Rhythm",
+        "Thready",
+        "Tachycardia",
+        "Abdominal respirations",
+        "Apnea",
+        "Bradypnea",
+        "Cheyne-Stokes",
+        "Cyanosis",
+        "Diaphragm",
+        "Dyspnea",
+        "Labored respiration",
+        "Orthopnea",
+        "Shallow respiration",
+        "Stertorous",
+        "Tachypnea",
+        "Temperature, Pulse, Respiration (TPR)",
+        "Acute pain",
+        "Chronic pain",
+        "Phantom pain",
+        "Pain scales"
+      ],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Vital Signs Flashcard Deck",
+        "Crossword Quest",
+        "Five-Term Report Sentence"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Vital Signs Flashcard Deck",
+        "Source-traced visual for Crossword Quest",
+        "Source-traced visual for Five-Term Report Sentence"
+      ],
+      "narration_requirements": [
+        "Objective 1 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Vital Signs Flashcard Deck",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Crossword Quest",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Five-Term Report Sentence",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Describe what is meant by vital signs, their purpose, and observations made while performing the procedures",
+      "exact_objective_statement": "Describe what is meant by vital signs, their purpose, and observations made while performing the procedures",
+      "source_pages": [
+        4
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+      "weighted_minutes": 8,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "vital signs are temperature, pulse, respirations, blood pressure",
+        "pain has measurable effects on vital signs",
+        "vital signs indicate body-system function/change",
+        "observe skin color/temperature, behavior, comfort and pain statements"
+      ],
+      "included_instructional_minutes": 8,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "vital signs are temperature, pulse, respirations, blood pressure",
+        "pain has measurable effects on vital signs",
+        "vital signs indicate body-system function/change",
+        "observe skin color/temperature, behavior, comfort and pain statements"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Demonstration and return demonstration",
+        "Handout 10.2"
+      ],
+      "assignments": [
+        "Handout 10.2"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Observe measuring vital signs",
+        "Ask skin/temperature/behavior changes"
+      ],
+      "handouts": [
+        "Handout 10.2 Vital Signs Chart"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [
+        "Metabolism",
+        "Cyanosis"
+      ],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Vital Signs Dashboard",
+        "Resident Room Spot-Check",
+        "Vital Signs Chart Builder"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Vital Signs Dashboard",
+        "Source-traced visual for Resident Room Spot-Check",
+        "Source-traced visual for Vital Signs Chart Builder"
+      ],
+      "narration_requirements": [
+        "Objective 2 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Vital Signs Dashboard",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Resident Room Spot-Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Vital Signs Chart Builder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Discuss the use of temperature as an indicator of body function",
+      "exact_objective_statement": "Discuss the use of temperature as an indicator of body function",
+      "source_pages": [
+        5,
+        6,
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-5-6-7",
+      "weighted_minutes": 22,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "temperature balances heat gained/lost",
+        "hypothalamus regulates temperature",
+        "heat production via cellular activity, metabolism, muscle activity, hormones",
+        "heat loss via skin, lungs, elimination",
+        "heat conservation by reduced perspiration/blood flow and shivering",
+        "oral, rectal, tympanic, axillary, temporal sites",
+        "glass/digital/electronic/disposable/tympanic/temporal thermometers",
+        "normal ranges and route differences",
+        "contraindications and abnormal reporting"
+      ],
+      "included_instructional_minutes": 22,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "temperature balances heat gained/lost",
+        "hypothalamus regulates temperature",
+        "heat production via cellular activity, metabolism, muscle activity, hormones",
+        "heat loss via skin, lungs, elimination",
+        "heat conservation by reduced perspiration/blood flow and shivering",
+        "oral, rectal, tympanic, axillary, temporal sites",
+        "glass/digital/electronic/disposable/tympanic/temporal thermometers",
+        "normal ranges and route differences",
+        "contraindications and abnormal reporting"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Display thermometer types",
+        "Identify types",
+        "Demonstration/return demonstration with thermometers and contraindications",
+        "Manual Skills 10.3a-e",
+        "Ear temperature visual aid"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Demonstrate oral/axillary/temporal/rectal temperature",
+        "Use mercury-free glass/electronic/digital/tympanic/temporal thermometers",
+        "Report abnormal temperature"
+      ],
+      "handouts": [],
+      "manual_skills": [
+        "Manual Skills 10.3a Oral Temperature",
+        "Manual Skills 10.3b Axillary Temperature",
+        "Manual Skills 10.3c Tympanic Temperature",
+        "Manual Skills 10.3d Rectal Temperature",
+        "Manual Skills 10.3e Electronic Temperature"
+      ],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Heat Balance Simulator",
+        "Thermometer Museum",
+        "Temperature Route Choice"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Heat Balance Simulator",
+        "Source-traced visual for Thermometer Museum",
+        "Source-traced visual for Temperature Route Choice"
+      ],
+      "narration_requirements": [
+        "Objective 3 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Heat Balance Simulator",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Thermometer Museum",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Temperature Route Choice",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Describe nursing measures to raise and lower the temperature of the body",
+      "exact_objective_statement": "Describe nursing measures to raise and lower the temperature of the body",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-7",
+      "weighted_minutes": 6,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "raise temperature: warmer room, coverings, hot liquids, warm baths/soaks",
+        "lower temperature: cooler room, remove coverings, cool liquids, cool bath/sponging"
+      ],
+      "included_instructional_minutes": 6,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "raise temperature: warmer room, coverings, hot liquids, warm baths/soaks",
+        "lower temperature: cooler room, remove coverings, cool liquids, cool bath/sponging"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Observation in clinical setting"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Raise or Lower Sort",
+        "Comfort Switchboard",
+        "Fever/Chill Micro-Scenario"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Raise or Lower Sort",
+        "Source-traced visual for Comfort Switchboard",
+        "Source-traced visual for Fever/Chill Micro-Scenario"
+      ],
+      "narration_requirements": [
+        "Objective 4 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Raise or Lower Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Comfort Switchboard",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Fever/Chill Micro-Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe the circulatory system as it relates to pulse, and identify the pulse sites",
+      "exact_objective_statement": "Describe the circulatory system as it relates to pulse, and identify the pulse sites",
+      "source_pages": [
+        8
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8",
+      "weighted_minutes": 8,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "pulse is arterial wall expansion after heart contraction",
+        "count palpated expansions for pulse rate",
+        "average adult pulse 60-100/minute",
+        "pulse sites: carotid, apical, brachial, radial, femoral, popliteal, dorsalis pedis"
+      ],
+      "included_instructional_minutes": 8,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "pulse is arterial wall expansion after heart contraction",
+        "count palpated expansions for pulse rate",
+        "average adult pulse 60-100/minute",
+        "pulse sites: carotid, apical, brachial, radial, femoral, popliteal, dorsalis pedis"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Pulse-site visual aid",
+        "Role play",
+        "Advanced pulse deficit research/demonstration"
+      ],
+      "assignments": [
+        "Advanced pulse deficit research/demonstration"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Locate major pulse sites"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Pulse Site Body Map",
+        "Heart-to-Artery Animation",
+        "Site Match Speed Round"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Pulse Site Body Map",
+        "Source-traced visual for Heart-to-Artery Animation",
+        "Source-traced visual for Site Match Speed Round"
+      ],
+      "narration_requirements": [
+        "Objective 5 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Pulse Site Body Map",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Heart-to-Artery Animation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Site Match Speed Round",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe factors that increase and decrease pulse, and the qualities to observe in taking a pulse",
+      "exact_objective_statement": "Describe factors that increase and decrease pulse, and the qualities to observe in taking a pulse",
+      "source_pages": [
+        8,
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8-9",
+      "weighted_minutes": 12,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "increase pulse: exercise, fever, hemorrhage, pain, shock, strong emotions, tachycardia over 100",
+        "decrease pulse: sleep/rest, depression, drugs, athlete conditioning, bradycardia below 60",
+        "qualities: rate, rhythm, strength/force, thready, bounding",
+        "report irregular rhythm even if rate normal"
+      ],
+      "included_instructional_minutes": 12,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "increase pulse: exercise, fever, hemorrhage, pain, shock, strong emotions, tachycardia over 100",
+        "decrease pulse: sleep/rest, depression, drugs, athlete conditioning, bradycardia below 60",
+        "qualities: rate, rhythm, strength/force, thready, bounding",
+        "report irregular rhythm even if rate normal"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Demonstration/return demonstration for radial/apical pulse full minute",
+        "Role play",
+        "Manual Skills 10.6a/10.6b"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Measure radial/brachial pulse for full minute",
+        "Report abnormal pulse"
+      ],
+      "handouts": [],
+      "manual_skills": [
+        "Manual Skills 10.6a Radial Pulse",
+        "Manual Skills 10.6b Apical Pulse",
+        "Manual Skill Count and Record Radial Pulse"
+      ],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Pulse Detective",
+        "Beat Trainer",
+        "One-Full-Minute Practice"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Pulse Detective",
+        "Source-traced visual for Beat Trainer",
+        "Source-traced visual for One-Full-Minute Practice"
+      ],
+      "narration_requirements": [
+        "Objective 6 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Pulse Detective",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Beat Trainer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "One-Full-Minute Practice",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "Define and describe respiration and factors that affect respiratory rate",
+      "exact_objective_statement": "Define and describe respiration and factors that affect respiratory rate",
+      "source_pages": [
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-9",
+      "weighted_minutes": 7,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "respiration is oxygen/carbon dioxide exchange in lungs",
+        "breathing is inhalation/exhalation",
+        "medulla regulation",
+        "normal adult rate 12-20/minute",
+        "normal breathing quiet, effortless, regular",
+        "increase/decrease factors"
+      ],
+      "included_instructional_minutes": 7,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "respiration is oxygen/carbon dioxide exchange in lungs",
+        "breathing is inhalation/exhalation",
+        "medulla regulation",
+        "normal adult rate 12-20/minute",
+        "normal breathing quiet, effortless, regular",
+        "increase/decrease factors"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Breath Cycle Loop",
+        "Respiration Factor Race",
+        "Normal Breathing Pick"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Breath Cycle Loop",
+        "Source-traced visual for Respiration Factor Race",
+        "Source-traced visual for Normal Breathing Pick"
+      ],
+      "narration_requirements": [
+        "Objective 7 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Breath Cycle Loop",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Respiration Factor Race",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Normal Breathing Pick",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "Describe observations to be made when measuring respirations",
+      "exact_objective_statement": "Describe observations to be made when measuring respirations",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+      "weighted_minutes": 10,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "observe rate, rhythm, depth, symmetry, effort, discomfort, position, sounds",
+        "observe color of skin/mucous membranes/nail beds for cyanosis",
+        "observe behavior changes",
+        "report rates above/below normal"
+      ],
+      "included_instructional_minutes": 10,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "observe rate, rhythm, depth, symmetry, effort, discomfort, position, sounds",
+        "observe color of skin/mucous membranes/nail beds for cyanosis",
+        "observe behavior changes",
+        "report rates above/below normal"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Manual Skills 10.8",
+        "Demonstration/return demonstration",
+        "Role play"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Measure respirations",
+        "Report rate above/below normal"
+      ],
+      "handouts": [],
+      "manual_skills": [
+        "Manual Skill 10.8 Count and Record Respiration"
+      ],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [
+        "Diastolic",
+        "Systolic",
+        "Cheyne-Stokes",
+        "Stertorous",
+        "Phantom pain"
+      ],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Respiration Observation Lens",
+        "Cyanosis Alert",
+        "Report Now or Routine?"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Respiration Observation Lens",
+        "Source-traced visual for Cyanosis Alert",
+        "Source-traced visual for Report Now or Routine?"
+      ],
+      "narration_requirements": [
+        "Objective 8 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Respiration Observation Lens",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Cyanosis Alert",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Now or Routine?",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 9,
+      "objective_title": "Describe abnormal breathing patterns",
+      "exact_objective_statement": "Describe abnormal breathing patterns",
+      "source_pages": [
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+      "weighted_minutes": 9,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "abnormal patterns: labored, orthopnea, stertorous, abdominal, shallow, dyspnea, tachypnea, bradypnea, apnea, Cheyne-Stokes",
+        "report abnormal breathing or appearance/behavior change to licensed nurse"
+      ],
+      "included_instructional_minutes": 9,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "abnormal patterns: labored, orthopnea, stertorous, abdominal, shallow, dyspnea, tachypnea, bradypnea, apnea, Cheyne-Stokes",
+        "report abnormal breathing or appearance/behavior change to licensed nurse"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Report abnormal breathing pattern or appearance/behavior change"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Breathing Pattern Theater",
+        "Pattern Match",
+        "Urgency Ladder"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Breathing Pattern Theater",
+        "Source-traced visual for Pattern Match",
+        "Source-traced visual for Urgency Ladder"
+      ],
+      "narration_requirements": [
+        "Objective 9 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Breathing Pattern Theater",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Pattern Match",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Urgency Ladder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-9",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 10,
+      "objective_title": "Describe the process for taking TPR as a combined procedure",
+      "exact_objective_statement": "Describe the process for taking TPR as a combined procedure",
+      "source_pages": [
+        11
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11",
+      "weighted_minutes": 7,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "take temperature first, pulse second, respirations third",
+        "remember pulse while counting respirations",
+        "do not stop to record pulse before respirations",
+        "report abnormal findings"
+      ],
+      "included_instructional_minutes": 7,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "take temperature first, pulse second, respirations third",
+        "remember pulse while counting respirations",
+        "do not stop to record pulse before respirations",
+        "report abnormal findings"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Demonstration/return demonstration of TPR",
+        "Role play"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Demonstrate TPR in one process",
+        "Report abnormal to licensed nurse"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "TPR Flow Timeline",
+        "Do Not Break the Flow",
+        "Memory Sticky Note"
+      ],
+      "image_requirements": [
+        "Source-traced visual for TPR Flow Timeline",
+        "Source-traced visual for Do Not Break the Flow",
+        "Source-traced visual for Memory Sticky Note"
+      ],
+      "narration_requirements": [
+        "Objective 10 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "TPR Flow Timeline",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Do Not Break the Flow",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Memory Sticky Note",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-10",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 11,
+      "objective_title": "Describe what happens in the circulatory system to produce blood pressure",
+      "exact_objective_statement": "Describe what happens in the circulatory system to produce blood pressure",
+      "source_pages": [
+        11,
+        12
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11-12",
+      "weighted_minutes": 12,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "blood pressure is force of blood against artery walls",
+        "systolic first/highest pressure; diastolic second/lowest pressure",
+        "sounds correspond to mm Hg readings",
+        "record systolic/diastolic fraction",
+        "normal/abnormal ranges, pre-hypertension, hypertension, hypotension, pulse pressure"
+      ],
+      "included_instructional_minutes": 12,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "blood pressure is force of blood against artery walls",
+        "systolic first/highest pressure; diastolic second/lowest pressure",
+        "sounds correspond to mm Hg readings",
+        "record systolic/diastolic fraction",
+        "normal/abnormal ranges, pre-hypertension, hypertension, hypotension, pulse pressure"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Pulse pressure research"
+      ],
+      "assignments": [
+        "Pulse pressure research"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Artery Pressure Pump",
+        "First Sound / Last Sound Demo",
+        "BP Fraction Builder"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Artery Pressure Pump",
+        "Source-traced visual for First Sound / Last Sound Demo",
+        "Source-traced visual for BP Fraction Builder"
+      ],
+      "narration_requirements": [
+        "Objective 11 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Artery Pressure Pump",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "First Sound / Last Sound Demo",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "BP Fraction Builder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-11",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 12,
+      "objective_title": "Identify factors that increase or decrease blood pressure",
+      "exact_objective_statement": "Identify factors that increase or decrease blood pressure",
+      "source_pages": [
+        12,
+        13
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-12-13",
+      "weighted_minutes": 6,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "raising factors: strong emotion, exercise, standing/sitting, excitement, pain, decreased vessel size, digestion, improperly placed cuff",
+        "lowering factors: rest/sleep, lying down, depression, shock, hemorrhage"
+      ],
+      "included_instructional_minutes": 6,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "raising factors: strong emotion, exercise, standing/sitting, excitement, pain, decreased vessel size, digestion, improperly placed cuff",
+        "lowering factors: rest/sleep, lying down, depression, shock, hemorrhage"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "BP Elevator Game",
+        "Before You Take BP Checklist",
+        "False Reading Mini-Lab"
+      ],
+      "image_requirements": [
+        "Source-traced visual for BP Elevator Game",
+        "Source-traced visual for Before You Take BP Checklist",
+        "Source-traced visual for False Reading Mini-Lab"
+      ],
+      "narration_requirements": [
+        "Objective 12 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "BP Elevator Game",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Before You Take BP Checklist",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "False Reading Mini-Lab",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-12",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 13,
+      "objective_title": "Identify parts of the blood pressure equipment",
+      "exact_objective_statement": "Identify parts of the blood pressure equipment",
+      "source_pages": [
+        13
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13",
+      "weighted_minutes": 8,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "manual sphygmomanometer parts: cuff, bulb, manometer",
+        "stethoscope parts/use",
+        "electronic sphygmomanometer: automated inflation/deflation, digital display, no stethoscope",
+        "facility monitoring devices may measure multiple vital signs"
+      ],
+      "included_instructional_minutes": 8,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "manual sphygmomanometer parts: cuff, bulb, manometer",
+        "stethoscope parts/use",
+        "electronic sphygmomanometer: automated inflation/deflation, digital display, no stethoscope",
+        "facility monitoring devices may measure multiple vital signs"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Show equipment"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Equipment Labeling Lab",
+        "Manual vs Automated Sort",
+        "Clean Setup Challenge"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Equipment Labeling Lab",
+        "Source-traced visual for Manual vs Automated Sort",
+        "Source-traced visual for Clean Setup Challenge"
+      ],
+      "narration_requirements": [
+        "Objective 13 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Equipment Labeling Lab",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Manual vs Automated Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Clean Setup Challenge",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-13",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 14,
+      "objective_title": "Discuss the procedure for taking a blood pressure reading",
+      "exact_objective_statement": "Discuss the procedure for taking a blood pressure reading",
+      "source_pages": [
+        13,
+        14
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13-14",
+      "weighted_minutes": 24,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "BP usually measured at brachial artery; popliteal only when ordered",
+        "resident at rest and LSS position order",
+        "manometer calibration at 0",
+        "appropriate cuff size and false high/low errors",
+        "do not use arms/sides with IV, burns/injuries, paralysis, amputation, cast, trauma, dialysis site, mastectomy/breast surgery",
+        "arm level with heart, bare arm, sphygmomanometer at eye level",
+        "one-step/two-step methods",
+        "report abnormal BP"
+      ],
+      "included_instructional_minutes": 24,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "BP usually measured at brachial artery; popliteal only when ordered",
+        "resident at rest and LSS position order",
+        "manometer calibration at 0",
+        "appropriate cuff size and false high/low errors",
+        "do not use arms/sides with IV, burns/injuries, paralysis, amputation, cast, trauma, dialysis site, mastectomy/breast surgery",
+        "arm level with heart, bare arm, sphygmomanometer at eye level",
+        "one-step/two-step methods",
+        "report abnormal BP"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Manual Skills 10.14a/10.14b",
+        "Display equipment and identify parts",
+        "Demonstration/return demonstration",
+        "Role play"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Measure blood pressure",
+        "Report abnormal blood pressure"
+      ],
+      "handouts": [],
+      "manual_skills": [
+        "Manual Skills 10.14a Blood Pressure One-Step",
+        "Manual Skills 10.14b Blood Pressure Two-Step"
+      ],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "One-Step / Two-Step BP Procedure Player",
+        "Cuff Placement Coach",
+        "Do Not Use This Arm"
+      ],
+      "image_requirements": [
+        "Source-traced visual for One-Step / Two-Step BP Procedure Player",
+        "Source-traced visual for Cuff Placement Coach",
+        "Source-traced visual for Do Not Use This Arm"
+      ],
+      "narration_requirements": [
+        "Objective 14 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "One-Step / Two-Step BP Procedure Player",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Cuff Placement Coach",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Do Not Use This Arm",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-14",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 15,
+      "objective_title": "Discuss observation and reporting of patient’s/resident’s pain",
+      "exact_objective_statement": "Discuss observation and reporting of patient’s/resident’s pain",
+      "source_pages": [
+        14,
+        15,
+        16
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-14-15-16",
+      "weighted_minutes": 15,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "pain effects on vital signs",
+        "pain not normal aging; warning/distress signal",
+        "CNA observation responsibility; residents may not verbalize",
+        "individual/cultural response, anxiety/stress, take seriously and avoid judging",
+        "acute/chronic/phantom pain",
+        "signs: increased pulse/respirations/BP, sounds, nausea/vomiting, sweating, facial/jaw/body tension, restlessness, mobility difficulty",
+        "ask about pain, use pain scale, describe location/frequency/duration/quality, observe expression/movement/respiration, report complaints",
+        "comfort measures"
+      ],
+      "included_instructional_minutes": 15,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "pain effects on vital signs",
+        "pain not normal aging; warning/distress signal",
+        "CNA observation responsibility; residents may not verbalize",
+        "individual/cultural response, anxiety/stress, take seriously and avoid judging",
+        "acute/chronic/phantom pain",
+        "signs: increased pulse/respirations/BP, sounds, nausea/vomiting, sweating, facial/jaw/body tension, restlessness, mobility difficulty",
+        "ask about pain, use pain scale, describe location/frequency/duration/quality, observe expression/movement/respiration, report complaints",
+        "comfort measures"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Handout 10.15",
+        "Role play pain scale",
+        "Discuss pain-management barriers"
+      ],
+      "assignments": [
+        "Handout 10.15"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Observation in clinical setting"
+      ],
+      "handouts": [
+        "Handout 10.15 Pain Scale"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "Pain Scale Role Play",
+        "Nonverbal Pain Clue Hunt",
+        "Bias Check Scenario"
+      ],
+      "image_requirements": [
+        "Source-traced visual for Pain Scale Role Play",
+        "Source-traced visual for Nonverbal Pain Clue Hunt",
+        "Source-traced visual for Bias Check Scenario"
+      ],
+      "narration_requirements": [
+        "Objective 15 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "Pain Scale Role Play",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Nonverbal Pain Clue Hunt",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Bias Check Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-15",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    },
+    {
+      "objective_number": 16,
+      "objective_title": "Record vital signs on chart, graph, and Nursing Assistant notes",
+      "exact_objective_statement": "Record vital signs on chart, graph, and Nursing Assistant notes",
+      "source_pages": [
+        16
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-16",
+      "weighted_minutes": 14,
+      "weight_reason": "User-approved weighted allocation based on source content density; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "report normal/abnormal TPR to licensed nurse",
+        "record on flow sheets, graphic records and Nursing Assistant notes according to policy",
+        "record in TPR order",
+        "R for rectal, AX for axillary",
+        "note non-radial pulse site",
+        "record respiratory rate",
+        "chart BP as systolic/diastolic fraction; note alternate site",
+        "practice facility flow/graphic sheets"
+      ],
+      "included_instructional_minutes": 14,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source recommends 6 clinical hours for module overall; deferred to in-person/evaluator-supported work and not counted here.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "report normal/abnormal TPR to licensed nurse",
+        "record on flow sheets, graphic records and Nursing Assistant notes according to policy",
+        "record in TPR order",
+        "R for rectal, AX for axillary",
+        "note non-radial pulse site",
+        "record respiratory rate",
+        "chart BP as systolic/diastolic fraction; note alternate site",
+        "practice facility flow/graphic sheets"
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Facility flow chart/graphic sheets practice",
+        "Role play and record vital signs"
+      ],
+      "assignments": [
+        "Facility flow chart/graphic sheets practice"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Accurately record vital signs on facility flow/graphic sheets per policy"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 10 sample test pages 17-22 include related items; answer key page 23 is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA observes/measures/records/reports within facility policy; abnormal findings and complaints are reported to licensed nurse; no online hands-on competency validation is claimed."
+      ],
+      "media_opportunities": [
+        "mobile diagram/visual placeholder/source-traced prompt only until generated assets approved"
+      ],
+      "exercise_opportunities": [
+        "TPR/BP Charting Sandbox",
+        "Find the Charting Error",
+        "Report + Record Simulation"
+      ],
+      "image_requirements": [
+        "Source-traced visual for TPR/BP Charting Sandbox",
+        "Source-traced visual for Find the Charting Error",
+        "Source-traced visual for Report + Record Simulation"
+      ],
+      "narration_requirements": [
+        "Objective 16 intro transcript",
+        "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+      ],
+      "required_activities": [
+        {
+          "name": "TPR/BP Charting Sandbox",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Find the Charting Error",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report + Record Simulation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#objective-16",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "terminology_list",
+      "title": "Terminology list",
+      "source_location": "pages 1-2",
+      "usage_boundary": "learner-safe",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "handout_10_1a",
+      "title": "Handout 10.1a Vital Signs Crossword",
+      "source_location": "referenced page 4; handout body later in PDF",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "handout_10_1b",
+      "title": "Handout 10.1b Vital Signs Crossword Key",
+      "source_location": "referenced page 4",
+      "usage_boundary": "internal-only key",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "handout_10_2",
+      "title": "Handout 10.2 Vital Signs Chart",
+      "source_location": "referenced page 4",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_3a",
+      "title": "Manual Skills 10.3a Oral Temperature",
+      "source_location": "pages 24-25",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_3b",
+      "title": "Manual Skills 10.3b Axillary Temperature",
+      "source_location": "pages 26-27",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_3c",
+      "title": "Manual Skills 10.3c Tympanic Temperature",
+      "source_location": "pages 28-29",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_3d",
+      "title": "Manual Skills 10.3d Rectal Temperature",
+      "source_location": "pages 30-31",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_3e",
+      "title": "Manual Skills 10.3e Electronic Temperature",
+      "source_location": "pages 32-33",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_6b_apical",
+      "title": "Manual Skills 10.6b Apical Pulse",
+      "source_location": "pages 34-36",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_radial_pulse",
+      "title": "Manual Skill Count and Record Radial Pulse",
+      "source_location": "pages 36-37",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_8",
+      "title": "Manual Skill 10.8 Count and Record Respiration",
+      "source_location": "page 38",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_14a",
+      "title": "Manual Skills 10.14a Blood Pressure One-Step",
+      "source_location": "pages 39-40",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "manual_10_14b",
+      "title": "Manual Skills 10.14b Blood Pressure Two-Step",
+      "source_location": "pages 41-42",
+      "usage_boundary": "clinical skill; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "handout_10_15",
+      "title": "Handout 10.15 Pain Scale",
+      "source_location": "referenced page 15",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "sample_test",
+      "title": "Sample Test Module 10",
+      "source_location": "pages 17-22",
+      "usage_boundary": "assessment item pool; no answer key exposure",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    },
+    {
+      "asset_id": "sample_test_answer_key",
+      "title": "Sample Test Answer Key",
+      "source_location": "page 23",
+      "usage_boundary": "internal-only; do not expose learner-facing",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf"
+    }
+  ],
+  "validation": {
+    "objective_count": 16,
+    "weighted_minutes_total": 180,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false
+  }
+}

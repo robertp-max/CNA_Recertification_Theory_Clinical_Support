@@ -1,0 +1,32 @@
+**# Review 03_time_allotment — Module 13**
+
+**Verdict:** PASS WITH RISKS
+
+**Top findings:**
+- [High] Exact total of 780 weighted theory minutes confirmed by deterministic metrics in multiple files. Evidence: `source_map/source_objective_map.json` ("theory_minutes_total": 780, "minute_sum": 780, objectives count=8); `data/module13.content.json` ("total_weighted_minutes": 780, "minute_sum": 780); `data/module13.activities.json` ("minute_sum": 780); `reports/time_allotment_report.md` breakdown sums to 780. Recommended action: Retain as primary evidence; no change needed for total.
+- [High] Clinical, assessment, and certificate minutes explicitly excluded from theory time. Evidence: `source_objective_map.json` ("source_required_clinical_hours": 4, "online_clinical_credit_claimed": False, "online_hands_on_competency_validated": False, validation block confirms no backup/prior outputs used); `reports/time_allotment_report.md` ("Assessment, clinical, certificate, and optional support minutes are excluded"); `reports/validation_report.md` and `final_handoff.md` repeat the boundary. Recommended action: Maintain boundary in all future artifacts.
+- [Medium] Source-recommended 13 hours (780 minutes) correctly selected over minimum (5 SNF/ICF or 3 non-SNF/ICF + 2 additional). Evidence: `reports/time_allotment_report.md` and `preflight_report.md` quote PDF extract ("Recommended Theory Hours: 13", "Minimum Number of Theory Hours: 5 SNF/ICF (or 3 non-SNF/ICF plus 2 additional training hours)"); `source_objective_map.json` ("source_recommended_theory_hours": 13); time report states "maps the 13 recommended theory hours as 780 source-weighted minutes". Recommended action: Document the choice rationale in source_map for auditability.
+- [Medium] Per-objective distribution exists but is evidenced primarily in the report rather than raw JSON aggregates. Evidence: `reports/time_allotment_report.md` lists Obj1:60, Obj2:60, Obj3:45, Obj4:120, Obj5:120, Obj6:45, Obj7:270, Obj8:60 (sums to 780); `source_objective_map.json` and `data/module13.content.json` report only aggregate "minute_sum=780" and "objectives: count=8" with titles but no per-objective minutes in the provided top-level excerpts. Recommended action: Extract and cross-check the full 'objectives' arrays in both JSONs for explicit 'weighted_minutes' per objective.
+- [Medium] Self-reported PASS in validation is lower-strength than file metrics; no contradiction on totals but highlights evidence hierarchy issue. Evidence: `reports/validation_report.md` ("weighted minutes exactly 780 | PASS"); actual metrics in `source_objective_map.json` and `data/module13.content.json` provide the stronger confirmation. Recommended action: Future audits must cite raw JSON/path values first.
+- [Low] Activities data claims the same 780-minute sum but shows incomplete objective metadata. Evidence: `data/module13.activities.json` ("minute_sum=780", "min_activities=3, max_activities=3", "objective titles: 1. ; 2. ; ..."); contrasts with full titles in `data/module13.content.json` and `source_objective_map.json`. Recommended action: Confirm activities minute_sum is derived from (not additive to) objective theory time.
+- [Low] Source authority for time values is consistently the Module 13 PDF with no use of disallowed prior outputs. Evidence: `source_objective_map.json` ("source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf", validation: "backup_content_used_as_authority": false, "contentv2_used_as_authority": false, "prior_module_outputs_used_as_authority": false); `data/module13.content.json` matches; `reports/preflight_report.md` and `final_handoff.md` confirm boundary. Recommended action: None for this lens.
+
+**Checkpoint table:**
+
+| Check | Status | Evidence |
+|-------|--------|----------|
+| Exact total weighted theory minutes = 780 | PASS | `source_objective_map.json` theory_minutes_total=780 + minute_sum=780; `data/module13.content.json` total_weighted_minutes=780 + minute_sum=780; `reports/time_allotment_report.md` sums to 780 |
+| Objectives count = 8 | PASS | `source_objective_map.json` count=8; `data/module13.content.json` count=8; titles match PDF extract |
+| Per-objective minute distribution present and sums to total | PASS WITH RISK | `reports/time_allotment_report.md` provides full breakdown (60+60+45+120+120+45+270+60=780); JSONs show only aggregate minute_sum=780 |
+| Clinical/assessment/certificate minutes excluded | PASS | `source_objective_map.json` clinical_hours=4 + claimed=False + validation block; time_allotment_report.md and validation_report.md state exclusion |
+| Source-recommended (13h) vs minimum handled correctly | PASS | `reports/time_allotment_report.md` + preflight PDF extract document minimum vs. recommended; 780 min mapped from recommended 13h |
+| Source authority only (no disallowed ContentV2/prior modules/backups) | PASS | `source_objective_map.json` source_authority + validation flags all false; `data/module13.content.json` matches; preflight_report.md confirms |
+
+**Open questions / residual risks:**
+- Full per-objective 'weighted_minutes' fields are not visible in the top-level JSON summaries provided; the time_allotment_report breakdown cannot be directly cross-verified against the 'objectives' arrays in source_objective_map.json or module13.content.json from the bundle alone.
+- The bundle contains internal contradictions outside the time lens (e.g., `audio/audio_manifest.json` "status": "scripts_only_no_audio_generated" + qwen_sent=False vs. 26 WAV files present, qwen_tts directory, and attempted background runner), which may indicate broader output integrity risks that could indirectly affect time-related artifacts.
+- No explicit traceability shown for how the specific per-objective allocations (especially the 270-minute Obj7) were derived from PDF page ranges or content volume vs. generator heuristics.
+- `data/module13.activities.json` reports minute_sum=780 with blank objective titles, creating minor ambiguity on whether activity time is cleanly separated from theory time.
+
+**One-sentence go/no-go recommendation.**  
+GO with risks: totals, exclusions, and source-recommended 780-minute mapping are confirmed by deterministic JSON metrics and the time report, but per-objective distribution requires direct inspection of the full objectives arrays in source_objective_map.json and module13.content.json before final acceptance.

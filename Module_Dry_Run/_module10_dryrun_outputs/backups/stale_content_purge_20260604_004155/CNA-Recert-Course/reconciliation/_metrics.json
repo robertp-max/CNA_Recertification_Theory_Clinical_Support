@@ -1,0 +1,19 @@
+{
+  "url_metrics": {
+    "total": 162,
+    "copied": 39,
+    "skipped": 36,
+    "errored": 22,
+    "dupe": 57,
+    "external": 7,
+    "folder": 1,
+    "needs_import": 0,
+    "undocumented": 59
+  },
+  "files_added": 40,
+  "linked_drive_files": 39,
+  "skipped": 36,
+  "errors": 22,
+  "folders_not_exported": 1,
+  "last_checked": "2026-06-03"
+}

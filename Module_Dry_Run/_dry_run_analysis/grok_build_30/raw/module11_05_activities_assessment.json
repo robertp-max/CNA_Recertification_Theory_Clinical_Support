@@ -1,0 +1,45 @@
+{
+  "id": "eb79023b-378d-42c9-8273-4b6d3e82db40",
+  "object": "chat.completion",
+  "created": 1780592951,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 05_activities_assessment — Module 11**\n\n**Verdict:** FAIL\n\n**Top findings:**\n- [Critical] Learner-facing quiz distractors contain internal build references: multiple risk-term contexts explicitly list options such as `\"id\": \"C\", \"label\": \"Use Module 10 generated content if the nutrition source is incomplete.\"` (repeated across 4 contexts). Evidence: \"Risk-Term Contexts From Generated Data\" section pulling from generated JSON.\n- [High] Direct contradiction on activity counts: `source_objective_map.json` reports `min_activities=0, max_activities=0`; `data/module11.activities.json` reports `min_activities=3, max_activities=3`. Evidence: Deterministic JSON/CSV Metrics for both files.\n- [High] `data/module11.activities.json` metadata shows blank objective titles (`\"objective titles: 1. ; 2. ; 3. ; ... 10. \"`), while `source_objective_map.json` and `data/module11.content.json` list full titles. Evidence: Deterministic JSON/CSV Metrics for `module11.activities.json`.\n- [High] Validation report self-reports \"PASS\" for `>=3 activities per objective` and `answer_keys_internal_only: True`, but this is contradicted by file metrics and leaked Module 10 references in the same bundle. Evidence: `reports/validation_report.md` table vs. source_objective_map.json and risk contexts.\n- [Medium] No actual per-objective activity lists, quiz questions, or distractor sets are present in the evidence bundle despite the activities file existing (size 36584). Evidence: Output File Inventory and Deterministic JSON/CSV Metrics sections (only top-level keys and counts provided).\n- [Medium] App integration state shows `contentV2.generated.ts` still imports `module13.content.generated.json` (not module 11), despite final_handoff claiming repoint to Module 11 data. Evidence: Actual Path / File-State Facts and `reports/final_handoff.md`.\n- [Low] Activities.json declares exactly 3 activities per objective (min=max=3), but this cannot be verified against source PDF objectives or checked for fit because no activity content is extractable from the bundle. Evidence: `data/module11.activities.json` metadata only.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| >=3 activities per objective | CONFLICTING | source_objective_map.json (min=0); data/module11.activities.json (min=3, max=3); validation_report.md (PASS, \"all objectives\") |\n| Activity fit to objectives | INSUFFICIENT EVIDENCE | No activity samples or per-objective breakdowns; blank titles in activities.json metadata |\n| Quiz/distractor quality | FAIL | Multiple \"Use Module 10 generated content...\" distractors in risk-term contexts from generated data |\n| Internal answer-key leakage | FAIL | Build-process references (Module 10) appear in quiz-option contexts despite validation claim of internal-only keys |\n| Confusing learner-facing wrong answers | FAIL | Distractors referencing prior module outputs and build artifacts are inappropriate for learners |\n\n**Open questions / residual risks:**\n- Actual content of `data/module11.activities.json` (the 36k file) is not provided, so it is impossible to confirm the 3 activities per objective exist, are source-aligned, or avoid the distractor problems shown in risk extraction.\n- Whether the Module 10 references are only in the risk-term extraction or are embedded in the final learner-facing `module11.activities.json` / `content.generated.json`.\n- No evidence that generated activities were validated against the source PDF (ccccc-na-model-curriculum-module-11.pdf) for fit or that answer keys remain strictly internal.\n- Current `contentV2.generated.ts` pointer remains on module13, creating uncertainty whether Module 11 activities would even be served in the app.\n\n**One-sentence go/no-go recommendation.**  \nNo-go: regenerate activities and assessments to remove all internal Module 10 references from learner-facing content, reconcile the contradictory activity-count metrics across source_objective_map.json and module11.activities.json, and supply actual activity/quiz samples for re-audit before any further use.",
+        "reasoning_content": "1. `# Review 05_activities_assessment — Module 11`\n2. `Verdict:` FAIL\n3.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7680,
+    "completion_tokens": 864,
+    "total_tokens": 13705,
+    "prompt_tokens_details": {
+      "text_tokens": 7680,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5161,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 196276000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module11_05_activities_assessment",
+    "attempt": 1,
+    "elapsed_sec": 46.2,
+    "status": 200
+  }
+}

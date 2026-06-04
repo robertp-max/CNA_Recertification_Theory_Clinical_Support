@@ -1,0 +1,26 @@
+﻿ M standalone-course-mvp/public/v2-screenshot-tailwind.css
+ M standalone-course-mvp/src/app/App.tsx
+ M standalone-course-mvp/src/components/ui/PhiWarningBlock.tsx
+ M standalone-course-mvp/src/components/v2/AppShell.tsx
+ M standalone-course-mvp/src/components/v2/ChallengeDebrief.tsx
+ M standalone-course-mvp/src/components/v2/NarrationPlayer.tsx
+ M standalone-course-mvp/src/components/v2/ReviewerToolsPanel.tsx
+ M standalone-course-mvp/src/components/v2/TopNav.tsx
+ M standalone-course-mvp/src/components/v2/primitives.tsx
+ M standalone-course-mvp/src/lib/uiState.tsx
+ M standalone-course-mvp/src/pages/CertificateGatePage.tsx
+ M standalone-course-mvp/src/pages/ClinicalHubPage.tsx
+ M standalone-course-mvp/src/pages/FinalAssessmentSplashPage.tsx
+ M standalone-course-mvp/src/pages/LessonPlayerPage.tsx
+ M standalone-course-mvp/src/pages/ModulesPage.tsx
+ M standalone-course-mvp/src/pages/ReviewerLogin.tsx
+ M standalone-course-mvp/src/styles/login.css
+ M standalone-course-mvp/src/v2-screenshot-runner.tsx
+ M standalone-course-mvp/tailwind.v2-screenshot.config.cjs
+ M standalone-course-mvp/tests/v2-screenshots.spec.ts
+?? CLAUDE_DAY_MODE_FIX_PROMPT.md
+?? CNA-Recert-Course/Branding_Kit/Day.tsx
+?? CNA-Recert-Course/reconciliation/
+?? GLOBAL_MASTER_PROMPT.md
+?? standalone-course-mvp/src/components/v2/BrandingModeToggle.tsx
+?? standalone-course-mvp/src/nia/

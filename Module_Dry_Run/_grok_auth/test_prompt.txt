@@ -1,0 +1,1 @@
+Reply exactly GROK_PROMPT_FILE_OK. Do not use tools.

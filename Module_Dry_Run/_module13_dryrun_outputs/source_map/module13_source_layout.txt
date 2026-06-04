@@ -1,0 +1,3384 @@
+                                                           Module 13: Long Term Care Resident
+
+Module 13: Long Term Care Patient/Resident
+
+Minimum Number of Theory Hours: 5 SNF/ICF (or 3 non-SNF/ICF plus 2 additional training hours)
+Recommended Theory Hours: 13
+Required Clinical Hours: 4
+
+Statement of Purpose:
+The purpose of this unit is to introduce the student to the basic structure of the body and to review the effect of aging on body
+structure and function. Common physical and psychological conditions found in elderly patients are presented along with
+approaches to care. Community resources commonly available to assist elderly patients with their psychological, recreational, and
+social needs are presented.
+
+Terminology:                    21. Epithelial tissue      42. Aphasia
+Long Term Care Resident:        22. Health                 43. Autonomic dysreflexia
+                                23. Inferior               44. Bipolar disorder
+  1. Acute                      24. Joints                 45. Brain
+  2. Assisted living            25. Lateral                46. Cataract
+  3. Chronic                    26. Membranes              47. Catastrophic reaction
+  4. Debilitating               27. Muscle tissue          48. Cerebral palsy
+  5. Dementia                   28. Nerve tissue           49. Cerebral Vascular Accident
+  6. Long-term care             29. Organ
+  7. Reality orientation        30. Peritoneum                    (CVA)
+  8. Reminiscing                31. Physiology             50. Concussion
+  9. Patients/residents         32. Posterior              51. Confusion
+  10. Skilled nursing facility  33. Prefix                 52. Delirium
+  11. Subacute care             34. Proximal               53. Delusion
+  12. Validation therapy        35. Suffix                 54. Dementia
+Medical and Anatomical Terms:   36. Superior               55. Developmentally disabled
+  13. Anatomic position         37. System                 56. Disruptive behavior
+  14. Anatomy                   38. Traction               57. Elopement
+  15. Anterior                  Nervous System:            58. Epilepsy
+  16. Cells                     39. Age-related Macular    59. Generalized anxiety
+  17. Connective tissue                                    60. Glaucoma
+  18. Contractures                     Degeneration (AMD)  61. Hallucination
+  19. Disease                   40. Agitated               62. Hemianopsia
+  20. Distal                    41. Alzheimer’s disease    63. Hemiplegia
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 1 of 82
+                                                                   Module 13: Long Term Care Resident
+
+64. Multiple sclerosis         91. T-cell                          119. Vein
+65. Nerve                      92. White blood cell                120. Vessel
+66. Neuron                     Cardiovascular System:              Integumentary System:
+67. Otosclerosis               93. Anemia                          121. Abrasion
+68. Panic disorder             94. Angina                          122. Allergies
+69. Paralysis                  95. Anti-embolic stockings:         123. Bony prominences
+70. Paranoia                   96. Artery                          124. Cyanotic
+71. Paranoid schizophrenia     97. Atherosclerosis                 125. Debride
+72. Paraplegia                 98. Blood                           126. Decubitus ulcer
+73. Parkinson’s disease        99. Capillary                       127. Dermis
+74. Peripheral nervous system  100. Congestive Heart Failure       128. Epidermis
+75. Post-traumatic stress                                          129. Excoriation
+                                      (CHF)                        130. Friction
+       syndrome                101. Coronary artery disease        131. Gangrene
+76. Quadriplegia               102. Dyspnea                        132. Hematoma
+77. Reality orientation        103. Edema                          133. Lesion
+78. Seizure                    104. Embolism                       134. Necrosis
+79. Stroke                     105. Heart                          135. Pallor
+80. Sundowner syndrome         106. Hypertension                   136. Pediculosis
+81. Transient Ischemic Attack  107. Hypoxia                        137. Pressure ulcer
+                               108. Ischemia                       138. Pruritus
+        (TIA)                  109. Myocardial infarction          139. Psoriasis
+82. Tremor                     110. Orthopnea                      140. Scabies
+83. Vertigo                    111. Pacemaker                      141. Shearing
+Immune System:                 112. Peripheral vascular disease    142. Skin
+84. Antibody                                                       143. Skin tears
+85. Antigen                            (PVD)                       Gastrointestinal System:
+86. Auto Immunodeficiency      113. Phlebitis                      144. Absorption
+                               114. Pulmonary edema                145. Bile
+       Syndrome (AIDS)         115. Sequential compression device  146. Bowel movement
+87. Carrier                                                        147. Colon
+88. Human Immunodeficiency             (SCD)                       148. Colostomy
+                               116. Systole
+       Virus                   117. Thrombus
+89. Immunity                   118. Varicose vein
+90. Lymph node
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 2 of 82
+                                                                  Module 13: Long Term Care Resident
+
+149. Constipation             179. Chronic Heart Failure (CHF)    208. Full weight-bearing (FWB)
+150. Defecation               180. Chronic Obstructive Pulmonary  209. Gout
+151. Diarrhea                                                     210. Muscle
+152. Digestion                       Disease (COPD)               211. Muscular dystrophy
+153. Diverticulitis           181. Dyspnea                        212. Osteoarthritis
+154. Elimination              182. Emphysema                      213. Osteoporosis
+155. Enema                    183. Expiration                     214. Phantom pain
+156. Fecal impaction          184. Inspiration                    215. Pronation
+157. Feces                    185. Larynx                         216. Prosthesis
+158. Flatus                   186. Lungs                          217. Range of Motion (ROM)
+159. Gastrectomy              187. Mucous                         218. Rheumatoid arthritis
+160. Gastric tube             188. Nasal cannula                  219. Rotation
+161. Hernia                   189. Nebulizer                      220. Skeleton
+162. Ileostomy                190. Orthopnea                      221. Supination
+163. Nasogastric tube (NG)    191. Oxygen mask                    222. Total hip arthroplasty
+164. Obstruction              192. Pharynx                        223. Trapeze
+165. Occult blood             193. Pneumonia                      224. Vertebrae
+166. Ostomy                   194. Sputum                         Urinary System
+167. Percutaneous Endoscopic  195. Tracheostomy                   225. Catheter
+                              196. Tuberculosis (TB)              226. Calculi
+        Gastrostomy (PEG)     197. Upper respiratory infection    227. Chronic renal failure
+168. Peristalsis                                                  228. Clean catch
+169. Stoma                            (URI)                       229. Condom catheter
+170. Stool                    Musculoskeletal System:             230. Cystitis
+171. Suppository              198. Abduction                      231. Dialysis
+172. Ulcer                    199. Adduction                      232. Diuresis
+173. Urgency                  200. Amputation                     233. Dysuria
+174. Urostomy                 201. Arthritis                      234. End-Stage Renal Disease
+Respiratory System:           202. Atrophy
+175. Alveoli                  203. Bursitis                              (ESRD)
+176. Asthma                   204. Contracture                    235. Hematuria
+177. Bronchi                  205. Extension                      236. Indwelling catheter
+178. Carbon dioxide           206. Flexion                        237. Kidney
+                              207. Fracture
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 3 of 82
+238. Micturition                    257. Human Papilloma Virus(HPV)                        Module 13: Long Term Care Resident
+239. Nephritis                      258. Gonorrhea
+240. Renal calculi                  259. Hemorrhoid                                        275. Venereal
+241. Retention                      260. Herpes simplex 2                                  276. Vulvovaginitis
+242. Specimens                      261. Hormones                                          Endocrine System:
+243. Ureter                         262. Hysterectomy                                      277. Diabetes mellitus
+244. Urethra                        263. Mammogram                                         278. Fasting Blood Sugar (FBS)
+245. Urinalysis                     264. Mastectomy                                        279. Glucose
+246. Urinary bladder                265. Pelvis Inflammatory disease                       280. Glycosuria
+247. Urinary drainage bag                                                                  281. Goiter
+248. Urinary incontinence                  (PID)                                           282. Hormones
+249. Urinary Tract Infection (UTI)  266. Penis                                             283. Hyperglycemia
+250. Void                           267. Prostate gland                                    284. Hypoglycemia
+Reproductive System:                268. Rectocele                                         285. Insulin
+251. Benign prostatic hypertrophy   269. Sexually transmitted disease                      286. Insulin-Dependent Diabetes
+252. Chlamydia
+253. Cystocele                              (STD)                                                  Mellitus (IDDM)
+254. Douche                         270. Syphilis                                          287. Metabolism
+255. Genitalia                      271. Testes                                            288. Non-Insulin-Dependent
+256. Genital herpes                 272. Trichomoniasis
+                                    273. Uterus                                                    Diabetes Mellitus (NIDDM)
+                                    274. Vagina                                            289. Pituitary gland
+                                                                                           290. Thyroxine
+
+Patient, resident, and client are synonymous terms referring to the person receiving care
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 4 of 82
+                                                                                  Module 13: Long Term Care Resident
+
+Performance Standards (Objectives):
+
+Upon completion of five (5) hours SNF/ICF* or three (3) non-SNF/ICF** of class plus homework assignments and four (4) hours of
+
+clinical experience, the learner will be able to:
+
+1. Define key terminology
+
+2. Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological,
+
+social, recreational and spiritual
+
+3. Describe common community resources to meet the needs of the elderly
+
+4. Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy,
+
+epilepsy, Parkinson’s disease, and mental illness
+
+5. Describe the special needs of persons with Alzheimer’s Disease and other related dementias
+
+6. Describe the body’s basic organization and composition
+
+7. List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse
+
+Assistant duties and observations, aging changes and complications of immobility
+
+8. Describe changes in body systems associated with aging
+
+Refer to CDPH 276C form:
+*SNF/ICF providers need to complete A1 Special needs of persons with developmental and mental disorders including intellectual
+disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness (2 hours); A2 Special needs of persons with Alzheimer’s
+disease and related dementias (2 hours); and B Introduction to anatomy and physiology (B-F minimum 1 hour).
+
+**Non-SNF/ICF providers may complete A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours), or two
+(2) hours of training from another module in order to meet the sixty (60) hours minimum theory training requirement and B Introduction to
+anatomy and physiology (B-F minimum 1 hour).
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018              Page 5 of 82
+                                                                                                                Module 13: Long Term Care Resident
+References:
+
+  1. Acello, B. & Hegner, B. (2016). Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage Learning.
+  2. Acello, B. (2016). Workbook to accompany: Nursing Assistant: A Nursing Process Approach. (11th ed). Boston, MA. Cengage
+
+       Learning
+  3. Carter, P. J. (2017). Lippincott Essentials for Nursing Assistants: a Humanistic Approach to Caregiving. (4th ed.) Philadelphia,
+
+       PA. Lippincott Williams & Wilkins
+  4. Deck, M. L. (2004). Instant Teaching Tools for the New Millennium. St Louis, MO. Mosby
+  5. Hedman, S. A., Fuzy, J., & Rymer, S. (2018). Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+
+       Hartman Publishing, Inc.
+  6. Hartman Publishing. (2018). Workbook for Hartman's Nursing Assistant Care: Long-Term Care (4th ed.). Albuquerque, NM.
+
+       Hartman Publishing, Inc.
+  7. Haroun, L. & Royce, S. (2004). Teaching Ideas and Activities for Health Care. Albany, NY. Delmar Publishers
+  8. Pearson Vue (2018) California Nurse Assistant Candidate Handbook for National Nurse Aide Assessment Program. Philadelphia,
+
+       PA. Pearson Education, Inc.
+  9. Sorrentino, S. A., Remmert, L., & and Kelly, R. (2018) Workbook and Competency Evaluation Review for Moby’s Textbook for
+
+       Nursing Assistants (9th ed.) St. Louis, MO. Mosby Company
+  10. Sorrentino, S.A. and Remmert, L. (2018) Mosby’s Textbook for Nursing Assistants. (9th ed.). St Louis, MO. Elsevier
+  11. Weaver, L. & Wilding, M. (2013) The Dimensions of Engaged Teaching: a Practical Guide for Educators. Bloomington, IN.
+
+       Solution Tree Press.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 6 of 82
+                                                                 Module 13: Long Term Care Resident
+
+                                    Content Outline              Recommended Teaching           Clinical Demonstration/
+Objective 1                                                             Strategies and           Method of Evaluation
+Define key terminology.                                                  Assignments
+A. Review the terms listed in the terminology section
+B. Spell the listed terms accurately                             A. Lecture/Discussion          A. Have students select five
+C. Pronounce the terms correctly                                 B. Games: word searches,           words from the list of key
+D. Use the terms in their proper context                                                            terminology and write a
+                                                                     crossword puzzles,             sentence for each
+Objective 2                                                          Family Feud, Jeopardy,         defining the term
+Describe common basic human needs and interventions for the          bingo, spelling bee,
+elderly patient/resident; environmental, psychological, social,      hangman, and               B. Administer vocabulary
+recreational and spiritual.                                          concentration                  pre-test and post-test
+A. Environmental/physical                                        C. Encourage use of
+                                                                     internet, medical          C. Uses appropriate
+      1. Safety                                                      dictionary, and textbooks      terminology when
+           a. More light for better vision                       D. Create flashcards for           charting and reporting to
+           b. Freedom from hazards                                   learning purposes              licensed personnel
+           c. Support (adaptive devices)                         E. Handout 13.1a- Long
+           d. Good personal hygiene                                  Term Care
+                                                                     Patient/resident
+      2. Shelter                                                     Crossword
+           a. Appropriate living situation                       F. Handout 13.1b- Long
+                                                                     Term Care
+
+                                                                 A. Lecture                     A. Written test
+                                                                 B. Discussion                  B. Assists
+                                                                 C. Handout 13.2a- Elements
+                                                                                                    patients/residents in
+                                                                     of Friendship                  meeting environmental,
+                                                                 D. Handout 13.2b- Empathy          psychological, social,
+                                                                 E. Handout 13.2c- The Best         recreational and spiritual
+                                                                                                    needs
+                                                                     Friends Philosophy of      C. Reports unusual signs to
+                                                                     Communication                  licensed nurse
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 7 of 82
+                                                                       Module 13: Long Term Care Resident
+
+           b. Environmental control (heating, air conditioning)
+      3. Nourishment
+
+           a. Balanced nutrition
+           b. Adequate fluids
+B. Psychological
+      1. Maintain self-esteem
+           b. Respectful treatment
+           c. Recognition of individual differences
+      2. Adjustment to role change and loss of independence
+           b. Respect privacy
+           c. Give choices
+           d. Encourage activities
+C. Social
+      1. Social interactions
+           b. Encourage family involvement
+           c. Encourage social/community activities
+      2. Adjustment to losses
+           b. Death of spouse/friends
+           c. Encourage verbalization, such as reminiscing
+           d. Encourage new social contacts
+      3. Financial
+           b. Changes in income interfere with meeting basic needs of
+
+                security, love, belonging and self-esteem
+           c. Refer to social service
+D. Recreational
+      1. Diversion
+           b. Encourage hobbies
+           c. Involve in facility/community events
+           d. Encourage family involvement
+      2. Self-esteem
+           b. Encourage involvement
+           c. Give compliments
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 8 of 82
+                                                                       Module 13: Long Term Care Resident
+
+           c. Reinforce positive traits or abilities                   A. Lecture                 A. Written tests
+                                                                       B. Discussion              B. Assists licensed nurse in
+E. Spiritual                                                           C. Ask group to share any
+                                                                                                      providing information to
+      1. Provide respect for individual choices                            information they have      patients/residents
+                                                                           used on community          regarding community
+      2. Provide opportunities to participate in religious activities      resources                  resources
+
+Objective 3
+Describe common community resources to meet the needs of the
+
+elderly.
+
+A. Area Agency on Aging-AAA, (Request Community Resource
+    Manual)
+
+B. Adult Day Care Center
+C. Support groups
+
+       1. American Diabetes Association
+       2. Braille Institute or Blind Center
+       3. Alzheimer’s Society
+       4. Parkinson’s Support
+       5. Multiple Sclerosis Support
+       6. Muscular Dystrophy
+       7. Hospice/Bereavement
+D. County Health Center
+E. Community Hospitals and their hospice
+F. Internal Revenue Service (IRS) information
+G. Long Term Care Ombudsman
+H. Meals on Wheels
+I. Medicare Office (see Social Security Office)
+J. Mental Health Department
+K. National Alliance for the Mentally Ill (NAMI)
+L. American Disability Act
+M. Adult Protective Services (APS)
+N. Red Cross/Blood Pressure Clinic
+O. Senior Center
+P. Senior Housing
+Q. Social Security Office Suicide prevention
+
+R. Home health agencies
+
+S. Voter registration
+
+T. American Association of Retired Persons (AARP)
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 9 of 82
+                                                                             Module 13: Long Term Care Resident
+
+U. Fraternal and social organizations                                        A. Lecture                    A. Written tests
+                                                                             B. Discussion                 B. Reports unusual signs
+V. Regional centers                                                          C. Handout 13.4- An
+                                                                                                               and symptoms to
+W. Churches/religious organizations                                              Alzheimer’s Disease Bill      licensed nurse
+                                                                                 of Rights
+Objective 4                                                                  D. Manual Skills 13.4-
+Describe the special needs of persons with developmental and                     Reality Orientation to
+                                                                                 Promote or Maintain
+mental disorders including intellectual disability, cerebral palsy,              Awareness of Person
+                                                                                 Place and Time
+epilepsy, Parkinson’s disease, and mental illness.
+
+A. Epilepsy/Seizure Disorders
+       1. Description of different types of Epilepsy and Seizure
+            Disorders
+
+             a. Generalized seizure (Grand mal)
+
+             b. Partial seizure (Petit mal)
+             c. Absent Seizure
+             d. Status epilepticus
+       2. Discuss potential causes
+             a. Metabolic disorders
+             b. Nutrition problems
+             c. Medication problems
+       3. Signs/symptoms (Refer to objective 7)
+             a. Depends on type of seizure
+             b. May experience “aura” or certain taste before Entire
+
+                  body is involved
+             c. May experience loss of consciousness
+             d. Incontinence
+             e. May be followed by period of fatigue, confusion,
+
+                  disorientation
+
+       4. Nurse Assistant duties and responsibilities
+             a. Stay with person and call for assistance
+             b. Assist to lay down
+             c. Do not restrain movements or put anything in mouth
+             d. Move away objects that may injure a person
+             e. Maintain airway by loosening clothing, turn head so
+                  saliva/emesis drains to one side, lift shoulder and allow
+                  head to tilt back
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 10 of 82
+                                                                             Module 13: Long Term Care Resident
+
+B. Parkinson’s Disease
+   1. Description and progression of disease
+         a. Progressive nervous system disorder that affects movement
+         b. Early stages of Parkinson's disease, may be mild and go
+              unnoticed, but as symptoms worsen as the condition
+              progresses over time
+         c. Certain nerve cells (neurons) in the brain gradually break down
+              or die, which causes a loss of neurons that produce a
+              chemical messenger in your brain called dopamine
+   2. Signs and symptoms
+         a. Start gradually, sometimes starting with a barely noticeable
+              tremor in just one hand
+         b. Tremors and “pill rolling”
+         c. Muscle rigidity
+         d. Shuffling manner of walking Difficulty and slowness in carrying
+              out voluntary motor activities
+         e. Slurred speech
+         f. Loss of expressiveness in face
+         g. Drooling
+         h. Incontinence
+         i. Constipation
+         j. Urinary retention
+
+         k. Mood swings
+
+         l. Depression
+
+         m. Fatigue
+
+   3. Nurse Assistant duties and responsibilities
+             a. Safety activities and concerns
+
+             b. Nutrition problems including swallowing and/or chewing
+                  issues
+
+             c. Notify licensed nurse if behavior worsens or becomes
+                  dangerous
+
+             d. Maintain calm environment; symptoms will worsen when
+                  patient/resident is under stress
+
+             e. Assist in ADLs
+
+             f. Provide emotional support
+
+             g. Restorative care; exercises
+             h. Dementia care; as above
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 11 of 82
+                                                                            Module 13: Long Term Care Resident
+
+C. Schizophrenia
+
+   1. Mental disorder characterized by paranoia, hallucinations,
+
+        delusions, bizarre behavior and distortions of reality
+
+   2. Signs/symptoms
+   3. Nurse Assistant duties and responsibilities
+
+       a. Notify licensed nurse if behavior worsens or becomes
+            dangerous
+
+       b. Do not “feed in” to delusions, but do not try to convince
+            them of reality
+
+       c. Be aware of suicide precautions
+       d. Keep patient/resident involved in reality activities
+       e. Report and document observed responses to medication and
+
+            psychotherapy
+       f. Monitor nutrition and fluid balance - these patients/residents
+
+            often refuse to eat or drink out of a fear of poisoning
+       g. Find ways of reducing patient’s/resident’s fear and anxiety
+D. Hypochondriasis
+   1. Patient/resident imagines or magnifies each physical ailment
+   2. Nurse Assistant duties and responsibilities
+
+             a. Be supportive, some authorities feel this disorder stems
+                  from depression
+
+             b. Do not overlook real illness; report all complaints
+             c. Do not judge
+E. Depression
+   1. Most common functional disorder in older people
+   2. Signs and Symptoms
+             a. Feeling of sadness
+             b. Lack of interest in and withdrawal from environment
+             c. Feelings of worthlessness
+             d. Negative outlook on the future
+   3. Nurse Assistant duties and responsibilities
+             a. Notify licensed nurse if patient/resident displays loss of
+
+                  appetite, weight loss, severe fatigue, crying, or
+                  sleeplessness
+             b. Notify licensed nurse if patient/resident makes
+                  statements such as “I wish I could just die”
+             c. Remain non-judgmental
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 12 of 82
+                                                                            Module 13: Long Term Care Resident
+
+           d. Listen with empathy
+           e. Encourage activities with others
+           f. Encourage aerobic activity, as well as outdoor activities
+
+                (releases endorphins)
+E. Suicidal patient/resident
+
+       1. The elderly patients/residents are at risk of suicidal behavior,
+            especially white males over the age of 65 who live alone,
+            and the very old (75 years and above)
+
+       2. Nurse Assistant duties and responsibilities
+
+             a. Report clues of suicide attempts to licensed nurse
+             b. Give constant care
+             c. Monitor activities
+             d. Work to preserve self-esteem
+
+             e. Help patient/resident find support network; friends,
+                  clergy, family and support groups
+
+             f. Never ignore the person’s statements or threats about
+                  suicide
+
+F. Intellectual or Developmental Disabilities
+
+       1. Significant sub-average intellectual function and low adaptive
+            ability
+
+       2. Nurse Assistant duties and responsibilities
+             a. Provide an environment as normal as possible
+                  (normalization)
+             b. Emphasize individual strengths
+             c. Encourage independence, self-care
+             d. Treat with dignity at age appropriate level
+             e. Respect privacy
+
+             f. Provide safe, structured environment
+G. Cerebral Palsy
+
+       1. Group of disorders characterized by motor dysfunctions
+       2. Nurse assistant duties and responsibilities
+
+             a. Provide safe, structured environment
+             b. Apply appropriate assistive devices
+             c. Emphasize individual strengths
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 13 of 82
+                                                                            Module 13: Long Term Care Resident
+
+             d. Encourage independence
+             e. Treat with dignity
+
+             f. Respect privacy
+H. Alcoholism/Drug Abuse
+
+       1. Abuse of alcohol or drugs when healthy coping mechanisms
+            have failed
+
+       2. 15% of elderly suffer from alcoholism
+
+       3. Often triggered by
+             a. Retirement
+             b. Loss of self-esteem
+             c. Loneliness
+
+             d. Chronic pain
+             e. Decline in health
+             f. Stress
+       4. Nurse Assistant duties and responsibilities
+             a. Report to the licensed nurse any sign that the
+
+                  patient/resident is under the influence of alcohol or
+                  drugs
+             b. Be sure alcohol/drugs are not available (alcohol can be in
+                  products such as aftershave, perfume, cooking extracts,
+                  cleaning products)
+             c. Watch for mental impairment; loss of coordination, poor
+                  judgment
+             d. Be careful when feeding, gag reflex may be impaired
+
+             e. Set boundaries, avoid being manipulated
+             f. Be aware of support groups such as Alcoholics
+
+                  Anonymous or the Mental Health Association
+             g. Notify licensed nurse if signs of withdrawal
+
+                   1) Alcohol: tremors, shaking, agitation, seizures
+                   2) Drugs: runny nose, depression, headache, pacing,
+
+                        poor coping mechanisms, agitation
+             h. Follow patient’s/resident’s care plan
+             i. Be aware of dangerous behavior
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 14 of 82
+                                                                                               Module 13: Long Term Care Resident
+
+ I. The Agitated Patient/resident                                               A. Lecture     A. Written test
+                                                                                B. Discussion
+        1. Uses inappropriate verbal, vocal, or motor activity due to
+             causes other than disorientation or real need
+
+        2. Nurse Assistant duties and responsibilities
+
+              a. Report to the licensed nurse any signs of agitation
+                   including aimless wandering, pacing, cursing, screaming,
+                   spitting, biting, fighting, arguing, demanding, and talking
+                   to self
+
+               b. Maintain quiet, calm atmosphere
+
+               c. Encourage distracting activities
+
+               d. Check for constipation or other sources of
+                   discomfort/pain
+
+               e. Realize that patient/resident may become more agitated
+                   due to feelings of loss of control
+
+               f. Avoid restraints
+
+               g. Allow patient/resident to walk, or rock in chair to diffuse
+                   energy
+
+               h. Listen with empathy
+
+               i. Make sure you stay safe - maintain area to escape (don’t
+                   let patient/resident get between you and the door)
+
+               j. Call for help if patient/resident gets violent
+
+               k. Do not attempt to control patient/resident if they become
+                   violent
+
+              l. Redirect
+
+Objective 5: Describe the special needs of persons with Alzheimer’s
+Disease and other related dementias
+A. Explain the causes and differences of delirium, depression and
+
+    dementia
+         a. Dementia is a general term for a decline in mental ability
+              severe enough to interfere with daily life
+         b. Dementia describes a group of symptoms affecting memory,
+              thinking and social abilities severely enough to interfere with
+              your daily life
+         c. Not a specific disease, but several different diseases may
+              cause dementia
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 15 of 82
+                                                                       Module 13: Long Term Care Resident
+
+d. Delirium is a serious disturbance in mental abilities that results
+    in confused thinking and reduced awareness of the
+    environment
+
+e. Depression is a mood disorder that causes a persistent feeling
+    of sadness and loss of interest, which affects how you feel,
+    think and behave, and can lead to a variety of emotional and
+    physical problems
+
+f. Dementia and delirium may be particularly difficult to
+    distinguish, and a person may have both
+
+g. Causes not known exactly known, but as with many mental
+    disorders, a variety of factors may be involved, such as:
+     b) Brain chemistry
+     c) Hormones
+     d) Traumatic or stressful events
+     e) Abuse of alcohol or recreational drugs
+     f) Serious or chronic illness, including cancer, stroke, chronic
+          pain or heart disease
+     g) Certain medications or drug toxicity
+     h) Malnutrition or dehydration
+     i) Sleep deprivation
+
+h. Common signs and symptoms include:
+          1) Memory loss, which is usually noticed by a spouse or
+               someone else
+          2) Difficulty communicating or finding words
+          3) Difficulty with visual and spatial abilities, such as
+               getting lost while driving
+          4) Difficulty reasoning or problem-solving
+          5) Difficulty handling complex tasks
+          6) Difficulty with planning and organizing
+          7) Difficulty with coordination and motor functions
+          8) Confusion and disorientation
+          9) Personality changes
+          10) Anxiety
+          11) Paranoia
+          12) Agitation
+          13) Hallucinations
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 16 of 82
+                                                                            Module 13: Long Term Care Resident
+
+B. Describe the signs, symptoms and progression of Alzheimer’s disease
+    and other dementias
+    1. Alzheimer’s disease (covered in objective 7: neurological section):
+         caused by plaques and tangles in the brain’s nervous system.
+         Brain decreases in size as cells are lost. Progressive and
+         incurable
+    2. Signs and Symptoms
+         a. Stage 1: Mild Dementia
+             1) Short-term memory loss
+             2) Personality changes
+             3) Disorientation to time
+             4) Poor judgment
+             5) Lack of safety awareness
+             6) Careless in appearance
+             7) Anxious, depressed
+             8) Delusions of persecution
+         b. Stage 2: Moderate Dementia
+             1) Increased short-term memory loss
+             2) Complete disorientation
+             3) Wandering and pacing
+             4) Sundowning
+             5) Perseveration phenomena
+             6) Motor skills deteriorate
+             7) Speech, reading, writing deteriorates
+             8) Incontinent of bowel and bladder
+             9) Catastrophic episode
+         c. Severe Dementia
+             1) Totally dependent
+             2) Verbally unresponsive
+             3) May have seizures
+
+C. Explain the nursing care received by persons with Alzheimer’s disease
+    and other dementias
+         a. Protect patient/resident from injury
+         b. Be compassionate, patient, and calm; maintain sense of humor
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 17 of 82
+                                                                     Module 13: Long Term Care Resident
+
+d. Encourage independence as long as possible
+
+e. Provide mental and physical activities within resident’s
+    capabilities
+
+f. Support resident’s dignity and self-esteem
+g. Provide structured quiet environment that is uncluttered
+
+h. Use appropriate body language; resident’s will “read” the
+    staff’s behavior and reflect the mood of the staff in their own
+
+behavior
+
+i. Give one, short, simple direction at a time
+
+j. Observe for signs and symptoms of physical ailments;
+
+resident may be unaware of illness
+
+k. Assist residents to maintain a dignified, attractive
+
+appearance by helping with grooming and dressing
+
+l. Monitor food and fluid intake
+
+a) Do not use plastic feeding utensils
+
+b) Provide nutritious finger foods when the resident is
+    unable to use utensils
+
+c) Be aware of swallowing difficulties
+
+d) Prepare food (butter bread, cut into bites) and encourage
+
+resident to feed self as long as possible
+
+e) Check food temperatures
+
+f) Check resident’s mouth after eating for “pocketing”
+
+(hoarding food in the cheeks)
+
+g) Weigh residents to detect patterns of weight gain or
+
+loss
+
+m. Use touch appropriately; surprising resident can result in a
+
+catastrophic reaction
+
+n. Avoid using logic, reasoning or lengthy explanations
+
+o. When ability to speak is lost, resident may communicate
+    through non-verbal means
+         a. Biting, scratching, and kicking to express
+              displeasure
+
+b. Facial expressions and body language may express
+    moods
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 18 of 82
+                                                                            Module 13: Long Term Care Resident
+
+D. Identify specific activities that would improve the quality of life for
+    persons with Alzheimer’s disease and other dementias
+         a. Use distraction and diversion when resident is agitated, take
+              hand and calmly walk to another activity
+         b. Realize that people with dementia are not responsible for what
+              they say
+               1) They cannot change
+               2) They are not aware of what they are doing
+               3) They have poor impulse control
+               4) Allow them to “save face” by preserving their dignity
+               5) No one really knows what is happening in the mind of
+                  people with dementia
+         c. Compliment positive behavior and accomplishments
+         d. Encourage rocking chairs to diffuse nervous energy
+
+E. Identify specific safety measures for Alzheimer’s and dementia
+    populations
+         a. Use reality orientation (R.O.) to regain connection to
+              environment
+              1) Especially effective in 1st stages of Alzheimer’s
+              2) Use clock and calendar at bedside
+              3) Call by name
+         b. Answer questions honestly, but do not give information
+              they are unable to handle; for example
+              1) The resident asks if their deceased husband is
+                   coming to visit
+              2) Nurse Assistant could respond by saying “tell me about
+                   your husband”
+         c. Do not argue with resident’s reality
+         d. Use bulletin boards decorated for the season
+         e. Keep curtains open during the day
+         f. Make sure they have their glasses and hearing aids on
+         g. Do not expect resident to remember you - identify
+              yourself, as needed
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 19 of 82
+                                                                                            Module 13: Long Term Care Resident
+
+              h. Incorporate validation therapy into all your interactions
+                   with dementia resident (maintains disorientated person’s
+                   dignity by acknowledging the person’s memories and
+                   feeling)
+
+              i. Use reminiscing therapy
+              j. Incorporate music therapy
+              k. Incorporate animal therapy
+F. Identify at-risk behaviors that include modifiable and non-modifiable
+    factors, as well as increased risk for abuse
+              a. Research has shown that the same risk factors associated
+
+                   with heart disease may also increase the risk of
+                   Alzheimer's disease. These include:
+              b. Lack of exercise
+              c. Obesity
+              d. Smoking or exposure to secondhand smoke
+              e. High blood pressure
+              f. High cholesterol
+              g. Poorly controlled type 2 diabetes
+              h. sleep patterns
+              i. Age
+              j. Family history and genetics
+
+Objective 6                                                                  C. Lecture     A. Written test
+Describe the body’s basic organization and composition.                      D. Discussion
+A. Anatomy-Structure; Physiology-Function
+B. The Cell
+
+       1. The basic unit of body structure; building blocks of the body
+       2. Function, size, and shape of cells may differ
+       3. Cells need food, water, and oxygen to survive
+C. Tissues
+       1. Groups of cells with similar functions. Four basic types of
+
+            tissues in body
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 20 of 82
+                                                                              Module 13: Long Term Care Resident
+
+       2. Epithelial tissue – protective                                      A. Lecture/Discussion         A. Written test
+       3. Connective tissue – support and connect                             B. Use visuals and videos to  B. Reports unusual signs
+       4. Muscle tissue – shorten and lengthen
+       5. Nerve tissue – carry electrical impulses                                describe conditions           and symptoms to
+D. Organs                                                                     C. Ask student to share           licensed nurse
+       1. Made up of different types of tissues
+       2. Perform special functions                                               experiences regarding
+E. Systems                                                                        common diseases of the
+       1. Groups of organs that work together to perform specific
+
+            functions
+       2. Ten major body systems
+
+             a. Integumentary System
+             b. Respiratory System
+             c. Cardiovascular System
+             d. Musculoskeletal System
+             e. Endocrine System
+             f. Nervous System
+             g. Gastrointestinal System
+             h. Urinary System
+             i. Reproductive System
+             j. Immune System
+F. Health; state of mental, physical and social well-being
+G. Disease; any change from the healthy state
+Objective 7
+List the body systems, including basic anatomy and physiology,
+common diseases of the elderly, signs and symptoms, and Nurse
+Assistant duties and observations.
+A. Integumentary system (skin)
+       1. Anatomy
+             a. Epidermis is the top surface layer
+
+                   1) It is primarily dry, dead cells that shed continuously
+                   2) Thin layer with no blood supply
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 21 of 82
+                                                                               Module 13: Long Term Care Resident
+
+            3) Functions as a barrier to water loss and prevention    elderly
+                 infection
+
+      b. Dermis is the second layer
+
+            1) Varies in thickness in different areas of the body
+            2) Naturally very moist
+
+            3) Gives skin its strength
+
+            4) Contains the blood vessels, lymph vessels, nerve
+                 endings, oil glands, and hair follicles
+
+            5) Function of dermis is to aid in body temperature
+                 control and is the origin of our sense of touch,
+                 pressure, and pain
+
+      c. Subcutaneous tissues are deeper tissues beneath the
+           dermis
+            1) Tissues are fat and connective tissue
+            2) These tissues do not tolerate lack of oxygen and cell
+                 death results easily
+
+2. Functions
+      a. Provides protective barrier against microorganisms and
+           infection
+      b. Provides sensation through nerve endings
+
+      c. Shields body tissue from injury
+      d. Regulates body temperature
+
+      e. Eliminates waste products
+
+      f. Produces Vitamin D for body use
+      g. Prevents loss of too much water
+
+      h. It is the largest “organ” of the body
+3. Diseases and Disorders
+
+      a. Skin Lesions/Wounds - change in skin structure caused
+           by injury, trauma, aging, or disease
+            1) Signs and Symptoms
+
+                  a) Rash
+
+                  b) Raised spots filled with pus or fluid
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 22 of 82
+Module 13: Long Term Care Resident
+
+                          c) Irregular reddened areas that itch (Pruritus)                                  Page 18 of 82
+                          d) Dry crusts; scabs
+                          e) Break in skin integrity
+                    2) Nurse Assistant duties and observations
+                          a) Observation and reporting of any skin
+
+                               abnormalities
+                          b) Observe drainage on dressing
+                          c) Soap and water are contraindicated
+                          d) Tepid water when bathing
+                          e) Gloves
+                          f) Do not remove crusts
+                          g) Notify licensed nurse if:
+
+                              • Skin lesions drain
+                              • Nature of drainage changes, increases
+                              • Drainage has odor
+                              • Drainage changes color
+                              • Dressing needs changing
+                              • Wound has signs of redness, red streaks,
+
+                                   heat, pus, drainage
+             b. Pressure Sores (Decubiti) - break in skin integrity that
+
+                  develops over bony prominence as result of pressure
+                    1) Signs and Symptoms
+
+                          a) Stage One
+                              • Redness over bony prominence (dark skinned
+                                   people may appear blue or black) that does
+                                   not go away after 30 minutes
+                              • Will reverse if precautions are taken
+
+                          b) Stage Two
+                              • Reddened skin with abrasions, blisters or
+                                   shallow crater
+
+                              • Epidermis and/or dermis may both be
+                                   involved
+
+                              •
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                              Module 13: Long Term Care Resident
+
+      c) Stage Three
+         • All layers of skin destroyed
+         • Deep crater forms
+
+      d) Stage Four
+         • Ulcer extends through skin and subcutaneous
+              tissue
+         • Bone, muscle, and underlying structures may
+              be involved
+
+2) Nurse Assistant duties and observations
+      a) Change position at least every two hours
+      b) When sitting, teach patient/resident to shift every
+           ten (10) minutes
+      c) Proper nutrition and hydration
+      d) Immediate removal of feces or urine
+      e) Inspect skin area whenever personal care is
+           given, especially over bony prominences
+      f) Remove wrinkles and foreign objects from bed
+           linens
+      g) Avoid hot water and friction
+      h) Lubricate skin with lotions
+      i) Separate body areas to avoid rubbing
+      j) Mechanical aids
+         • Sheepskin
+         • Alternating-pressure mattress
+         • Pillows for bridging
+         • Gel and air cushions
+         • Heel protectors
+      k) Use turning sheet to move dependent
+           patients/residents in bed
+      l) Elevate HOB no more than 30 degrees
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 19 of 82
+                                                                              Module 13: Long Term Care Resident
+
+                         m)Check improperly fitted braces and restraints
+                         n) Check tubing for rubbing
+                         o) Know signs and symptoms of pressure sore, and
+
+                              report immediately to licensed nurse
+                         p) PREVENT: much easier to prevent than treat
+             c. Pediculosis, Lice and Scabies: tiny parasites that are
+                  difficult or impossible to see
+                   1) Signs and Symptoms
+                         a) Intense itching
+
+                             • Pediculosis: in areas of hair growth
+                             • Scabies: follows blood vessels, commonly
+
+                                  seen in webs of fingers, inside wrists and
+                                  elbows, underarms and waist and nipple
+                                  areas
+                             • Rash
+                   2) Nurse Assistant duties and observations
+                         a) Avoid direct contact; gloves
+                         b) Report any signs or symptoms of disorder
+                         c) Thorough washing of linen
+                         d) Medicated shampoos/lotions may be used
+             d. Other related subjects (optional); Kaposi’s Sarcoma,
+                  Monkey Pox, burns, impetigo
+B. Respiratory System
+       1. Anatomy & Physiology
+             a. Nose and mouth
+             b. Trachea
+             c. Bronchi
+             d. Lungs
+             e. Alveoli
+       2. Functions
+             a. Lifeline of the body
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 20 of 82
+                                                                    Module 13: Long Term Care Resident
+
+      b. Bring oxygen into the body and eliminate carbon dioxide
+           from the body
+
+3. Diseases and Disorders
+      a. Upper respiratory infection (URI): infection in nose,
+           sinuses, and throat
+            1) Signs and Symptoms
+                  a) Fever
+                  b) Runny nose and eyes
+                  c) Cough
+                  d) Sore throat
+            2) Nurse Assistant duties and observations
+                  a) Encourage rest
+                  b) Encourage fluids
+                  c) Dispose of tissues promptly to avoid spread
+                  d) Report to licensed nurse:
+                      • Fever
+                      • Dyspnea
+                      • Change in rate or rhythm of respiration
+                      • Change in mucus color from clear to green,
+                           yellow or blood-tinged
+                      • Pallor, cyanosis
+                      • Signs that infection is moving to chest or
+                           lungs
+      b. Pneumonia: infection/inflammation of the lungs often seen
+           in patients/residents with compromised immune system
+            1) Signs and symptoms
+                  a) Same as URI, only more severe
+                  b) Chest pressure and discomfort
+                  c) Extreme fatigue/weakness
+                  d) Cough
+            2) Nurse Assistant duties and observations
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 21 of 82
+                                                                  Module 13: Long Term Care Resident
+
+            a) As above for URI
+            b) Monitor vital signs carefully, especially
+
+                 temperature & respiration
+            c) Elevate head of bed/orthopneic position, as
+
+                 needed
+c. COPD (Chronic Obstructive Pulmonary Disease) - a
+
+    condition that results in chronic obstruction of the
+    respiratory system that is not reversible
+      1) Signs and symptoms
+
+            a) Asthma: breathing disorder caused by reaction to
+                 allergen
+                • Wheezing
+                • Tightened airways
+                • Mucus blocks passageways
+                • Labored breathing
+                • Frequent coughing
+
+            b) Chronic Bronchitis: prolonged inflammation in the
+                 bronchi due to infection or irritants
+                • Persistent cough
+                • Sputum production (especially in the
+                     morning)
+                • Respiratory distress
+
+            c) Emphysema: occurs when air flow is obstructed
+                 at the level of the alveoli
+                • Can bring O2 into lungs, but can’t expel CO2
+                • Triggered by pollutants, smoke and cold
+                • Frequent lung infections
+                • Extreme dyspnea
+                • Loss of appetite/weight loss
+                • Irritability
+                • Air hunger
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 22 of 82
+                                                                    Module 13: Long Term Care Resident
+
+      2) Nurse Assistant duties and observations
+            a) Teach pursed-lipped breathing (to increase
+                 expiration of CO2)
+            b) Calm patient/resident when anxious (to
+                 decrease O2 need)
+            c) Raise head of bed/orthopneic position
+            d) Oxygen therapy (O2 precautions)-.Do not change
+                 Low O2 settings)
+            e) Nutrient dense foods; frequent snacks, not meals
+            f) Encourage fluids
+            g) Pace activities
+            h) Avoid raising arms over head
+
+d. Tuberculosis
+      1) Definition
+            a) A highly contagious lung disease caused by a
+                 bacterium that is carried on mucous droplets
+                 suspended in the air
+            b) Two types of TB
+                • Latent TB - Someone with latent TB shows no
+                     symptoms
+                • Active TB – Shows symptoms. Occurs when
+                     tuberculosis enters the body and the inactive
+                     tubercle breaks down; bacteria multiply and
+                     spread to other parts of the body
+      2) Signs and symptoms
+            a) Fatigue
+            b) Night sweats
+            c) Coughing up blood (hemoptysis)
+            d) Prolonged coughing
+            e) Slight fever
+            f) Chills
+            g) Shortness of breath and/or dyspnea
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 23 of 82
+                                                                               Module 13: Long Term Care Resident
+
+                         h) Loss of appetite and weight
+                   3) Nurse Assistant duties and observations
+
+                         a) Annual PPD (Mantoux test)
+                         b) Chest x-ray every two years if positive skin test
+                         c) Use of barriers if productive cough
+                         d) Discard tissues, sputum promptly
+       4. Other related subjects (optional): tracheostomy, esophageal
+            speech and electronic speech, SARS, malignancies
+C. Cardiovascular System
+       1. Anatomy and Physiology
+             a. Heart; pumps blood which carries oxygen and nutrients to
+                  cells
+             b. Blood
+                   1) Transports oxygen, food and hormones to cells
+                   2) Removes carbon dioxide and other waste products
+                        from cells
+                   3) Controls pH level and body temperature
+                   4) Clots the blood and fights pathogens and poisons
+             c. Blood vessels
+                   1) Arteries carry blood away from the heart
+                   2) Veins carry blood towards the heart
+                   3) Capillaries; smallest vessels that connect arteries
+                        and veins
+       2. Functions
+             a. Transportation system that delivers nutrition and oxygen
+                  to the cells and takes away waste products
+             b. Closed system is kept in motion by the force of the heart
+       3. Common disease and disorders
+             a. Coronary Artery Disease (CAD) occurs when the coronary
+                  arteries narrow, causing reduced blood supply to the heart
+                  depriving the heart muscle with oxygen and nutrients
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 24 of 82
+                                                                 Module 13: Long Term Care Resident
+
+      1) Signs and Symptoms
+            a) Chest pain
+            b) Pain in back, neck, jaw, arm, shoulder or back
+            c) Dyspnea
+            d) Cyanosis of lips, mucous membranes, and nail
+                 beds
+            e) Dizziness
+
+      2) Nurse Assistant duties and observations
+            a) Remain with patient/resident
+            b) Notify licensed nurse immediately if above signs
+                 & symptoms are noted
+            c) Monitor vital signs
+
+b. Myocardial Infarction (MI, heart attack)
+      1) Definition
+            a) Clot in coronary artery causes a blockage of
+                 blood supply to the heart
+            b) Damaged area can no longer function and turns
+                 to scar tissue
+      2) Signs and Symptoms
+            a) Sudden, severe pain in chest usually described
+                 as crushing
+            b) Radiating pain to arm, jaw, neck or back
+            c) May present as indigestion or heartburn
+            d) Diaphoresis, cool, clammy skin
+            e) Dizziness
+            f) Pallor/cyanosis
+            g) Dyspnea (short of breath)
+            h) Weak, irregular pulse
+            i) Low blood pressure
+            j) Loss of consciousness
+            k) Nausea/vomiting
+            l) Restless, anxious, feeling of impending doom
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 25 of 82
+Module 13: Long Term Care Resident
+
+                           m) Denial                                                                        Page 26 of 82
+                    3) Nurse Assistant duties and observations
+
+                          a) Notify licensed nurse immediately if above signs
+                               and symptoms are noted
+
+                          b) Remain with patient/resident; place
+                               patient/resident in comfortable
+                               position; loosen clothing
+
+                          c) Encourage patient/resident to rest
+                          d) Reassure patient/resident that help is coming
+                          e) Monitor vital signs
+                          f) Do not give the patient/resident liquids or food
+                          g) Prepare to transfer to acute care facility
+             c. Congestive Heart Failure
+                    1) Definition
+                          a) Occurs when the heart does not pump well
+
+                               enough to meet the body’s needs
+                          b) Normal cardiac output cannot meet the needs for
+
+                               activities of daily living
+                          c) Can be left sided or right sided or both
+                    2) Signs and Symptoms
+                          a) Hemoptysis (spitting up blood)
+                          b) Cough
+                          c) Dyspnea
+                          d) Orthopnea (difficulty breathing while lying down)
+                          e) Fatigue
+                          f) Decrease in ability to exercise and be active
+                          g) Confusion
+                          h) Increased pulse
+                          i) Possible irregular heartbeat
+                          j) Increased frequency of urination at night
+                          k) Cyanosis
+                          l) Edema in extremities
+                          m) Moist respirations
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                     Module 13: Long Term Care Resident
+
+            n) High blood pressure
+
+      3) Nurse Assistant duties and observations
+
+            a) Low sodium diet
+
+            b) Raise head of bed
+
+            c) Fluid restriction (if ordered)
+
+            d) Anti-embolic stockings
+
+            e) Assist with ADLs
+
+            f) Range of motion to improve muscle tone
+
+            g) Assist with O2 therapy
+            h) Measure intake and output
+
+            i) Measure daily weight
+
+            j) Bedside commode as indicated
+
+            k) Check vital signs: monitor apical pulse for one full
+
+                 minute; report if it drops below 60
+
+            l) Pace activities
+
+d. Peripheral Vascular Disease (PVD)
+      1) Definition
+            a) Condition in which the blood supply to the legs,
+                 feet, arms, or hands is decreased due to poor
+                 circulation
+            b) Can be arterial or venous
+      2) Signs and symptoms
+            a) Painful cramping in the hips, thighs or calves
+                 when walking
+            b) Painful cramping in the legs that does not go
+                 away
+            c) Cyanotic hands or feet (blue or gray tinged)
+            d) Arms and/or legs feel cool or cold to the touch
+            e) Edema in the hands and feet
+            f) Ulcers on the legs or feet (that are slow to heal or
+                 don’t heal)
+            g) Gangrene
+      3) Nurse Assistant duties and observations
+            a) Encourage patient/resident to follow special
+                diet/fluid
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 27 of 82
+                                                                    Module 13: Long Term Care Resident
+
+                 restriction
+            b) Record accurately intake and output
+            c) Monitor for increased edema
+            d) Monitor vital signs report any changes (especially
+
+                 pulse and blood pressure)
+            e) Report to nurse any complaints of pain or
+
+                 discomfort in the hands, legs or feet
+            f) Report any type of chest, back, jaw, or shoulder
+
+                 pain or discomfort
+            g) Apply anti-embolic stockings (if ordered)
+e. Anemia; a condition that results from a decrease in the
+    quantity of quality of red blood cells
+      1) Signs and symptoms
+            a) Lethargy
+            b) Pale or jaundiced
+            c) Dyspnea
+            d) Digestive problems
+            e) Rapid pulse and increased respiratory rate
+            f) Cold
+            g) Dizzy
+      2) Nurse Assistant duties and observations
+            a) Provide nutritional meals; increase iron containing
+
+                 foods like red meat and green leafy vegetables
+            b) Notify licensed nurse if signs of bleeding or black
+
+                 stool
+            c) Monitor vital signs
+            d) Observe for and notify if above signs and
+
+                 symptoms appear or worsen
+f. Hypertension, high blood pressure
+
+      1) Signs and symptoms
+            a) Blood pressure elevated above 140 systolic
+                 and/or 90 diastolic
+            b) Nosebleed
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 28 of 82
+                                                                             Module 13: Long Term Care Resident
+
+                         c) Eye hemorrhage
+                         d) Dizziness
+                         e) Trembling
+                         f) Red complexion
+                         g) Headache
+                         h) Blurred vision
+                   2) Nurse Assistant duties and observations
+                         a) Monitor blood pressure
+                         b) Assist with stress management techniques
+                         c) Low sodium diet
+                         d) Assist with weight loss efforts
+                         e) Encourage regular exercise
+                         f) Notify licensed nurse if above symptoms are
+
+                              noted
+             g. Other related subjects (optional): pacemakers, angina,
+
+                  varicose veins, atherosclerosis, internal defibrillation,
+                  anemia, blood types
+D. Musculoskeletal System
+       1. Anatomy & Physiology
+             a. Bones – hard rigid structures made of connective tissue
+                  cells
+             b. Joints – point at which two or more bones meet; allow
+                  body movement
+             c. Muscle – allows movement of body parts, maintains
+                  posture, and produces body heat
+       2. Functions
+             a. Gives shape and form, maintains posture, permits
+                  movement, protects internal organs, stores calcium and
+                  phosphorus, produces heat and produces some blood
+                  cells
+             b. Forms framework that supports the body and allows for
+                  movement
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 29 of 82
+                                                                       Module 13: Long Term Care Resident
+
+3. Common diseases and disorders
+      a. Arthritis; inflammation of the joints
+            1) Rheumatoid; joint tissue lining is affected
+            2) Osteoarthritis; cartilage covering ends of bones
+                 deteriorates and ends of bones rub together, causing
+                 pain and deformity
+            3) Gout; metabolic disease caused by deposits of
+                 crystals at joint due to increase in uric acid
+            4) Signs and Symptoms
+                  a) Pain at joint
+                  b) Deformity at joint
+                  c) Swelling
+                  d) Tenderness
+                  e) Heat at inflamed site
+                  f) Fatigue
+            5) Nurse Assistant duties and observations
+                  a) Notify licensed nurse if patient/resident
+                       requests medication for discomfort
+                  b) Balance rest and exercise
+                  c) ROM when no pain/inflammation, rest joint if
+                       pain/inflammation
+                  d) Prevent contractures
+      b. Fractures; break in the continuity of the bone
+            1) Signs and symptoms (vary with type of fracture)
+                  a) Pain, swelling, bruising at fracture site
+                  b) Exposed broken bone through skin (compound
+                       fracture)
+                  c) Immobility of area affected
+                  d) Deformity
+            2) Nurse Assistant duties and observations
+                  a) Keep area immobilized (cast, splint)
+                  b) Report pain
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 30 of 82
+                                                                     Module 13: Long Term Care Resident
+
+            c) Reduce edema (elevate area affected)
+            d) Maintain alignment
+            e) Cast care (no breaks, chips, check distal pulses,
+
+                 check color, movement, and sensation distal to
+                 cast
+            f) Report signs of infection
+c. Osteoporosis; caused by lost bone mass and results in
+    porous, spongy bones that are easily fractured. Most
+    common in elderly females
+      1) Signs and symptoms
+            a) Fracture from very little or no trauma (often in hip
+                 or low back)
+            b) Curvature of spine
+            c) Loss of height
+            d) Progressive weakness
+      2) Nurse Assistant duties and observations
+            a) Prevent further fractures
+            b) Report pain
+            c) Gentle ROM
+            d) Apply splints or braces as ordered
+            e) Encourage high calcium meals (milk, dairy
+                 products, and green leafy vegetables)
+            f) Mechanical lift for transfers
+            g) Gentle handling and positioning
+d. Fractured hip; fracture of the femur, most frequent cause
+    is falling and osteoporosis
+      1) Signs and symptoms
+            a) Cannot get up after a fall
+            b) Affected side is shortened and externally rotated
+            c) Severe pain in hip or knee
+            d) Edema in hip, thigh and groin
+      2) Nurse Assistant duties and observations
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 31 of 82
+                                                                                   Module 13: Long Term Care Resident
+
+                         a) Pre-surgery hip precautions
+                             • Avoid moving patient/resident until
+                                  instructed by licensed nurse
+                             • Use sheet or back board to move
+
+                         b) Post-surgery hip precautions
+                             • Do not flex hip more than 90 degrees
+                             • Do not cross affected leg over midline of
+                                  body
+                             • Do not internally rotate hip on affected side
+                             • Do not do passive ROM on affected side
+                             • No weight bearing for several weeks after
+                                  surgery
+                             • Use fracture bedpan
+                             • Maintain proper hip alignment; may use
+                                  trochanter roll and abduction pillow
+
+       4. Other related subjects (optional): fibromyalgia, traction,
+            Continuous Passive Motion (CPM) machine, back injuries
+            (ruptured disk), extremity amputation
+
+E. Endocrine System
+       1. Anatomy and physiology
+             a. Pituitary; master gland
+             b. Thyroid; controls metabolism
+             c. Pancreas; secretes insulin to promote glucose use by
+                  cells
+             d. Adrenals; secretes adrenalin (fight or flight hormone)
+       2. Function; network of glands that secrete hormones into the
+            blood stream
+       3. Common diseases and disorders
+             a. Diabetes Mellitus; chronic disease that results from a
+                  deficiency of insulin or a resistance to the effects of insulin
+             b. Body is unable to properly process food, and convert food
+                  into energy. There are two types of diabetes:
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 32 of 82
+                                                          Module 13: Long Term Care Resident
+
+1) Type 1; Insulin dependent diabetes mellitus (IDDM)
+2) Type 2; Non-insulin dependent diabetes mellitus
+
+    (NIDDM)
+3) Signs and symptoms
+
+      a) The 3 polys: polyuria (excessive urination),
+           polydipsia (excessive thirst), and polyphagia
+           (excessive hunger)
+
+       b) Fatigue
+       c) Skin infections that are slow to heal
+       d) Itching
+       e) Burning on urination
+       f) Vision changes
+      g) Hyperglycemia; caused by inadequate insulin for
+
+           metabolic needs
+         • Develops slowly (over 24 hour period)
+         • Confusion, drowsiness, slow slippage into
+
+              coma
+         • Headache
+         • Sweet fruity odor to breath
+         • Deep breathing
+         • Low blood pressure
+         • Nausea or vomiting
+         • Flushed, dry, hot skin
+         • Unconsciousness
+         • Sugar in urine
+         • High blood sugar on glucose monitoring
+      h) Hypoglycemia; occurs when blood glucose is
+           below normal; most commonly from overdose of
+           insulin (insulin shock or insulin reaction)
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 33 of 82
+                                                                  Module 13: Long Term Care Resident
+
+         • Occurs rapidly
+
+         • Hunger, weakness, dizziness, shakiness
+
+         • Moist and clammy
+
+         • Rapid, shallow respiration
+
+         • Nervous and excited
+
+         • Rapid pulse
+
+         • Unconscious
+
+         • No sugar in the urine
+
+         • Low blood sugar glucose monitoring
+4) Nurse Assistant duties and observations
+
+      a) Know signs & symptoms of hyperglycemia and
+           hypoglycemia
+
+      b) Notify licensed nurse immediately if diabetic
+           symptoms appear
+
+      c) Offer meals and snacks at regular intervals,
+           report uneaten portions
+
+      d) Be aware that illness, stress, and infection can
+           make blood sugars increase
+
+      e) Observe extremities for infection, trauma or
+           wounds (especially feet)
+
+      f) Notify licensed nurse if patient/resident vomits after
+         meal
+
+      g) Offer easily assimilated source of carbohydrates if
+           signs of hypoglycemia occur (after notifying licensed
+           nurse)
+
+      h) Make sure right diet is given
+      i) Urine testing for sugar and acetone (rarely done in
+
+           LTC now)
+      j) Special foot care
+
+         • Wash daily, dry between toes
+
+         • Inspect feet for signs of irritation
+
+         • Toenails to be cut by licensed nurse or podiatrist
+              only
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 34 of 82
+                                                                               Module 13: Long Term Care Resident
+
+                             • Shoes and stockings to be worn at all time
+                                  when out of bed (never go barefoot)
+
+                             • Check for anything that impairs circulation
+                             • Remember: diet, exercise and medication are
+
+                                  the most important components of diabetic
+                                  treatment
+       4. Related subjects (optional): hyper and hypothyroidism,
+            Cushing’s and Addison’s disease, glucose monitoring
+F. Nervous System
+       1. Anatomy and Physiology (see handouts)
+             a. Brain (part of CNS)
+                   1) Center of conscious thought and voluntary action
+                   2) Motor coordination
+                   3) Centers of control for respiration, heart function, and
+                        body temperature
+             b. Spinal Cord (part of CNS)
+                   1) Transmission of impulses to and from brain
+                   2) Approximately 17 inches long
+                   3) Protected by spinal column (vertebrae)
+             c. Peripheral nerves
+                   1) Transmission of impulses to and from spinal cord
+                   2) Connects the CNS with the various structures of the
+                        body
+             d. Sensory organs
+                   1) Eye
+                   2) Nose
+                   3) Tongue
+                   4) Skin
+                   5) Ears
+       2. Functions
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 35 of 82
+                                                                                Module 13: Long Term Care Resident
+
+          a. Controls, directs, and coordinates functions of the body
+          b. There are two major divisions; the central nervous system
+
+              (CNS) and the peripheral nervous system (PNS)
+3. Common diseases and disorders
+
+              a. Dementia; any disorder of the brain that causes
+                   deficits in thinking, memory and judgment
+                         i. Causes
+                                  1. Alzheimer’s disease (most common)
+                                  2. Multi-infarction dementia (multiple TIAs)
+                                  3. Parkinson’s disease
+                                  4. Syphilis
+                                  5. AIDS
+                                  6. Nutrition problems
+                                  7. Medication problems
+                                  8. Depression
+                                  9. Metabolic disorders
+                        ii. Alzheimer’s disease (previously covered):
+                             caused by plaques and tangles in the brain’s
+                             nervous system. Brain decreases in size as
+                             cells are lost. Progressive and incurable
+                        iii. Signs and Symptoms
+                                  1. Stage 1: Mild Dementia
+                                            a. Short-term memory loss
+                                            b. Personality changes
+                                            c. Disorientation to time
+                                            d. Poor judgment
+                                            e. Lack of safety awareness
+                                            f. Careless in appearance
+                                            g. Anxious, depressed
+                                            h. Delusions of persecution
+                                  2. Stage 2: Moderate Dementia
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 36 of 82
+                                                                               Module 13: Long Term Care Resident
+
+                          • Increased short-term memory loss
+
+                          • Complete disorientation
+
+                          • Wandering and pacing
+
+                          • Sundowning
+
+                          • Perseveration phenomena
+
+                          • Motor skills deteriorate
+
+                          • Speech, reading, writing deteriorates
+
+                          • Incontinent of bowel and bladder
+
+                          • Catastrophic episode
+                      c) Stage 3: Severe Dementia
+
+                          • Totally dependent
+
+                          • Verbally unresponsive
+
+                          • May have seizures
+4) Nurse Assistant duties and observations for patient/resident with
+
+    dementia (all types)
+      a) Protect patient/resident from injury
+      b) Be compassionate, patient, and calm; maintain sense of
+
+           humor
+                      c) Encourage independence as long as possible
+
+      d) Provide mental and physical activities within
+           patient’s/resident’s capabilities
+                      e) Support patient’s/resident’s dignity and self-esteem
+
+      f) Provide structured quiet environment that is
+           uncluttered
+
+      g) Use appropriate body language; patient’s/resident’s will
+           “read” the staff’s behavior and reflect the mood of the staff
+           in their own behavior
+                      h) Give one, short, simple direction at a time
+
+      i) Observe for signs and symptoms of physical ailments;
+           patient/resident may be unaware of illness
+                      j) Assist patients/residents to maintain a dignified,
+                          attractive
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 37 of 82
+                                                                    Module 13: Long Term Care Resident
+
+                       appearance by helping with grooming and
+                       dressing
+h) Monitor food and fluid intake
+
+      a. Do not use plastic feeding utensils
+
+      b. Provide nutritious finger foods when the
+           patient/resident is unable to use utensils
+
+      c. Be aware of swallowing difficulties
+
+      d. Prepare food (butter bread, cut into bites) and encourage
+           patient/resident to feed self as long as possible
+
+      e. Check food temperatures
+
+      f. Check patient’s/resident’s mouth after eating for
+           “pocketing” (hoarding food in the cheeks)
+
+      g. Weigh patients/residents to detect patterns of weight
+           gain or loss
+
+i) Use touch appropriately; surprising patient/resident can
+    result in a catastrophic reaction
+
+j) Avoid using logic, reasoning or lengthy explanations
+k) When ability to speak is lost, patient/resident may
+
+    communicate through non-verbal means
+      a. Biting, scratching, and kicking to express displeasure
+      b. Facial expressions and body language may express
+
+           moods
+      c. Observe for what triggers agitation or anger and work
+
+           on prevention
+l) Use distraction and diversion when patient/resident is
+
+    agitated, take hand and calmly walk to another activity
+
+m) Realize that people with dementia are not
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 38 of 82
+                                                                    Module 13: Long Term Care Resident
+
+                 responsible for what they say
+
+• They cannot change
+
+• They are not aware of what they are doing
+
+• They have poor impulse control
+
+• Allow them to “save face” by preserving their dignity
+• No one really knows what is happening in the mind of
+
+    people with dementia
+            q) Be aware of wandering and pacing concerns
+
+                • Keep record to detect patterns of wandering
+                     and pacing
+
+                • Some triggers are as follows
+
+                      ○ Noise; keep quiet, avoid crowds
+                      ○ Boredom; give activities
+                      ○ Unmet physical needs; evaluate needs
+                      ○ Stress; create calm environment
+                      ○ Pain; evaluate for sources of discomfort
+                      ○ Hunger; offer frequent snacks
+                      ○ Thirst; encourage fluids
+                      ○ Need to use restroom; take to restroom at
+
+                           least every two hours
+                      ○ Looking for companionship, security, or
+
+                           loved one; therapeutic touch, talk,
+                           consistency
+                      ○ Physical restraints; feel threatened
+                      ○ Looking for a state of mind, not physical
+                           location
+                • If they are in an area they shouldn’t be, calmly
+                     take their hand and redirect them to a safe
+                     area
+                • Avoid large numbers of staff approaching
+                     patient/resident
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 39 of 82
+                                                       Module 13: Long Term Care Resident
+
+   • Use positive directions “stay inside” instead of
+        “don’t go outside”
+
+   • Use gentle persuasion
+r) Compliment positive behavior and
+
+    accomplishments
+s) Encourage rocking chairs to diffuse nervous
+
+    energy
+t) Be aware that “sundowning” (increased agitation
+
+    and confusion in late afternoon or evening) can
+    occur and how to prevent it
+   • Avoid over-fatigue
+
+   • Encourage patient/resident to remain awake
+        as much as possible during the day
+
+   • Evening meal should be at least two hours
+        before bedtime
+
+   • Eliminate caffeine
+
+   • Evening activities should be quiet and calm
+
+   • Soft music is calming
+
+   • Give massage/back rub
+
+   • Light bedtime snack
+
+   • Follow bedtime routine (check with family
+        members)
+
+   • Check lighting; shadows and reflections can
+        be disturbing
+
+u) Discourage “pillaging and hoarding”
+
+   • Label all patient’s/resident’s belongings to
+        identify if they are taken by confused
+        patient/resident
+
+   • Check room daily for stale food
+
+   • Keep patient’s/resident’s hands busy
+
+   • Provide a “rummaging” drawer or box for
+        patient/resident
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 40 of 82
+                                                        Module 13: Long Term Care Resident
+
+v) Use reality orientation (R.O.) to regain connection
+    to environment
+   • Especially effective in 1st stages of
+        Alzheimer’s
+   • Use clock and calendar at bedside
+
+   • Call by name
+
+   • Answer questions honestly, but do not give
+        information they are unable to handle; for
+        example
+         ○ The patient/resident asks if their
+              deceased husband is coming to
+              visit
+         ○ Nurse Assistant could respond by saying
+              “tell me about your husband”
+
+   • Do not argue with patient’s/resident’s reality
+
+   • Use bulletin boards decorated for the season
+
+   • Keep curtains open during the day
+
+   • Make sure they have their glasses and
+        hearing aids on
+
+   • Do not expect patient/resident to
+        remember you - identify yourself, as
+        needed
+
+w) Use reminiscing therapy
+
+   • Encourage sharing memories of past events
+
+   • Use “prompting” questions to show interest in
+        their history
+
+   • Use active listening skills
+
+   • Realize the need to reminisce increases as
+        we age
+
+   • Reminiscing serves as a life review and may
+        validate the worth of their life
+
+   • Acknowledge validity of feelings and
+        emotions- be comfortable with
+        patient’s/resident’s tears as well as laughter
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 41 of 82
+                                                                                    Module 13: Long Term Care Resident
+
+                               • Reminiscing helps people adapt to aging by
+                                    maintaining self-esteem and working through
+                                    personal loss
+
+x) Incorporate validation therapy into all your interactions with dementia
+    patient/resident (maintains disorientated person’s dignity by
+    acknowledging the person’s memories and feeling)
+   • Developed by Naomi Feil
+
+   • May be a way for patient’s/resident’s to work through issues
+        from the past that were unresolved
+
+   • Maintain identity and dignity of patient/resident by having
+        pictures or reminders of who they once were in
+        patient/resident room
+
+   • Realize there is a reason for all behavior What appears to be
+        confusion could be the person acting on an experience long
+        ago
+
+   • Disoriented people have a right to express emotions
+   • Living must be resolved in order to prepare for dying
+   • To live in reality is not the only way to live
+
+   • Disoriented people have worth; they can still experience joy,
+        pleasure and the ability to appreciate kindness
+                               • Within each confused person is a human
+                                    being that was once a child and later an
+                                    adult with hopes, joys, sadness, failures, and
+                                    successes. They deserve to be respected,
+                                    cared for, and loved in their final years
+                               • This therapy has been effective on lessening
+                                    the need for restraints
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 42 of 82
+                                                                  Module 13: Long Term Care Resident
+
+            y) Incorporate music therapy
+
+            z) Incorporate animal therapy
+
+b. Stroke (brain attack, cerebrovascular accident “CVA”):
+    complete or partial loss of blood supply to cells of the
+    brain
+      1) Signs and Symptoms
+
+            a) Loss of sensation
+
+            b) Paralysis/hemiplegia
+
+            c) Aphasia
+
+            d) Dysphagia
+
+            e) Emotional lability
+
+            f) Loss of consciousness/confusion
+
+            g) Cognitive impairments
+
+      2) Nurse Assistant duties and observations
+
+            a) Report changes in Level of Consciousness;
+                 headache or change in motor ability to licensed
+                 nurse
+
+            b) Sudden onset of symptoms indicates probable
+                 stroke
+
+            c) Prevent complications of immobility
+
+            d) Begin Restorative Care; assist with ADLs,
+                 encourage patient/resident to do as much as
+                 possible
+
+            e) Be supportive emotionally. Patience is vital!
+
+            f) Explore alternative methods of communication if
+                 unable to speak
+
+            g) Be aware of swallowing/choking difficulties when
+                 feeding
+
+            h) Incorporate reality orientation into care; clock,
+                 calendar, open curtains
+
+c. TIA (Transient Ischemic Attack) “mini stroke”
+      1) Multi-infarction dementia (multiple Transient Ischemic
+           Attack; TIAs)
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 43 of 82
+                                                                  Module 13: Long Term Care Resident
+
+      2) caused by lack of oxygen to the brain cells
+
+      3) Signs & symptoms are temporary and subside when
+
+           circulation is improved. (See CVA/Stroke) for
+
+           possible signs & symptoms
+
+d. Parkinson’s Disease (refer to objective 4)
+      1) Signs and symptoms
+            a) Tremors and “pill rolling”
+            b) Muscle rigidity
+            c) Difficulty and slowness in carrying out voluntary
+                 motor activities
+            d) Shuffling manner of walking
+            e) Slurred speech
+            f) Loss of expressiveness in face
+            g) Drooling
+            h) Incontinence
+            i) Constipation
+            j) Urinary retention
+            k) Mood swings
+            l) Depression
+      2) Nurse Assistant duties and observations
+            a) Maintain calm environment; symptoms will
+                 worsen when patient/resident is under
+                 stress
+            b) Assist in ADLs
+            c) Provide emotional support
+            d) Restorative care; exercises
+            e) Dementia care; as above
+
+e. Seizure disorder; recurrent, transient attacks of disturbed
+
+    brain function (refer to objective 4)
+
+      1) Signs and symptoms
+
+            a) Generalized seizure (Grand mal)
+
+                • May experience “aura” or certain taste before
+
+                     seizure occurs
+
+                • Jerking and twitching of the body occurs
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 44 of 82
+Module 13: Long Term Care Resident
+
+                              • Entire body is involved                                                     Page 45 of 82
+                              • May experience loss of consciousness
+                              • Incontinence
+                              • May be followed by period of fatigue,
+
+                                  confusion, disorientation
+                          b) Partial seizure (Petit mal)
+
+                              • Momentary loss of muscle tone
+                              • May have periods of unconsciousness
+                              • May chew, blink, or breathe rapidly
+                              • Last 2-10 seconds
+                              • “Absence seizures” in children can result in
+
+                                   poor learning in school
+                              • Only one extremity or part of an extremity
+
+                                   may be involved
+                          c) Status epilepticus
+
+                              • Seizure lasts for a long period
+                              • Serious medical emergency; life threatening
+                              • Death may result
+                    2) Nurse Assistant duties and observations
+                          a) During a seizure
+                              • Stay with person and call for assistance
+                              • Assist to lay down
+                              • Do not restrain movements or put anything in
+
+                                   mouth
+                              • Move away objects that may injure a person
+                              • Maintain airway by loosening clothing, turn
+
+                                   head so saliva/emesis drains to one side, lift
+                                   shoulder and allow head to tilt back
+                              • Watch and observe so you can report type of
+                                   seizure activity
+                          b) After a seizure
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+Module 13: Long Term Care Resident
+
+                              • Allow to sleep                                                              Page 46 of 82
+                              • Clean if incontinence has occurred
+                              • Check vitals
+             f. Vision impairments; following are common disorders of
+                  the eye that cause visual limitation and/or blindness
+                    1) Cataracts; the normally clear lens of the eye
+                         becomes cloudy
+                          a) Signs and symptoms
+                              • Cloudy lens over the eye
+                              • Leading cause of vision loss in adults over the
+
+                                  age of 55
+                          b) Follow post-op protocol if surgery has been
+
+                               performed
+                    2) Glaucoma; increased pressure within the eye
+
+                          a) Signs and symptoms
+                              • Eye pain
+                              • Difficulty adjusting to darkness
+                              • Unable to detect color
+                              • May see “halos”
+                              • Headache
+                              • Fatigue
+                              • Blurred vision
+
+                    3) Nurse Assistant duties and observations for visual
+                         impairments
+                          a) Announce yourself by name when entering the
+                               room
+                          b) Encourage television or radio listening
+                          c) Be extra careful in explaining what you are doing
+                          d) Describe the food you are going to feed them; is it
+                               hot? Cold? Describe food placement like the
+                               hands of a clock
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                              Module 13: Long Term Care Resident
+
+                         e) Do not disrupt environment; keep ADL supplies in
+                              same place and do not move furniture unless
+                              necessary
+
+                         f) Encourage independence
+             g. Hearing Impairments
+
+                   1) Otosclerosis; progressive form of deafness, unknown
+                        cause
+
+                   2) Signs and symptoms - progressive loss of hearing
+       4. Related subjects (optional): West Nile Virus, Autonomic
+
+            Dysreflexia, Mad Cow Disease
+       5. Nervous system complications of inactivity
+
+             a. Weakness, limited mobility
+             b. Insomnia from sleeping during the day
+G. Gastrointestinal system
+       1. Anatomy and physiology
+             a. Mouth, tongue, teeth
+             b. Esophagus
+             c. Stomach
+             d. Small intestine
+             e. Large intestine
+             f. Liver and gall bladder
+             g. Pancreas
+       2. Functions
+             a. Extends from mouth to anus
+             b. Responsible for breaking food into simpler substances
+
+                  that can then be used by the body cells for nutrition
+       3. Common diseases and disorders
+
+             a. Malignancies; cancerous growths in GI tract that can
+                  cause obstruction, and may result in surgery and/or an
+                  ostomy
+                   1) Signs and symptoms
+                         a) Vomiting
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 47 of 82
+                                                              Module 13: Long Term Care Resident
+
+      b) Extreme abdominal discomfort
+
+      c) Indigestion
+
+      d) Constipation
+      e) Blood in the stool
+
+      f) Flatus
+
+      g) No bowel movement at all
+
+2) Nurse Assistant duties and observations
+
+      a) Monitor bowel movements
+      b) Report discomfort to licensed nurse
+
+      c) Care of ostomy; artificial opening in the
+           abdominal wall for elimination of solid waste and
+           flatus
+         • Standard precautions
+
+         • Remove appliance gently to prevent irritation
+              to skin (follow facility policy)
+
+         • Empty bag and wash if reusable with soap
+              and water
+
+         • Secure clamp at base
+
+         • Discard disposable bag in biohazard waste
+              and replace with new bag
+
+         • Observe stoma for redness, irritation, and
+              skin breakdown (report to licensed nurse if
+              this is noted)
+
+         • Wipe area around stoma gently after
+              appliance is removed and wash with mild
+              soap and water
+
+         • Apply creams as ordered
+
+         • Fit opening of appliance to stoma as needed
+
+         • When applying appliance, seal well to prevent
+              leaking
+              Observe color, character, amount and
+              frequency of stools, and chart
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 48 of 82
+                                                                   Module 13: Long Term Care Resident
+
+                • Be matter of fact, avoid looking repelled or
+                     disgusted (patient/resident may be self-
+                     conscious)
+
+b. Common problems with elimination
+      1) Constipation
+            a) Abdominal or rectal pain
+            b) Inability to pass stool
+            c) Loss of appetite
+            d) Feel urge to defecate, but unable to pass stool
+            e) Bloating
+            f) Abdominal distention/hardness
+            g) Liquid stool or mucus seeping from rectum
+            h) Hard, dry stool
+            i) Feces that moves too slowly through the body
+            j) Caused by decreased fluids, diet, inactivity,
+                 ignoring the urge to defecate
+      2) Fecal impaction
+            a) Stool is unable to pass from the rectum
+            b) Results from unrelieved constipation
+      3) Diarrhea
+            a) Liquid or unformed stool with increased
+                 frequency
+            b) Feces that moves rapidly through the intestines
+            c) Caused by infection, medications, irritating foods
+      4) Bowel incontinence
+            a) Inability to control the passage of feces and gas
+            b) Possible cause due to injury or diseases of the
+                 nervous system or sphincter damage
+            c) May result when patients/residents do not
+                 receive the assistance they need in a timely
+                 manner
+      5) Flatulence (gas)
+                 Excessive formation of gas in the stomach and
+                 intestines
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 49 of 82
+                                                                             Module 13: Long Term Care Resident
+
+                         b) Caused by foods, medications, or air swallowing
+             c. Nurse Assistant duties and observations
+
+                   1) Monitor and record bowel movements
+                   2) Notify licensed nurse if above signs and symptoms
+
+                        develop
+                   3) Encouraged high fiber diet for constipation
+                   4) Encourage liquids whenever in contact with
+
+                        patient/resident
+                   5) Encourage exercise to stimulate bowel activity
+                   6) Prompt attention to call light
+                   7) Monitor skin integrity
+                   8) Prompt attention to incontinence care
+
+                         a) NOTE: Nurse Assistants never perform removal
+                              of an impaction (digital disimpaction)
+
+       4. Related subjects (optional): Diarrhea, bowel incontinence, gall
+            bladder disease, cholecystitis, hernias, ulcerations, bowel
+            training, enemas, rectal tube, hemorrhoids, gastroesophageal
+            reflux disease (GERD)
+
+H. Urinary System
+       1. Anatomy and physiology
+             a. Kidneys; filters the blood, forms urine
+             b. Ureter; tube carrying urine from the kidneys to the
+                  bladder
+             c. Bladder; storage for urine
+             d. Urethra; tube for passage of urine to outside during
+                  urination (voiding)
+       2. Functions
+             a. Filters blood and produces urine in which excess fluids
+                  and toxins are excreted
+             b. The body excretes 1000 to 1500 ml of urine/day
+             c. Characteristics of normal urine
+                   1) Clear
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 50 of 82
+                                                                      Module 13: Long Term Care Resident
+
+            2) Amber (medium yellow color)
+            3) Mild odor
+            4) Approximately 1000 - 1500 cc in a 24-hour period
+3. Common diseases and disorders
+      a. Cystitis; inflammation of the urinary bladder, especially
+           common in women
+            1) Signs and symptoms
+
+                  a) Dysuria, burning
+                  b) Frequent urination
+                  c) Cloudy urine
+                  d) Hematuria
+                  e) Bladder spasm
+                  f) Loss of appetite
+                  g) Fever
+                  h) Confused patient/resident may exhibit agitation
+            2) Nurse Assistant duties and observations
+                  a) Encourage fluids
+                  b) Observe for normal urine
+                  c) Sitz bath
+                  d) Perineal care
+                  e) Always wipe front to back (from anterior to
+
+                       posterior)
+                  f) Rest
+      b. Urinary incontinence; loss of control of urine
+            1) Signs and symptoms
+                  a) Unable to control urination
+                  b) Stress incontinence; urinate when exerting
+
+                       (sneezing, standing up, coughing)
+            2) Nurse Assistant duties and observations
+
+                  a) Bladder training
+                  b) Toilet patient/resident regularly
+                  c) Answer call light promptly
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 51 of 82
+                                                                                  Module 13: Long Term Care Resident
+
+                         d) Be positive when changing soiled linen or
+                              garments, do not be critical
+
+                         e) Perineal care
+                         f) Avoid liquids after dinner (if incontinent at night,
+
+                              or to prevent nocturia)
+       4. Related subjects (optional): renal dialysis, suppression,
+
+            retention, renal calculi, specimen collection, urinary drainage
+            systems, pylonephritis, renal dialysis
+I. Reproductive System
+       1. Anatomy and physiology
+             a. Structures and organs (male):
+
+                   1) Penis; tissue enlarges during sexual arousal to
+                        introduce sperm into vagina
+
+                   2) Testes; secretes male hormone, produces sperm
+                   3) Prostate gland; secretes fluid necessary for sperm
+
+                        activity
+                   4) Epidiymis; coiled tube on top of testis
+                   5) Vas deferens; stores sperm
+             b. Structures and organs (female)
+                   1) Ovaries; produce female hormone and eggs
+                   2) Fallopian tubes; egg travels through to the uterus
+                   3) Uterus; internal pear-shaped organ in the pelvis;
+
+                        holds fetus during pregnancy
+                   4) Vagina; receives penis during sexual activity
+                   5) Vulva; the external female genitalia
+       2. Functions
+             a. Reproduction of human life
+             b. Production of some hormones
+       3. Common diseases and disorders
+             a. Male reproductive system
+                   1) Enlarged prostate gland; urethra passes through
+
+                        prostate, and the prostate enlarges. It “strangles”
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 52 of 82
+                                                                         Module 13: Long Term Care Resident
+
+                 urethra, causing difficulty in starting stream and in
+                 emptying bladder completely
+            2) Cancer of the prostate
+            3) Cancer of the testes; self-check of the scrotal sac
+                 should be done monthly
+      b. Female reproductive system
+            1) Cystocele; weakening of muscles between bladder
+                 and vagina
+                  a) Signs and symptoms
+
+                      • Urinary incontinence
+                      • Frequent urinary tract infections
+            2) Rectocele; weakening of muscles between wall of
+                 rectum and vagina
+                  a) Signs and symptoms
+                      • Hemorrhoids (varicose veins of the rectum)
+                      • Constipation
+                  b) Prolapsed uterus
+            3) Malignancies
+                  a) Breast
+                  b) Ovarian
+                  c) Uterine
+                  d) Cervical
+      c. Nurse Assistant duties and observations
+            1) Supportive care
+            2) Notify licensed nurse if distress occurs
+4. Sexually transmitted disease
+      a. Human Immunodeficiency Virus (HIV)/AIDS: viral infection
+           transmitted primarily through direct contact with the bodily
+           secretions of an infected person
+            1) Signs and symptoms
+                  a) Flu-like symptoms
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 53 of 82
+                                                                             Module 13: Long Term Care Resident
+
+                         b) Fever
+                         c) Night sweats
+                         d) Fatigue
+                         e) Swollen lymph nodes
+                         f) Sore throat
+                         g) GI upset
+                         h) Headache
+                         i) Kaposi’s sarcoma
+                         j) Pneumocystis carinii pneumonia
+                   2) Nurse Assistant duties and observations
+                         a) Be aware that virus is killed by 10:1 water to
+
+                              bleach solution; potency of solution good for
+                              three days
+                         b) Prevent secondary infections
+                              (immunosuppressed)
+                         c) Report new symptoms and complaints of
+                              discomfort to licensed nurse
+                         d) Provide comfort measures
+       5. Related subjects (optional): vulvovaginitis, tumors of
+            reproductive tract, sexually transmitted diseases (STDs),
+            breast self-exam, testicular self-exam
+J. Immune System
+       1. Special cells and substances function to produce immunity
+             a. White blood cells
+             b. Antibodies
+             c. Antigens
+             d. “T” cells - type of cell that destroys invading cells
+       2. When the body senses an antigen, the immune system is
+            activated
+       3. Functions to provide the body with immunity; protection
+            against a disease or condition
+       4. Common diseases and disorders
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 54 of 82
+                                                                Module 13: Long Term Care Resident
+
+a. Acquired Immunodeficiency Syndrome (AIDS); caused by
+    a virus called Human Immunodeficiency Virus (HIV)
+      1) Spread through certain body fluids
+            a) Blood
+            b) Semen
+            c) Vaginal secretions
+            d) Breast milk
+      2) Affects the body’s ability to fight other viruses and
+           bacteria
+      3) Signs and Symptoms
+            a) Loss of appetite
+            b) Weight loss
+            c) Fever
+            d) Night sweats
+            e) Diarrhea
+            f) Painful or difficulty swallowing
+            g) Tiredness, extreme or constant
+            h) Skin rashes
+            i) Swollen glands in the neck, underarms, and
+                 groin
+            j) Cough
+            k) Sores or white patches in the mouth or on the
+                 tongue
+            l) Purple blotches or bumps on the skin that look
+                 like bruises but do not disappear
+            m)Confusion
+            n) Forgetfulness
+            o) Dementia
+      4) Nurse Assistant duties and observations
+            a) Practice standard precautions
+            b) Follow blood borne pathogen standard
+            c) Provide daily hygiene; avoid harsh soaps that
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 55 of 82
+                                                                          Module 13: Long Term Care Resident
+
+           irritate the skin
+
+      d) Provide oral hygiene before meals and at
+           bedtime. Make sure the patient/resident
+           uses a toothbrush with soft bristles
+
+      e) Provide oral fluids as ordered by licensed nurse
+
+      f) Measure and record intake and output
+
+      g) Measure weight daily
+
+      h) Have patient/resident perform deep breathing
+           exercises as ordered
+
+      i) Practice measures to prevent pressure sores
+
+      j) Assist with range-of-motion exercises and
+           ambulation as ordered
+
+      k) Encourage the patient/resident to perform self-
+           care as able. The person may need assistive
+           devices (walkers, commode, eating devices,
+           etc.)
+
+      l) Encourage the patient/resident to be as
+           active as possible
+
+      m)Change linens, gowns, or pajamas as often as
+           needed when fever is present
+
+      n) Be a good listener and provide emotional support
+
+5) Other Considerations
+
+      a) AIDS is often missed during diagnosis because
+
+           aging can mask the signs and symptoms of
+
+           AIDS
+
+      b) Some persons infected with HIV don’t develop
+
+           AIDS for as long as 10-15 years and may not
+
+           show signs/symptoms. However, they are
+
+           carriers and can spread disease to others
+
+Objective 8:                                               A. Lecture     A. Written test
+Describe changes in body systems associated with aging     B. Discussion  B. Reports signs and
+A. Integumentary System
+
+       1. Skin becomes thin, fragile, dry and wrinkled
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 56 of 82
+                                                                          Module 13: Long Term Care Resident
+
+       2. Blood supply to fingers and toes decreases; sensitivity to hot  C. Handout 13.7- Effects of  symptoms to licensed
+            and cold decreases                                                Aging and Nursing Care   nurse
+                                                                              Measures
+       3. Hair loses color
+       4. Nails thicken
+       5. Bruises easily due to fragile blood vessels
+B. Respiratory System
+       1. Lung strength decreases
+       2. Air sacs become less elastic and decrease in number
+       3. Airways become stiff and less elastic
+       4. Lung capacity decreases
+       5. Cough reflex is less effective
+       6. Cough becomes weaker
+       7. Gas exchange in lungs is less effective
+C. Cardiovascular System
+       1. Blood flow decreases leading to less efficient circulation
+       2. Blood vessels narrow and lose elasticity
+       3. Longer recovery to normal pulse after exercise
+       4. Heart is a less effective pump
+D. Musculoskeletal
+       1. Muscles weaken and lose tone
+       2. Loss of elasticity in muscles
+       3. Loss of muscle mass causes weight loss
+       4. Less flexible
+       5. Bones lose minerals, become porous and brittle (easily
+
+            broken)
+       6. Height is gradually lost due to space between vertebrae
+
+            shrinking; posture slumped
+       7. Joints are less flexible and stiffer, slows normal body
+
+            movement
+       8. Degenerative changes in joints
+       9. Decreased reflexes: prone to injury and falls
+E. Endocrine System
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 57 of 82
+Module 13: Long Term Care Resident
+
+       1. Decrease in sex hormones (estrogen and progesterone)                                              Page 58 of 82
+            signals menopause; testosterone levels decrease
+
+       2. Insulin production decreases
+       3. Metabolism and body functions slow
+       4. Body is less able to handle stress
+       5. Body less able to handle sugar
+       6. Metabolism and body functions slow
+F. Nervous System
+       1. Slowing nerve transmission results in delayed reaction time,
+
+            poor coordination and balance
+       2. Less effective temperature regulation
+       3. Decreased sensitivity to pressure and temperature changes
+       4. Decreased blood flow to brain resulting in memory loss and
+
+            confusion
+       5. Deep sleep is shortened, naps are needed
+G. Gastrointestinal System
+       1. Decreased saliva production causing dysphagia
+       2. Taste buds not as sensitive
+       3. Decreased gag reflex leading to chance of choking
+       4. Slowed peristalsis leading to indigestion and constipation
+       5. Increased flatulence
+       6. Decreased digestive enzymes, avoid dry, fried and fatty foods
+       7. Decreased ability to absorb nutrients
+       8. Medication related to side effects
+       9. Sensitivity to sensation of full bowel
+       10. Urgency is exaggerated with the bowel
+H. Urinary System
+       1. Kidneys decrease in size and are less efficient
+       2. Bladder loses tone, leading to retention and infection (have
+
+            patient/resident bear down after voiding to completely empty
+            bladder)
+       3. Decreased bladder capacity leads to frequency of urination
+       4. Kidney function increases at rest, causing urination at night
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                         Module 13: Long Term Care Resident
+
+       5. Prostate enlargement in male causes frequency, dribbling, and
+            urinary retention
+
+       6. Elderly patient/resident may exhibit behavior changes with
+            usual UTI signs and symptoms
+
+       7. Decreased sensitivity to sensation of a full bladder
+       8. Urgency is exaggerated with the bladder
+I. Reproductive System
+       1. Male reproductive system
+
+             a. Scrotum less firm
+             b. Number and capability of sperm decreases
+             c. Sexual response delayed
+             d. Increase in size of prostate gland
+             e. Hormone production decreases
+       2. Female reproductive system
+             a. Menopause when menstruation ends
+             b. Decrease production of estrogen and progesterone
+
+                  results in loss of calcium, causing brittle bones and
+                  osteoporosis
+             c. Fewer hormones are produced
+             d. Ovulation and menstrual cycle cease
+             e. Vagina becomes thinner, drier
+             f. Breast tissue decreases and muscles supporting breast
+                  weaken
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 59 of 82
+                                                                Module 13: Long Term Care Resident
+
+Sample Test: Module 13 - Long Term Care Patient/resident
+
+1. The following are common with otitis media EXCEPT
+         A. Pain
+         B. Hearing loss
+         C. Tinnitus
+         D. Dizziness
+
+2. Arthritis is
+         A. The surgical replacement of a joint
+         B. Joint inflammation
+         C. A disease in which bones become porous and brittle
+         D. The repair of a fracture
+
+3. Tissues die and become black, cold and shriveled. This is
+         A. Cancer
+         B. Gangrene
+         C. Arthritis
+         D. Metastasis
+
+4. Which of the following body parts commonly enlarges in the elderly male causing urinary tract obstruction?
+         A. Testes
+         B. Prostate gland
+         C. Ureter
+         D. Adrenal gland
+
+5. A malignant tumor
+         A. Grows slowly and in a localized area
+         B. Can spread to other parts of the body
+         C. Invades nearby tissues
+         D. Is not cancer
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018     Page 60 of 82
+                                                                                                                Module 13: Long Term Care Resident
+
+6. A patient/resident has osteoarthritis. The person is overweight. Why is weight loss important for the person?
+         A. It will improve the person’s mental well-being
+         B. The person is too old to be overweight
+         C. Weight loss reduces stress on weight-bearing joints
+         D. It will be easier to lift and mover the person
+
+7. These statements are about arthritis. Which is incorrect?
+         A. It is the most common joint disease
+         B. Pain is common
+         C. Decreased mobility is common
+         D. It is cured with arthroplasty
+
+8. A patient/resident has a fractured right hip. What position is usually not allowed?
+         A. Left side-lying position
+         B. Right side-lying position
+         C. Fowler’s position
+         D. Semi-Fowler’s position
+
+9. The two most common causes of stroke are
+         A. Bleeding in the brain and blood clots
+         B. Hypertension and diabetes
+         C. Infection and accidental injury
+         D. Aging and poor nutrition
+
+10. Care of a person after a stroke often includes the following except
+         A. Ostomy care
+         B. A bowel and/or bladder training program
+         C. ROM exercises to prevent contractures
+         D. Measures to prevent pressure ulcers
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 61 of 82
+                                                                         Module 13: Long Term Care Resident
+
+11. Functions lost as a result of stroke depend on
+         A. The cause of the stroke
+         B. The person’s age
+         C. The area of brain damage
+         D. The person’s attitude
+
+12. A patient/resident has heart failure. The doctor is likely to order
+         A. A splint or brace
+         B. Elastic stockings
+         C. Trochanter rolls
+         D. A cane or walker
+
+13. When the urinary bladder is removed, a new pathway is needed for urine to exit the body. The new pathway is called a
+         A. Urinary diversion
+         B. Ureterostomy
+         C. Renal pathway
+         D. Renal tubule
+
+14. Heart failure means that the heart
+         A. Has stopped beating
+         B. Is damaged
+         C. Cannot pump blood normally
+         D. Is old and weak
+
+15. In diabetes, the body lacks or is unable to use
+         A. Estrogen
+         B. Testosterone
+         C. Insulin
+         D. Protein and carbohydrates
+
+16. Persons with diabetes need
+         A. Good foot care
+         B. Frequent oral hygiene
+         C. Daily weight measurements
+         D. I & O measurements
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 62 of 82
+                                                                                     Module 13: Long Term Care Resident
+
+17. To prevent pressure ulcers, you must:
+         A. Keep the person’s skin clean and dry
+         B. Massage pressure points
+         C. Use soap to clean the skin
+         D. Scrub and rub the skin during bathing
+
+18. You are applying an elastic bandage to a person’s left leg. Which is incorrect?
+         A. Position the part in good alignment
+         B. Face the person during the procedure
+         C. Start at the top (proximal) part of the extremity
+         D. Expose the toes if possible
+
+19. A female patient/resident is obese. She is at risk for pressure ulcers in the following areas except.
+         A. Between abdominal folds
+         B. Under her breasts
+         C. Between her legs and buttocks
+         D. Her forehead and chin
+
+20. A dressing is loose. What can happen?
+         A. Microbes can enter the wound
+         B. Wound edges can separate
+         C. Dehiscence can occur
+         D. The wound can become larger
+
+21. The leading cause of blindness in persons 60 years of age or older is
+         A. Glaucoma
+         B. Cataract
+         C. Eye infection
+         D. Age related Macular Degeneration (AMD)
+
+22. A patient/resident has a hearing aid. Which is incorrect?
+         A. The hearing aid corrects the person’s hearing problems
+         B. Hearing aids are costly
+         C. Batteries are removed at night
+         D. When not in use, the hearing aid is turned off
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 63 of 82
+                                                                                 Module 13: Long Term Care Resident
+
+23. A patient/resident has glaucoma. What do you know about the person’s sight?
+         A. Print and colors appear faded
+         B. The person cannot see to the side
+         C. The person is blind in the affected eye
+         D. The person’s vision is cloudy
+
+24. Which means low blood sugar?
+         A. Hyperglycemia
+         B. Hypoglycemia
+         C. Hyperthyroidism
+         D. Hypothyroidism
+
+25. The person with Parkinson’s disease needs protection from
+         A. Falls
+         B. Burns
+         C. Poisoning
+         D. Cold, damp weather
+         E.
+
+26. Risk factors for stroke include the following except
+         A. Hypertension and a family history
+         B. Diabetes, osteoporosis, and obesity
+         C. Heart disease, inactivity, and excessive alcohol use
+         D. Smoking and high blood cholesterol
+
+27. The following are common with Parkinson’s disease EXCEPT                                                Page 64 of 82
+          A. Tremors
+          B. Shuffling gait
+          C. Facial expression
+          D. Flare-ups or relapses
+
+28. With coronary artery disease, the coronary arteries are
+          A. Hardened and narrow
+          B. Enlarged and less elastic
+          C. Infected
+          D. Opened or bypassed
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                              Module 13: Long Term Care Resident
+
+29. A hallucination is
+         A. A false belief
+         B. An exaggerated belief
+         C. Seeing, hearing, smelling, or feeling something that is not real
+         D. A persistent thought or idea
+
+30. Delirium is
+         A. A false belief
+         B. The loss of cognitive function caused by changes in the brain
+         C. A false disorder of the mind
+         D. A state of temporary but acute mental confusion
+
+31. Sundowning is
+         A. When signs, symptoms, and behaviors of Alzheimer’s disease increase during hours of darkness
+         B. The loss of cognitive and social function caused by changes in the brain
+         C. A false dementia
+         D. A state of temporary but acute mental confusion
+
+32. These statements are about permanent dementia. Which is incorrect?
+         A. There is no cure
+         B. Loss of cognitive function worsens over time
+         C. Disease progression is the same for everyone affected
+         D. The person has signs and symptoms of dementia
+
+33. A patient/resident has Alzheimer’s disease. She is trying to rub her perineum through her clothes. Which statement is incorrect?
+         A. The behavior is sexual
+         B. She may be wet or soiled from urine or feces
+         C. She may have a urinary or reproductive infection
+         D. She may have pain or discomfort in her urinary or reproductive system
+
+34. The Nurse Assistant is providing foot care to a patient/resident with diabetes. What is he/she not allowed to do?
+         A. Rub lotion on the patient’s/resident’s feet
+         B. Use an orange stick under the nails
+         C. Clip the nails
+         D. Check for fungus between the toes
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018             Page 65 of 82
+                                                                                                                Module 13: Long Term Care Resident
+
+35. A patient/resident has AD. The person has the following behaviors. Which has the greatest risk for danger?
+         A. Wandering
+         B. Delusions
+         C. Catastrophic reactions
+         D. Screaming
+
+36. Which is not a risk factor for gastroesophageal reflux disease (GERD)?                                  Page 66 of 82
+          A. Being underweight
+          B. Alcohol use
+          C. Pregnancy
+          D. Smoking
+
+37. What is the greatest risk(s) from osteoporosis?
+          A. Fractures
+          B. Burns
+          C. Infection
+          D. Pneumonia
+
+38. The patient/resident has a cast on the right leg. Which action is INCORRECT?
+          A. Allow the cast to get wet
+          B. Use your palms to lift and turn a casted extremity
+          C. Turn the person every two hours
+          D. Elevate the casted part on pillows
+
+39. The skin is injured. Which is a major threat?
+          A. Incontinence
+          B. Infection
+          C. Gangrene
+          D. Evisceration
+
+40. An injury usually from unrelieved pressure is
+          A. A wound
+          B. A thrombus
+          C. Phlebitis
+          D. A pressure ulcer
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018
+                                                                                                                Module 13: Long Term Care Resident
+
+41. Skin tears are caused by the following except
+         A. Friction and shearing
+         B. Pulling or bumping a body part
+         C. Direct pressure on the skin
+         D. Incontinence and moisture on the skin
+
+42. The skin or mucous membrane is broken. This is
+         A. An open wound
+         B. A clean wound
+         C. A closed wound
+         D. An intentional wound
+
+43. Elastic bandages and elastic stockings do the following except
+         A. Promote comfort
+         B. Promote circulation
+         C. Prevent injury
+         D. Prevent infection
+
+44. A patient/resident has cancer. You find him crying in his room. What should you do?
+         A. Close the door after leaving the room. He needs to cry in private
+         B. Use touch and listening to communicate that you care
+         C. Tell the nurse at once
+         D. Tell his spiritual advisor what you observed
+
+45. The common causes of chronic renal failure are
+         A. Tumors and infections
+         B. Hypertension and diabetes
+         C. Coronary artery disease and COPD
+         D. Severe allergic reactions and severe bleeding
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 67 of 82
+                                                                                                                Module 13: Long Term Care Resident
+
+46. Hepatitis A is spread by
+         A. Airborne droplets
+         B. Blood
+         C. The fecal-oral route
+         D. Direct contact
+
+47. What is the highest level of anxiety?
+         A. Panic
+         B. Phobia
+         C. Obsession
+         D. Compulsion
+
+48. Which is not an early warning sign of dementia?
+         A. Getting lost in familiar places
+         B. Personality changes
+         C. Poor or decreased judgment
+         D. Not recognizing self or family members
+
+49. A patient/resident is confused. It is time for the person’s shower. What should you do?
+         A. Explain what you are going to do and why
+         B. Ask the person to undress
+         C. Ask if the person wants a tub bath or shower
+         D. Let the confusion pass before you assist with the person’s shower
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 68 of 82
+Sample Test Answers: Module 13  18. C  Module 13: Long Term Care Resident
+                                19. D
+  1. D                          20. A    35. A
+  2. B                          21. A    36. A
+  3. B                          22. A    37. A
+  4. B                          23. B    38. A
+  5. B                          24. B    39. B
+  6. C                          25. A    40. D
+  7. D                          26. B    41. D
+  8. B                          27. D    42. A
+  9. A                          28. A    43. D
+  10. A                         29. C    44. B
+  11. C                         30. D    45. B
+  12. B                         31. A    46. C
+  13. A                         32. C    47. A
+  14. C                         33. A    48. D
+  15. C                         34. C    49. A
+  16. A
+  17. A
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 69 of 82
+Module 13- Long Term Care Resident  Manual Skills 13.4- Reality Orientation
+
+MANUAL SKILL: Reality Orientation to Promote or Maintain Awareness of Person, Time, Place
+
+SKILL STEPS:
+
+1. Be calm and gentle in approach, face person, and speak clearly and slowly.
+2. Address the patient by name with each contact (know how he/she prefers to be addressed).
+3. State your name and show your nametag.
+4. Tell the person the date and time each morning. Repeat the information as often as necessary during the day and evening.
+5. Be patient with repeated instructions.
+6. Explain what you are going to do and why.
+7. Give clear and simple answers to questions.
+8. Ask clear and simple questions. Allow enough time for a response.
+9. Keep calendars and clocks with large numbers in the patient’s/resident’s room and in view in other rooms.
+10. Encourage the patient/resident to wear glasses and a hearing aid if needed.
+11. Keep glasses, dentures, and hearing aid in same place.
+12. Use touch to communicate.
+13. Encourage the patient/resident to place familiar objects and pictures within view.
+14. Provide newspapers and magazines, read to the individual if appropriate.
+15. Discuss current events with the patient/resident.
+16. Allow the use of television and radio.
+17. Maintain the day-night cycle. Open curtains, shades, and drapes during the day and close them at night.
+18. Use a night light at night.
+19. Encourage the person to wear regular clothes during the day, rather than gowns or pajamas.
+20. Maintain a calm, relaxed atmosphere; avoid loud noise, rushing, or congested hallways and rooms.
+21. Maintain a routine for patient/resident for meals, bathing, and activities.
+22. Keep furniture in same place.
+23. Do not rearrange patient’s/resident’s belongings.
+24. Encourage patient/resident to participate in ADLs.
+25. Be consistent with activities by all health care workers.
+26. Remind the person of holidays, birthdays, and other special events.
+27. Post activity boards and draw attention to it.
+28. Post reality orientation boards and draw attention to it.
+29. Call attention to color-coding of facility areas.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 70 of 82
+     Module 13- Long Term Care Resident
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum Page 72 of 82
+- Revised December 2018
+Module 13- Long Term Care Resident
+
+                          Across                                         Down
+5 Chemical breakdown of food for use by body  1 A condition causing severe pain in the chest.
+8 Loss of function of a part of the body.     2 Blood vessels that carry unoxygenated
+                                              blood.
+10 The smallest blood vessels.                3 The front part.
+11 Itching.                                   4 The back portion.
+12 Refers to signs of Alzheimer’s Disease     6 Breathing out.
+during the hours of darkness.
+13 A decline in memory and other thought      7 Loss of ability to speak.
+processes.
+16 Disoriented to time, place, and person.    9 Breathing in.
+17 Wasting of muscle tissue.                  12 Referring to organs responsible for sight,
+                                              hearing, touch, taste, smell.
+                                              14 Short for “Congestive Heart Failure”
+                                              15 Short for “Chronic Obstructive Pulmonary
+                                              Disease.”
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum Page 73 of 82
+- Revised December 2018
+     Module 13- Long Term Care Resident
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum Page 74 of 82
+- Revised December 2018
+Module 13: Long Term Care Resident                              Handout 13.2a: Elements of Friendship
+
+                                    ELEMENTS OF FRIENDSHIP
+
+Friends Know Each Other’s History and Personality               Friends Communicate
+In Alzheimer’s care, a Best Friend                              In Alzheimer’s care, a Best Friend
+• Becomes the person’s memory.                                  • Listens skillfully.
+• Is sensitive to the person’s traditions.                      • Speaks skillfully.
+• Learns the person’s personality, moods, and problem           • Asks questions skillfully.
+                                                                • Speaks using body language.
+    solving style.                                              • Gently encourages participation in conversations.
+
+Friends Do things Together                                      Friends Are Equals
+In Alzheimer’s care, a Best Friend                              In Alzheimer’s care, a Best Friend
+• Involves the person in daily activities and chores.           • Does not talk down to the person.
+• Initiates activities.                                         • Always works to protect the dignity of the person, to “save
+• Ties activities into the person’s past skills and interests.
+• Encourages the person to enjoy the simpler things in life.        face.”
+• Remembers to celebrate special occasions.                     • Does not assume a supervisory role.
+                                                                • Recognizes that learning is a two-way street.
+Friends Build Self-Esteem
+In Alzheimer’s care, a Best Friend                              Friends Work at the Relationship
+• Gives compliments often.                                      In Alzheimer’s care, a Best Friend
+• Carefully asks for advice or opinions.                        • Is not overly sensitive.
+• Always offers encouragement.                                  • Does more than 50% of the work.
+• Offers congratulations.                                       • Builds a trusting relationship.
+                                                                • Shows affection often.
+Friends Laugh Often
+In Alzheimer’s care, a Best Friend
+• Tells jokes and funny stories.
+• Takes advantage of spontaneous fun.
+• Uses self-deprecating humor often.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 75 of 82
+Module 13: Long Term Care Resident                                                                  Handout 13.2b: Empathy
+
+                                    Empathy
+
+         Nurse Assistants who demonstrate empathy can deliver service and care more effectively. Empathizing improves
+communication because the empathetic listener focuses on the feelings of the speaker. Sympathy, sometimes confused with
+empathy, focuses on the listener’s own feelings of being sorry or sad for the other person. Understanding the difference between
+sympathy and empathy can be difficult. The exercises below will help Nurse Assistants understand the nature of empathy and
+provide opportunities for them to practice skills that will increase their capacity to experience empathy, demonstrate understanding,
+reserve judgment, and communicate effectively. When Nurse Assistants have more empathy with patients/residents, as well as
+with co-workers, the health care setting is more effective and humane.
+
+Physical Limitations
+
+What students will learn:
+
+1. What it is like to experience the signs and symptoms of various physical conditions.
+2. To develop empathy with patients and what they are experiencing.
+
+What you will need:
+
+1. Short (3-4 inches) straws that are not very large in diameter. Small cocktail straws work well.
+2. Nonprescription eyeglasses with clear lenses that have been coated with petroleum jelly.
+3. Gardening gloves
+4. Blindfolds for half of the students.
+5. Earphones or cotton balls.
+
+What to do:
+
+Instruct students to use the items on the list to create conditions that simulate physical limitations caused by disease, accident, or
+
+aging; for example:
+
+1. Give each student a straw and have him/her breathe through the straw for 5 minutes (if they can last that long). This activity will
+    simulate what it is like for a premature baby who struggles for air. It also simulates breathing with lung disorders such as asthma,
+    emphysema, and bronchitis.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 76 of 82
+Module 13: Long Term Care Resident  Handout 13.2b: Empathy
+
+2. Have students put on the glasses coated with petroleum jelly to demonstrate what it is like to have a cataract or other vision
+    disorder.
+
+3. Students can wear the gloves and try to perform simple tasks like buttoning a shirt, picking up some coins, writing, opening the
+    wrapper on chewing gum, etc. This activity will help them understand what it is like to have an impaired sense of touch.
+
+4. Give a short lecture while students are wearing earphones or cotton balls in ears to simulate hearing loss. Give a “test” to let
+    them see how much they missed.
+
+5. Blindfold half the students and have the remaining half lead them around campus.
+6. Have students maneuver around the classroom using a wheelchair, crutches, walker or cane. Make an obstacle course and time
+
+    the students when they go through it in a wheelchair. If possible, have students take the wheelchair outside to use it on a
+    sidewalk and other uneven surfaces. Ask the students using assistive devices to open doors by themselves. Have something on
+    the floor for the students to pick up while seated in the wheelchair (be careful they don’t fall).
+
+Follow-up Discussion
+
+1. How did it feel to experience a physical limitation?
+2. What are the ways you might demonstrate empathy for future patients/residents who have physical limitations?
+3. What are some ways that you might help patients/residents who have these limitations?
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 77 of 82
+Module 13: Long Term Care Resident             Handout 13.2c: Best Friends Philosophy
+
+THE BEST FRIENDS PHILOSOPHY OF COMMUNICATION
+
+• Create an environment that facilitates good  • Remember the basics of good communication.
+    communication.                             • Remember the importance of non-verbal
+
+• Do most of the work.                             communication.
+• Do not argue or confront.                    • Respond to emotional needs.
+• Do not take the person too literally.        • Screen out troubling messages or news.
+• Employ good timing.                          • Speak using positive language.
+• Employ humor in communication.               • Treat the person as an adult.
+• Maintain caregiving integrity.               • Understand the person’s desire to communicate.
+• Make a good first impression.                • Use repetition to facilitate better communication.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 78 of 82
+Module 13: Long Term Care Resident  Handout 13.4- Alzheimers Bill of Rights
+
+                                                        AN ALZHEIMER’S DISEASE BILL OF RIGHTS
+Every person diagnosed with Alzheimer’s disease or a related disorder deserves the following rights:
+
+    • To be informed of one’s diagnosis.
+    • To have appropriate, ongoing medical care.
+    • To be productive in work and play for as long as possible.
+    • To be treated like an adult, not like a child.
+    • To have expressed feelings taken seriously.
+    • To be free from psychotropic medications, if possible.
+    • To live in a safe, structured, and predictable environment.
+    • To enjoy meaningful activities that fill each day.
+    • To be outdoors on a regular basis.
+    • To have physical contact, including hugging, caressing, and hand holding.
+    • To be with individuals who know one’s life story, including cultural and religious traditions.
+    • To be cared for by individuals who are well trained in dementia care.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 79 of 82
+Module 13: Long Term Care Resident  Handout 13.7- Effects of Aging and Nursing Care Measures
+
+Effects of Aging and Nursing Care Measures Handout
+
+Skin
+Changes:
+
+    1. Wrinkles (loss of elasticity).
+    2. Dry and itchy (decrease in skin oils).
+    3. Chills easily (loss of fatty tissue).
+    4. Bruises easily (fragile blood vessels).
+    5. Discoloration, liver spots on back of hands (due to pigments in the hand being exposed to sun).
+    6. Easily irritated perineal area (decreased lubricant production glands).
+    7. Dry mouth (decrease in mucus production).
+    8. Brittle nails.
+    9. Hair color changes and balding (loss of pigmentation and wearing out-atrophy-of-hair follicles).
+
+Nursing Care Measures:
+    1. Treat gently to avoid tissue damage, pat dry after bathing.
+    2. Adequate clothing/bed covering to prevent chilling. Keep environmental temperature constant.
+    3. Adequate nutrition and fluids.
+    4. Immobility can cause breakdown at a faster rate.
+    5. Avoid drying and irritating soaps, use soap sparingly.
+    6. Aged may not need as frequent bathing.
+    7. Apply lotion to bony prominences and itchy skin, especially after bathing.
+
+Circulatory system (heart and blood vessels)
+Changes:
+
+    1. Fatigues easier, loss of oxygen in tissues (heart wears out, heart valves become rigid, leading to decreased output of blood;
+         blood vessels thicken).
+
+    2. Hardening of the arteries-arteriosclerosis (due to decreased elasticity of the blood vessels).
+    3. Fat deposits in heart and blood vessels-arteriosclerosis (due to decreased elasticity of the blood vessels).
+    4. Fainting-orthostatic hypotension (due to inability of heart and blood vessels to adjust rapidly to changes in position).
+    5. Increased and sustained blood pressure under stress or strain (heart and blood vessels cannot react fast to react to
+
+         changes).
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 80 of 82
+Module 13: Long Term Care Resident  Handout 13.7- Effects of Aging and Nursing Care Measures
+
+    6. Faster pulse (due to hardening of arteries).
+    7. Feet and hands may be cold (due to hardening of arteries in feet and hands).
+
+Nursing Care Measures:
+    1. Adequate nutrition and fluids.
+    2. Relief of undue stress and strain; periods of rest and relaxation.
+    3. Encourage active exercise and mobility to stimulate circulation.
+    4. Proper positioning if patient is in bed to prevent pressure on blood vessels.
+    5. Change position of patient frequently every 2 hours. Being in one position too long can cause pooling of blood, and slowing of
+         circulation.
+    6. Ensure good bowel elimination to prevent strain on the heart from constipation.
+    7. Give patient time to get used to position changes. Protect from falls or fainting. Aged may need to move more slowly.
+
+Respiratory system (lungs)
+Changes:
+
+    1. Fatigue, less efficient breathing; must breathe harder and longer (decreased lung capacity, loss of elasticity in lung tissue).
+    2. Shallow breathing (chest muscle weakens).
+    3. Ineffective coughing (muscle weakens, less lung capacity).
+
+Nursing Care Measures:
+    1. Accurate observation of patient’s breathing rate and characteristics.
+    2. Proper positioning to allow for good chest expansion and breathing.
+    3. Deep breathing exercises.
+    4. Adequate rest and relaxation, although active exercise helps maintain good breathing and muscle tone.
+
+Muscular system
+Changes:
+
+    1. Weakness of muscles (muscles wear out-atrophy-because of disuse of muscle groups due to inactivity).
+    2. Fatigue of muscles, loss of energy reserve (decreased).
+    3. Shuffling, slow gait (muscle weakness in knees and hips).
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 81 of 82
+Module 13: Long Term Care Resident  Handout 13.7- Effects of Aging and Nursing Care Measures
+
+Nursing Care Measures:
+    1. Maintain correct body alignment and positing.
+    2. Encourage active exercise and ambulation.
+    3. Adequate nutrition and fluids.
+    4. Provide for safety; prevent falls-remove scatter rugs from floor and keep paths for ambulation open and free of clutter.
+    5. Hand rails on walls and in toilets assist in transfer and ambulation.
+
+Skeletal system (bones)
+Changes:
+
+    1. Bones fracture easily (calcium is lost from bones, bones are porous).
+    2. Stiffness of joints and ligaments (hardening of tissues in joints).
+    3. Postural changes, stooped back (degeneration of back bones).
+
+Nursing Care Measures:
+    1. Elderly are more prone to injury and fractures. Handle gently and take safety precautions to prevent falls.
+    2. Adequate nutrition-especially foods containing calcium (dairy products).
+    3. Active exercise helps relieve stiffness.
+
+Digestive system (mouth, stomach, intestines)
+Changes:
+
+    1. Poor appetite (loss of teeth, decrease in taste and smell).
+    2. Prone to constipation (loss of muscle tone in stomach and intestines).
+
+Nursing Care Measures:
+    1. Encourage a balanced diet with adequate protein and bulk foods.
+    2. Fluids and exercise to help maintain normal bowel function.
+
+California Community Colleges Chancellor’s Office Nurse Assistant Model Curriculum - Revised December 2018  Page 82 of 82
+

@@ -1,0 +1,7 @@
+{
+  "status": "scripts_only_no_audio_generated",
+  "qwen_model": "C:/AI/Qwen3-TTS-12Hz-1.7B-Base",
+  "voice_reference": "C:/AI/Git/training/CI-ION/CI-ION_OASIS-E2_SOC/src/content/narration/Additional Narrations OASIS-E2/FINAL_REVIEW_EXPORT_GUIDANCE_001.wav",
+  "clips": "See audio_scripts.csv",
+  "compliance": "No final speech audio generated in this run."
+}

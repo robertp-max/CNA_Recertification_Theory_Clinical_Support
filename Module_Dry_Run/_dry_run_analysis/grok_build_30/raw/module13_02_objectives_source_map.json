@@ -1,0 +1,45 @@
+{
+  "id": "456cb115-b5b0-94d6-ac2c-2c6cf29f359e",
+  "object": "chat.completion",
+  "created": 1780593049,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 02_objectives_source_map — Module 13**\n\n**Verdict:** PASS WITH RISKS\n\n**Top findings:**\n- [Critical] Objective titles are blank in the activities artifact while present elsewhere: `data/module13.activities.json` lists `\"objective titles: 1. ; 2. ; 3. ; 4. ; 5. ; 6. ; 7. ; 8. \"` (all empty) despite `count=8` and `minute_sum=780`. Evidence: `data/module13.activities.json` top-level keys and objectives array. Recommended action: Align activities data with `source_objective_map.json` and `module13.content.json` titles before any further use.\n- [High] Self-reported PASS in reports overstates actual file state: `reports/validation_report.md` and `reports/final_handoff.md` claim \"8 objectives present\" and overall PASS, but do not detect the blank titles in `module13.activities.json`. Evidence: direct comparison of `validation_report.md` table vs. `data/module13.activities.json` content.\n- [High] Core source-map artifact is internally consistent on counts and titles, but downstream data is not: `source_map/source_objective_map.json` correctly shows `objectives: count=8`, `minute_sum=780`, and full titles (e.g., \"Define key terminology\", \"Describe the special needs of persons with Alzheimer’s Disease...\"); `data/module13.content.json` matches exactly. Evidence: `source_objective_map.json` top-level keys + objectives array; `module13.content.json` objectives array.\n- [Medium] Source references and authority are properly anchored to the declared PDF only: multiple entries use `CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7`, `#pages-7-9`, `#pages-10-15`, etc.; `source_authority` field is consistent; validation dict shows `backup_content_used_as_authority: false`, `contentv2_used_as_authority: false`, `prior_module_outputs_used_as_authority: false`. Evidence: `source_objective_map.json` and `module13.content.json`.\n- [Medium] Terminology and source assets counts are present and quantified: `source_objective_map.json` validation reports `terminology_count: 290` and `source_assets: count=11` (samples include `terminology_list`, `handout_13_1a`, etc.); `source_recommended_theory_hours: 13` and `theory_minutes_total: 780` match declared values. Evidence: `source_objective_map.json` validation and source_assets sections.\n- [Medium] Answer-key internal-only handling is declared but lightly evidenced: `source_objective_map.json` validation has `'answer_keys_internal_only': True`; generated content references \"no_key_notice\": \"Answer keys are internal-only\" and \"Sample test/answer key mapped internal-only\". Evidence: `source_objective_map.json` validation dict; risk-term contexts in reports.\n- [Low] Time allotment breakdown in reports aligns with source-map totals: `reports/time_allotment_report.md` lists the exact 8 titles with minutes (60+60+45+120+120+45+270+60=780). Evidence: `time_allotment_report.md` and matching titles in `source_objective_map.json`.\n- [Low] App pointer and generated content files exist and reference Module 13 data: `Module_Dry_Run/standalone-course-mvp/src/data/contentV2.generated.ts` imports `module13.content.generated.json`; `data/content.generated.json` lists \"M13:NATP Module 13: Long Term Care Resident objectives=8\". Evidence: listed files and their contents.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| Objective count = declared 8 | PASS | `source_objective_map.json`: count=8; `module13.content.json`: count=8; `source_map` validation: objective_count=8 |\n| Weighted theory minutes = 780 | PASS | `source_objective_map.json`: theory_minutes_total=780; `module13.content.json`: total_weighted_minutes=780; time_allotment_report sums to 780 |\n| Objective titles match source / declared | PASS (source_map) / FAIL (activities) | Full titles in `source_objective_map.json` and `module13.content.json`; blank in `module13.activities.json` |\n| Source references point to official PDF | PASS | Page anchors (e.g., `#page-7`, `#pages-7-9`) in both `source_objective_map.json` and `module13.content.json`; source_authority field consistent |\n| Terminology count recorded | PASS | 290 in `source_objective_map.json` validation |\n| Answer keys internal-only flag | PASS (declared) | `source_objective_map.json` validation: True; echoed in generated content notices |\n| No backup/prior/ContentV2 as authority | PASS | Validation dict flags all false; source_authority = official module-13.pdf only |\n| Source assets mapped | PASS | count=11 in `source_objective_map.json` |\n| Activities data titles populated | FAIL | `module13.activities.json` shows empty titles for all 8 objectives |\n\n**Open questions / residual risks:**\n- Why was `data/module13.activities.json` generated with blank objective titles while `source_objective_map.json` and `module13.content.json` were populated correctly from the same source extraction?\n- Is `source_map/source_objective_map.md` (size 13355) a faithful human-readable mirror of the .json, or does it also contain gaps?\n- Actual answer-key content or internal-only enforcement files are not visible in the provided inventory or excerpts; only declarative flags exist.\n- Minor bundle-level contradiction: `reports/final_handoff.md` states Qwen TTS \"launched\" and \"processing continues\", while `audio/audio_manifest.json` and `narration_batch_import_package.json` both show status \"scripts_only_no_audio_generated\" / qwen_sent=false (plus PowerShell parse errors in logs). This is secondary to the objectives lens but indicates inconsistent artifact state.\n- `Module_Dry_Run/standalone-course-mvp/src/data/module13.content.generated.json` (170250 bytes) vs. `data/module13.content.json` (114523 bytes) both exist; unclear which is authoritative for the app pointer.\n\n**One-sentence go/no-go recommendation.**  \nProceed with the source-map objectives coverage as PASS WITH RISKS only after the activities.json title inconsistency is resolved and cross-checked against the deterministic `source_objective_map.json` metrics; do not treat validation_report self-PASS claims as sufficient evidence.",
+        "reasoning_content": "# Review 02_objectives_source_map — Module 13\nVerdict: PASS WITH RISKS\nTop findings:\n- [Critical] Blank objective titles in data/module13.activities.json: all listed as \"1. ; 2. ; ...\" despite count=8 and minute_sum=780.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 12098,
+    "completion_tokens": 1390,
+    "total_tokens": 16607,
+    "prompt_tokens_details": {
+      "text_tokens": 12098,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3119,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 210136000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module13_02_objectives_source_map",
+    "attempt": 1,
+    "elapsed_sec": 34.9,
+    "status": 200
+  }
+}

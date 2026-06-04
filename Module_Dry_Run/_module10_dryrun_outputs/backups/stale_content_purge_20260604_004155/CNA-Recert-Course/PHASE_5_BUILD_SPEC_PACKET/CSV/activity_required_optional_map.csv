@@ -1,0 +1,31 @@
+activity_id,activity_name,course_area,required_optional_admin,moodle_tool,learner_label,completion_tracking,certificate_gate,risk_if_misconfigured
+A001,Course scope orientation page,Theory CE,Required,Page,Required for Online CE Certificate: Start Here,Yes,Yes,Learner may miss partial-credit limits
+A002,Legal name field,Certificate,Required,User profile,Required Certificate Information: Legal Name,Yes via profile check,Yes,Certificate issued with wrong or missing name
+A003,CNA certificate number field,Certificate,Required,User profile,Required Certificate Information: CNA Certificate Number,Yes via profile check,Yes,Certificate lacks required learner identifier
+A004,Online cap acknowledgement,Certificate,Required,Quiz or Feedback,Required: California Online CE Limit Acknowledgement,Yes,Yes,Learner may exceed 24-hour online cap
+A005,No-PHI acknowledgement,Theory/Clinical,Required where uploads exist,Quiz or Feedback,Required Privacy Acknowledgement,Yes where configured,Conditional,PHI risk and unclear privacy obligations
+A006,Theory module reading,Theory CE,Required,Book Page or Lesson,Required Theory Module,Yes,Yes,Learner bypasses required content
+A007,Theory interaction,Theory CE,Required,Lesson H5P or Quiz,Required Interaction and Feedback,Yes,Yes,Online CE interaction evidence missing
+A008,Module quiz,Theory CE,Required,Quiz,Required Module Check,Yes,Conditional,Weak mastery evidence
+A009,Active-time threshold,Certificate,Required,Time plugin custom or manual review,Required Active Participation Time,Yes,Yes,Time control requirement unsupported
+A010,Final exam/test,Certificate,Required,Quiz,Required Final Exam/Test,Yes,Yes,Certificate without assessment evidence
+A011,Final signed statement/affidavit,Certificate,Required,Feedback Assignment custom or wet-sign,Required Final Signed Statement,Yes,Yes,Certificate issued without required statement
+A012,Certificate activity,Certificate,Required after gates,Custom Certificate or equivalent,Online CE Certificate,Issue record,N/A,Premature or incomplete certificate
+A013,Admin hold,Admin/Admin Gate,Admin Only,Restricted profile/course field,Not learner-facing except status message,Yes,Yes,Known exception still receives certificate
+A014,Manual override log,Admin/Admin Gate,Admin Only,Restricted form/log,Not learner-facing,Yes if used,Indirect,Undocumented exception
+A015,Clinical support overview,Clinical Support,Optional,Page or Book,Optional Clinical Support: Start Here,Optional or no,No,Learner thinks clinical hub is required credit
+A016,Skills Refresh Library,Clinical Support,Optional,Book File or Page,Optional Skills Refresh,Optional or no,No,Optional support inflates CE progress
+A017,Practice Planner,Clinical Support,Optional,Page or Choice,Optional Practice Planner,Optional,No,Scheduling support mistaken for required clinical hours
+A018,Scheduling Guidance,Clinical Support,Optional,Page Calendar or Scheduler candidate,Optional Scheduling Guidance,Optional,No,Capacity confusion or plugin burden
+A019,What to Bring / What to Expect,Clinical Support,Optional,Page or File,Optional Practice Support Resource,Optional or no,No,Learner thinks attendance is required for CE certificate
+A020,Transfer confidence check,Clinical Support,Optional,Feedback or Ungraded Quiz,Optional Confidence Check: Transfers,Optional,No,Confidence check becomes punitive
+A021,Hand hygiene/PPE confidence check,Clinical Support,Optional,H5P or Ungraded Quiz,Optional Confidence Check: PPE,Optional,No,Practice mistaken for clinical hours
+A022,Documentation practice,Clinical Support,Optional,Ungraded Quiz or Feedback,Optional Practice: Documentation,Optional,No,Free text may collect PHI
+A023,Clinical documentation upload,Clinical Support,Optional,Assignment or Database,Optional Documentation Support Upload,Optional,No,Missing upload blocks certificate or PHI collected
+A024,RN/preceptor signoff upload,Clinical Support,Optional,Assignment or Database,Optional RN/Preceptor Signoff Support,Optional,No,Signoff treated as state-required validation
+A025,Simulation/LTI practice,Clinical Support,Optional/Post-MVP,External Tool or H5P,Optional Practice Scenario - Not Clinical Hours,Optional,No,Simulation counted as clinical credit
+A026,Support request form,Support,Optional,Feedback or Form,Optional Help Request,No or optional,No,Learners avoid support if it appears graded
+A027,Office hours booking,Support,Optional,Calendar or Scheduler,Optional Office Hours,Optional,No,Attendance becomes perceived requirement
+A028,Approval archive,Admin,Admin Only,Restricted Folder,Admin Only,N/A,Indirect,Learners see admin docs or certificate unblocked without approval
+A029,Audit packet export,Admin,Admin Only,Reports custom SQL or manual export,Admin Only,N/A,No,Records incomplete for audit
+A030,PHI incident log,Admin,Admin Only,Restricted log,Admin Only,N/A,No,Privacy response not documented

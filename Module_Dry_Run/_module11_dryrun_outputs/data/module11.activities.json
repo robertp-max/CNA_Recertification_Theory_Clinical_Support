@@ -1,0 +1,726 @@
+{
+  "module_id": "M11",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "weighted_minutes": 8,
+      "activities": [
+        {
+          "activity_id": "M11-O01-A01",
+          "name": "Nutrition Flashcard Deck",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrition Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Diet Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O01-A02",
+          "name": "Crossword Quest",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrition Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Diet Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O01-A03",
+          "name": "Five-Term Diet Report Sentence",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrition Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Diet Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "weighted_minutes": 8,
+      "activities": [
+        {
+          "activity_id": "M11-O02-A01",
+          "name": "Food and Fluid Needs Sort",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Food and Fluid Needs Sort",
+            "Source-traced visual for Balanced Diet Builder",
+            "Source-traced visual for Hydration Minimum Check"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O02-A02",
+          "name": "Balanced Diet Builder",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Food and Fluid Needs Sort",
+            "Source-traced visual for Balanced Diet Builder",
+            "Source-traced visual for Hydration Minimum Check"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O02-A03",
+          "name": "Hydration Minimum Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Food and Fluid Needs Sort",
+            "Source-traced visual for Balanced Diet Builder",
+            "Source-traced visual for Hydration Minimum Check"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "weighted_minutes": 15,
+      "activities": [
+        {
+          "activity_id": "M11-O03-A01",
+          "name": "Nutrient Source Match",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrient Source Match",
+            "Source-traced visual for Food Label Detective",
+            "Source-traced visual for Fiber and Fluid Quick Pick"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O03-A02",
+          "name": "Food Label Detective",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrient Source Match",
+            "Source-traced visual for Food Label Detective",
+            "Source-traced visual for Fiber and Fluid Quick Pick"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O03-A03",
+          "name": "Fiber and Fluid Quick Pick",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Nutrient Source Match",
+            "Source-traced visual for Food Label Detective",
+            "Source-traced visual for Fiber and Fluid Quick Pick"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "weighted_minutes": 14,
+      "activities": [
+        {
+          "activity_id": "M11-O04-A01",
+          "name": "My Plate Drag-and-Balance",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for My Plate Drag-and-Balance",
+            "Source-traced visual for Food Journal Reflection",
+            "Source-traced visual for Oil and Solid Fat Sort"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O04-A02",
+          "name": "Food Journal Reflection",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for My Plate Drag-and-Balance",
+            "Source-traced visual for Food Journal Reflection",
+            "Source-traced visual for Oil and Solid Fat Sort"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O04-A03",
+          "name": "Oil and Solid Fat Sort",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for My Plate Drag-and-Balance",
+            "Source-traced visual for Food Journal Reflection",
+            "Source-traced visual for Oil and Solid Fat Sort"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "weighted_minutes": 7,
+      "activities": [
+        {
+          "activity_id": "M11-O05-A01",
+          "name": "Vegan Four Groups Builder",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vegan Four Groups Builder",
+            "Source-traced visual for Vegetarian vs Vegan Sort",
+            "Source-traced visual for Meal Pattern Check"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O05-A02",
+          "name": "Vegetarian vs Vegan Sort",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vegan Four Groups Builder",
+            "Source-traced visual for Vegetarian vs Vegan Sort",
+            "Source-traced visual for Meal Pattern Check"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O05-A03",
+          "name": "Meal Pattern Check",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vegan Four Groups Builder",
+            "Source-traced visual for Vegetarian vs Vegan Sort",
+            "Source-traced visual for Meal Pattern Check"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 6,
+      "weighted_minutes": 12,
+      "activities": [
+        {
+          "activity_id": "M11-O06-A01",
+          "name": "Elder Nutrition Risk Lens",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O06:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Elder Nutrition Risk Lens",
+            "Source-traced visual for Allergy Tray Safety Check",
+            "Source-traced visual for Supplements and Appetite Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O06-A02",
+          "name": "Allergy Tray Safety Check",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O06:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Elder Nutrition Risk Lens",
+            "Source-traced visual for Allergy Tray Safety Check",
+            "Source-traced visual for Supplements and Appetite Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O06-A03",
+          "name": "Supplements and Appetite Scenario",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O06:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Elder Nutrition Risk Lens",
+            "Source-traced visual for Allergy Tray Safety Check",
+            "Source-traced visual for Supplements and Appetite Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 7,
+      "weighted_minutes": 15,
+      "activities": [
+        {
+          "activity_id": "M11-O07-A01",
+          "name": "Therapeutic Diet Match",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O07:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Therapeutic Diet Match",
+            "Source-traced visual for Diet Card Safety Gate",
+            "Source-traced visual for I&O and Intake Record Practice"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O07-A02",
+          "name": "Diet Card Safety Gate",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O07:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Therapeutic Diet Match",
+            "Source-traced visual for Diet Card Safety Gate",
+            "Source-traced visual for I&O and Intake Record Practice"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O07-A03",
+          "name": "I&O and Intake Record Practice",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O07:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Therapeutic Diet Match",
+            "Source-traced visual for Diet Card Safety Gate",
+            "Source-traced visual for I&O and Intake Record Practice"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 8,
+      "weighted_minutes": 18,
+      "activities": [
+        {
+          "activity_id": "M11-O08-A01",
+          "name": "Mealtime Setup Coach",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O08:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Mealtime Setup Coach",
+            "Source-traced visual for Dysphagia Sign Alert",
+            "Source-traced visual for Safe Feeding Pace Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O08-A02",
+          "name": "Dysphagia Sign Alert",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O08:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Mealtime Setup Coach",
+            "Source-traced visual for Dysphagia Sign Alert",
+            "Source-traced visual for Safe Feeding Pace Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O08-A03",
+          "name": "Safe Feeding Pace Simulation",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O08:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Mealtime Setup Coach",
+            "Source-traced visual for Dysphagia Sign Alert",
+            "Source-traced visual for Safe Feeding Pace Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 9,
+      "weighted_minutes": 7,
+      "activities": [
+        {
+          "activity_id": "M11-O09-A01",
+          "name": "Culture Preference Interview",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O09:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Culture Preference Interview",
+            "Source-traced visual for Assumption Check Scenario",
+            "Source-traced visual for Family Food Policy Sort"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O09-A02",
+          "name": "Assumption Check Scenario",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O09:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Culture Preference Interview",
+            "Source-traced visual for Assumption Check Scenario",
+            "Source-traced visual for Family Food Policy Sort"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O09-A03",
+          "name": "Family Food Policy Sort",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O09:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Culture Preference Interview",
+            "Source-traced visual for Assumption Check Scenario",
+            "Source-traced visual for Family Food Policy Sort"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 10,
+      "weighted_minutes": 16,
+      "activities": [
+        {
+          "activity_id": "M11-O10-A01",
+          "name": "Tube Feeding Boundary Map",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O10:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Tube Feeding Boundary Map",
+            "Source-traced visual for IV Line Report Checklist",
+            "Source-traced visual for Aspiration Warning Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O10-A02",
+          "name": "IV Line Report Checklist",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O10:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Tube Feeding Boundary Map",
+            "Source-traced visual for IV Line Report Checklist",
+            "Source-traced visual for Aspiration Warning Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M11-O10-A03",
+          "name": "Aspiration Warning Scenario",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / sort / scenario / short-response",
+          "completion_event": "activity_complete:M11:O10:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Tube Feeding Boundary Map",
+            "Source-traced visual for IV Line Report Checklist",
+            "Source-traced visual for Aspiration Warning Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    }
+  ]
+}

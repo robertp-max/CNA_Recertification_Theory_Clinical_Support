@@ -1,0 +1,3786 @@
+{
+  "run_name": "NATP Module 13 Long Term Care Resident — Source-First Dry Run",
+  "generated_at": "2026-06-04T08:09:30",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+  "source_title": "Module 13: Long Term Care Patient/Resident",
+  "learner_facing_title": "NATP Module 13: Long Term Care Resident",
+  "minimum_theory_hours_snf_icf": 5,
+  "minimum_theory_hours_non_snf_icf_plus_additional": "3 non-SNF/ICF plus 2 additional training hours",
+  "source_recommended_theory_hours": 13,
+  "theory_minutes_total": 780,
+  "source_required_clinical_hours": 4,
+  "online_clinical_credit_claimed": false,
+  "online_hands_on_competency_validated": false,
+  "purpose": "Introduce the basic structure of the body, review the effect of aging on body structure and function, present common physical and psychological conditions found in elderly patients/residents with approaches to care, and identify community resources for psychological, recreational, and social needs.",
+  "terminology": [
+    {
+      "term_number": 1,
+      "term": "Acute",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 2,
+      "term": "Assisted living",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 3,
+      "term": "Chronic",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 4,
+      "term": "Debilitating",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 5,
+      "term": "Dementia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 6,
+      "term": "Long-term care",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 7,
+      "term": "Reality orientation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 8,
+      "term": "Reminiscing",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 9,
+      "term": "Patients/residents",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 10,
+      "term": "Skilled nursing facility",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 11,
+      "term": "Subacute care",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 12,
+      "term": "Validation therapy Medical and Anatomical Terms:",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 13,
+      "term": "Anatomic position",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 14,
+      "term": "Anatomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 15,
+      "term": "Anterior",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 16,
+      "term": "Cells",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 17,
+      "term": "Connective tissue",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 18,
+      "term": "Contractures",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 19,
+      "term": "Disease",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 20,
+      "term": "Distal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 21,
+      "term": "Epithelial tissue",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 22,
+      "term": "Health",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 23,
+      "term": "Inferior",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 24,
+      "term": "Joints",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 25,
+      "term": "Lateral",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 26,
+      "term": "Membranes",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 27,
+      "term": "Muscle tissue",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 28,
+      "term": "Nerve tissue",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 29,
+      "term": "Organ",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 30,
+      "term": "Peritoneum",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 31,
+      "term": "Physiology",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 32,
+      "term": "Posterior",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 33,
+      "term": "Prefix",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 34,
+      "term": "Proximal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 35,
+      "term": "Suffix",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 36,
+      "term": "Superior",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 37,
+      "term": "System",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 38,
+      "term": "Traction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 39,
+      "term": "Age-related Macular Degeneration (AMD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 40,
+      "term": "Agitated",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 41,
+      "term": "Alzheimer’s disease",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 42,
+      "term": "Aphasia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 43,
+      "term": "Autonomic dysreflexia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 44,
+      "term": "Bipolar disorder",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 45,
+      "term": "Brain",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 46,
+      "term": "Cataract",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 47,
+      "term": "Catastrophic reaction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 48,
+      "term": "Cerebral palsy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 49,
+      "term": "Cerebral Vascular Accident (CVA)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 50,
+      "term": "Concussion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 51,
+      "term": "Confusion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 52,
+      "term": "Delirium",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 53,
+      "term": "Delusion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 54,
+      "term": "Dementia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 55,
+      "term": "Developmentally disabled",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 56,
+      "term": "Disruptive behavior",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 57,
+      "term": "Elopement",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 58,
+      "term": "Epilepsy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 59,
+      "term": "Generalized anxiety",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 60,
+      "term": "Glaucoma",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 61,
+      "term": "Hallucination",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 62,
+      "term": "Hemianopsia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 63,
+      "term": "Hemiplegia Module 13: Long Term Care Resident",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 64,
+      "term": "Multiple sclerosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 65,
+      "term": "Nerve",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 66,
+      "term": "Neuron",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 67,
+      "term": "Otosclerosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 68,
+      "term": "Panic disorder",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 69,
+      "term": "Paralysis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 70,
+      "term": "Paranoia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 71,
+      "term": "Paranoid schizophrenia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 72,
+      "term": "Paraplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 73,
+      "term": "Parkinson’s disease",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 74,
+      "term": "Peripheral nervous system",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 75,
+      "term": "Post-traumatic stress syndrome",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 76,
+      "term": "Quadriplegia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 77,
+      "term": "Reality orientation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 78,
+      "term": "Seizure",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 79,
+      "term": "Stroke",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 80,
+      "term": "Sundowner syndrome",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 81,
+      "term": "Transient Ischemic Attack (TIA)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 82,
+      "term": "Tremor",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 83,
+      "term": "Vertigo",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 84,
+      "term": "Antibody",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 85,
+      "term": "Antigen",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 86,
+      "term": "Auto Immunodeficiency Syndrome (AIDS)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 87,
+      "term": "Carrier",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 88,
+      "term": "Human Immunodeficiency Virus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 89,
+      "term": "Immunity",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 90,
+      "term": "Lymph node",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 91,
+      "term": "T-cell",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 92,
+      "term": "White blood cell",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 93,
+      "term": "Anemia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 94,
+      "term": "Angina",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 95,
+      "term": "Anti-embolic stockings:",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 96,
+      "term": "Artery",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 97,
+      "term": "Atherosclerosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 98,
+      "term": "Blood",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 99,
+      "term": "Capillary",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 100,
+      "term": "Congestive Heart Failure (CHF)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 101,
+      "term": "Coronary artery disease",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 102,
+      "term": "Dyspnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 103,
+      "term": "Edema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 104,
+      "term": "Embolism",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 105,
+      "term": "Heart",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 106,
+      "term": "Hypertension",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 107,
+      "term": "Hypoxia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 108,
+      "term": "Ischemia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 109,
+      "term": "Myocardial infarction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 110,
+      "term": "Orthopnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 111,
+      "term": "Pacemaker",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 112,
+      "term": "Peripheral vascular disease (PVD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 113,
+      "term": "Phlebitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 114,
+      "term": "Pulmonary edema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 115,
+      "term": "Sequential compression device (SCD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 116,
+      "term": "Systole",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 117,
+      "term": "Thrombus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 118,
+      "term": "Varicose vein",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 119,
+      "term": "Vein",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 120,
+      "term": "Vessel",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 121,
+      "term": "Abrasion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 122,
+      "term": "Allergies",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 123,
+      "term": "Bony prominences",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 124,
+      "term": "Cyanotic",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 125,
+      "term": "Debride",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 126,
+      "term": "Decubitus ulcer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 127,
+      "term": "Dermis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 128,
+      "term": "Epidermis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 129,
+      "term": "Excoriation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 130,
+      "term": "Friction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 131,
+      "term": "Gangrene",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 132,
+      "term": "Hematoma",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 133,
+      "term": "Lesion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 134,
+      "term": "Necrosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 135,
+      "term": "Pallor",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 136,
+      "term": "Pediculosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 137,
+      "term": "Pressure ulcer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 138,
+      "term": "Pruritus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 139,
+      "term": "Psoriasis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 140,
+      "term": "Scabies",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 141,
+      "term": "Shearing",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 142,
+      "term": "Skin",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 143,
+      "term": "Skin tears",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 144,
+      "term": "Absorption",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 145,
+      "term": "Bile",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 146,
+      "term": "Bowel movement",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 147,
+      "term": "Colon",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 148,
+      "term": "Colostomy Module 13: Long Term Care Resident",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 149,
+      "term": "Constipation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 150,
+      "term": "Defecation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 151,
+      "term": "Diarrhea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 152,
+      "term": "Digestion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 153,
+      "term": "Diverticulitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 154,
+      "term": "Elimination",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 155,
+      "term": "Enema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 156,
+      "term": "Fecal impaction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 157,
+      "term": "Feces",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 158,
+      "term": "Flatus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 159,
+      "term": "Gastrectomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 160,
+      "term": "Gastric tube",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 161,
+      "term": "Hernia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 162,
+      "term": "Ileostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 163,
+      "term": "Nasogastric tube (NG)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 164,
+      "term": "Obstruction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 165,
+      "term": "Occult blood",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 166,
+      "term": "Ostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 167,
+      "term": "Percutaneous Endoscopic Gastrostomy (PEG)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 168,
+      "term": "Peristalsis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 169,
+      "term": "Stoma",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 170,
+      "term": "Stool",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 171,
+      "term": "Suppository",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 172,
+      "term": "Ulcer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 173,
+      "term": "Urgency",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 174,
+      "term": "Urostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 175,
+      "term": "Alveoli",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 176,
+      "term": "Asthma",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 177,
+      "term": "Bronchi",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 178,
+      "term": "Carbon dioxide",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 179,
+      "term": "Chronic Heart Failure (CHF)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 180,
+      "term": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 181,
+      "term": "Dyspnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 182,
+      "term": "Emphysema",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 183,
+      "term": "Expiration",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 184,
+      "term": "Inspiration",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 185,
+      "term": "Larynx",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 186,
+      "term": "Lungs",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 187,
+      "term": "Mucous",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 188,
+      "term": "Nasal cannula",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 189,
+      "term": "Nebulizer",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 190,
+      "term": "Orthopnea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 191,
+      "term": "Oxygen mask",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 192,
+      "term": "Pharynx",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 193,
+      "term": "Pneumonia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 194,
+      "term": "Sputum",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 195,
+      "term": "Tracheostomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 196,
+      "term": "Tuberculosis (TB)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 197,
+      "term": "Upper respiratory infection (URI)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 198,
+      "term": "Abduction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 199,
+      "term": "Adduction",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 200,
+      "term": "Amputation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 201,
+      "term": "Arthritis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 202,
+      "term": "Atrophy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 203,
+      "term": "Bursitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 204,
+      "term": "Contracture",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 205,
+      "term": "Extension",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 206,
+      "term": "Flexion",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 207,
+      "term": "Fracture",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 208,
+      "term": "Full weight-bearing (FWB)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 209,
+      "term": "Gout",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 210,
+      "term": "Muscle",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 211,
+      "term": "Muscular dystrophy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 212,
+      "term": "Osteoarthritis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 213,
+      "term": "Osteoporosis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 214,
+      "term": "Phantom pain",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 215,
+      "term": "Pronation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 216,
+      "term": "Prosthesis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 217,
+      "term": "Range of Motion (ROM)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 218,
+      "term": "Rheumatoid arthritis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 219,
+      "term": "Rotation",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 220,
+      "term": "Skeleton",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 221,
+      "term": "Supination",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 222,
+      "term": "Total hip arthroplasty",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 223,
+      "term": "Trapeze",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 224,
+      "term": "Vertebrae Urinary System",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 225,
+      "term": "Catheter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 226,
+      "term": "Calculi",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 227,
+      "term": "Chronic renal failure",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 228,
+      "term": "Clean catch",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 229,
+      "term": "Condom catheter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 230,
+      "term": "Cystitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 231,
+      "term": "Dialysis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 232,
+      "term": "Diuresis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 233,
+      "term": "Dysuria",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 234,
+      "term": "End-Stage Renal Disease (ESRD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 235,
+      "term": "Hematuria",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 236,
+      "term": "Indwelling catheter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 237,
+      "term": "Kidney Module 13: Long Term Care Resident",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 238,
+      "term": "Micturition",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 239,
+      "term": "Nephritis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 240,
+      "term": "Renal calculi",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 241,
+      "term": "Retention",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 242,
+      "term": "Specimens",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 243,
+      "term": "Ureter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 244,
+      "term": "Urethra",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 245,
+      "term": "Urinalysis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 246,
+      "term": "Urinary bladder",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 247,
+      "term": "Urinary drainage bag",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 248,
+      "term": "Urinary incontinence",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 249,
+      "term": "Urinary Tract Infection (UTI)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 250,
+      "term": "Void",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 251,
+      "term": "Benign prostatic hypertrophy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 252,
+      "term": "Chlamydia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 253,
+      "term": "Cystocele",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 254,
+      "term": "Douche",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 255,
+      "term": "Genitalia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 256,
+      "term": "Genital herpes",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 257,
+      "term": "Human Papilloma Virus(HPV)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 258,
+      "term": "Gonorrhea",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 259,
+      "term": "Hemorrhoid",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 260,
+      "term": "Herpes simplex 2",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 261,
+      "term": "Hormones",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 262,
+      "term": "Hysterectomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 263,
+      "term": "Mammogram",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 264,
+      "term": "Mastectomy",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 265,
+      "term": "Pelvis Inflammatory disease (PID)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 266,
+      "term": "Penis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 267,
+      "term": "Prostate gland",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 268,
+      "term": "Rectocele",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 269,
+      "term": "Sexually transmitted disease (STD)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 270,
+      "term": "Syphilis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 271,
+      "term": "Testes",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 272,
+      "term": "Trichomoniasis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 273,
+      "term": "Uterus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 274,
+      "term": "Vagina",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 275,
+      "term": "Venereal",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 276,
+      "term": "Vulvovaginitis",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 277,
+      "term": "Diabetes mellitus",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 278,
+      "term": "Fasting Blood Sugar (FBS)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 279,
+      "term": "Glucose",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 280,
+      "term": "Glycosuria",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 281,
+      "term": "Goiter",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 282,
+      "term": "Hormones",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 283,
+      "term": "Hyperglycemia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 284,
+      "term": "Hypoglycemia",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 285,
+      "term": "Insulin",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 286,
+      "term": "Insulin-Dependent Diabetes Mellitus (IDDM)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 287,
+      "term": "Metabolism",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 288,
+      "term": "Non-Insulin-Dependent Diabetes Mellitus (NIDDM)",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 289,
+      "term": "Pituitary gland",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    },
+    {
+      "term_number": 290,
+      "term": "Thyroxine Patient, resident, and client are synonymous terms referring to the person receiving care Module 13: Long Term Care Resident",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+    }
+  ],
+  "objectives": [
+    {
+      "objective_number": 1,
+      "objective_title": "Define key terminology",
+      "exact_objective_statement": "Define key terminology",
+      "source_pages": [
+        7
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7",
+      "weighted_minutes": 60,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Review, spell, pronounce, and use Module 13 terminology in proper context.",
+        "Terminology covers long-term care resident vocabulary, medical/anatomical terms, body-system terms, conditions, signs/symptoms, and care-related vocabulary.",
+        "Use terms appropriately when charting and reporting to licensed personnel."
+      ],
+      "included_instructional_minutes": 60,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Review, spell, pronounce, and use Module 13 terminology in proper context.",
+        "Terminology covers long-term care resident vocabulary, medical/anatomical terms, body-system terms, conditions, signs/symptoms, and care-related vocabulary.",
+        "Use terms appropriately when charting and reporting to licensed personnel."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Games: word searches, crossword puzzles, Family Feud, Jeopardy, bingo, spelling bee, hangman, concentration",
+        "Internet/medical dictionary/textbook lookup",
+        "Flashcards",
+        "Handout 13.1a Long Term Care Patient/resident Crossword",
+        "Handout 13.1b Long Term Care Patient/resident Crossword KEY (internal-only)"
+      ],
+      "assignments": [
+        "Flashcards",
+        "Handout 13.1a Long Term Care Patient/resident Crossword",
+        "Handout 13.1b Long Term Care Patient/resident Crossword KEY (internal-only)"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Five terminology sentences",
+        "Vocabulary pre-test and post-test",
+        "Uses appropriate terminology when charting/reporting to licensed personnel"
+      ],
+      "handouts": [
+        "Handout 13.1a Long Term Care Patient/resident Crossword",
+        "Handout 13.1b Long Term Care Patient/resident Crossword KEY (internal-only)"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [
+        {
+          "term_number": 1,
+          "term": "Acute",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 2,
+          "term": "Assisted living",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 3,
+          "term": "Chronic",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 4,
+          "term": "Debilitating",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 5,
+          "term": "Dementia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 6,
+          "term": "Long-term care",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 7,
+          "term": "Reality orientation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 8,
+          "term": "Reminiscing",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 9,
+          "term": "Patients/residents",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 10,
+          "term": "Skilled nursing facility",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 11,
+          "term": "Subacute care",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 12,
+          "term": "Validation therapy Medical and Anatomical Terms:",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 13,
+          "term": "Anatomic position",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 14,
+          "term": "Anatomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 15,
+          "term": "Anterior",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 16,
+          "term": "Cells",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 17,
+          "term": "Connective tissue",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 18,
+          "term": "Contractures",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 19,
+          "term": "Disease",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 20,
+          "term": "Distal",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 21,
+          "term": "Epithelial tissue",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 22,
+          "term": "Health",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 23,
+          "term": "Inferior",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 24,
+          "term": "Joints",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 25,
+          "term": "Lateral",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 26,
+          "term": "Membranes",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 27,
+          "term": "Muscle tissue",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 28,
+          "term": "Nerve tissue",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 29,
+          "term": "Organ",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 30,
+          "term": "Peritoneum",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 31,
+          "term": "Physiology",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 32,
+          "term": "Posterior",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 33,
+          "term": "Prefix",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 34,
+          "term": "Proximal",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 35,
+          "term": "Suffix",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 36,
+          "term": "Superior",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 37,
+          "term": "System",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 38,
+          "term": "Traction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 39,
+          "term": "Age-related Macular Degeneration (AMD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 40,
+          "term": "Agitated",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 41,
+          "term": "Alzheimer’s disease",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 42,
+          "term": "Aphasia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 43,
+          "term": "Autonomic dysreflexia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 44,
+          "term": "Bipolar disorder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 45,
+          "term": "Brain",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 46,
+          "term": "Cataract",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 47,
+          "term": "Catastrophic reaction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 48,
+          "term": "Cerebral palsy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 49,
+          "term": "Cerebral Vascular Accident (CVA)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 50,
+          "term": "Concussion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 51,
+          "term": "Confusion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 52,
+          "term": "Delirium",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 53,
+          "term": "Delusion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 54,
+          "term": "Dementia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 55,
+          "term": "Developmentally disabled",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 56,
+          "term": "Disruptive behavior",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 57,
+          "term": "Elopement",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 58,
+          "term": "Epilepsy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 59,
+          "term": "Generalized anxiety",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 60,
+          "term": "Glaucoma",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 61,
+          "term": "Hallucination",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 62,
+          "term": "Hemianopsia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 63,
+          "term": "Hemiplegia Module 13: Long Term Care Resident",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 64,
+          "term": "Multiple sclerosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 65,
+          "term": "Nerve",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 66,
+          "term": "Neuron",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 67,
+          "term": "Otosclerosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 68,
+          "term": "Panic disorder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 69,
+          "term": "Paralysis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 70,
+          "term": "Paranoia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 71,
+          "term": "Paranoid schizophrenia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 72,
+          "term": "Paraplegia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 73,
+          "term": "Parkinson’s disease",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 74,
+          "term": "Peripheral nervous system",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 75,
+          "term": "Post-traumatic stress syndrome",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 76,
+          "term": "Quadriplegia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 77,
+          "term": "Reality orientation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 78,
+          "term": "Seizure",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 79,
+          "term": "Stroke",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 80,
+          "term": "Sundowner syndrome",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 81,
+          "term": "Transient Ischemic Attack (TIA)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 82,
+          "term": "Tremor",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 83,
+          "term": "Vertigo",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 84,
+          "term": "Antibody",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 85,
+          "term": "Antigen",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 86,
+          "term": "Auto Immunodeficiency Syndrome (AIDS)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 87,
+          "term": "Carrier",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 88,
+          "term": "Human Immunodeficiency Virus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 89,
+          "term": "Immunity",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 90,
+          "term": "Lymph node",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 91,
+          "term": "T-cell",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 92,
+          "term": "White blood cell",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 93,
+          "term": "Anemia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 94,
+          "term": "Angina",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 95,
+          "term": "Anti-embolic stockings:",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 96,
+          "term": "Artery",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 97,
+          "term": "Atherosclerosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 98,
+          "term": "Blood",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 99,
+          "term": "Capillary",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 100,
+          "term": "Congestive Heart Failure (CHF)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 101,
+          "term": "Coronary artery disease",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 102,
+          "term": "Dyspnea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 103,
+          "term": "Edema",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 104,
+          "term": "Embolism",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 105,
+          "term": "Heart",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 106,
+          "term": "Hypertension",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 107,
+          "term": "Hypoxia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 108,
+          "term": "Ischemia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 109,
+          "term": "Myocardial infarction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 110,
+          "term": "Orthopnea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 111,
+          "term": "Pacemaker",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 112,
+          "term": "Peripheral vascular disease (PVD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 113,
+          "term": "Phlebitis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 114,
+          "term": "Pulmonary edema",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 115,
+          "term": "Sequential compression device (SCD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 116,
+          "term": "Systole",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 117,
+          "term": "Thrombus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 118,
+          "term": "Varicose vein",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 119,
+          "term": "Vein",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 120,
+          "term": "Vessel",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 121,
+          "term": "Abrasion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 122,
+          "term": "Allergies",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 123,
+          "term": "Bony prominences",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 124,
+          "term": "Cyanotic",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 125,
+          "term": "Debride",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 126,
+          "term": "Decubitus ulcer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 127,
+          "term": "Dermis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 128,
+          "term": "Epidermis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 129,
+          "term": "Excoriation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 130,
+          "term": "Friction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 131,
+          "term": "Gangrene",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 132,
+          "term": "Hematoma",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 133,
+          "term": "Lesion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 134,
+          "term": "Necrosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 135,
+          "term": "Pallor",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 136,
+          "term": "Pediculosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 137,
+          "term": "Pressure ulcer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 138,
+          "term": "Pruritus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 139,
+          "term": "Psoriasis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 140,
+          "term": "Scabies",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 141,
+          "term": "Shearing",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 142,
+          "term": "Skin",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 143,
+          "term": "Skin tears",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 144,
+          "term": "Absorption",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 145,
+          "term": "Bile",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 146,
+          "term": "Bowel movement",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 147,
+          "term": "Colon",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 148,
+          "term": "Colostomy Module 13: Long Term Care Resident",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 149,
+          "term": "Constipation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 150,
+          "term": "Defecation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 151,
+          "term": "Diarrhea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 152,
+          "term": "Digestion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 153,
+          "term": "Diverticulitis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 154,
+          "term": "Elimination",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 155,
+          "term": "Enema",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 156,
+          "term": "Fecal impaction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 157,
+          "term": "Feces",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 158,
+          "term": "Flatus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 159,
+          "term": "Gastrectomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 160,
+          "term": "Gastric tube",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 161,
+          "term": "Hernia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 162,
+          "term": "Ileostomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 163,
+          "term": "Nasogastric tube (NG)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 164,
+          "term": "Obstruction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 165,
+          "term": "Occult blood",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 166,
+          "term": "Ostomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 167,
+          "term": "Percutaneous Endoscopic Gastrostomy (PEG)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 168,
+          "term": "Peristalsis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 169,
+          "term": "Stoma",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 170,
+          "term": "Stool",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 171,
+          "term": "Suppository",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 172,
+          "term": "Ulcer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 173,
+          "term": "Urgency",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 174,
+          "term": "Urostomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 175,
+          "term": "Alveoli",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 176,
+          "term": "Asthma",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 177,
+          "term": "Bronchi",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 178,
+          "term": "Carbon dioxide",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 179,
+          "term": "Chronic Heart Failure (CHF)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 180,
+          "term": "Chronic Obstructive Pulmonary Disease (COPD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 181,
+          "term": "Dyspnea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 182,
+          "term": "Emphysema",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 183,
+          "term": "Expiration",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 184,
+          "term": "Inspiration",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 185,
+          "term": "Larynx",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 186,
+          "term": "Lungs",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 187,
+          "term": "Mucous",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 188,
+          "term": "Nasal cannula",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 189,
+          "term": "Nebulizer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 190,
+          "term": "Orthopnea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 191,
+          "term": "Oxygen mask",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 192,
+          "term": "Pharynx",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 193,
+          "term": "Pneumonia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 194,
+          "term": "Sputum",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 195,
+          "term": "Tracheostomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 196,
+          "term": "Tuberculosis (TB)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 197,
+          "term": "Upper respiratory infection (URI)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 198,
+          "term": "Abduction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 199,
+          "term": "Adduction",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 200,
+          "term": "Amputation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 201,
+          "term": "Arthritis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 202,
+          "term": "Atrophy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 203,
+          "term": "Bursitis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 204,
+          "term": "Contracture",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 205,
+          "term": "Extension",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 206,
+          "term": "Flexion",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 207,
+          "term": "Fracture",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 208,
+          "term": "Full weight-bearing (FWB)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 209,
+          "term": "Gout",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 210,
+          "term": "Muscle",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 211,
+          "term": "Muscular dystrophy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 212,
+          "term": "Osteoarthritis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 213,
+          "term": "Osteoporosis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 214,
+          "term": "Phantom pain",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 215,
+          "term": "Pronation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 216,
+          "term": "Prosthesis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 217,
+          "term": "Range of Motion (ROM)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 218,
+          "term": "Rheumatoid arthritis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 219,
+          "term": "Rotation",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 220,
+          "term": "Skeleton",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 221,
+          "term": "Supination",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 222,
+          "term": "Total hip arthroplasty",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 223,
+          "term": "Trapeze",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 224,
+          "term": "Vertebrae Urinary System",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 225,
+          "term": "Catheter",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 226,
+          "term": "Calculi",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 227,
+          "term": "Chronic renal failure",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 228,
+          "term": "Clean catch",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 229,
+          "term": "Condom catheter",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 230,
+          "term": "Cystitis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 231,
+          "term": "Dialysis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 232,
+          "term": "Diuresis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 233,
+          "term": "Dysuria",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 234,
+          "term": "End-Stage Renal Disease (ESRD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 235,
+          "term": "Hematuria",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 236,
+          "term": "Indwelling catheter",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 237,
+          "term": "Kidney Module 13: Long Term Care Resident",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 238,
+          "term": "Micturition",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 239,
+          "term": "Nephritis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 240,
+          "term": "Renal calculi",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 241,
+          "term": "Retention",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 242,
+          "term": "Specimens",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 243,
+          "term": "Ureter",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 244,
+          "term": "Urethra",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 245,
+          "term": "Urinalysis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 246,
+          "term": "Urinary bladder",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 247,
+          "term": "Urinary drainage bag",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 248,
+          "term": "Urinary incontinence",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 249,
+          "term": "Urinary Tract Infection (UTI)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 250,
+          "term": "Void",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 251,
+          "term": "Benign prostatic hypertrophy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 252,
+          "term": "Chlamydia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 253,
+          "term": "Cystocele",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 254,
+          "term": "Douche",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 255,
+          "term": "Genitalia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 256,
+          "term": "Genital herpes",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 257,
+          "term": "Human Papilloma Virus(HPV)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 258,
+          "term": "Gonorrhea",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 259,
+          "term": "Hemorrhoid",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 260,
+          "term": "Herpes simplex 2",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 261,
+          "term": "Hormones",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 262,
+          "term": "Hysterectomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 263,
+          "term": "Mammogram",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 264,
+          "term": "Mastectomy",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 265,
+          "term": "Pelvis Inflammatory disease (PID)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 266,
+          "term": "Penis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 267,
+          "term": "Prostate gland",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 268,
+          "term": "Rectocele",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 269,
+          "term": "Sexually transmitted disease (STD)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 270,
+          "term": "Syphilis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 271,
+          "term": "Testes",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 272,
+          "term": "Trichomoniasis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 273,
+          "term": "Uterus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 274,
+          "term": "Vagina",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 275,
+          "term": "Venereal",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 276,
+          "term": "Vulvovaginitis",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 277,
+          "term": "Diabetes mellitus",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 278,
+          "term": "Fasting Blood Sugar (FBS)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 279,
+          "term": "Glucose",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 280,
+          "term": "Glycosuria",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 281,
+          "term": "Goiter",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 282,
+          "term": "Hormones",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 283,
+          "term": "Hyperglycemia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 284,
+          "term": "Hypoglycemia",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 285,
+          "term": "Insulin",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 286,
+          "term": "Insulin-Dependent Diabetes Mellitus (IDDM)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 287,
+          "term": "Metabolism",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 288,
+          "term": "Non-Insulin-Dependent Diabetes Mellitus (NIDDM)",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 289,
+          "term": "Pituitary gland",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        },
+        {
+          "term_number": 290,
+          "term": "Thyroxine Patient, resident, and client are synonymous terms referring to the person receiving care Module 13: Long Term Care Resident",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-1-4"
+        }
+      ],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Terminology Flashcards",
+        "Source-traced de-identified visual or narration support for Body-System Term Sort",
+        "Source-traced de-identified visual or narration support for Charting Term Context Check"
+      ],
+      "exercise_opportunities": [
+        "Terminology Flashcards",
+        "Body-System Term Sort",
+        "Charting Term Context Check"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Terminology Flashcards; no PHI",
+        "Source-traced visual prompt for Body-System Term Sort; no PHI",
+        "Source-traced visual prompt for Charting Term Context Check; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 1 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Terminology Flashcards",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Body-System Term Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Charting Term Context Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-1",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "Content Outline Recommended Teaching Strategies and Assignments Clinical Demonstration/ Method of Evaluation Objective 1 Define key terminology. A. Review the terms listed in the terminology section B. Spell the listed terms accurately C. Pronounce the terms correctly D. Use the terms in their proper context A. Lecture/Discussion B. Games: word searches, crossword puzzles, Family Feud, Jeopardy, bingo, spelling bee, hangman, and concentration C. Encourage use of internet, medical dictionary, and textbooks D. Create flashcards for learning purposes E. Handout 13.1a- Long Term Care Patient/resident Crossword F. Handout 13.1b- Long Term Care A. Have students select five words from the list of key terminology and write a sentence for each defining the term B. Administer vocabulary pre-test and",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 2,
+      "objective_title": "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+      "exact_objective_statement": "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+      "source_pages": [
+        7,
+        8,
+        9
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9",
+      "weighted_minutes": 60,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+        "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+        "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+        "Report unusual signs to the licensed nurse."
+      ],
+      "included_instructional_minutes": 60,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+        "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+        "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+        "Report unusual signs to the licensed nurse."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion",
+        "Handout 13.2a Elements of Friendship",
+        "Handout 13.2b Empathy",
+        "Handout 13.2c The Best Friends Philosophy of Communication"
+      ],
+      "assignments": [
+        "Handout 13.2a Elements of Friendship",
+        "Handout 13.2b Empathy",
+        "Handout 13.2c The Best Friends Philosophy of Communication"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Assists patients/residents in meeting environmental, psychological, social, recreational, and spiritual needs",
+        "Reports unusual signs to licensed nurse"
+      ],
+      "handouts": [
+        "Handout 13.2a Elements of Friendship",
+        "Handout 13.2b Empathy",
+        "Handout 13.2c The Best Friends Philosophy"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Need Category Sort",
+        "Source-traced de-identified visual or narration support for Respectful Choice Scenario",
+        "Source-traced de-identified visual or narration support for Report Unusual Sign Check"
+      ],
+      "exercise_opportunities": [
+        "Need Category Sort",
+        "Respectful Choice Scenario",
+        "Report Unusual Sign Check"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Need Category Sort; no PHI",
+        "Source-traced visual prompt for Respectful Choice Scenario; no PHI",
+        "Source-traced visual prompt for Report Unusual Sign Check; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 2 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Need Category Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Respectful Choice Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Unusual Sign Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-2",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "Content Outline Recommended Teaching Strategies and Assignments Clinical Demonstration/ Method of Evaluation Objective 1 Define key terminology. A. Review the terms listed in the terminology section B. Spell the listed terms accurately C. Pronounce the terms correctly D. Use the terms in their proper context A. Lecture/Discussion B. Games: word searches, crossword puzzles, Family Feud, Jeopardy, bingo, spelling bee, hangman, and concentration C. Encourage use of internet, medical dictionary, and textbooks D. Create flashcards for learning purposes E. Handout 13.1a- Long Term Care Patient/resident Crossword F. Handout 13.1b- Long Term Care A. Have students select five words from the list of key terminology and write a sentence for each defining the term B. Administer vocabulary pre-test and b. Environmental control (heating, air conditioning) 3. Nourishment a. Balanced nutrition b. Adequate fluids B. Psychological 1. Maintain self-esteem b. Respectful treatment c. Recognition of individual differences 2. Adjustment to role change and loss of independence b. Respect privacy c. Give choices d. Encourage activities C. Social 1. Social interactions b. Encourage family involvement c. Encourage social/community activities 2. Adjustment to losses b. Death of spouse/friends c. Encourage verbalization, such as reminiscing d. Encourage new social contacts 3. Financial b. Changes in income interfere with meeting basic needs of security, love, belonging and self-esteem c. Refer to social service D. Recreational 1. Diversion b. Encourage hobbies c. Involve in facility/community events d.  c. Reinforce positive traits or abilities E. Spiritual 1. Provide respect for individual choices 2. Provide opportunities to participate in religious activities Objective 3 Describe common community",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 3,
+      "objective_title": "Describe common community resources to meet the needs of the elderly",
+      "exact_objective_statement": "Describe common community resources to meet the needs of the elderly",
+      "source_pages": [
+        9,
+        10
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10",
+      "weighted_minutes": 45,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+        "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse."
+      ],
+      "included_instructional_minutes": 45,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+        "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion",
+        "Community resource sharing"
+      ],
+      "assignments": [
+        "Community resource sharing"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written tests",
+        "Assists licensed nurse in providing information to patients/residents regarding community resources"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Community Resource Match",
+        "Source-traced de-identified visual or narration support for Referral Boundary Map",
+        "Source-traced de-identified visual or narration support for Resource Information Role-Play"
+      ],
+      "exercise_opportunities": [
+        "Community Resource Match",
+        "Referral Boundary Map",
+        "Resource Information Role-Play"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Community Resource Match; no PHI",
+        "Source-traced visual prompt for Referral Boundary Map; no PHI",
+        "Source-traced visual prompt for Resource Information Role-Play; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 3 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Community Resource Match",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Referral Boundary Map",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Resource Information Role-Play",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-3",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "c. Reinforce positive traits or abilities E. Spiritual 1. Provide respect for individual choices 2. Provide opportunities to participate in religious activities Objective 3 Describe common community resources to meet the needs of the elderly. A. Area Agency on Aging-AAA, (Request Community Resource Manual) B. Adult Day Care Center C. Support groups 1. American Diabetes Association 2. Braille Institute or Blind Center 3. Alzheimer’s Society 4. Parkinson’s Support 5. Multiple Sclerosis Support 6. Muscular Dystrophy 7. Hospice/Bereavement D. County Health Center E. Community Hospitals and their hospice F. Internal Revenue Service (IRS) information G. Long Term Care Ombudsman H. Meals on Wheels I. Medicare Office (see Social Security Office) J. Mental Health Department K. National Alliance for U. Fraternal and social organizations V. Regional centers W. Churches/religious organizations Objective 4 Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness. A. Epilepsy/Seizure Disorders 1. Description of different types of Epilepsy and Seizure Disorders a. Generalized seizure (Grand mal) b. Partial seizure (Petit mal) c. Absent Seizure d. Status epilepticus 2. Discuss potential causes a. Metabolic disorders b. Nutrition problems c. Medication problems 3. Signs/symptoms (Refer to objective 7) a. Depends on type of seizure b. May experience “aura” or certain taste before Entire body is involved c. May experience loss of consciousness d. Incontinence e. May be foll",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 4,
+      "objective_title": "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+      "exact_objective_statement": "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+      "source_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15",
+      "weighted_minutes": 120,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+        "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior."
+      ],
+      "included_instructional_minutes": 120,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+        "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion",
+        "Handout 13.4 An Alzheimer’s Disease Bill of Rights",
+        "Manual Skills 13.4 Reality Orientation to Promote or Maintain Awareness of Person, Place and Time"
+      ],
+      "assignments": [
+        "Handout 13.4 An Alzheimer’s Disease Bill of Rights",
+        "Manual Skills 13.4 Reality Orientation to Promote or Maintain Awareness of Person, Place and Time"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written tests",
+        "Reports unusual signs and symptoms to licensed nurse"
+      ],
+      "handouts": [
+        "Handout 13.4 Alzheimer’s Disease Bill of Rights"
+      ],
+      "manual_skills": [
+        "Manual Skills 13.4 Reality Orientation to Promote or Maintain Awareness of Person, Place and Time — clinical skill/support only; no online competency claim"
+      ],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Seizure Safety Sequence",
+        "Source-traced de-identified visual or narration support for Parkinson’s Support Plan",
+        "Source-traced de-identified visual or narration support for Behavior Escalation Report"
+      ],
+      "exercise_opportunities": [
+        "Seizure Safety Sequence",
+        "Parkinson’s Support Plan",
+        "Behavior Escalation Report"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Seizure Safety Sequence; no PHI",
+        "Source-traced visual prompt for Parkinson’s Support Plan; no PHI",
+        "Source-traced visual prompt for Behavior Escalation Report; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 4 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Seizure Safety Sequence",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Parkinson’s Support Plan",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Behavior Escalation Report",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-4",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "U. Fraternal and social organizations V. Regional centers W. Churches/religious organizations Objective 4 Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness. A. Epilepsy/Seizure Disorders 1. Description of different types of Epilepsy and Seizure Disorders a. Generalized seizure (Grand mal) b. Partial seizure (Petit mal) c. Absent Seizure d. Status epilepticus 2. Discuss potential causes a. Metabolic disorders b. Nutrition problems c. Medication problems 3. Signs/symptoms (Refer to objective 7) a. Depends on type of seizure b. May experience “aura” or certain taste before Entire body is involved c. May experience loss of consciousness d. Incontinence e. May be foll B. Parkinson’s Disease 1. Description and progression of disease a. Progressive nervous system disorder that affects movement b.Early stages of Parkinson's disease, may be mild and go unnoticed, but as symptoms worsen as the condition progresses over time c. Certain nerve cells (neurons) in the brain gradually break down or die, which causes a loss of neurons that produce a chemical messenger in your brain called dopamine 2. Signs and symptoms a. Start gradually, sometimes starting with a barely noticeable tremor in just one hand b. Tremors and “pill rolling” c. Muscle rigidity d. Shuffling manner of walking Difficulty and slowness in carrying out voluntary motor activities e. Slurred speech f. Loss of expressiveness in face g. Drooling h. Incontinence i. Constipation j. Urinary retention  C. Schizophrenia 1. Mental disorder characterized by paranoia, hallucinations, delusions, bizarre behavior and distortions of reality 2. Signs/symptoms 3. Nurse Assistant duties and responsibilities",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 5,
+      "objective_title": "Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+      "exact_objective_statement": "Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+      "source_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20",
+      "weighted_minutes": 120,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+        "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+        "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors."
+      ],
+      "included_instructional_minutes": 120,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+        "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+        "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion",
+        "Validation/reminiscing/reality-orientation examples",
+        "Quality-of-life and safety scenario review"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Applies source-described dementia communication, safety, dignity, validation/reminiscing, and reporting boundaries in scenarios"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Dementia/Delirium/Depression Sort",
+        "Source-traced de-identified visual or narration support for Validation Response Scenario",
+        "Source-traced de-identified visual or narration support for Dementia Safety Environment Check"
+      ],
+      "exercise_opportunities": [
+        "Dementia/Delirium/Depression Sort",
+        "Validation Response Scenario",
+        "Dementia Safety Environment Check"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Dementia/Delirium/Depression Sort; no PHI",
+        "Source-traced visual prompt for Validation Response Scenario; no PHI",
+        "Source-traced visual prompt for Dementia Safety Environment Check; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 5 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Dementia/Delirium/Depression Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Validation Response Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Dementia Safety Environment Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-5",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "I. The Agitated Patient/resident 1. Uses inappropriate verbal, vocal, or motor activity due to causes other than disorientation or real need 2. Nurse Assistant duties and responsibilities a. Report to the licensed nurse any signs of agitation including aimless wandering, pacing, cursing, screaming, spitting, biting, fighting, arguing, demanding, and talking to self b. Maintain quiet, calm atmosphere c. Encourage distracting activities d. Check for constipation or other sources of discomfort/pain e. Realize that patient/resident may become more agitated due to feelings of loss of control f. Avoid restraints g. Allow patient/resident to walk, or rock in chair to diffuse energy h. Listen with empathy i. Make sure you stay safe - maintain area to escape (don’t let patient/resident get between  d. Delirium is a serious disturbance in mental abilities that results in confused thinking and reduced awareness of the environment e. Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest, which affects how you feel, think and behave, and can lead to a variety of emotional and physical problems f. Dementia and delirium may be particularly difficult to distinguish, and a person may have both g. Causes not known exactly known, but as with many mental disorders, a variety of factors may be involved, such as: b) Brain chemistry c) Hormones d) Traumatic or stressful events e) Abuse of alcohol or recreational drugs f) Serious or chronic illness, including cancer, stroke, chronic pain or heart disease g) Certain medications or drug toxicity h) Malnutritio B. Describe the signs, symptoms and progression of Alzheimer’s disease and other dementias 1. Alzheimer’s disease (covered in objective 7: neurological section): caused by plaques and tangles in the",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 6,
+      "objective_title": "Describe the body’s basic organization and composition",
+      "exact_objective_statement": "Describe the body’s basic organization and composition",
+      "source_pages": [
+        20,
+        21
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21",
+      "weighted_minutes": 45,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+        "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions."
+      ],
+      "included_instructional_minutes": 45,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+        "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Body Organization Stack",
+        "Source-traced de-identified visual or narration support for Tissue Organ System Match",
+        "Source-traced de-identified visual or narration support for Health Versus Disease Check"
+      ],
+      "exercise_opportunities": [
+        "Body Organization Stack",
+        "Tissue Organ System Match",
+        "Health Versus Disease Check"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Body Organization Stack; no PHI",
+        "Source-traced visual prompt for Tissue Organ System Match; no PHI",
+        "Source-traced visual prompt for Health Versus Disease Check; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 6 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Body Organization Stack",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Tissue Organ System Match",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Health Versus Disease Check",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-6",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "h. Incorporate validation therapy into all your interactions with dementia resident (maintains disorientated person’s dignity by acknowledging the person’s memories and feeling) i. Use reminiscing therapy j. Incorporate music therapy k. Incorporate animal therapy F. Identify at-risk behaviors that include modifiable and non-modifiable factors, as well as increased risk for abuse a. Research has shown that the same risk factors associated with heart disease may also increase the risk of Alzheimer's disease. These include: b. Lack of exercise c. Obesity d. Smoking or exposure to secondhand smoke e. High blood pressure f. High cholesterol g. Poorly controlled type 2 diabetes h. sleep patterns i. Age j. Family history and genetics Objective 6 Describe the body’s basic organization and composit 2. Epithelial tissue – protective 3. Connective tissue – support and connect 4. Muscle tissue – shorten and lengthen 5. Nerve tissue – carry electrical impulses D. Organs 1. Made up of different types of tissues 2. Perform special functions E. Systems 1. Groups of organs that work together to perform specific functions 2. Ten major body systems a. Integumentary System b. Respiratory System c. Cardiovascular System d. Musculoskeletal System e. Endocrine System f. Nervous System g. Gastrointestinal System h. Urinary System i. Reproductive System j. Immune System F. Health; state of mental, physical and social well-being G. Disease; any change from the healthy state Objective 7 List the body systems, including basic anatomy and physiology, common diseases of the elderly, signs and symptoms, a",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 7,
+      "objective_title": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+      "exact_objective_statement": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+      "source_pages": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56",
+      "weighted_minutes": 270,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+        "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+        "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations."
+      ],
+      "included_instructional_minutes": 270,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+        "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+        "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture/Discussion",
+        "Use visuals and videos to describe conditions",
+        "Ask students to share experiences regarding common diseases of the elderly",
+        "System-by-system source review"
+      ],
+      "assignments": [],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Reports unusual signs and symptoms to licensed nurse"
+      ],
+      "handouts": [],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Body System Explorer",
+        "Source-traced de-identified visual or narration support for Reportable Signs Triage",
+        "Source-traced de-identified visual or narration support for Immobility Complication Prevention"
+      ],
+      "exercise_opportunities": [
+        "Body System Explorer",
+        "Reportable Signs Triage",
+        "Immobility Complication Prevention"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Body System Explorer; no PHI",
+        "Source-traced visual prompt for Reportable Signs Triage; no PHI",
+        "Source-traced visual prompt for Immobility Complication Prevention; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 7 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Body System Explorer",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Reportable Signs Triage",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Immobility Complication Prevention",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-7",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "2. Epithelial tissue – protective 3. Connective tissue – support and connect 4. Muscle tissue – shorten and lengthen 5. Nerve tissue – carry electrical impulses D. Organs 1. Made up of different types of tissues 2. Perform special functions E. Systems 1. Groups of organs that work together to perform specific functions 2. Ten major body systems a. Integumentary System b. Respiratory System c. Cardiovascular System d. Musculoskeletal System e. Endocrine System f. Nervous System g. Gastrointestinal System h. Urinary System i. Reproductive System j. Immune System F. Health; state of mental, physical and social well-being G. Disease; any change from the healthy state Objective 7 List the body systems, including basic anatomy and physiology, common diseases of the elderly, signs and symptoms, a 3) Functions as a barrier to water loss and prevention infection b. Dermis is the second layer 1) Varies in thickness in different areas of the body 2) Naturally very moist 3) Gives skin its strength 4) Contains the blood vessels, lymph vessels, nerve endings, oil glands, and hair follicles 5) Function of dermis is to aid in body temperature control and is the origin of our sense of touch, pressure, and pain c. Subcutaneous tissues are deeper tissues beneath the dermis 1) Tissues are fat and connective tissue 2) These tissues do not tolerate lack of oxygen and cell death results easily 2. Functions a. Provides protective barrier against microorganisms and infection b. Provides sensation through nerve endings c. Shields body tissue from injury d. Regulates body temperature e. Eliminates was 2) Nurse Assistant duties and observations a) Teach pursed-lipped breathing (to increase expiration of CO2) b) Calm patient/resident when anxious (to decrease O2 need) c) Raise head of bed/orthopnei",
+      "validation_flags": []
+    },
+    {
+      "objective_number": 8,
+      "objective_title": "Describe changes in body systems associated with aging",
+      "exact_objective_statement": "Describe changes in body systems associated with aging",
+      "source_pages": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59",
+      "weighted_minutes": 60,
+      "weight_reason": "Source-density allocation from 13 recommended theory hours; assessment, clinical, certificate, and optional support time excluded.",
+      "source_density_basis": [
+        "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+        "Report signs and symptoms to the licensed nurse and apply source-aligned care measures."
+      ],
+      "included_instructional_minutes": 60,
+      "excluded_assessment_minutes": 0,
+      "excluded_clinical_minutes": "Source states required clinical hours: 4; deferred and not counted as online theory/credit.",
+      "excluded_certificate_minutes": 0,
+      "content_outline": [
+        "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+        "Report signs and symptoms to the licensed nurse and apply source-aligned care measures."
+      ],
+      "recommended_teaching_strategies": [
+        "Lecture",
+        "Discussion",
+        "Handout 13.7 Effects of Aging and Nursing Care Measures"
+      ],
+      "assignments": [
+        "Handout 13.7 Effects of Aging and Nursing Care Measures"
+      ],
+      "clinical_demonstration_method_of_evaluation": [
+        "Written test",
+        "Reports signs and symptoms to licensed nurse"
+      ],
+      "handouts": [
+        "Handout 13.7 Effects of Aging and Nursing Care Measures"
+      ],
+      "manual_skills": [],
+      "sample_test_items": "Module 13 sample test pages 59-82 include related items; answer key is internal-only.",
+      "terminology": [],
+      "safety_reporting_charting_scope_boundaries": [
+        "CNA follows the care plan/facility policy, observes, documents where assigned, and reports unusual signs/symptoms or unsafe changes to licensed nurse.",
+        "Online dry run is theory/support only and does not validate clinical skills, clinical hours, or hands-on competency."
+      ],
+      "media_opportunities": [
+        "Source-traced de-identified visual or narration support for Aging Change System Match",
+        "Source-traced de-identified visual or narration support for Age-Related Care Measure Sort",
+        "Source-traced de-identified visual or narration support for Report Aging-Related Signs Scenario"
+      ],
+      "exercise_opportunities": [
+        "Aging Change System Match",
+        "Age-Related Care Measure Sort",
+        "Report Aging-Related Signs Scenario"
+      ],
+      "image_requirements": [
+        "Source-traced visual prompt for Aging Change System Match; no PHI",
+        "Source-traced visual prompt for Age-Related Care Measure Sort; no PHI",
+        "Source-traced visual prompt for Report Aging-Related Signs Scenario; no PHI"
+      ],
+      "narration_requirements": [
+        "Objective 8 intro transcript",
+        "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+      ],
+      "sfx_requirements": [
+        "queued/manifest only; no TTS-generated SFX"
+      ],
+      "required_activities": [
+        {
+          "name": "Aging Change System Match",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Age-Related Care Measure Sort",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        },
+        {
+          "name": "Report Aging-Related Signs Scenario",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#objective-8",
+          "mobile_friendly": true,
+          "status": "source-mapped"
+        }
+      ],
+      "source_excerpt": "irritate the skin d) Provide oral hygiene before meals and at bedtime. Make sure the patient/resident uses a toothbrush with soft bristles e) Provide oral fluids as ordered by licensed nurse f) Measure and record intake and output g) Measure weight daily h) Have patient/resident perform deep breathing exercises as ordered i) Practice measures to prevent pressure sores j) Assist with range-of-motion exercises and ambulation as ordered k) Encourage the patient/resident to perform self- care as able. The person may need assistive devices (walkers, commode, eating devices, etc.) l) Encourage the patient/resident to be as active as possible m)Change linens, gowns, or pajamas as often as needed when fever is present n) Be a good listener and provide emotional support 5) Other Considerations a) A 2. Blood supply to fingers and toes decreases; sensitivity to hot and cold decreases 3. Hair loses color 4. Nails thicken 5. Bruises easily due to fragile blood vessels B. Respiratory System 1. Lung strength decreases 2. Air sacs become less elastic and decrease in number 3. Airways become stiff and less elastic 4. Lung capacity decreases 5. Cough reflex is less effective 6. Cough becomes weaker 7. Gas exchange in lungs is less effective C. Cardiovascular System 1. Blood flow decreases leading to less efficient circulation 2. Blood vessels narrow and lose elasticity 3. Longer recovery to normal pulse after exercise 4. Heart is a less effective pump D. Musculoskeletal 1. Muscles weaken and lose tone 2. Loss of elasticity in muscles 3. Loss of muscle mass causes weight loss 4. Less flexible  1. Decrease in sex hormones (estrogen and progesterone) signals menopause; testosterone levels decrease 2. Insulin production decreases 3. Metabolism and body functions slow 4. Body is less able to ",
+      "validation_flags": []
+    }
+  ],
+  "source_assets": [
+    {
+      "asset_id": "terminology_list",
+      "title": "Module 13 terminology list",
+      "source_location": "pages 1-4",
+      "usage_boundary": "learner-safe vocabulary support",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-1-4"
+    },
+    {
+      "asset_id": "handout_13_1a",
+      "title": "Handout 13.1a Long Term Care Patient/resident Crossword",
+      "source_location": "referenced page 7",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7"
+    },
+    {
+      "asset_id": "handout_13_1b",
+      "title": "Handout 13.1b Long Term Care Patient/resident Crossword KEY",
+      "source_location": "referenced page 7",
+      "usage_boundary": "internal-only key",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7"
+    },
+    {
+      "asset_id": "handout_13_2a",
+      "title": "Handout 13.2a Elements of Friendship",
+      "source_location": "page 76 approx",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#handout-13-2a"
+    },
+    {
+      "asset_id": "handout_13_2b",
+      "title": "Handout 13.2b Empathy",
+      "source_location": "pages 77-78 approx",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#handout-13-2b"
+    },
+    {
+      "asset_id": "handout_13_2c",
+      "title": "Handout 13.2c Best Friends Philosophy",
+      "source_location": "page 79 approx",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#handout-13-2c"
+    },
+    {
+      "asset_id": "manual_13_4",
+      "title": "Manual Skills 13.4 Reality Orientation",
+      "source_location": "manual skill section near page 73",
+      "usage_boundary": "clinical skill/support only; no online competency claim",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#manual-skill-13-4"
+    },
+    {
+      "asset_id": "handout_13_4",
+      "title": "Handout 13.4 Alzheimer’s Disease Bill of Rights",
+      "source_location": "page 80 approx",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#handout-13-4"
+    },
+    {
+      "asset_id": "handout_13_7",
+      "title": "Handout 13.7 Effects of Aging and Nursing Care Measures",
+      "source_location": "pages 81-82 approx",
+      "usage_boundary": "learner-practice",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#handout-13-7"
+    },
+    {
+      "asset_id": "sample_test",
+      "title": "Sample Test Module 13",
+      "source_location": "pages 59-82",
+      "usage_boundary": "assessment item pool; no learner answer key exposure",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-59-82"
+    },
+    {
+      "asset_id": "sample_test_answer_key",
+      "title": "Sample Test Answers Module 13",
+      "source_location": "answer key section",
+      "usage_boundary": "internal-only; do not expose learner-facing",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#sample-test-answers"
+    }
+  ],
+  "validation": {
+    "objective_count": 8,
+    "terminology_count": 290,
+    "weighted_minutes_total": 780,
+    "answer_keys_internal_only": true,
+    "backup_content_used_as_authority": false,
+    "contentv2_used_as_authority": false,
+    "prior_module_outputs_used_as_authority": false
+  }
+}

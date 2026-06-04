@@ -1,0 +1,523 @@
+/* ============================================================================
+   PROTECTED — APPROVED SIGN-IN / LOGIN STYLES (FROZEN)
+   Extracted VERBATIM from the original styles.css. Do not modify.
+   The login screen is approved and must remain visually/behaviorally identical.
+   Scoped entirely under .reviewer-login-page so it never affects the app UI.
+   ============================================================================ */
+
+/* Reviewer login screen */
+.reviewer-login-page {
+  --reviewer-maroon: #8b1515;
+  --reviewer-maroon-dark: #5c0a14;
+  --reviewer-maroon-deep: #2a0308;
+  --reviewer-gold: #ffc107;
+  --reviewer-text: #f7f1ea;
+  --reviewer-muted: rgba(247, 241, 234, 0.72);
+  --reviewer-border: rgba(255, 255, 255, 0.12);
+  --reviewer-field: rgba(4, 4, 4, 0.4);
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  color: var(--reviewer-text);
+  background:
+    linear-gradient(90deg, rgba(20, 8, 10, 0.42) 0%, rgba(20, 8, 10, 0.18) 28%, rgba(20, 8, 10, 0.04) 52%, rgba(20, 8, 10, 0) 72%),
+    url("/brand/stock/login-students-group-flux.png") center/cover no-repeat;
+  isolation: isolate;
+}
+
+.reviewer-login-page::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 18% 22%, rgba(139, 21, 21, 0.16), transparent 28%),
+    radial-gradient(circle at 92% 18%, rgba(255, 193, 7, 0.05), transparent 18%);
+  z-index: 0;
+}
+
+.reviewer-login-page[data-theme="normal"] {
+  --reviewer-text: #2a1012;
+  --reviewer-muted: rgba(42, 16, 18, 0.75);
+  --reviewer-border: rgba(139, 21, 21, 0.14);
+  --reviewer-field: rgba(255, 255, 255, 0.82);
+  background:
+    linear-gradient(90deg, rgba(34, 12, 12, 0.18) 0%, rgba(34, 12, 12, 0.08) 40%, rgba(34, 12, 12, 0.08) 100%),
+    linear-gradient(180deg, rgba(255, 248, 241, 0.34) 0%, rgba(255, 248, 241, 0.24) 100%),
+    url("/brand/stock/login-students-group-flux.png") center/cover no-repeat;
+}
+
+.reviewer-login-shell {
+  position: relative;
+  z-index: 1;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+.reviewer-login-card {
+  width: clamp(470px, 40vw, 560px);
+  min-height: clamp(630px, 79vh, 780px);
+  margin-left: clamp(24px, 3.2vw, 42px);
+  margin-top: clamp(20px, 3.8vh, 34px);
+  padding: clamp(28px, 2.4vw, 34px) clamp(28px, 2.4vw, 34px) clamp(24px, 2vw, 30px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow:
+    0 22px 54px rgba(0, 0, 0, 0.42),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  -webkit-backdrop-filter: blur(16px) saturate(1.16);
+  backdrop-filter: blur(16px) saturate(1.16);
+  border-radius: 16px;
+  background:
+    linear-gradient(180deg, rgba(23, 12, 14, 0.82) 0%, rgba(13, 9, 10, 0.84) 100%),
+    radial-gradient(circle at top right, rgba(139, 21, 21, 0.18), transparent 40%),
+    radial-gradient(circle at 20% 12%, rgba(255, 193, 7, 0.05), transparent 20%);
+  display: flex;
+  flex-direction: column;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-card {
+  color: var(--reviewer-text);
+  background:
+    linear-gradient(145deg, rgba(255, 252, 248, 0.97), rgba(255, 247, 240, 0.95)),
+    radial-gradient(circle at top right, rgba(139, 21, 21, 0.08), transparent 35%);
+  border-color: rgba(139, 21, 21, 0.1);
+  box-shadow: 0 28px 68px rgba(50, 18, 20, 0.2);
+}
+
+.reviewer-login-brand-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+
+.reviewer-login-brand-lockup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+  padding-bottom: 22px;
+  width: 100%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.52);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-brand-lockup {
+  border-bottom-color: rgba(139, 21, 21, 0.16);
+}
+
+.reviewer-login-brand-logo {
+  width: min(100%, clamp(210px, 18vw, 270px));
+  height: auto;
+  object-fit: contain;
+  flex: 0 0 auto;
+  filter: none;
+}
+
+.reviewer-login-page[data-theme="dark"] .reviewer-login-brand-logo {
+  filter: brightness(0) invert(1) drop-shadow(0 0 12px rgba(255, 255, 255, 0.08));
+}
+
+.reviewer-login-brand-tagline {
+  display: block;
+  margin-top: 16px;
+  color: rgba(247, 241, 234, 0.52);
+  font-family: Montserrat, Poppins, sans-serif;
+  font-size: clamp(7px, 0.55vw, 9px);
+  letter-spacing: 0.22em;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-brand-tagline {
+  color: rgba(42, 16, 18, 0.52);
+}
+
+.reviewer-login-mode-toggle {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 4px;
+  border-radius: 999px;
+  border: 1px solid var(--reviewer-border);
+  background: rgba(255, 255, 255, 0.045);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.16);
+}
+
+.reviewer-login-mode-toggle button {
+  width: auto;
+  min-height: 0;
+  padding: 7px 12px;
+  border-radius: 999px;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.reviewer-login-mode-toggle button.active {
+  color: #fff;
+  background: linear-gradient(135deg, #8b1515, #5f0713);
+  box-shadow: 0 8px 18px rgba(139, 21, 21, 0.28);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-mode-toggle {
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-mode-toggle button {
+  color: rgba(42, 16, 18, 0.75);
+}
+
+.reviewer-login-headline {
+  margin-top: clamp(30px, 4.8vh, 44px);
+}
+
+.reviewer-login-headline h1 {
+  margin: 0;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  font-size: clamp(32px, 2.7vw, 44px);
+  line-height: 1.04;
+  text-wrap: balance;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.42);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-headline h1 {
+  color: #2a1012;
+  text-shadow: none;
+}
+
+.reviewer-login-course-title {
+  margin: 18px 0 8px;
+  color: var(--reviewer-gold);
+  font-family: Montserrat, Poppins, sans-serif;
+  font-size: clamp(14px, 1vw, 18px);
+  line-height: 1.3;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.reviewer-login-course-copy {
+  max-width: 380px;
+  margin: 0 0 20px;
+  color: var(--reviewer-muted);
+  font-size: clamp(12px, 0.84vw, 14px);
+  line-height: 1.42;
+}
+
+.reviewer-login-form {
+  display: grid;
+  gap: 16px;
+}
+
+.reviewer-login-field-group label {
+  display: block;
+  margin: 0 0 7px;
+  color: var(--reviewer-gold);
+  font-family: Montserrat, Poppins, sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.reviewer-login-input-shell {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 46px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  background: rgba(255, 255, 255, 0.035);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.04),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.18);
+  transition: border-color 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-input-shell {
+  border-color: rgba(139, 21, 21, 0.14);
+  background: var(--reviewer-field);
+}
+
+.reviewer-login-input-shell:focus-within {
+  border-color: rgba(255, 255, 255, 0.22);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.055);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-input-shell:focus-within {
+  background: #fff;
+}
+
+.reviewer-login-input-shell svg {
+  margin-left: 12px;
+  width: 16px;
+  height: 16px;
+  color: rgba(255, 255, 255, 0.72);
+  flex: 0 0 auto;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-input-shell svg {
+  color: rgba(42, 16, 18, 0.66);
+}
+
+.reviewer-login-input-shell input {
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #fff;
+  padding: 0 10px;
+  font-size: 13px;
+  line-height: 46px;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-input-shell input {
+  color: #2a1012;
+}
+
+.reviewer-login-input-shell input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-input-shell input::placeholder {
+  color: rgba(42, 16, 18, 0.44);
+}
+
+.reviewer-login-icon-button {
+  width: auto;
+  min-height: 0;
+  padding: 0 10px;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  color: var(--reviewer-gold);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.reviewer-login-password-row {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 6px;
+}
+
+.reviewer-login-forgot {
+  width: auto;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  color: var(--reviewer-gold);
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.reviewer-login-portal-select {
+  min-height: 60px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  background: rgba(255, 255, 255, 0.035);
+  color: inherit;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 0 12px;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-portal-select {
+  border-color: rgba(139, 21, 21, 0.14);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.reviewer-login-portal-select svg {
+  width: 16px;
+  height: 16px;
+  color: var(--reviewer-gold);
+}
+
+.reviewer-login-portal-title {
+  display: block;
+  margin-bottom: 2px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-portal-title {
+  color: #2a1012;
+}
+
+.reviewer-login-portal-sub {
+  display: block;
+  color: rgba(255, 255, 255, 0.54);
+  font-size: 11px;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-portal-sub {
+  color: rgba(42, 16, 18, 0.54);
+}
+
+.reviewer-login-sign-in {
+  position: relative;
+  margin-top: 4px;
+  height: 48px;
+  border: 0;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #951130 0%, #7b0920 52%, #5e0715 100%);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  box-shadow: 0 16px 35px rgba(103, 6, 22, 0.36), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.reviewer-login-sign-in svg {
+  position: absolute;
+  right: 16px;
+  width: 14px;
+  height: 14px;
+}
+
+.reviewer-login-notice {
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  align-items: start;
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 10.5px;
+  line-height: 1.35;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-notice {
+  border-top-color: rgba(139, 21, 21, 0.08);
+  color: rgba(42, 16, 18, 0.72);
+}
+
+.reviewer-login-shield {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.reviewer-login-shield svg {
+  width: 18px;
+  height: 18px;
+}
+
+.reviewer-login-page input:focus,
+.reviewer-login-page textarea:focus,
+.reviewer-login-page button:focus-visible,
+.reviewer-login-page summary:focus-visible {
+  outline: none;
+  box-shadow: none;
+}
+
+.reviewer-login-page[data-theme="normal"] .reviewer-login-shield {
+  color: rgba(42, 16, 18, 0.8);
+}
+
+.reviewer-login-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translateX(-50%) translateY(20px);
+  z-index: 3;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: rgba(6, 6, 7, 0.86);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 200ms ease, transform 200ms ease;
+  font-size: 13px;
+}
+
+.reviewer-login-toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+@media (max-width: 1080px) {
+  .reviewer-login-card {
+    width: min(92vw, 540px);
+    min-height: auto;
+    margin: 36px auto;
+  }
+}
+
+@media (max-width: 560px) {
+  .reviewer-login-card {
+    width: calc(100vw - 26px);
+    margin: 13px;
+    padding: 22px;
+  }
+
+  .reviewer-login-brand-row {
+    display: block;
+  }
+
+  .reviewer-login-mode-toggle {
+    margin-top: 18px;
+  }
+
+  .reviewer-login-headline {
+    margin-top: 24px;
+  }
+
+  .reviewer-login-headline h1 {
+    font-size: 30px;
+  }
+
+  .reviewer-login-course-copy {
+    font-size: 12px;
+  }
+
+  .reviewer-login-mode-toggle button,
+  .reviewer-login-icon-button,
+  .reviewer-login-forgot {
+    width: auto;
+  }
+}
+
+/* Effective login background override (applied after base block, as in original) */
+.reviewer-login-page {
+  background:
+    linear-gradient(90deg, rgba(17, 5, 8, 0.72) 0%, rgba(17, 5, 8, 0.34) 42%, rgba(17, 5, 8, 0.04) 72%),
+    radial-gradient(circle at 18% 14%, rgba(212, 175, 55, 0.12), transparent 25rem),
+    url("/brand/stock/student-stock-24.png") center/cover no-repeat;
+}
+
+.reviewer-login-card {
+  background:
+    linear-gradient(180deg, rgba(23, 12, 14, 0.78), rgba(13, 9, 10, 0.72)),
+    rgba(10, 5, 7, 0.54);
+  -webkit-backdrop-filter: blur(22px) saturate(140%);
+  backdrop-filter: blur(22px) saturate(140%);
+}

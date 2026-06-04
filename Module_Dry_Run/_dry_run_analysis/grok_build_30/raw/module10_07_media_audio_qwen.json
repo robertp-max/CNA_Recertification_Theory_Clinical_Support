@@ -1,0 +1,45 @@
+{
+  "id": "8436669a-b725-98ab-8a6f-c68f796c3e75",
+  "object": "chat.completion",
+  "created": 1780592888,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# Review 07_media_audio_qwen — Module 10\n\n**Verdict:** PASS WITH RISKS\n\n**Top findings:**\n- [High] Narration package uses CSV (audio_scripts.csv, 64 rows) instead of required JSON batch package; `audio/narration_batch_import_package.json` is explicitly MISSING. Evidence: audio_manifest.json lists \"clips\": \"See audio_scripts.csv\"; final_handoff.md and file inventory confirm CSV usage. Recommended action: regenerate narration artifacts as JSON per post-patch preference.\n- [High] Declared packet path `Module10_Dry_Run` does not exist (exists=False); all outputs and reports are under `Module_Dry_Run/_module10_dryrun_outputs`. Evidence: Actual Path / File-State Facts section directly contradicts reports/preflight_report.md and final_handoff.md which claim `Module10_Dry_Run` scope. Recommended action: resolve path mismatch before any media finalization.\n- [Medium] Qwen TTS prerequisites verified present (model at `/c/AI/Qwen3-TTS-12Hz-1.7B-Base`, CI-ION reference at exact packet path) but no audio generation occurred and `qwen_tts` directory reports exists=False, wav_count=0. Evidence: preflight_report.md TTS checks + audio_manifest.json status=\"scripts_only_no_audio_generated\". Recommended action: maintain gate; do not generate until JSON scripts and explicit authorization.\n- [Medium] SFX manifest correctly shows license-gated/queued state with no assets used (status=\"queued_no_sfx_assets_used\", items=16, alt_text_count=0). Evidence: audio/sfx_manifest.json + validation_report.md. Recommended action: keep gated; no change needed unless licensed assets selected.\n- [Low] Image artifacts are prompt-queue-only with alt text present (image_manifest.json: status=\"prompt_queue_only_no_images_generated\", items=15, alt_text_count=15). Evidence: media/image_manifest.json and media/image_prompt_queue.json. Recommended action: acceptable for current stage; verify alt text remains de-identified/no-PHI before any generation.\n- [Low] audio_manifest.json and sfx_manifest.json exist with deterministic compliance fields, but self-reported \"PASS\" in validation_report.md is lower-strength than the observed CSV/JSON gap and path contradiction. Evidence: file inventory + validation_report.md vs. actual file-state facts.\n- [Low] contentV2.generated.ts still points to module13.content.generated.json instead of module10, creating downstream media integration risk even though module10.content.generated.json exists. Evidence: Current active app content pointer section.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| Qwen model + CI-ION voice reference present | PASS | preflight_report.md: exact paths verified, sizes recorded; no generation run |\n| Narration manifest present with correct gated status | PASS | audio_manifest.json: status=\"scripts_only_no_audio_generated\" |\n| Narration format (JSON preferred vs CSV) | RISK | audio_scripts.csv (64 rows) present; narration_batch_import_package.json MISSING |\n| Generated WAV status | PASS (gated) | qwen_tts dir exists=False, wav_count=0; no WAVs in inventory |\n| Image: prompt-only + alt text | PASS | image_manifest.json: prompt_queue_only, alt_text_count=15/15 |\n| SFX: license-gated/queued | PASS | sfx_manifest.json: status=\"queued_no_sfx_assets_used\", items=16 |\n| Output path alignment to `Module10_Dry_Run` | FAIL | Module10_Dry_Run exists=False; all artifacts under Module_Dry_Run/_module10_dryrun_outputs |\n| 16 objectives / 180 min (media context) | PASS | source_objective_map.json + data/module10.content.json: objectives=16, theory_minutes_total=180 |\n\n**Open questions / residual risks:**\n- Evidence bundle contains direct contradiction between declared `Module10_Dry_Run` packet path and observed file-state facts (Module_Dry_Run used instead); this weakens all path-based media claims.\n- No deterministic confirmation that CSV scripts were source-validated before manifest creation.\n- Image alt text count (15) vs SFX items (16) is close but not identical; no cross-check evidence provided.\n- App data pointer still references module13, which could affect any future media player integration for module10 assets.\n- Self-reported validation \"PASS\" for audio/SFX/image is present but overridden by explicit MISSING JSON package and path facts.\n\n**One-sentence go/no-go recommendation.**  \nConditional go only after JSON narration package is produced, declared `Module10_Dry_Run` path is reconciled with actual outputs, and explicit media-generation authorization is given; current state correctly gates WAV/SFX/image generation but has format and path hard gaps.",
+        "reasoning_content": "# Review 07_media_audio_qwen — Module 10\nVerdict: PASS WITH RISKS\nTop findings:\n- High: Narration format uses CSV (audio_scripts.csv) instead of preferred JSON batch package; evidence: audio_scripts.csv exists (64 rows), audio_manifest.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 10611,
+    "completion_tokens": 984,
+    "total_tokens": 13426,
+    "prompt_tokens_details": {
+      "text_tokens": 10611,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 64
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1831,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 161898000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module10_07_media_audio_qwen",
+    "attempt": 1,
+    "elapsed_sec": 25.43,
+    "status": 200
+  }
+}

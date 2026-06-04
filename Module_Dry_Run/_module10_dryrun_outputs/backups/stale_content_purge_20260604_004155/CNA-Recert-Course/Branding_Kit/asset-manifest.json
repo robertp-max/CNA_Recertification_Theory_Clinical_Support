@@ -1,0 +1,167 @@
+{
+  "source": "https://ciinstituteofnursing.com/",
+  "assets": [
+    {
+      "category": "logos",
+      "filename": "logos/ci-ion-logo-original.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/logos/ci-ion-logo-original.svg",
+      "bytes": 550831,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "logos",
+      "filename": "logos/ci-ion-logomark-original.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/logos/ci-ion-logomark-original.svg",
+      "bytes": 39294,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "logos",
+      "filename": "logos/ci-ion-logomark-white.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/logos/ci-ion-logomark-white.svg",
+      "bytes": 55059,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/favicon.ico",
+      "source_url": "https://ciinstituteofnursing.com/favicon.ico?favicon.0b3bf435.ico",
+      "bytes": 25931,
+      "content_type": "image/x-icon"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/favicon-16x16.png",
+      "source_url": "https://ciinstituteofnursing.com/assets/favicon/favicon-16x16.png",
+      "bytes": 960,
+      "content_type": "image/png"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/favicon-32x32.png",
+      "source_url": "https://ciinstituteofnursing.com/assets/favicon/favicon-32x32.png",
+      "bytes": 2769,
+      "content_type": "image/png"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/apple-touch-icon.png",
+      "source_url": "https://ciinstituteofnursing.com/assets/favicon/apple-touch-icon.png",
+      "bytes": 41213,
+      "content_type": "image/png"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/android-chrome-192x192.png",
+      "source_url": "https://ciinstituteofnursing.com/assets/favicon/android-chrome-192x192.png",
+      "bytes": 45771,
+      "content_type": "image/png"
+    },
+    {
+      "category": "favicons",
+      "filename": "favicons/android-chrome-512x512.png",
+      "source_url": "https://ciinstituteofnursing.com/assets/favicon/android-chrome-512x512.png",
+      "bytes": 113289,
+      "content_type": "image/png"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/Certificate-icon.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/Certificate-icon.svg",
+      "bytes": 7715,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/Flexible-learning-icon.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/Flexible-learning-icon.svg",
+      "bytes": 11318,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/Live-Workshops-icon.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/Live-Workshops-icon.svg",
+      "bytes": 11864,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/goal.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/goal.svg",
+      "bytes": 17235,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/provides-icon1.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/provides-icon1.svg",
+      "bytes": 8800,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/provides-icon2.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/provides-icon2.svg",
+      "bytes": 2015,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/provides-icon3.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/provides-icon3.svg",
+      "bytes": 4702,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "icons",
+      "filename": "icons/provides-icon4.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/provides-icon4.svg",
+      "bytes": 2339,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "social-icons",
+      "filename": "social-icons/socmed-fb.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/socmed-fb.svg",
+      "bytes": 454,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "social-icons",
+      "filename": "social-icons/socmed-ig.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/socmed-ig.svg",
+      "bytes": 2653,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "social-icons",
+      "filename": "social-icons/socmed-linked-in.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/socmed-linked-in.svg",
+      "bytes": 908,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "social-icons",
+      "filename": "social-icons/socmed-yt.svg",
+      "source_url": "https://ciinstituteofnursing.com/assets/icons/socmed-yt.svg",
+      "bytes": 1112,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "category": "images",
+      "filename": "images/og-image.png",
+      "source_url": "https://ciinstituteofnursing.com/og-image.png",
+      "bytes": 78326,
+      "content_type": "image/png"
+    },
+    {
+      "category": "images",
+      "filename": "images/landingpic1.webp",
+      "source_url": "https://ciinstituteofnursing.com/assets/images/landingpic1.webp",
+      "bytes": 37798,
+      "content_type": "image/webp"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1059 @@
+{
+  "created_at": "2026-06-01T18:44:28.754Z",
+  "spreadsheet": {
+    "id": "1RCylz7nAc8JOuc_oJvDC-U7XaP_8MsHiQCE6LcwkrHM",
+    "name": "CI-ION - Course Structures & Contents",
+    "url": "https://docs.google.com/spreadsheets/d/1RCylz7nAc8JOuc_oJvDC-U7XaP_8MsHiQCE6LcwkrHM/edit"
+  },
+  "config": {
+    "INCLUDE_ACTIVE_SPREADSHEET_XLSX": true,
+    "INCLUDE_LINKED_FILES": true,
+    "INCLUDE_LINKED_FOLDERS": false,
+    "RECURSE_FOLDERS": false,
+    "SKIP_VIDEO_FILES": true,
+    "MAX_FILE_MB": 45,
+    "EXPORT_GOOGLE_DOCS_AS_DOCX": true,
+    "EXPORT_GOOGLE_SHEETS_AS_XLSX": true,
+    "EXPORT_GOOGLE_SLIDES_AS_PPTX": true,
+    "FALLBACK_GOOGLE_EXPORT_AS_PDF": true,
+    "ZIP_PREFIX": "CI-ION-course-export",
+    "MAX_FILES_WARNING": 500
+  },
+  "links_found": [
+    "https://calendar.app.google/zkyKoPUjyad9iPAX8",
+    "https://chat.whatsapp.com/FCWHuQ26dSeG9luFkuaDdA?mode=ac_t",
+    "https://discover.trinitydc.edu/moodle/2017/08/22/how-do-i-make-the-existing-attendance-activity-graded/",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.1ysvgirrkiax",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.4o3lxfrzco6y",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.5dup8gwi85qm",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.7xso3sem90yz",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.9ivjc0drbzew",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.co7wlbsqwbtg",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.e3s9y0h8xvi9",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.ebcwgvpawq23",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.kg6wv4h1jueq",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.pqhu58w1339k",
+    "https://docs.google.com/document/d/11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A/edit?tab=t.qh1vfbdwfhc0",
+    "https://docs.google.com/document/d/17GxLf9wq7NbnFsrh6u8H8j-Oh2ZMBbjlW0Xo20O2WSU/edit?usp=sharing",
+    "https://docs.google.com/document/d/17d0_hyv-qhed5RodmVzQr1GRkMfs5Gc7/edit?usp=sharing&ouid=114856494304616161513&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/184yt77NNMf8yalVu1-64u11Psrc2Y-BbA0xddJpz_eE/edit?usp=sharing",
+    "https://docs.google.com/document/d/1FRGsxYGuyJUp1rIDzDIan3syc6Nw26U8aAkl4mns11A/edit?tab=t.0",
+    "https://docs.google.com/document/d/1FRGsxYGuyJUp1rIDzDIan3syc6Nw26U8aAkl4mns11A/edit?tab=t.go9vq2guqn86",
+    "https://docs.google.com/document/d/1FRGsxYGuyJUp1rIDzDIan3syc6Nw26U8aAkl4mns11A/edit?tab=t.lujh47vaaqnw",
+    "https://docs.google.com/document/d/1IAzoD_AzxX8IYB1_m7zIsxDOfnQeNK14HtcJnZAL0xE/edit?usp=sharing",
+    "https://docs.google.com/document/d/1MXcWg9nDrEwcwEt6IRVrHfEbzsuvcSaS9Ng1uL1ZqZ8/edit?usp=sharing",
+    "https://docs.google.com/document/d/1OghuL0rboJ83NzJeOsAEqSKjQ2LKXn-_dRWOoM_37VY/edit?tab=t.0",
+    "https://docs.google.com/document/d/1PpM-XiiHSR0CidkcZ30Qq1tVe1J2NUXPXPekncdckLA/edit?tab=t.0",
+    "https://docs.google.com/document/d/1PpM-XiiHSR0CidkcZ30Qq1tVe1J2NUXPXPekncdckLA/edit?tab=t.4vx18197f7ez",
+    "https://docs.google.com/document/d/1RbvkwBH7mPBR2VcaYUfRl5mACqKP-CeMXpIjaihRNNk/edit?tab=t.lu9x8exizem7",
+    "https://docs.google.com/document/d/1RbvkwBH7mPBR2VcaYUfRl5mACqKP-CeMXpIjaihRNNk/edit?tab=t.v4xr0ca887si",
+    "https://docs.google.com/document/d/1SW8VYdQiX4G1kkS2i0q9w7ZfxUOFjpOCoC7l5AUgnoU/edit?tab=t.0",
+    "https://docs.google.com/document/d/1SW8VYdQiX4G1kkS2i0q9w7ZfxUOFjpOCoC7l5AUgnoU/edit?tab=t.bg8lfqhmhwxb",
+    "https://docs.google.com/document/d/1SW8VYdQiX4G1kkS2i0q9w7ZfxUOFjpOCoC7l5AUgnoU/edit?tab=t.opjt394kcfw6",
+    "https://docs.google.com/document/d/1UzdUDKgeGX357U6jNAoYpKMzlzC4SNjhMHqnan53zpA/edit?usp=sharing",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.2kyue5j4kg8v",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.4e7q5a8bnplu",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.4xc235uyk158",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.5r8td36ap864",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.aogncpid40l4",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.bqg9tj71ysg2",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.d1k7u75nvjpa",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.d5jqk2bf4rts",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.e5cbqry5ypo",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.ezuoarmirwmq",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.hnphcjo3z75x",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.ieur3chqgyyi",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.je6ofew1ptgd",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.jsbbzdnrts1h",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.mpb25krgelbk",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.njq5pt77owji",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.nmenv1ic55tz",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.prin14qu0p79",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.qcu8kk4y98e",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.qebwadkrttnu",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.qh1vfbdwfhc0",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.vkdg35rpkzio",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.vp9isapajart",
+    "https://docs.google.com/document/d/1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0/edit?tab=t.x0cbpdos0hrh",
+    "https://docs.google.com/document/d/1_F3jLGPga0ZhCFWdZRR3NVpVwjiVIcSvuKZe9sr5qwg/edit?disco=AAABnpyajtA&tab=t.pdpps3g0qdml",
+    "https://docs.google.com/document/d/1aGEBmMt2PqT9CxZWB_rdpEdA19kpF4uNT6vOWKib0fc/edit?tab=t.0",
+    "https://docs.google.com/document/d/1aGEBmMt2PqT9CxZWB_rdpEdA19kpF4uNT6vOWKib0fc/edit?usp=sharing",
+    "https://docs.google.com/document/d/1aIx_kNjfZF9zktuoRmlmjItwIsR2UpYkRER_7mvXMmI/edit?usp=sharing",
+    "https://docs.google.com/document/d/1mNA503NSb8H-zGjWpxdiMtFmt9DEsRqtLjh1aKljFp0/edit?tab=t.dcn6ynfu7736",
+    "https://docs.google.com/document/d/1p68p5sH8w93u0WyWUFSZvXhTEio4x0Lir8S0rpaieSY/edit?usp=sharing",
+    "https://docs.google.com/document/d/1skVpG42aV14Ob0TbWG7L7CIcQizSSEzatt7qgbL91zg/edit?usp=sharing",
+    "https://docs.google.com/document/d/1u1GdQ31u__JDx_FibzL3LaDb-_bjyWKj0h9NPacPZ4Q/edit?tab=t.7wumkcko9b93",
+    "https://docs.google.com/document/d/1u1GdQ31u__JDx_FibzL3LaDb-_bjyWKj0h9NPacPZ4Q/edit?tab=t.mbirm069c8eh",
+    "https://docs.google.com/document/d/1u1GdQ31u__JDx_FibzL3LaDb-_bjyWKj0h9NPacPZ4Q/edit?tab=t.rp7mm468mnab",
+    "https://docs.google.com/document/d/1u1GdQ31u__JDx_FibzL3LaDb-_bjyWKj0h9NPacPZ4Q/edit?tab=t.tcwtbmka1b4h",
+    "https://docs.google.com/document/d/1vJW8RrM8KjbKhkuB7E2HoEfN-WYkLZw5Q9KrhU9uTqI/edit?tab=t.0",
+    "https://docs.google.com/document/d/1vJW8RrM8KjbKhkuB7E2HoEfN-WYkLZw5Q9KrhU9uTqI/edit?tab=t.9jn6osq0jm0a",
+    "https://docs.google.com/document/d/1vJW8RrM8KjbKhkuB7E2HoEfN-WYkLZw5Q9KrhU9uTqI/edit?tab=t.fjpiqd9a2ifb",
+    "https://docs.google.com/document/d/1xJuYP8Nr0tlJAFBPHqQzb2Gkmufl8eG3Tdv-adYtAco/edit?tab=t.pugcy46u0f48",
+    "https://docs.google.com/document/d/1xJuYP8Nr0tlJAFBPHqQzb2Gkmufl8eG3Tdv-adYtAco/edit?tab=t.qvfk0wepkncs",
+    "https://docs.google.com/document/d/1xJuYP8Nr0tlJAFBPHqQzb2Gkmufl8eG3Tdv-adYtAco/edit?tab=t.smzjndxqtuve",
+    "https://docs.google.com/document/d/1zO4-DU1N2uV2ULVKhDoYcqWJyookJP_6dEcW4N0UABU/edit?usp=sharing",
+    "https://docs.google.com/spreadsheets/d/1l-Q42fB-f9UWCIYcGYeZ_YaIwF_IKDTTqhF0_zOWL6c/edit?usp=sharing",
+    "https://docs.moodle.org/500/en/Grade_hiding",
+    "https://drive.google.com/drive/folders/1cyDJYkaXaQxVQLlMERJ7DEDLX9AiTGni?usp=drive_link",
+    "https://drive.google.com/file/d/10JWvptJKknHmS7m-n361bE8k9vKmlsIH/view?usp=drive_link",
+    "https://drive.google.com/file/d/10JWvptJKknHmS7m-n361bE8k9vKmlsIH/view?usp=sharing",
+    "https://drive.google.com/file/d/11VQ-Kvx1EVJF1lHfn9bc78Ego2D81mPw/view?usp=drive_link",
+    "https://drive.google.com/file/d/138aKYcs0souubNtX7xhrD8tSZuHiwQSQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/15UAOZGj0BPfLJqCVSjBAq7RneIYpcAgF/view?usp=drive_link",
+    "https://drive.google.com/file/d/15m2D8dBNGxkoVzf_zcJay00AdB6JbI99/view?usp=sharing",
+    "https://drive.google.com/file/d/16FUX7666tfiJHPEIwgiQalQ4d2LsYNWT/view?usp=drive_link",
+    "https://drive.google.com/file/d/17DbGGTUItN7vRqBvq1Lr2JzfWxtjX4L9/view?usp=drive_link",
+    "https://drive.google.com/file/d/17hzvd-vUpmZEEbQwKPitnCqz7yYGQ2x-/view?usp=drive_link",
+    "https://drive.google.com/file/d/19X-cAC7GxByuG4d29GyqdpJskLngBolV/view?usp=drive_link",
+    "https://drive.google.com/file/d/19X-cAC7GxByuG4d29GyqdpJskLngBolV/view?usp=sharing",
+    "https://drive.google.com/file/d/1B9JjyYPOYZnSW_zF2pp73H-L5SfUfwTo/view?usp=drive_link",
+    "https://drive.google.com/file/d/1BLAAo1BuMhx77VHEcki5bJBHmiv-_3S9/view?usp=drive_link",
+    "https://drive.google.com/file/d/1CGDbCREHJZlgCHhaRqH7Q2JQ-1Qq6E4W/view?usp=drive_link",
+    "https://drive.google.com/file/d/1D6d-NSQKz4Cb_8yLcBZHbk12SiGZ_bJg/view?usp=drive_link",
+    "https://drive.google.com/file/d/1DTEwssb194rZAMe4f6RsPAAmXPP1bnrw/view?usp=drive_link",
+    "https://drive.google.com/file/d/1DTEwssb194rZAMe4f6RsPAAmXPP1bnrw/view?usp=sharing",
+    "https://drive.google.com/file/d/1Dc5GoP4VDyGYhFnYAqGGGAMEgZAdPm80/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Dc5GoP4VDyGYhFnYAqGGGAMEgZAdPm80/view?usp=sharing",
+    "https://drive.google.com/file/d/1EiV0ZWvTGAwD6dR7QsHnHikRKisQgtVo/view?usp=drive_link",
+    "https://drive.google.com/file/d/1FfjG-bqgRCnj52F6mP-NReI3ZB7cKlpX/view?usp=drive_link",
+    "https://drive.google.com/file/d/1HKz1WgV90INNVHTgi_3jdArS-vrXBsYD/view?usp=drive_link",
+    "https://drive.google.com/file/d/1JRUbhXs8y-2a5Gu71WTl9bEyhKfyaxd-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Jaiwn8X-DdD0JR1GvXvYsIw7_iV3JpwE/view?usp=drive_link",
+    "https://drive.google.com/file/d/1LxOHldGeix950JVxR4jchP9Dd2elg4Gt/view?usp=sharing",
+    "https://drive.google.com/file/d/1M-TAvXPYta8KpIZtCMsKiR9PXXmPwSGB/view?usp=drive_link",
+    "https://drive.google.com/file/d/1M-TAvXPYta8KpIZtCMsKiR9PXXmPwSGB/view?usp=sharing",
+    "https://drive.google.com/file/d/1NkfXp4e1GY5wqwltNT5muWty2Teq9t9y/view?usp=drive_link",
+    "https://drive.google.com/file/d/1P9_UlVFp70gBg67ML9Adk6kseCgz2V4W/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PdTCJNd0VGeyRgkxqMGwLsqkZQJaS53Z/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PdTCJNd0VGeyRgkxqMGwLsqkZQJaS53Z/view?usp=sharing",
+    "https://drive.google.com/file/d/1PlAgQMGuQAmOdxAUChoZnenbloa9W-5X/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Q1aOELWgW_aUploZFvxZ1VL13mZ_oWt5/view?usp=drive_link",
+    "https://drive.google.com/file/d/1QSN9Y07Yc3NG4S-VmXZLU01vXuY0802T/view?usp=drive_link",
+    "https://drive.google.com/file/d/1QiPgt5yCKt2faGVaR-6l_c1nATK8m6T-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ROzQHsWC5yROZp44roDvfsVyYFWDRyJQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1RSiZNXtvyi5zUc8zgVaKT0wlLxOqKrPh/view?usp=drive_link",
+    "https://drive.google.com/file/d/1RhQfGcFbrJ01im4kRAHICy4Ia2yfUu4F/view?usp=drive_link",
+    "https://drive.google.com/file/d/1SCadMh7_JA6q7P7euJLNmbdzmMDt1MTb/view?usp=drive_link",
+    "https://drive.google.com/file/d/1TOHQR_DsHe6bHlHN7ZYJqA9d81UNiJgN/view?usp=drive_link",
+    "https://drive.google.com/file/d/1V2z3AFIcY3R_uMEIl3Peb098kYOK1IR-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1W-JJuykteCH0meaBZdg5YlXKsii1iB5K/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XpEFDbuinrHg2TDyBrcHD0AN_i4krkpA/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XpEFDbuinrHg2TDyBrcHD0AN_i4krkpA/view?usp=sharing",
+    "https://drive.google.com/file/d/1XtKr2ASDVFGfFMRyFrc-LMC9dJvd4v46/view?usp=drive_link",
+    "https://drive.google.com/file/d/1XtKr2ASDVFGfFMRyFrc-LMC9dJvd4v46/view?usp=sharing",
+    "https://drive.google.com/file/d/1Yk3wAiiZZDGAX23k2MgGjbriida85fYG/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ZGdwYv4xVTIiRLMfFd5GgnV3PkATbcLN/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ZSR9EID-IX3z0ttP64e1hZyAY9ZdtI9D/view?usp=sharing",
+    "https://drive.google.com/file/d/1_7wvYCbxEvA7v_uOnTxXOwE_ZnHVs1zU/view?usp=drive_link",
+    "https://drive.google.com/file/d/1_Zjzz6n6lyq-WuYy8Ode6tWQA7FoR9Dc/view?usp=drive_link",
+    "https://drive.google.com/file/d/1aHFRYdpKSuM7aB_9XAEbWtogkD70x-h4/view?usp=drive_link",
+    "https://drive.google.com/file/d/1bdGeAcD9ihjejnJ56FIGgzxvm7bIdgah/view?usp=drive_link",
+    "https://drive.google.com/file/d/1bhFKJ3Mub01Yh9bdhtIHXOo6tG5xTS8Q/view?usp=drive_link",
+    "https://drive.google.com/file/d/1bw2whsd6O5pMdZqCOgVQxDd4hNPEoB-v/view?usp=drive_link",
+    "https://drive.google.com/file/d/1cIZqiovDO-LcK-8uvWsmjVXLfXSbSZa4/view?usp=drive_link",
+    "https://drive.google.com/file/d/1cktrciiRdZQzV-sA1LHs_qXtim_fFKDg/view?usp=drive_link",
+    "https://drive.google.com/file/d/1dxhGGg_3126kl0hrMQrf_QdgXui4KdK7/view?usp=drive_link",
+    "https://drive.google.com/file/d/1dxhGGg_3126kl0hrMQrf_QdgXui4KdK7/view?usp=sharing",
+    "https://drive.google.com/file/d/1eRAoboxZh815OMMt9682lzuI4CLOlloO/view?usp=drive_link",
+    "https://drive.google.com/file/d/1enLDd1Rx4tNYF5Fz4FV0btXQkyvdjLdJ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1enLDd1Rx4tNYF5Fz4FV0btXQkyvdjLdJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1firsvTipcO5A1dgs2YTsq_6UsV4ZlTLV/view?usp=drive_link",
+    "https://drive.google.com/file/d/1gWvKPPjAYQjn_YwjP-_B3q7riueefezY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1g_xmw1crGNXmvA3cG76Y8dB6c616b70Y/view?usp=drive_link",
+    "https://drive.google.com/file/d/1j7pyb6iL1ZDXmqq_R3Lu7uTsmxqPRg4R/view?usp=drive_link",
+    "https://drive.google.com/file/d/1jpgBpZB56-LNQD75p0AvtpAZHi7XTmAx/view?usp=drive_link",
+    "https://drive.google.com/file/d/1lMYz3sAMxdj_IVHG2IpS_8LGcZsvy3oS/view?usp=drive_link",
+    "https://drive.google.com/file/d/1lpbawCo9zmyYkSuq8zvMjz6ETYNkjPtj/view?usp=drive_link",
+    "https://drive.google.com/file/d/1m3zq9vhc5rF6WVYoz2MhQw1O46eihdXt/view?usp=drive_link",
+    "https://drive.google.com/file/d/1mMy-CYXxo9U1Kdv22d04OJHR9mCYvn3e/view?usp=drive_link",
+    "https://drive.google.com/file/d/1pA2NRbc6kvdEu7ms8LPnDFjTB48d9ngx/view?usp=drive_link",
+    "https://drive.google.com/file/d/1pcbJZ1TjurVKgZfSk_NevtY9jqXwNLgM/view?usp=drive_link",
+    "https://drive.google.com/file/d/1rV_L4FnKn7MH3Yu91c__o9-8RYklFbqF/view?usp=drive_link",
+    "https://drive.google.com/file/d/1tL55ld9MA-5KfRnKlnKeAuYza6Bbr_lW/view?usp=drive_link",
+    "https://drive.google.com/file/d/1tSLunhlkRfdzxqvC0iJYB5BbAS6wObCk/view?usp=drive_link",
+    "https://drive.google.com/file/d/1thct5_HqxZ00gZLZfZG9hDaMyKLxMMm8/view?usp=drive_link",
+    "https://drive.google.com/file/d/1vC4nuiuNhvmoxIbuuK9mO3zw5TZLth_z/view?usp=sharing",
+    "https://drive.google.com/file/d/1w0lkIZ93JZYy3fixHN8nepni0mF3-tCp/view?usp=drive_link",
+    "https://drive.google.com/file/d/1xEWTAvkT0hba5ILTuyPPpRMKJXgUZRm1/view?usp=drive_link",
+    "https://drive.google.com/file/d/1xkZRCW-MjOUiFmmCEHvDly6PiVBLzFAY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ytdG7bYcYPkaMbxy8gdmHIBDEa6ZhT0c/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zUEuTcodzkWRfl_-ByeQdDvMqLIv7t_f/view?usp=drive_link",
+    "https://learn.ciinstituteofnursing.com/course/view.php?id=13",
+    "https://maps.app.goo.gl/LmiigtC8X9zLTYy77",
+    "https://www.figma.com/board/KD7E72xfOhD6DdsCIYnLvx/CI-ION-User-Flows?node-id=296-4423&t=LBYrRFqWYQ8yfDzf-4"
+  ],
+  "files_added": [
+    {
+      "type": "active_spreadsheet_export",
+      "source_id": "1RCylz7nAc8JOuc_oJvDC-U7XaP_8MsHiQCE6LcwkrHM",
+      "source_name": "CI-ION - Course Structures & Contents",
+      "zip_name": "CI-ION - Course Structures - Contents.xlsx",
+      "export_format": "xlsx",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "138aKYcs0souubNtX7xhrD8tSZuHiwQSQ",
+      "source_name": "cccco-na-model-curriculum-module-16.pdf",
+      "source_url": "https://drive.google.com/file/d/138aKYcs0souubNtX7xhrD8tSZuHiwQSQ/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 99636,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-16.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "15m2D8dBNGxkoVzf_zcJay00AdB6JbI99",
+      "source_name": "CI-ION_ Pre-Orientation Student Catalog Test.pdf",
+      "source_url": "https://drive.google.com/file/d/15m2D8dBNGxkoVzf_zcJay00AdB6JbI99/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 98812,
+      "export_format": "original",
+      "zip_name": "linked-files/CI-ION_ Pre-Orientation Student Catalog Test.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "16FUX7666tfiJHPEIwgiQalQ4d2LsYNWT",
+      "source_name": "cccco-na-model-curriculum-module-12.pdf",
+      "source_url": "https://drive.google.com/file/d/16FUX7666tfiJHPEIwgiQalQ4d2LsYNWT/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 258863,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-12.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "17DbGGTUItN7vRqBvq1Lr2JzfWxtjX4L9",
+      "source_name": "cccco-na-model-curriculum-module-1.pdf",
+      "source_url": "https://drive.google.com/file/d/17DbGGTUItN7vRqBvq1Lr2JzfWxtjX4L9/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1888082,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-1.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "17d0_hyv-qhed5RodmVzQr1GRkMfs5Gc7",
+      "source_name": "CI Institute of Nursing Student Catalog 3-17-2026.docx",
+      "source_url": "https://docs.google.com/document/d/17d0_hyv-qhed5RodmVzQr1GRkMfs5Gc7/edit?usp=drivesdk&ouid=112516995548034404742&rtpof=true&sd=true",
+      "source_mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 2025744,
+      "export_format": "original",
+      "zip_name": "linked-files/CI Institute of Nursing Student Catalog 3-17-2026.docx",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1B9JjyYPOYZnSW_zF2pp73H-L5SfUfwTo",
+      "source_name": "PM Day 15 Module 13 Long Term Patient Resident.pdf",
+      "source_url": "https://drive.google.com/file/d/1B9JjyYPOYZnSW_zF2pp73H-L5SfUfwTo/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 3107663,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 15 Module 13 Long Term Patient Resident.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1BLAAo1BuMhx77VHEcki5bJBHmiv-_3S9",
+      "source_name": "cccco-na-model-curriculum-module-3.pdf",
+      "source_url": "https://drive.google.com/file/d/1BLAAo1BuMhx77VHEcki5bJBHmiv-_3S9/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 439222,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-3.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1JRUbhXs8y-2a5Gu71WTl9bEyhKfyaxd-",
+      "source_name": "Cover_Tutorials_Text.png",
+      "source_url": "https://drive.google.com/file/d/1JRUbhXs8y-2a5Gu71WTl9bEyhKfyaxd-/view?usp=drivesdk",
+      "source_mime_type": "image/png",
+      "size_bytes": 122677,
+      "export_format": "original",
+      "zip_name": "linked-files/Cover_Tutorials_Text.png",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1Jaiwn8X-DdD0JR1GvXvYsIw7_iV3JpwE",
+      "source_name": "Cover_Admission_Text.png",
+      "source_url": "https://drive.google.com/file/d/1Jaiwn8X-DdD0JR1GvXvYsIw7_iV3JpwE/view?usp=drivesdk",
+      "source_mime_type": "image/png",
+      "size_bytes": 118751,
+      "export_format": "original",
+      "zip_name": "linked-files/Cover_Admission_Text.png",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1NkfXp4e1GY5wqwltNT5muWty2Teq9t9y",
+      "source_name": "Day 3 Module 15.1 Observation and Charting.pdf",
+      "source_url": "https://drive.google.com/file/d/1NkfXp4e1GY5wqwltNT5muWty2Teq9t9y/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1473927,
+      "export_format": "original",
+      "zip_name": "linked-files/Day 3 Module 15.1 Observation and Charting.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1Q1aOELWgW_aUploZFvxZ1VL13mZ_oWt5",
+      "source_name": "cccco-na-model-curriculum-module-13.pdf",
+      "source_url": "https://drive.google.com/file/d/1Q1aOELWgW_aUploZFvxZ1VL13mZ_oWt5/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 550134,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-13.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1ROzQHsWC5yROZp44roDvfsVyYFWDRyJQ",
+      "source_name": "cccco-na-model-curriculum-module-4.pdf",
+      "source_url": "https://drive.google.com/file/d/1ROzQHsWC5yROZp44roDvfsVyYFWDRyJQ/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 223041,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-4.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1RSiZNXtvyi5zUc8zgVaKT0wlLxOqKrPh",
+      "source_name": "PM Day 2 Module 2 Patient Resident Rights.pdf",
+      "source_url": "https://drive.google.com/file/d/1RSiZNXtvyi5zUc8zgVaKT0wlLxOqKrPh/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 330989,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 2 Module 2 Patient Resident Rights.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1RhQfGcFbrJ01im4kRAHICy4Ia2yfUu4F",
+      "source_name": "Day 6 Module 15.2 Observation and Charting.pdf",
+      "source_url": "https://drive.google.com/file/d/1RhQfGcFbrJ01im4kRAHICy4Ia2yfUu4F/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1465171,
+      "export_format": "original",
+      "zip_name": "linked-files/Day 6 Module 15.2 Observation and Charting.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1SCadMh7_JA6q7P7euJLNmbdzmMDt1MTb",
+      "source_name": "cccco-na-model-curriculum-module-6.pdf",
+      "source_url": "https://drive.google.com/file/d/1SCadMh7_JA6q7P7euJLNmbdzmMDt1MTb/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 225577,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-6.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1TOHQR_DsHe6bHlHN7ZYJqA9d81UNiJgN",
+      "source_name": "cccco-na-model-curriculum-module-2.pdf",
+      "source_url": "https://drive.google.com/file/d/1TOHQR_DsHe6bHlHN7ZYJqA9d81UNiJgN/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 246810,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-2.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1W-JJuykteCH0meaBZdg5YlXKsii1iB5K",
+      "source_name": "Cover_Day_Text.png",
+      "source_url": "https://drive.google.com/file/d/1W-JJuykteCH0meaBZdg5YlXKsii1iB5K/view?usp=drivesdk",
+      "source_mime_type": "image/png",
+      "size_bytes": 128069,
+      "export_format": "original",
+      "zip_name": "linked-files/Cover_Day_Text.png",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1Yk3wAiiZZDGAX23k2MgGjbriida85fYG",
+      "source_name": "cccco-na-model-curriculum-module-10.pdf",
+      "source_url": "https://drive.google.com/file/d/1Yk3wAiiZZDGAX23k2MgGjbriida85fYG/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 805210,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-10.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1ZGdwYv4xVTIiRLMfFd5GgnV3PkATbcLN",
+      "source_name": "cccco-na-model-curriculum-module-5.pdf",
+      "source_url": "https://drive.google.com/file/d/1ZGdwYv4xVTIiRLMfFd5GgnV3PkATbcLN/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 326763,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-5.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1_7wvYCbxEvA7v_uOnTxXOwE_ZnHVs1zU",
+      "source_name": "cccco-na-model-curriculum-module-14.pdf",
+      "source_url": "https://drive.google.com/file/d/1_7wvYCbxEvA7v_uOnTxXOwE_ZnHVs1zU/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 307538,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-14.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1_Zjzz6n6lyq-WuYy8Ode6tWQA7FoR9Dc",
+      "source_name": "CI Institute of Nursing - Course Syllabus.pdf",
+      "source_url": "https://drive.google.com/file/d/1_Zjzz6n6lyq-WuYy8Ode6tWQA7FoR9Dc/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 799354,
+      "export_format": "original",
+      "zip_name": "linked-files/CI Institute of Nursing - Course Syllabus.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1aHFRYdpKSuM7aB_9XAEbWtogkD70x-h4",
+      "source_name": "PM Day 1 Module 2 Patient Resident Rights.pdf",
+      "source_url": "https://drive.google.com/file/d/1aHFRYdpKSuM7aB_9XAEbWtogkD70x-h4/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1838932,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 1 Module 2 Patient Resident Rights.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1bdGeAcD9ihjejnJ56FIGgzxvm7bIdgah",
+      "source_name": "cccco-na-model-curriculum-module-15.pdf",
+      "source_url": "https://drive.google.com/file/d/1bdGeAcD9ihjejnJ56FIGgzxvm7bIdgah/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 348178,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-15.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1bhFKJ3Mub01Yh9bdhtIHXOo6tG5xTS8Q",
+      "source_name": "cccco-na-model-curriculum-module-9.pdf",
+      "source_url": "https://drive.google.com/file/d/1bhFKJ3Mub01Yh9bdhtIHXOo6tG5xTS8Q/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 393304,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-9.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1cIZqiovDO-LcK-8uvWsmjVXLfXSbSZa4",
+      "source_name": "PM Day 13 Module 9 Patient Care Procedures-1-31.pdf",
+      "source_url": "https://drive.google.com/file/d/1cIZqiovDO-LcK-8uvWsmjVXLfXSbSZa4/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1414252,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 13 Module 9 Patient Care Procedures-1-31.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1cktrciiRdZQzV-sA1LHs_qXtim_fFKDg",
+      "source_name": "PM Day 14 Module 9 Patient Care Procedures-32-43.pdf",
+      "source_url": "https://drive.google.com/file/d/1cktrciiRdZQzV-sA1LHs_qXtim_fFKDg/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 140375,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 14 Module 9 Patient Care Procedures-32-43.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1gWvKPPjAYQjn_YwjP-_B3q7riueefezY",
+      "source_name": "PM Day 8 Module 8 Patient Care Skills-12-16.pdf",
+      "source_url": "https://drive.google.com/file/d/1gWvKPPjAYQjn_YwjP-_B3q7riueefezY/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 117782,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 8 Module 8 Patient Care Skills-12-16.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1j7pyb6iL1ZDXmqq_R3Lu7uTsmxqPRg4R",
+      "source_name": "cccco-na-model-curriculum-module-7.pdf",
+      "source_url": "https://drive.google.com/file/d/1j7pyb6iL1ZDXmqq_R3Lu7uTsmxqPRg4R/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 457369,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-7.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1jpgBpZB56-LNQD75p0AvtpAZHi7XTmAx",
+      "source_name": "cccco-na-model-curriculum-module-11.pdf",
+      "source_url": "https://drive.google.com/file/d/1jpgBpZB56-LNQD75p0AvtpAZHi7XTmAx/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 400160,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-11.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1lMYz3sAMxdj_IVHG2IpS_8LGcZsvy3oS",
+      "source_name": "PM Day 10 Module 8 Patient Care Skills-11-23.pdf",
+      "source_url": "https://drive.google.com/file/d/1lMYz3sAMxdj_IVHG2IpS_8LGcZsvy3oS/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 128499,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 10 Module 8 Patient Care Skills-11-23.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1lpbawCo9zmyYkSuq8zvMjz6ETYNkjPtj",
+      "source_name": "cccco-na-model-curriculum-module-17.pdf",
+      "source_url": "https://drive.google.com/file/d/1lpbawCo9zmyYkSuq8zvMjz6ETYNkjPtj/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 86441,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-17.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1m3zq9vhc5rF6WVYoz2MhQw1O46eihdXt",
+      "source_name": "PM Day 7 Module 8 Patient Care Skills-1-11.pdf",
+      "source_url": "https://drive.google.com/file/d/1m3zq9vhc5rF6WVYoz2MhQw1O46eihdXt/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 1344218,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 7 Module 8 Patient Care Skills-1-11.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1mMy-CYXxo9U1Kdv22d04OJHR9mCYvn3e",
+      "source_name": "AM Day 6 / PM Day 11 Module 8 Patient Care Skills.pdf",
+      "source_url": "https://drive.google.com/file/d/1mMy-CYXxo9U1Kdv22d04OJHR9mCYvn3e/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 91797,
+      "export_format": "original",
+      "zip_name": "linked-files/AM Day 6 - PM Day 11 Module 8 Patient Care Skills.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1pA2NRbc6kvdEu7ms8LPnDFjTB48d9ngx",
+      "source_name": "CI-ION NATP Final Exam.pdf",
+      "source_url": "https://drive.google.com/file/d/1pA2NRbc6kvdEu7ms8LPnDFjTB48d9ngx/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 165675,
+      "export_format": "original",
+      "zip_name": "linked-files/CI-ION NATP Final Exam.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1tL55ld9MA-5KfRnKlnKeAuYza6Bbr_lW",
+      "source_name": "cccco-na-model-curriculum-module-8.pdf",
+      "source_url": "https://drive.google.com/file/d/1tL55ld9MA-5KfRnKlnKeAuYza6Bbr_lW/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 837346,
+      "export_format": "original",
+      "zip_name": "linked-files/cccco-na-model-curriculum-module-8.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1tSLunhlkRfdzxqvC0iJYB5BbAS6wObCk",
+      "source_name": "PM Day 16 Module 13 Long Term Patient Resident.pdf",
+      "source_url": "https://drive.google.com/file/d/1tSLunhlkRfdzxqvC0iJYB5BbAS6wObCk/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 3309858,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 16 Module 13 Long Term Patient Resident.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1vC4nuiuNhvmoxIbuuK9mO3zw5TZLth_z",
+      "source_name": "Request for Live Scan Service (Example)  .pdf",
+      "source_url": "https://drive.google.com/file/d/1vC4nuiuNhvmoxIbuuK9mO3zw5TZLth_z/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 919190,
+      "export_format": "original",
+      "zip_name": "linked-files/Request for Live Scan Service (Example) .pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1xEWTAvkT0hba5ILTuyPPpRMKJXgUZRm1",
+      "source_name": "PM Day 9 Module 8 Patient Care Skills-1-10.pdf",
+      "source_url": "https://drive.google.com/file/d/1xEWTAvkT0hba5ILTuyPPpRMKJXgUZRm1/view?usp=drivesdk",
+      "source_mime_type": "application/pdf",
+      "size_bytes": 119085,
+      "export_format": "original",
+      "zip_name": "linked-files/PM Day 9 Module 8 Patient Care Skills-1-10.pdf",
+      "status": "added"
+    },
+    {
+      "type": "linked_drive_file",
+      "id": "1xkZRCW-MjOUiFmmCEHvDly6PiVBLzFAY",
+      "source_name": "Cover_Night_Text.png",
+      "source_url": "https://drive.google.com/file/d/1xkZRCW-MjOUiFmmCEHvDly6PiVBLzFAY/view?usp=drivesdk",
+      "source_mime_type": "image/png",
+      "size_bytes": 125090,
+      "export_format": "original",
+      "zip_name": "linked-files/Cover_Night_Text.png",
+      "status": "added"
+    }
+  ],
+  "folders_found_but_not_exported": [
+    {
+      "id": "1cyDJYkaXaQxVQLlMERJ7DEDLX9AiTGni",
+      "name": "Admission Exam",
+      "url": "https://drive.google.com/drive/folders/1cyDJYkaXaQxVQLlMERJ7DEDLX9AiTGni",
+      "reason": "Folder export disabled in CI_EXPORT_CONFIG to avoid huge ZIP/video exports."
+    }
+  ],
+  "folders_scanned": [],
+  "skipped": [
+    {
+      "type": "video_file",
+      "id": "10JWvptJKknHmS7m-n361bE8k9vKmlsIH",
+      "name": "Moodle Tutorials - Taking Quizzes and Exams.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 78781388,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "11VQ-Kvx1EVJF1lHfn9bc78Ego2D81mPw",
+      "name": "CNA Skill 17 - Positions on Side",
+      "mimeType": "video/mp4",
+      "size_bytes": 741314303,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "15UAOZGj0BPfLJqCVSjBAq7RneIYpcAgF",
+      "name": "CNA Skill 8 - Donning and Removing PPE",
+      "mimeType": "video/mp4",
+      "size_bytes": 1195383124,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "17hzvd-vUpmZEEbQwKPitnCqz7yYGQ2x-",
+      "name": "CNA Skill 18 - Provides Catheter Care for Female",
+      "mimeType": "video/mp4",
+      "size_bytes": 1413306972,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "19X-cAC7GxByuG4d29GyqdpJskLngBolV",
+      "name": "Moodle Tutorials - Participating in Synchronous Sessions.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 123252654,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1CGDbCREHJZlgCHhaRqH7Q2JQ-1Qq6E4W",
+      "name": "CNA Skill 11 - Gives Modified Bed Bath (Face and One Arm, Hand and Underarm)",
+      "mimeType": "video/mp4",
+      "size_bytes": 2454961324,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1D6d-NSQKz4Cb_8yLcBZHbk12SiGZ_bJg",
+      "name": "CNA Skill 6 - Counts and Recounts Radial Pulse",
+      "mimeType": "video/mp4",
+      "size_bytes": 520903167,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1DTEwssb194rZAMe4f6RsPAAmXPP1bnrw",
+      "name": "Moodle Tutorials - Engaging in Forums.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 100366718,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1Dc5GoP4VDyGYhFnYAqGGGAMEgZAdPm80",
+      "name": "Moodle Tutorials - Navigating Home & Dashboard.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 75479843,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1EiV0ZWvTGAwD6dR7QsHnHikRKisQgtVo",
+      "name": "CNA Skill 19 - Provides Foot Care on One Foot",
+      "mimeType": "video/mp4",
+      "size_bytes": 943297452,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1FfjG-bqgRCnj52F6mP-NReI3ZB7cKlpX",
+      "name": "CNA Skill 9 - Dresses Client with Affected Right Arm",
+      "mimeType": "video/mp4",
+      "size_bytes": 1238224367,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1HKz1WgV90INNVHTgi_3jdArS-vrXBsYD",
+      "name": "CNA Skill 1 - Hand Hygiene (Hand Washing)",
+      "mimeType": "video/mp4",
+      "size_bytes": 910095978,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1LxOHldGeix950JVxR4jchP9Dd2elg4Gt",
+      "name": "Moodle Tutorials - Accessing Course Content.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 82416746,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1M-TAvXPYta8KpIZtCMsKiR9PXXmPwSGB",
+      "name": "Moodle Tutorials - Monitoring Attendance.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 107947427,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1P9_UlVFp70gBg67ML9Adk6kseCgz2V4W",
+      "name": "CNA Skill 23 - Measures and Records Manual Blood Pressure",
+      "mimeType": "video/mp4",
+      "size_bytes": 790270019,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1PdTCJNd0VGeyRgkxqMGwLsqkZQJaS53Z",
+      "name": "Moodle Tutorials - Submitting Assignments.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 74719825,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1PlAgQMGuQAmOdxAUChoZnenbloa9W-5X",
+      "name": "CNA Skill 2 - Applies One Knee-High Elastic Stocking",
+      "mimeType": "video/mp4",
+      "size_bytes": 567651137,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1QSN9Y07Yc3NG4S-VmXZLU01vXuY0802T",
+      "name": "CNA Skill 15 - Performs Modified Passive Range of Motion (PROM) for One Knee and Ankle",
+      "mimeType": "video/mp4",
+      "size_bytes": 606616690,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1QiPgt5yCKt2faGVaR-6l_c1nATK8m6T-",
+      "name": "CNA Skill 16 - Performs Modified Passive Range of Motion (PROM) for One Shoulder",
+      "mimeType": "video/mp4",
+      "size_bytes": 577603130,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1V2z3AFIcY3R_uMEIl3Peb098kYOK1IR-",
+      "name": "CNA Skill 20 - Provides Mouth Care",
+      "mimeType": "video/mp4",
+      "size_bytes": 828157513,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "large_file",
+      "id": "1XZyL6Y-nZm5HNcBEWkbPQjsPDfYjMRMc5ceP07asfv0",
+      "name": "Tutorials - Instructor & Coordinator",
+      "mimeType": "application/vnd.google-apps.document",
+      "size_bytes": 63686654,
+      "max_file_mb": 45,
+      "reason": "File exceeds configured max size and was skipped."
+    },
+    {
+      "type": "video_file",
+      "id": "1XpEFDbuinrHg2TDyBrcHD0AN_i4krkpA",
+      "name": "Moodle Tutorials - Accessing on Mobile.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 86623881,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1XtKr2ASDVFGfFMRyFrc-LMC9dJvd4v46",
+      "name": "Moodle Tutorials - Tracking Completion.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 99561412,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1ZSR9EID-IX3z0ttP64e1hZyAY9ZdtI9D",
+      "name": "CI-ION Meet Your Instructor and Coordinator_Revised.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 1222287528,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1bw2whsd6O5pMdZqCOgVQxDd4hNPEoB-v",
+      "name": "CNA Skill 21 - Provides for Perineal Care for Female",
+      "mimeType": "video/mp4",
+      "size_bytes": 1488175286,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1dxhGGg_3126kl0hrMQrf_QdgXui4KdK7",
+      "name": "Moodle Tutorials - Viewing Grades.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 74379706,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1eRAoboxZh815OMMt9682lzuI4CLOlloO",
+      "name": "CNA Skill 3 - Assist to Ambulate Using Transfer Belt",
+      "mimeType": "video/mp4",
+      "size_bytes": 656580033,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1enLDd1Rx4tNYF5Fz4FV0btXQkyvdjLdJ",
+      "name": "Moodle Tutorials - Using Privating Messaging.mp4",
+      "mimeType": "video/mp4",
+      "size_bytes": 76061593,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1firsvTipcO5A1dgs2YTsq_6UsV4ZlTLV",
+      "name": "CNA Skill 12 - Measures and Records Electronic Blood Pressure",
+      "mimeType": "video/mp4",
+      "size_bytes": 539514062,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1g_xmw1crGNXmvA3cG76Y8dB6c616b70Y",
+      "name": "CNA Skill 7 - Counts and Records Respirations",
+      "mimeType": "video/mp4",
+      "size_bytes": 445278524,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1pcbJZ1TjurVKgZfSk_NevtY9jqXwNLgM",
+      "name": "CNA Skill 14 - Measures and Records Weight of Ambulatory Client",
+      "mimeType": "video/mp4",
+      "size_bytes": 390541457,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1rV_L4FnKn7MH3Yu91c__o9-8RYklFbqF",
+      "name": "CNA Skill 5 - Cleans Upper or Lower Denture",
+      "mimeType": "video/mp4",
+      "size_bytes": 900525628,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1thct5_HqxZ00gZLZfZG9hDaMyKLxMMm8",
+      "name": "CNA Skill 13 - Measures and Records Urinary Output",
+      "mimeType": "video/mp4",
+      "size_bytes": 495970307,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1w0lkIZ93JZYy3fixHN8nepni0mF3-tCp",
+      "name": "CNA Skill 22 - Transfers from Bed to Wheelchair Using Transfer Belt",
+      "mimeType": "video/mp4",
+      "size_bytes": 614361390,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1ytdG7bYcYPkaMbxy8gdmHIBDEa6ZhT0c",
+      "name": "CNA Skill 10 - Feeds Client Who Cannot Feed Self",
+      "mimeType": "video/mp4",
+      "size_bytes": 576511370,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    },
+    {
+      "type": "video_file",
+      "id": "1zUEuTcodzkWRfl_-ByeQdDvMqLIv7t_f",
+      "name": "CNA Skill 4 - Bedpan",
+      "mimeType": "video/mp4",
+      "size_bytes": 833455850,
+      "reason": "Video files are skipped to avoid Apps Script ZIP size failures."
+    }
+  ],
+  "errors": [
+    {
+      "type": "file_error",
+      "id": "11bT4y1vmotyypr8ZQpJ62chFQOguBh977ZFOrz8lA1A",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "17GxLf9wq7NbnFsrh6u8H8j-Oh2ZMBbjlW0Xo20O2WSU",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "184yt77NNMf8yalVu1-64u11Psrc2Y-BbA0xddJpz_eE",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1FRGsxYGuyJUp1rIDzDIan3syc6Nw26U8aAkl4mns11A",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1IAzoD_AzxX8IYB1_m7zIsxDOfnQeNK14HtcJnZAL0xE",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1MXcWg9nDrEwcwEt6IRVrHfEbzsuvcSaS9Ng1uL1ZqZ8",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1OghuL0rboJ83NzJeOsAEqSKjQ2LKXn-_dRWOoM_37VY",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1PpM-XiiHSR0CidkcZ30Qq1tVe1J2NUXPXPekncdckLA",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1RbvkwBH7mPBR2VcaYUfRl5mACqKP-CeMXpIjaihRNNk",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1SW8VYdQiX4G1kkS2i0q9w7ZfxUOFjpOCoC7l5AUgnoU",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1UzdUDKgeGX357U6jNAoYpKMzlzC4SNjhMHqnan53zpA",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1_F3jLGPga0ZhCFWdZRR3NVpVwjiVIcSvuKZe9sr5qwg",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1aGEBmMt2PqT9CxZWB_rdpEdA19kpF4uNT6vOWKib0fc",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1aIx_kNjfZF9zktuoRmlmjItwIsR2UpYkRER_7mvXMmI",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1l-Q42fB-f9UWCIYcGYeZ_YaIwF_IKDTTqhF0_zOWL6c",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.spreadsheet to application/vnd.openxmlformats-officedocument.spreadsheetml.sheet is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1mNA503NSb8H-zGjWpxdiMtFmt9DEsRqtLjh1aKljFp0",
+      "folderPath": "linked-files",
+      "error": "No item with the given ID could be found. Possibly because you have not edited this item or you do not have permission to access it."
+    },
+    {
+      "type": "file_error",
+      "id": "1p68p5sH8w93u0WyWUFSZvXhTEio4x0Lir8S0rpaieSY",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1skVpG42aV14Ob0TbWG7L7CIcQizSSEzatt7qgbL91zg",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1u1GdQ31u__JDx_FibzL3LaDb-_bjyWKj0h9NPacPZ4Q",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1vJW8RrM8KjbKhkuB7E2HoEfN-WYkLZw5Q9KrhU9uTqI",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1xJuYP8Nr0tlJAFBPHqQzb2Gkmufl8eG3Tdv-adYtAco",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    },
+    {
+      "type": "file_error",
+      "id": "1zO4-DU1N2uV2ULVKhDoYcqWJyookJP_6dEcW4N0UABU",
+      "folderPath": "linked-files",
+      "error": "Converting from application/vnd.google-apps.document to application/vnd.openxmlformats-officedocument.wordprocessingml.document is not supported."
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "modules": [
+    {
+      "cccco_module": 10,
+      "title": "Module 10: Vital Signs",
+      "theory_hours": "3",
+      "statement_of_purpose": "The purpose of this unit is to prepare students to know how, when and why vital signs are taken and how to report and chart these procedures. Students will learn the correct procedure for measuring temperature, pulse, respirations, and blood pressure. They will learn to recognize and report normal and abnormal findings.",
+      "objective_count": 16,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Describe what is meant by vital signs, their purpose, and observations made while performing the procedures"
+        },
+        {
+          "n": 3,
+          "text": "Discuss the use of temperature as an indicator of body function"
+        },
+        {
+          "n": 4,
+          "text": "Describe nursing measures to raise and lower the temperature of the body"
+        },
+        {
+          "n": 5,
+          "text": "Describe the circulatory system as it relates to pulse, and identify the pulse sites"
+        },
+        {
+          "n": 6,
+          "text": "Describe factors that increase and decrease pulse, and the qualities to observe in taking a pulse"
+        },
+        {
+          "n": 7,
+          "text": "Define and describe respiration and factors that affect respiratory rate"
+        },
+        {
+          "n": 8,
+          "text": "Describe observations to be made when measuring respirations"
+        },
+        {
+          "n": 9,
+          "text": "Describe abnormal breathing patterns"
+        },
+        {
+          "n": 10,
+          "text": "Describe the process for taking TPR as a combined procedure"
+        },
+        {
+          "n": 11,
+          "text": "Describe what happens in the circulatory system to produce blood pressure"
+        },
+        {
+          "n": 12,
+          "text": "Identify factors that increase or decrease blood pressure"
+        },
+        {
+          "n": 13,
+          "text": "Identify parts of the blood pressure equipment"
+        },
+        {
+          "n": 14,
+          "text": "Discuss the procedure for taking a blood pressure reading"
+        },
+        {
+          "n": 15,
+          "text": "Discuss observation and reporting of patient’s/resident’s pain"
+        },
+        {
+          "n": 16,
+          "text": "Record vital signs on chart, graph, and Nursing Assistant notes"
+        }
+      ]
+    },
+    {
+      "cccco_module": 11,
+      "title": "Module 11: Nutrition",
+      "theory_hours": "2",
+      "statement_of_purpose": "The purpose of this unit is to examine the body’s need for food and the effect of food on the body. This module includes the basic food groups, nutrients, and common therapeutic diets, as well as ways to assist a patient/resident to meet nutrition and hydration needs.",
+      "objective_count": 10,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Discuss the body’s need for food and fluids"
+        },
+        {
+          "n": 3,
+          "text": "List common nutrients and their food sources"
+        },
+        {
+          "n": 4,
+          "text": "Describe the My Pyramid food guidance system"
+        },
+        {
+          "n": 5,
+          "text": "Describe the vegan basic four food groups"
+        },
+        {
+          "n": 6,
+          "text": "Discuss nutritional and fluid needs of the elderly"
+        },
+        {
+          "n": 7,
+          "text": "Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant"
+        },
+        {
+          "n": 8,
+          "text": "Describe proper techniques for feeding patients/residents"
+        },
+        {
+          "n": 9,
+          "text": "Discuss cultural and religious influences on dietary practices"
+        },
+        {
+          "n": 10,
+          "text": "Identify alternative ways to administer nutrition"
+        }
+      ]
+    },
+    {
+      "cccco_module": 12,
+      "title": "Module 12: Emergency Procedures",
+      "theory_hours": "2",
+      "statement_of_purpose": "The purpose of this unit is to introduce the student to the concepts and procedures related to emergency procedures, signs and symptoms of distress, and the role of the Nurse Assistant in Long Term Care (LTC) in the response to immediate and temporary intervention in emergency situations.",
+      "objective_count": 5,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology."
+        },
+        {
+          "n": 2,
+          "text": "Identify common signs and symptoms of conditions associated with patient/resident distress and describe the Nurse Assistant’s role and responsibility in preventing and/or responding."
+        },
+        {
+          "n": 3,
+          "text": "Describe the immediate interventions in a medical emergency."
+        },
+        {
+          "n": 4,
+          "text": "List the causes and signs of choking and discuss the use of abdominal thrusts for relief of obstructed airway."
+        },
+        {
+          "n": 5,
+          "text": "Describe common emergency codes used in long-term care facilities. This module may be taught concurrently with Module 4: Safe Environment"
+        }
+      ]
+    },
+    {
+      "cccco_module": 13,
+      "title": "Module 13: Long Term Care Resident",
+      "theory_hours": "5 SNF/ICF (or 3 non-SNF/ICF plus 2 additional training hours)",
+      "statement_of_purpose": "The purpose of this unit is to introduce the student to the basic structure of the body and to review the effect of aging on body structure and function. Common physical and psychological conditions found in elderly patients are presented along with approaches to care. Community resources commonly available to assist elderly patients with their psychological, recreational, and social needs are presented.",
+      "objective_count": 8,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual"
+        },
+        {
+          "n": 3,
+          "text": "Describe common community resources to meet the needs of the elderly"
+        },
+        {
+          "n": 4,
+          "text": "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness"
+        },
+        {
+          "n": 5,
+          "text": "Describe the special needs of persons with Alzheimer’s Disease and other related dementias"
+        },
+        {
+          "n": 6,
+          "text": "Describe the body’s basic organization and composition"
+        },
+        {
+          "n": 7,
+          "text": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility"
+        },
+        {
+          "n": 8,
+          "text": "Describe changes in body systems associated with aging Refer to CDPH 276C form: *SNF/ICF providers need to complete A1 Special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness (2 hours); A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours); and B Introduction to anatomy and physiology (B-F minimum 1 hour). **Non-SNF/ICF providers may complete A2 Special needs of persons with Alzheimer’s disease and related dementias (2 hours), or two (2) hours of training from another module in order to meet the sixty (60) hours minimum theory training requirement and B Introduction to anatomy and physiology (B-F minimum 1 hour)."
+        }
+      ]
+    },
+    {
+      "cccco_module": 14,
+      "title": "Module 14- Rehabilitative Nursing",
+      "theory_hours": "2",
+      "statement_of_purpose": "The purpose of this unit is to introduce the Nurse Assistant to restorative care. Each individual is entitled to reach his/her optimal level of functioning. The Nurse Assistant assists the patient/resident in achieving maximum independent living skills through use of rehabilitative or restorative procedures.",
+      "objective_count": 12,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Discuss rehabilitation (restorative care) and how it promotes independence and patient/resident potential"
+        },
+        {
+          "n": 3,
+          "text": "State goals of restorative care that promote independence and patient/resident potential"
+        },
+        {
+          "n": 4,
+          "text": "Describe the rehabilitation team, state its purpose, and discuss the role of the Nurse Assistant as a member of the team"
+        },
+        {
+          "n": 5,
+          "text": "List the responsibilities of the Nurse Assistant in promoting patient/resident self-care"
+        },
+        {
+          "n": 6,
+          "text": "List activities that make up Activities of Daily Living (ADLs)"
+        },
+        {
+          "n": 7,
+          "text": "List common comfort and adaptive devices and explain the purposes of each"
+        },
+        {
+          "n": 8,
+          "text": "Identify steps to prevent complications from inactivity"
+        },
+        {
+          "n": 9,
+          "text": "Describe range-of-motion exercises (ROM)"
+        },
+        {
+          "n": 10,
+          "text": "Identify procedures and devices used to promote mobility and ambulation for patients/residents with physical and/or visual impairment"
+        },
+        {
+          "n": 11,
+          "text": "Discuss relationship between patient’s/resident’s self-esteem and family involvement in care"
+        },
+        {
+          "n": 12,
+          "text": "Discuss the process of documentation and the Nurse Assistant role in care plan meeting"
+        }
+      ]
+    },
+    {
+      "cccco_module": 15,
+      "title": "Module 15: Observation and Charting",
+      "theory_hours": "4",
+      "statement_of_purpose": "The purpose of this unit is to prepare students to know how, when, and why to use objective and subjective observation skills. They will report and record observations on appropriate documents using medical terms and abbreviations.",
+      "objective_count": 8,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Identify word elements used in medical terms"
+        },
+        {
+          "n": 3,
+          "text": "Identify medical terminology and abbreviations commonly used in medical facilities"
+        },
+        {
+          "n": 4,
+          "text": "Define observation and list the senses used to observe a patient/resident."
+        },
+        {
+          "n": 5,
+          "text": "Describe objective and subjective observations"
+        },
+        {
+          "n": 6,
+          "text": "List types of charting documents and the use for each"
+        },
+        {
+          "n": 7,
+          "text": "Explain how to accurately complete ADL assessment for MDS"
+        },
+        {
+          "n": 8,
+          "text": "Discuss procedures to use when recording on a patient’s/resident’s chart"
+        }
+      ]
+    },
+    {
+      "cccco_module": 16,
+      "title": "Module 16: Death and Dying",
+      "theory_hours": "2",
+      "statement_of_purpose": "The Nurse Assistant is introduced to the various stages of the grieving process and physical signs of approaching death. This unit introduces death as a normal stage of life. The health care provider must recognize the physical, psychological, and spiritual needs of the patient/resident during this period to understand coping mechanisms and provide support to the patient/resident and family members.",
+      "objective_count": 8,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Describe the five stages of the grieving process according to Dr. Kubler-Ross"
+        },
+        {
+          "n": 3,
+          "text": "Describe approaches to meet common emotional and spiritual needs of terminally ill patients/residents and their families"
+        },
+        {
+          "n": 4,
+          "text": "List the rights of the dying patient/resident"
+        },
+        {
+          "n": 5,
+          "text": "Differentiate between common signs of approaching death and biological death"
+        },
+        {
+          "n": 6,
+          "text": "Identify care and comfort measures for dying patients/residents"
+        },
+        {
+          "n": 7,
+          "text": "Identify the philosophy and goals of hospice and the Nurse Assistant’s role when the patient/resident is cared for by a licensed hospice nurse"
+        },
+        {
+          "n": 8,
+          "text": "Describe procedures and responsibilities for postmortem care"
+        }
+      ]
+    },
+    {
+      "cccco_module": 17,
+      "title": "Module 17: Patient/Resident Abuse",
+      "theory_hours": "6",
+      "statement_of_purpose": "The purpose of this unit is to introduce the Nurse Assistant to patient/resident abuse. The module will focus on the nurse assistant role in preventing, recognizing, and reporting instances of patient/resident abuse.",
+      "objective_count": 5,
+      "objectives": [
+        {
+          "n": 1,
+          "text": "Define key terminology"
+        },
+        {
+          "n": 2,
+          "text": "Identify and discuss types of elder abuse"
+        },
+        {
+          "n": 3,
+          "text": "Discuss the issues related to elder abuse"
+        },
+        {
+          "n": 4,
+          "text": "Explain the Nurse Assistant role in preventing elder abuse"
+        },
+        {
+          "n": 5,
+          "text": "Describe the Nurse Assistant role in reporting elder abuse"
+        }
+      ]
+    }
+  ]
+}

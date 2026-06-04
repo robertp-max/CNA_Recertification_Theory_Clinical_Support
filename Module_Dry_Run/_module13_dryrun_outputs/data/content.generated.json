@@ -1,0 +1,2199 @@
+{
+  "app_copy": {
+    "dashboard": {
+      "badge": "Module 13 Dry Run",
+      "title": "NATP Module 13: Long Term Care Resident",
+      "summary": "Source-first dry run generated from approved NATP Module 13 PDF.",
+      "theory_card": "780 minutes of source-recommended, source-traced theory mapping.",
+      "clinical_card": "4 clinical hours are source-required only and deferred; not online credit.",
+      "audit_card": "Source map, manifests, and validation report generated for audit review.",
+      "compliance_notice": "No approval, certificate production, online clinical credit, or online competency validation is claimed."
+    },
+    "module0": {
+      "eyebrow": "Module 13 only",
+      "title": "NATP Module 13: Long Term Care Resident",
+      "intro": "This dry run contains Module 13 only.",
+      "acknowledgements": [
+        {
+          "key": "identity",
+          "text": "I understand this is a Module 13 dry run."
+        },
+        {
+          "key": "onlineCap",
+          "text": "I understand clinical time is not online credit."
+        },
+        {
+          "key": "clinicalBoundary",
+          "text": "I understand hands-on competency is deferred."
+        }
+      ]
+    },
+    "moduleAssessment": {
+      "title": "Module 13 Knowledge Check",
+      "summary": "Source-traced objective checks for Module 13 only."
+    },
+    "final": {
+      "title": "Module 13 Review Check",
+      "summary": "Dry-run review only; no production final exam claim.",
+      "no_key_notice": "Answer keys are internal-only.",
+      "pass_title": "Module 13 Review Complete",
+      "pass_body": "Dry-run only; no certificate or approval claim.",
+      "fail_title": "Review Module 13 Objectives"
+    },
+    "certificate": {
+      "checklist_title": "Certificate Disabled for Dry Run",
+      "intro": "Certificate production is not part of this Module 13 dry run.",
+      "locked_body": "Certificate remains locked and non-production.",
+      "ready_body": "Dry-run complete does not issue a production certificate.",
+      "restriction": "No clinical-hour credit, CDPH/TPRU approval, or online hands-on competency validation is claimed.",
+      "affidavit_text": "I confirm this is a non-production Module 13 dry run."
+    },
+    "clinicalHub": {
+      "eyebrow": "Clinical boundary",
+      "badge": "Deferred",
+      "title": "Clinical Support Deferred",
+      "warning": "Clinical practice is source-required only and not online credit.",
+      "documentation_title": "Documentation Support",
+      "documentation_warning": "Do not enter PHI. Use fictional, de-identified practice only.",
+      "scenarios": [
+        {
+          "title": "In-person clinical practice deferred",
+          "body": "Reality-orientation/manual skills and any hands-on performance require evaluator-supported practice and are not validated online.",
+          "action": "Use as theory preparation only"
+        }
+      ]
+    }
+  },
+  "control_facts": {
+    "theory_total_minutes": 780,
+    "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf"
+  },
+  "clinical_support": {
+    "units": [],
+    "confidence_checks": []
+  },
+  "modules": [
+    {
+      "module_id": "M13",
+      "module_title": "NATP Module 13: Long Term Care Resident",
+      "short_title": "Long Term Care Resident",
+      "estimated_minutes": 780,
+      "status": "ready",
+      "counts_toward_theory": true,
+      "source_status_flag": "Generated from approved Module 13 PDF source map.",
+      "sme_review_flag": "SME review required before production.",
+      "compliance_review_flag": "Dry-run only; no approval/credit/certificate/competency claim.",
+      "learning_objectives": [
+        "Define key terminology",
+        "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+        "Describe common community resources to meet the needs of the elderly",
+        "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+        "Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+        "Describe the body’s basic organization and composition",
+        "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+        "Describe changes in body systems associated with aging"
+      ],
+      "lessons": [
+        {
+          "lesson_id": "L01",
+          "lesson_title": "Objective 1: Define key terminology",
+          "estimated_minutes": 60,
+          "objective_number": 1,
+          "weighted_minutes": 60,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L01",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l01.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l1",
+                "location": "module.m13.lesson.l01.card.c01_overview"
+              },
+              "scene_title": "Objective 1 Overview",
+              "display_title": "Objective 1 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Overview",
+                "alt_text": "Training visual: Objective 1 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 1: Define key terminology. Weighted source-recommended theory time: 60 minutes. Source pages: 7.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "This lesson covers Objective 1: Define key terminology. Weighted source-recommended theory time: 60 minutes. Source pages: 7.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 1 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Acute",
+                  "definition": "Source terminology/topic from Module 13: Acute."
+                },
+                {
+                  "term": "Assisted living",
+                  "definition": "Source terminology/topic from Module 13: Assisted living."
+                },
+                {
+                  "term": "Chronic",
+                  "definition": "Source terminology/topic from Module 13: Chronic."
+                },
+                {
+                  "term": "Debilitating",
+                  "definition": "Source terminology/topic from Module 13: Debilitating."
+                },
+                {
+                  "term": "Dementia",
+                  "definition": "Source terminology/topic from Module 13: Dementia."
+                },
+                {
+                  "term": "Long-term care",
+                  "definition": "Source terminology/topic from Module 13: Long-term care."
+                },
+                {
+                  "term": "Reality orientation",
+                  "definition": "Source terminology/topic from Module 13: Reality orientation."
+                },
+                {
+                  "term": "Reminiscing",
+                  "definition": "Source terminology/topic from Module 13: Reminiscing."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 1: Define key terminology. Weighted source-recommended theory time: 60 minutes. Source pages: 7.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L01",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l01.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l1",
+                "location": "module.m13.lesson.l01.card.c02_delivery"
+              },
+              "scene_title": "Objective 1 Source Teaching",
+              "display_title": "Objective 1 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Source Teaching",
+                "alt_text": "Training visual: Objective 1 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Review, spell, pronounce, and use Module 13 terminology in proper context. Terminology covers long-term care resident vocabulary, medical/anatomical terms, body-system terms, conditions, signs/symptoms, and care-related vocabulary. Use terms appropriately when charting and reporting to licensed personnel.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Source-traced teaching outline: Review, spell, pronounce, and use Module 13 terminology in proper context. Terminology covers long-term care resident vocabulary, medical/anatomical terms, body-system terms, conditions, signs/symptoms, and care-related vocabulary. Use terms appropriately when charting and reporting to licensed personnel.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 1 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Acute",
+                  "definition": "Source terminology/topic from Module 13: Acute."
+                },
+                {
+                  "term": "Assisted living",
+                  "definition": "Source terminology/topic from Module 13: Assisted living."
+                },
+                {
+                  "term": "Chronic",
+                  "definition": "Source terminology/topic from Module 13: Chronic."
+                },
+                {
+                  "term": "Debilitating",
+                  "definition": "Source terminology/topic from Module 13: Debilitating."
+                },
+                {
+                  "term": "Dementia",
+                  "definition": "Source terminology/topic from Module 13: Dementia."
+                },
+                {
+                  "term": "Long-term care",
+                  "definition": "Source terminology/topic from Module 13: Long-term care."
+                },
+                {
+                  "term": "Reality orientation",
+                  "definition": "Source terminology/topic from Module 13: Reality orientation."
+                },
+                {
+                  "term": "Reminiscing",
+                  "definition": "Source terminology/topic from Module 13: Reminiscing."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Review, spell, pronounce, and use Module 13 terminology in proper context. Terminology covers long-term care resident vocabulary, medical/anatomical terms, body-system terms, conditions, signs/symptoms, and care-related vocabulary. Use terms appropriately when charting and reporting to licensed personnel.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L01",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l01.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l1",
+                "location": "module.m13.lesson.l01.card.c03_challenge"
+              },
+              "scene_title": "Objective 1 Practice Check",
+              "display_title": "Objective 1 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Practice Check",
+                "alt_text": "Training visual: Objective 1 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 1 using source-traced Module 13 content.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Practice applying Objective 1 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 1 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Acute",
+                  "definition": "Source terminology/topic from Module 13: Acute."
+                },
+                {
+                  "term": "Assisted living",
+                  "definition": "Source terminology/topic from Module 13: Assisted living."
+                },
+                {
+                  "term": "Chronic",
+                  "definition": "Source terminology/topic from Module 13: Chronic."
+                },
+                {
+                  "term": "Debilitating",
+                  "definition": "Source terminology/topic from Module 13: Debilitating."
+                },
+                {
+                  "term": "Dementia",
+                  "definition": "Source terminology/topic from Module 13: Dementia."
+                },
+                {
+                  "term": "Long-term care",
+                  "definition": "Source terminology/topic from Module 13: Long-term care."
+                },
+                {
+                  "term": "Reality orientation",
+                  "definition": "Source terminology/topic from Module 13: Reality orientation."
+                },
+                {
+                  "term": "Reminiscing",
+                  "definition": "Source terminology/topic from Module 13: Reminiscing."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 1 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O01-KC",
+                "app_location": "module.m13.lesson.l01.challenge",
+                "prompt": "For Module 13 Objective 1, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L01",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l01.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l1",
+                "location": "module.m13.lesson.l01.card.c04_debrief"
+              },
+              "scene_title": "Objective 1 Debrief",
+              "display_title": "Objective 1 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Debrief",
+                "alt_text": "Training visual: Objective 1 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 1: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Review the safest source-traced response for Objective 1: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 1 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Acute",
+                  "definition": "Source terminology/topic from Module 13: Acute."
+                },
+                {
+                  "term": "Assisted living",
+                  "definition": "Source terminology/topic from Module 13: Assisted living."
+                },
+                {
+                  "term": "Chronic",
+                  "definition": "Source terminology/topic from Module 13: Chronic."
+                },
+                {
+                  "term": "Debilitating",
+                  "definition": "Source terminology/topic from Module 13: Debilitating."
+                },
+                {
+                  "term": "Dementia",
+                  "definition": "Source terminology/topic from Module 13: Dementia."
+                },
+                {
+                  "term": "Long-term care",
+                  "definition": "Source terminology/topic from Module 13: Long-term care."
+                },
+                {
+                  "term": "Reality orientation",
+                  "definition": "Source terminology/topic from Module 13: Reality orientation."
+                },
+                {
+                  "term": "Reminiscing",
+                  "definition": "Source terminology/topic from Module 13: Reminiscing."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 1: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L02",
+          "lesson_title": "Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+          "estimated_minutes": 60,
+          "objective_number": 2,
+          "weighted_minutes": 60,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L02",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l02.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l2",
+                "location": "module.m13.lesson.l02.card.c01_overview"
+              },
+              "scene_title": "Objective 2 Overview",
+              "display_title": "Objective 2 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Overview",
+                "alt_text": "Training visual: Objective 2 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual. Weighted source-recommended theory time: 60 minutes. Source pages: 7, 8, 9.",
+              "learning_goal": "Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+              "learner_facing_content": "This lesson covers Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual. Weighted source-recommended theory time: 60 minutes. Source pages: 7, 8, 9.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 2 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+                  "definition": "Source terminology/topic from Module 13: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.."
+                },
+                {
+                  "term": "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+                  "definition": "Source terminology/topic from Module 13: Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.."
+                },
+                {
+                  "term": "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+                  "definition": "Source terminology/topic from Module 13: Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual. Weighted source-recommended theory time: 60 minutes. Source pages: 7, 8, 9.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L02",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l02.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l2",
+                "location": "module.m13.lesson.l02.card.c02_delivery"
+              },
+              "scene_title": "Objective 2 Source Teaching",
+              "display_title": "Objective 2 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Source Teaching",
+                "alt_text": "Training visual: Objective 2 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control. Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence. Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices. Report unusual signs to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+              "learner_facing_content": "Source-traced teaching outline: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control. Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence. Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices. Report unusual signs to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 2 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+                  "definition": "Source terminology/topic from Module 13: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.."
+                },
+                {
+                  "term": "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+                  "definition": "Source terminology/topic from Module 13: Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.."
+                },
+                {
+                  "term": "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+                  "definition": "Source terminology/topic from Module 13: Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control. Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence. Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices. Report unusual signs to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L02",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l02.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l2",
+                "location": "module.m13.lesson.l02.card.c03_challenge"
+              },
+              "scene_title": "Objective 2 Practice Check",
+              "display_title": "Objective 2 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Practice Check",
+                "alt_text": "Training visual: Objective 2 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 2 using source-traced Module 13 content.",
+              "learning_goal": "Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+              "learner_facing_content": "Practice applying Objective 2 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 2 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+                  "definition": "Source terminology/topic from Module 13: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.."
+                },
+                {
+                  "term": "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+                  "definition": "Source terminology/topic from Module 13: Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.."
+                },
+                {
+                  "term": "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+                  "definition": "Source terminology/topic from Module 13: Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 2 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O02-KC",
+                "app_location": "module.m13.lesson.l02.challenge",
+                "prompt": "For Module 13 Objective 2, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L02",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l02.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l2",
+                "location": "module.m13.lesson.l02.card.c04_debrief"
+              },
+              "scene_title": "Objective 2 Debrief",
+              "display_title": "Objective 2 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Debrief",
+                "alt_text": "Training visual: Objective 2 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 2: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 2: Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+              "learner_facing_content": "Review the safest source-traced response for Objective 2: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 2 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.",
+                  "definition": "Source terminology/topic from Module 13: Environmental/physical needs: safety, shelter, balanced nutrition, adequate fluids, support/adaptive devices, personal hygiene, and environmental control.."
+                },
+                {
+                  "term": "Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.",
+                  "definition": "Source terminology/topic from Module 13: Psychological needs: maintain self-esteem, respectful treatment, individual differences, privacy, choices, activities, and adjustment to role change/loss of independence.."
+                },
+                {
+                  "term": "Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.",
+                  "definition": "Source terminology/topic from Module 13: Social, recreational, and spiritual needs: family/community involvement, reminiscing, new social contacts, social services, hobbies, compliments, positive traits/abilities, respect for religious choices.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 2: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L03",
+          "lesson_title": "Objective 3: Describe common community resources to meet the needs of the elderly",
+          "estimated_minutes": 45,
+          "objective_number": 3,
+          "weighted_minutes": 45,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L03",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l03.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l3",
+                "location": "module.m13.lesson.l03.card.c01_overview"
+              },
+              "scene_title": "Objective 3 Overview",
+              "display_title": "Objective 3 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Overview",
+                "alt_text": "Training visual: Objective 3 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 3: Describe common community resources to meet the needs of the elderly. Weighted source-recommended theory time: 45 minutes. Source pages: 9, 10.",
+              "learning_goal": "Objective 3: Describe common community resources to meet the needs of the elderly",
+              "learner_facing_content": "This lesson covers Objective 3: Describe common community resources to meet the needs of the elderly. Weighted source-recommended theory time: 45 minutes. Source pages: 9, 10.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 3 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+                  "definition": "Source terminology/topic from Module 13: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.."
+                },
+                {
+                  "term": "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 3: Describe common community resources to meet the needs of the elderly. Weighted source-recommended theory time: 45 minutes. Source pages: 9, 10.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L03",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l03.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l3",
+                "location": "module.m13.lesson.l03.card.c02_delivery"
+              },
+              "scene_title": "Objective 3 Source Teaching",
+              "display_title": "Objective 3 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Source Teaching",
+                "alt_text": "Training visual: Objective 3 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations. Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 3: Describe common community resources to meet the needs of the elderly",
+              "learner_facing_content": "Source-traced teaching outline: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations. Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 3 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+                  "definition": "Source terminology/topic from Module 13: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.."
+                },
+                {
+                  "term": "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations. Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L03",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l03.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l3",
+                "location": "module.m13.lesson.l03.card.c03_challenge"
+              },
+              "scene_title": "Objective 3 Practice Check",
+              "display_title": "Objective 3 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Practice Check",
+                "alt_text": "Training visual: Objective 3 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 3 using source-traced Module 13 content.",
+              "learning_goal": "Objective 3: Describe common community resources to meet the needs of the elderly",
+              "learner_facing_content": "Practice applying Objective 3 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 3 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+                  "definition": "Source terminology/topic from Module 13: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.."
+                },
+                {
+                  "term": "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 3 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O03-KC",
+                "app_location": "module.m13.lesson.l03.challenge",
+                "prompt": "For Module 13 Objective 3, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L03",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l03.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l3",
+                "location": "module.m13.lesson.l03.card.c04_debrief"
+              },
+              "scene_title": "Objective 3 Debrief",
+              "display_title": "Objective 3 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Debrief",
+                "alt_text": "Training visual: Objective 3 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 3: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 3: Describe common community resources to meet the needs of the elderly",
+              "learner_facing_content": "Review the safest source-traced response for Objective 3: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 3 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.",
+                  "definition": "Source terminology/topic from Module 13: Community resources include Area Agency on Aging, adult day care, support groups, county health centers, hospitals/hospice, IRS information, ombudsman, Meals on Wheels, Medicare/Social Security, mental health, NAMI, ADA, APS, Red Cross/BP clinics, senior centers/housing, suicide prevention, home health, AARP, regional centers, and faith/social organizations.."
+                },
+                {
+                  "term": "Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant role is to assist licensed staff in sharing appropriate resource information and report unusual signs/symptoms to the licensed nurse.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 3: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L04",
+          "lesson_title": "Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+          "estimated_minutes": 120,
+          "objective_number": 4,
+          "weighted_minutes": 120,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L04",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l04.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l4",
+                "location": "module.m13.lesson.l04.card.c01_overview"
+              },
+              "scene_title": "Objective 4 Overview",
+              "display_title": "Objective 4 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Overview",
+                "alt_text": "Training visual: Objective 4 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness. Weighted source-recommended theory time: 120 minutes. Source pages: 10, 11, 12, 13, 14, 15.",
+              "learning_goal": "Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+              "learner_facing_content": "This lesson covers Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness. Weighted source-recommended theory time: 120 minutes. Source pages: 10, 11, 12, 13, 14, 15.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 4 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+                  "definition": "Source terminology/topic from Module 13: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.."
+                },
+                {
+                  "term": "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness. Weighted source-recommended theory time: 120 minutes. Source pages: 10, 11, 12, 13, 14, 15.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L04",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l04.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l4",
+                "location": "module.m13.lesson.l04.card.c02_delivery"
+              },
+              "scene_title": "Objective 4 Source Teaching",
+              "display_title": "Objective 4 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Source Teaching",
+                "alt_text": "Training visual: Objective 4 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation. Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+              "learner_facing_content": "Source-traced teaching outline: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation. Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 4 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+                  "definition": "Source terminology/topic from Module 13: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.."
+                },
+                {
+                  "term": "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation. Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L04",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l04.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l4",
+                "location": "module.m13.lesson.l04.card.c03_challenge"
+              },
+              "scene_title": "Objective 4 Practice Check",
+              "display_title": "Objective 4 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Practice Check",
+                "alt_text": "Training visual: Objective 4 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 4 using source-traced Module 13 content.",
+              "learning_goal": "Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+              "learner_facing_content": "Practice applying Objective 4 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 4 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+                  "definition": "Source terminology/topic from Module 13: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.."
+                },
+                {
+                  "term": "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 4 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O04-KC",
+                "app_location": "module.m13.lesson.l04.challenge",
+                "prompt": "For Module 13 Objective 4, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L04",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l04.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l4",
+                "location": "module.m13.lesson.l04.card.c04_debrief"
+              },
+              "scene_title": "Objective 4 Debrief",
+              "display_title": "Objective 4 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Debrief",
+                "alt_text": "Training visual: Objective 4 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 4: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 4: Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+              "learner_facing_content": "Review the safest source-traced response for Objective 4: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 4 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.",
+                  "definition": "Source terminology/topic from Module 13: Special needs and care approaches for epilepsy/seizure disorders, Parkinson’s disease, schizophrenia, hypochondriasis, depression, suicidal patient/resident, intellectual/developmental disabilities, cerebral palsy, alcoholism/drug abuse, and agitation.."
+                },
+                {
+                  "term": "Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.",
+                  "definition": "Source terminology/topic from Module 13: Nurse Assistant duties include safety, calm environment, dignity/privacy, normalization, observation/reporting, following the care plan, seizure safety steps, assistive-device support, emotional support, boundaries, and urgent reporting of danger, withdrawal, suicidal statements, or worsening behavior.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 4: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L05",
+          "lesson_title": "Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+          "estimated_minutes": 120,
+          "objective_number": 5,
+          "weighted_minutes": 120,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L05",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l05.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l5",
+                "location": "module.m13.lesson.l05.card.c01_overview"
+              },
+              "scene_title": "Objective 5 Overview",
+              "display_title": "Objective 5 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Overview",
+                "alt_text": "Training visual: Objective 5 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias. Weighted source-recommended theory time: 120 minutes. Source pages: 15, 16, 17, 18, 19, 20.",
+              "learning_goal": "Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+              "learner_facing_content": "This lesson covers Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias. Weighted source-recommended theory time: 120 minutes. Source pages: 15, 16, 17, 18, 19, 20.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 5 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+                  "definition": "Source terminology/topic from Module 13: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.."
+                },
+                {
+                  "term": "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+                  "definition": "Source terminology/topic from Module 13: Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.."
+                },
+                {
+                  "term": "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.",
+                  "definition": "Source terminology/topic from Module 13: Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias. Weighted source-recommended theory time: 120 minutes. Source pages: 15, 16, 17, 18, 19, 20.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L05",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l05.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l5",
+                "location": "module.m13.lesson.l05.card.c02_delivery"
+              },
+              "scene_title": "Objective 5 Source Teaching",
+              "display_title": "Objective 5 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Source Teaching",
+                "alt_text": "Training visual: Objective 5 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias. Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports. Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+              "learner_facing_content": "Source-traced teaching outline: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias. Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports. Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 5 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+                  "definition": "Source terminology/topic from Module 13: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.."
+                },
+                {
+                  "term": "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+                  "definition": "Source terminology/topic from Module 13: Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.."
+                },
+                {
+                  "term": "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.",
+                  "definition": "Source terminology/topic from Module 13: Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias. Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports. Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L05",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l05.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l5",
+                "location": "module.m13.lesson.l05.card.c03_challenge"
+              },
+              "scene_title": "Objective 5 Practice Check",
+              "display_title": "Objective 5 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Practice Check",
+                "alt_text": "Training visual: Objective 5 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 5 using source-traced Module 13 content.",
+              "learning_goal": "Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+              "learner_facing_content": "Practice applying Objective 5 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 5 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+                  "definition": "Source terminology/topic from Module 13: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.."
+                },
+                {
+                  "term": "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+                  "definition": "Source terminology/topic from Module 13: Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.."
+                },
+                {
+                  "term": "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.",
+                  "definition": "Source terminology/topic from Module 13: Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 5 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O05-KC",
+                "app_location": "module.m13.lesson.l05.challenge",
+                "prompt": "For Module 13 Objective 5, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L05",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l05.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l5",
+                "location": "module.m13.lesson.l05.card.c04_debrief"
+              },
+              "scene_title": "Objective 5 Debrief",
+              "display_title": "Objective 5 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Debrief",
+                "alt_text": "Training visual: Objective 5 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 5: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 5: Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+              "learner_facing_content": "Review the safest source-traced response for Objective 5: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 5 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.",
+                  "definition": "Source terminology/topic from Module 13: Differentiate dementia, delirium, and depression; describe signs/symptoms and progression of Alzheimer’s disease and related dementias.."
+                },
+                {
+                  "term": "Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.",
+                  "definition": "Source terminology/topic from Module 13: Care approaches include injury prevention, compassion, independence as long as possible, activities within capability, dignity/self-esteem, structured quiet environment, short simple directions, observing for illness, grooming support, food/fluid monitoring, safe feeding support, appropriate touch, nonverbal communication recognition, distraction/diversion, validation therapy, reminiscing, music/animal therapy, and safety/environmental orientation supports.."
+                },
+                {
+                  "term": "Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.",
+                  "definition": "Source terminology/topic from Module 13: Risk factors and abuse risk are identified, including modifiable and non-modifiable factors.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 5: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L06",
+          "lesson_title": "Objective 6: Describe the body’s basic organization and composition",
+          "estimated_minutes": 45,
+          "objective_number": 6,
+          "weighted_minutes": 45,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L06",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l06.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l6",
+                "location": "module.m13.lesson.l06.card.c01_overview"
+              },
+              "scene_title": "Objective 6 Overview",
+              "display_title": "Objective 6 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Overview",
+                "alt_text": "Training visual: Objective 6 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 6: Describe the body’s basic organization and composition. Weighted source-recommended theory time: 45 minutes. Source pages: 20, 21.",
+              "learning_goal": "Objective 6: Describe the body’s basic organization and composition",
+              "learner_facing_content": "This lesson covers Objective 6: Describe the body’s basic organization and composition. Weighted source-recommended theory time: 45 minutes. Source pages: 20, 21.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 6 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+                  "definition": "Source terminology/topic from Module 13: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.."
+                },
+                {
+                  "term": "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.",
+                  "definition": "Source terminology/topic from Module 13: Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 6: Describe the body’s basic organization and composition. Weighted source-recommended theory time: 45 minutes. Source pages: 20, 21.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L06",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l06.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l6",
+                "location": "module.m13.lesson.l06.card.c02_delivery"
+              },
+              "scene_title": "Objective 6 Source Teaching",
+              "display_title": "Objective 6 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Source Teaching",
+                "alt_text": "Training visual: Objective 6 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease. Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 6: Describe the body’s basic organization and composition",
+              "learner_facing_content": "Source-traced teaching outline: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease. Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 6 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+                  "definition": "Source terminology/topic from Module 13: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.."
+                },
+                {
+                  "term": "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.",
+                  "definition": "Source terminology/topic from Module 13: Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease. Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L06",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l06.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l6",
+                "location": "module.m13.lesson.l06.card.c03_challenge"
+              },
+              "scene_title": "Objective 6 Practice Check",
+              "display_title": "Objective 6 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Practice Check",
+                "alt_text": "Training visual: Objective 6 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 6 using source-traced Module 13 content.",
+              "learning_goal": "Objective 6: Describe the body’s basic organization and composition",
+              "learner_facing_content": "Practice applying Objective 6 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 6 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+                  "definition": "Source terminology/topic from Module 13: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.."
+                },
+                {
+                  "term": "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.",
+                  "definition": "Source terminology/topic from Module 13: Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 6 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O06-KC",
+                "app_location": "module.m13.lesson.l06.challenge",
+                "prompt": "For Module 13 Objective 6, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L06",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l06.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l6",
+                "location": "module.m13.lesson.l06.card.c04_debrief"
+              },
+              "scene_title": "Objective 6 Debrief",
+              "display_title": "Objective 6 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Debrief",
+                "alt_text": "Training visual: Objective 6 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 6: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 6: Describe the body’s basic organization and composition",
+              "learner_facing_content": "Review the safest source-traced response for Objective 6: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 6 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.",
+                  "definition": "Source terminology/topic from Module 13: Body organization and composition: anatomy vs physiology; cells; four tissue types; organs; systems; ten major body systems; health; disease.."
+                },
+                {
+                  "term": "Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.",
+                  "definition": "Source terminology/topic from Module 13: Cells need food, water, and oxygen; tissues/organs/systems perform specialized functions.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 6: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L07",
+          "lesson_title": "Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+          "estimated_minutes": 270,
+          "objective_number": 7,
+          "weighted_minutes": 270,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L07",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l07.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l7",
+                "location": "module.m13.lesson.l07.card.c01_overview"
+              },
+              "scene_title": "Objective 7 Overview",
+              "display_title": "Objective 7 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Overview",
+                "alt_text": "Training visual: Objective 7 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility. Weighted source-recommended theory time: 270 minutes. Source pages: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56.",
+              "learning_goal": "Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+              "learner_facing_content": "This lesson covers Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility. Weighted source-recommended theory time: 270 minutes. Source pages: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 7 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+                  "definition": "Source terminology/topic from Module 13: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.."
+                },
+                {
+                  "term": "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+                  "definition": "Source terminology/topic from Module 13: For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.."
+                },
+                {
+                  "term": "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.",
+                  "definition": "Source terminology/topic from Module 13: Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility. Weighted source-recommended theory time: 270 minutes. Source pages: 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L07",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l07.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l7",
+                "location": "module.m13.lesson.l07.card.c02_delivery"
+              },
+              "scene_title": "Objective 7 Source Teaching",
+              "display_title": "Objective 7 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Source Teaching",
+                "alt_text": "Training visual: Objective 7 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems. For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility. Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+              "learner_facing_content": "Source-traced teaching outline: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems. For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility. Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 7 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+                  "definition": "Source terminology/topic from Module 13: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.."
+                },
+                {
+                  "term": "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+                  "definition": "Source terminology/topic from Module 13: For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.."
+                },
+                {
+                  "term": "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.",
+                  "definition": "Source terminology/topic from Module 13: Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems. For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility. Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L07",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l07.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l7",
+                "location": "module.m13.lesson.l07.card.c03_challenge"
+              },
+              "scene_title": "Objective 7 Practice Check",
+              "display_title": "Objective 7 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Practice Check",
+                "alt_text": "Training visual: Objective 7 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 7 using source-traced Module 13 content.",
+              "learning_goal": "Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+              "learner_facing_content": "Practice applying Objective 7 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 7 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+                  "definition": "Source terminology/topic from Module 13: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.."
+                },
+                {
+                  "term": "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+                  "definition": "Source terminology/topic from Module 13: For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.."
+                },
+                {
+                  "term": "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.",
+                  "definition": "Source terminology/topic from Module 13: Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 7 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O07-KC",
+                "app_location": "module.m13.lesson.l07.challenge",
+                "prompt": "For Module 13 Objective 7, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L07",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l07.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l7",
+                "location": "module.m13.lesson.l07.card.c04_debrief"
+              },
+              "scene_title": "Objective 7 Debrief",
+              "display_title": "Objective 7 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Debrief",
+                "alt_text": "Training visual: Objective 7 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 7: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 7: List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+              "learner_facing_content": "Review the safest source-traced response for Objective 7: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 7 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.",
+                  "definition": "Source terminology/topic from Module 13: Body systems: integumentary, respiratory, cardiovascular, musculoskeletal, endocrine, nervous, gastrointestinal, urinary, reproductive, and immune systems.."
+                },
+                {
+                  "term": "For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.",
+                  "definition": "Source terminology/topic from Module 13: For each system, the source outlines basic anatomy/physiology, common diseases/disorders, signs and symptoms, Nurse Assistant duties/observations, reportable changes, and complications of immobility.."
+                },
+                {
+                  "term": "Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.",
+                  "definition": "Source terminology/topic from Module 13: Examples include skin lesions/wounds, pressure sores, lice/scabies, URI, pneumonia, COPD, asthma, TB, CHF/CAD/MI/PVD/anemia/hypertension, arthritis/fractures/osteoporosis/gout/amputation, diabetes/thyroid, stroke/TIA/seizures/Parkinson’s/MS/vision/hearing/cognitive/mental conditions, bowel/ostomy/G-tube concerns, UTI/renal issues/catheters, reproductive conditions, and immune/HIV/AIDS considerations.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 7: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L08",
+          "lesson_title": "Objective 8: Describe changes in body systems associated with aging",
+          "estimated_minutes": 60,
+          "objective_number": 8,
+          "weighted_minutes": 60,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59",
+          "cards": [
+            {
+              "module_id": "M13",
+              "lesson_id": "L08",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m13.lesson.l08.card.c01_overview",
+              "app": {
+                "route": "/modules/m13/lesson/l8",
+                "location": "module.m13.lesson.l08.card.c01_overview"
+              },
+              "scene_title": "Objective 8 Overview",
+              "display_title": "Objective 8 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Overview",
+                "alt_text": "Training visual: Objective 8 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 8: Describe changes in body systems associated with aging. Weighted source-recommended theory time: 60 minutes. Source pages: 56, 57, 58, 59.",
+              "learning_goal": "Objective 8: Describe changes in body systems associated with aging",
+              "learner_facing_content": "This lesson covers Objective 8: Describe changes in body systems associated with aging. Weighted source-recommended theory time: 60 minutes. Source pages: 56, 57, 58, 59.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 8 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+                  "definition": "Source terminology/topic from Module 13: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.."
+                },
+                {
+                  "term": "Report signs and symptoms to the licensed nurse and apply source-aligned care measures.",
+                  "definition": "Source terminology/topic from Module 13: Report signs and symptoms to the licensed nurse and apply source-aligned care measures.."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 8: Describe changes in body systems associated with aging. Weighted source-recommended theory time: 60 minutes. Source pages: 56, 57, 58, 59.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L08",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m13.lesson.l08.card.c02_delivery",
+              "app": {
+                "route": "/modules/m13/lesson/l8",
+                "location": "module.m13.lesson.l08.card.c02_delivery"
+              },
+              "scene_title": "Objective 8 Source Teaching",
+              "display_title": "Objective 8 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Source Teaching",
+                "alt_text": "Training visual: Objective 8 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes. Report signs and symptoms to the licensed nurse and apply source-aligned care measures.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 8: Describe changes in body systems associated with aging",
+              "learner_facing_content": "Source-traced teaching outline: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes. Report signs and symptoms to the licensed nurse and apply source-aligned care measures.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 8 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+                  "definition": "Source terminology/topic from Module 13: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.."
+                },
+                {
+                  "term": "Report signs and symptoms to the licensed nurse and apply source-aligned care measures.",
+                  "definition": "Source terminology/topic from Module 13: Report signs and symptoms to the licensed nurse and apply source-aligned care measures.."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes. Report signs and symptoms to the licensed nurse and apply source-aligned care measures.\n\nCNA boundary: follow the care plan and facility policy, observe, document as assigned, and report unusual signs/symptoms or unsafe changes to licensed staff. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L08",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m13.lesson.l08.card.c03_challenge",
+              "app": {
+                "route": "/modules/m13/lesson/l8",
+                "location": "module.m13.lesson.l08.card.c03_challenge"
+              },
+              "scene_title": "Objective 8 Practice Check",
+              "display_title": "Objective 8 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Practice Check",
+                "alt_text": "Training visual: Objective 8 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 8 using source-traced Module 13 content.",
+              "learning_goal": "Objective 8: Describe changes in body systems associated with aging",
+              "learner_facing_content": "Practice applying Objective 8 using source-traced Module 13 content.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 8 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+                  "definition": "Source terminology/topic from Module 13: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.."
+                },
+                {
+                  "term": "Report signs and symptoms to the licensed nurse and apply source-aligned care measures.",
+                  "definition": "Source terminology/topic from Module 13: Report signs and symptoms to the licensed nurse and apply source-aligned care measures.."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 8 using source-traced Module 13 content.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": {
+                "id": "M13-O08-KC",
+                "app_location": "module.m13.lesson.l08.challenge",
+                "prompt": "For Module 13 Objective 8, which response best preserves CNA scope and the source-first boundary?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The source keeps CNA work within care-plan follow-through, observation, documentation where assigned, and reporting to licensed staff; the dry run does not validate competency or claim clinical credit.",
+                "option_rationales_internal": {
+                  "A": "Out of CNA scope.",
+                  "B": "Correct source-aligned scope.",
+                  "C": "Wrong source authority.",
+                  "D": "Prohibited dry-run claim."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59"
+              }
+            },
+            {
+              "module_id": "M13",
+              "lesson_id": "L08",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m13.lesson.l08.card.c04_debrief",
+              "app": {
+                "route": "/modules/m13/lesson/l8",
+                "location": "module.m13.lesson.l08.card.c04_debrief"
+              },
+              "scene_title": "Objective 8 Debrief",
+              "display_title": "Objective 8 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Debrief",
+                "alt_text": "Training visual: Objective 8 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 8: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "learning_goal": "Objective 8: Describe changes in body systems associated with aging",
+              "learner_facing_content": "Review the safest source-traced response for Objective 8: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "why_it_matters": [
+                "This supports Module 13 Objective 8 and CNA observation/reporting/care-plan follow-through boundaries."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified long-term care scenario; report unusual signs/symptoms or unsafe changes to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.",
+                  "definition": "Source terminology/topic from Module 13: Aging changes by system: skin thinning/dryness/bruising, respiratory elasticity/capacity changes, cardiovascular circulation and pump changes, musculoskeletal weakness/loss of tone/mineral loss/fall risk, endocrine/metabolism/sugar/stress changes, nervous reaction/coordination/temperature/sleep/cognition changes, GI saliva/taste/gag/peristalsis/nutrient absorption changes, urinary kidney/bladder/prostate/UTI changes, and reproductive changes.."
+                },
+                {
+                  "term": "Report signs and symptoms to the licensed nurse and apply source-aligned care measures.",
+                  "definition": "Source terminology/topic from Module 13: Report signs and symptoms to the licensed nurse and apply source-aligned care measures.."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 8: stay within CNA scope, use Module 13 source guidance, and report concerns to licensed staff.",
+              "sme_review_flag": "Source-traced draft; SME/compliance review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "assessments": {
+    "module_assessments": {
+      "M13": {
+        "title": "Module 13 Knowledge Check",
+        "pass_percent": 80,
+        "questions": [
+          {
+            "id": "M13-Q01",
+            "prompt": "Objective 1: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7"
+          },
+          {
+            "id": "M13-Q02",
+            "prompt": "Objective 2: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9"
+          },
+          {
+            "id": "M13-Q03",
+            "prompt": "Objective 3: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10"
+          },
+          {
+            "id": "M13-Q04",
+            "prompt": "Objective 4: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15"
+          },
+          {
+            "id": "M13-Q05",
+            "prompt": "Objective 5: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20"
+          },
+          {
+            "id": "M13-Q06",
+            "prompt": "Objective 6: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21"
+          },
+          {
+            "id": "M13-Q07",
+            "prompt": "Objective 7: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56"
+          },
+          {
+            "id": "M13-Q08",
+            "prompt": "Objective 8: Which action best preserves CNA scope and source-traced Module 13 practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+              },
+              {
+                "id": "B",
+                "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+              },
+              {
+                "id": "C",
+                "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59"
+          }
+        ]
+      }
+    },
+    "final_assessment": {
+      "attempt_size": 8,
+      "pass_percent": 80,
+      "answer_key_policy": "Internal scoring only; answer keys are not displayed as learner-facing content.",
+      "remediation_map": {
+        "Objective 1": "Define key terminology",
+        "Objective 2": "Describe common basic human needs and interventions for the elderly patient/resident; environmental, psychological, social, recreational and spiritual",
+        "Objective 3": "Describe common community resources to meet the needs of the elderly",
+        "Objective 4": "Describe the special needs of persons with developmental and mental disorders including intellectual disability, cerebral palsy, epilepsy, Parkinson’s disease, and mental illness",
+        "Objective 5": "Describe the special needs of persons with Alzheimer’s Disease and other related dementias",
+        "Objective 6": "Describe the body’s basic organization and composition",
+        "Objective 7": "List the body systems, including basic anatomy and physiology, common diseases of the elderly with signs and symptoms, Nurse Assistant duties and observations, aging changes and complications of immobility",
+        "Objective 8": "Describe changes in body systems associated with aging"
+      },
+      "questions": [
+        {
+          "id": "M13-Q01",
+          "prompt": "Objective 1: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7"
+        },
+        {
+          "id": "M13-Q02",
+          "prompt": "Objective 2: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9"
+        },
+        {
+          "id": "M13-Q03",
+          "prompt": "Objective 3: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10"
+        },
+        {
+          "id": "M13-Q04",
+          "prompt": "Objective 4: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15"
+        },
+        {
+          "id": "M13-Q05",
+          "prompt": "Objective 5: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20"
+        },
+        {
+          "id": "M13-Q06",
+          "prompt": "Objective 6: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21"
+        },
+        {
+          "id": "M13-Q07",
+          "prompt": "Objective 7: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56"
+        },
+        {
+          "id": "M13-Q08",
+          "prompt": "Objective 8: Which action best preserves CNA scope and source-traced Module 13 practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Independently diagnose, prescribe, or change care outside CNA scope."
+            },
+            {
+              "id": "B",
+              "label": "Follow the care plan/source guidance, observe/document as assigned, and report unusual signs or unsafe changes to licensed staff."
+            },
+            {
+              "id": "C",
+              "label": "Use prior Module 10/11 generated content as the source authority when Module 13 is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Use online dry-run completion as proof of hands-on competency or clinical-hour credit."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59"
+        }
+      ]
+    }
+  }
+}

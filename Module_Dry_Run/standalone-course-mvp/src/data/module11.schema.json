@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Module11SourceFirstContent",
+  "type": "object",
+  "required": [
+    "module_id",
+    "title",
+    "source_authority",
+    "objectives",
+    "total_weighted_minutes"
+  ],
+  "properties": {
+    "module_id": {
+      "const": "M11"
+    },
+    "title": {
+      "const": "NATP Module 11: Nutrition"
+    },
+    "total_weighted_minutes": {
+      "const": 120
+    },
+    "objectives": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10
+    }
+  }
+}

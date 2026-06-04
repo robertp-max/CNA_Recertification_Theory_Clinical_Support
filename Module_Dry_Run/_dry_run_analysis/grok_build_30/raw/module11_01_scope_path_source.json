@@ -1,0 +1,45 @@
+{
+  "id": "ee5eec09-bc3b-43d5-932d-73d2f643a4f0",
+  "object": "chat.completion",
+  "created": 1780592923,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 01_scope_path_source — Module 11**\n\n**Verdict:** FAIL\n\n**Top findings:**\n- [Critical] `Module_Dry_Run/standalone-course-mvp/src/data/contentV2.generated.ts` actively points to Module 13 (`import module13CourseContent from './module13.content.generated.json'; export const courseContentV2 = module13CourseContent;`), not Module 11. Evidence: explicit file content in bundle. Violates single-module active scope.\n- [Critical] Direct contradiction between reports and file state: `final_handoff.md` and `reports/app_integration_notes.md` claim \"repointing `contentV2.generated.ts` to Module 11 data\" and successful Module 11 integration, but the actual `.ts` file content shows Module 13. Evidence: side-by-side comparison of report text vs. provided TS snippet.\n- [High] Generated content contains explicit \"Use Module 10 generated content if the nutrition source is incomplete\" strings (multiple instances) inside what appear to be assessment/quiz structures. Evidence: Risk-Term Contexts section with 4+ repeated contexts. Violates source-first rule and the validation claim `module10_outputs_used_as_authority: false`.\n- [High] App data directory contains active Module 10 and Module 13 generated files (`module10.content.generated.json`, `module13.content.generated.json`, etc.) alongside Module 11 files. Evidence: \"Current App Data State Across Reviewed Modules\" inventory. Creates path mixing and stale cross-module state.\n- [High] `data/module11.activities.json` reports 10 objectives and 120 minutes but lists completely empty objective titles (\"1. ; 2. ; 3. ; ...\"). Evidence: deterministic JSON metrics. Contradicts `module11.content.json` which has proper titles.\n- [Medium] Output root and app root use the generic `Module_Dry_Run` (containing multi-module data) rather than the checkpoint-specified `Module10_Dry_Run` pattern (which is missing: `exists=False`). Evidence: Actual Path / File-State Facts.\n- [Medium] `audio/audio_scripts.csv` is MISSING while JSON narration package is present. Evidence: Output File Inventory. (JSON is the post-patch preference, but the absence is still a gap vs. full inventory.)\n- [Low] Qwen TTS runtime directory does not exist (`qwen_tts: exists=False`, wav_count=0), consistent with \"scripts_only_no_audio_generated\" status but confirms no actual TTS execution occurred.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| Source PDF exists and is declared authority | PASS | `CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf` (size=400160); `source_authority` fields in `source_objective_map.json`, `module11.content.json`, and `module11.activities.json` all point to it |\n| Objectives exactly 10 (Module 11 declared value) | PASS | `source_objective_map.json` and `module11.content.json`: count=10; titles match source PDF refs |\n| Weighted theory minutes exactly 120 | PASS | `theory_minutes_total: 120`, `total_weighted_minutes: 120`; `time_allotment_report.md` sums to 120 |\n| Active scope limited to one module only | FAIL | contentV2 points to module13; mixed module10/11/13 files in `standalone-course-mvp/src/data`; reports claim single-module but state shows otherwise |\n| No stale ContentV2 / prior module outputs used as authority | FAIL | `contentV2.generated.ts` is active and wrong; \"Use Module 10 generated content\" strings present in generated data despite validation flag claiming false |\n| Reports match observed deterministic file state | FAIL | Multiple self-reported PASS claims (repointing, integration, no Module 10 authority) contradicted by actual file contents and inventories |\n| App root / output root / write scope correct | CONDITIONAL | Output files under `Module_Dry_Run/_module11_dryrun_outputs`; app root at `standalone-course-mvp`; however scope pollution present |\n| No over-claims (approval, clinical credit, etc.) in scope | CONDITIONAL | Compliance language exists in reports, but \"Module 10\" references and mixed pointers undermine isolation |\n\n**Open questions / residual risks:**\n- Why does the actual `contentV2.generated.ts` content contradict the integration claims in `final_handoff.md` and `app_integration_notes.md`?\n- Are the \"Use Module 10 generated content\" strings embedded in learner-facing quiz options or only in internal notes? (Current evidence suggests learner content.)\n- The presence of `Module_Dry_Run/standalone-course-mvp/src/data/module11.content.generated.json` (size=165179) alongside the wrong contentV2 pointer means the running app would not load Module 11.\n- `Module10_Dry_Run` is missing while `Module_Dry_Run` is used as the container; this deviates from the primary packet checkpoint pattern.\n- Self-reported \"PASS\" in `validation_report.md` and `preflight_report.md` is lower-strength evidence than the path/JSON contradictions shown.\n\n**One-sentence go/no-go recommendation.**  \nFail for scope/path/source-authority: the app is not isolated to Module 11, contentV2 points to the wrong module, reports contradict file state, and Module 10 references appear in generated content; do not accept as clean dry-run output until these are resolved.",
+        "reasoning_content": "# Review 01_scope_path_source — Module 11\nVerdict: FAIL\nTop findings:\n- [Critical] contentV2.generated.ts exports module13CourseContent, violating Module 11 scope isolation; evidence: explicit import from './module13.content.generated.json' and export assignment.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7683,
+    "completion_tokens": 1136,
+    "total_tokens": 11960,
+    "prompt_tokens_details": {
+      "text_tokens": 7683,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 64
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3141,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 161858000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module11_01_scope_path_source",
+    "attempt": 1,
+    "elapsed_sec": 27.93,
+    "status": 200
+  }
+}

@@ -1,0 +1,1158 @@
+{
+  "module_id": "M10",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "weighted_minutes": 12,
+      "activities": [
+        {
+          "activity_id": "M10-O01-A01",
+          "name": "Vital Signs Flashcard Deck",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O01-A02",
+          "name": "Crossword Quest",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O01-A03",
+          "name": "Five-Term Report Sentence",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Flashcard Deck",
+            "Source-traced visual for Crossword Quest",
+            "Source-traced visual for Five-Term Report Sentence"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "weighted_minutes": 8,
+      "activities": [
+        {
+          "activity_id": "M10-O02-A01",
+          "name": "Vital Signs Dashboard",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Dashboard",
+            "Source-traced visual for Resident Room Spot-Check",
+            "Source-traced visual for Vital Signs Chart Builder"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O02-A02",
+          "name": "Resident Room Spot-Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Dashboard",
+            "Source-traced visual for Resident Room Spot-Check",
+            "Source-traced visual for Vital Signs Chart Builder"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O02-A03",
+          "name": "Vital Signs Chart Builder",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-4",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Vital Signs Dashboard",
+            "Source-traced visual for Resident Room Spot-Check",
+            "Source-traced visual for Vital Signs Chart Builder"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "weighted_minutes": 22,
+      "activities": [
+        {
+          "activity_id": "M10-O03-A01",
+          "name": "Heat Balance Simulator",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-5-6-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Heat Balance Simulator",
+            "Source-traced visual for Thermometer Museum",
+            "Source-traced visual for Temperature Route Choice"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O03-A02",
+          "name": "Thermometer Museum",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-5-6-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Heat Balance Simulator",
+            "Source-traced visual for Thermometer Museum",
+            "Source-traced visual for Temperature Route Choice"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O03-A03",
+          "name": "Temperature Route Choice",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-5-6-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Heat Balance Simulator",
+            "Source-traced visual for Thermometer Museum",
+            "Source-traced visual for Temperature Route Choice"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "weighted_minutes": 6,
+      "activities": [
+        {
+          "activity_id": "M10-O04-A01",
+          "name": "Raise or Lower Sort",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Raise or Lower Sort",
+            "Source-traced visual for Comfort Switchboard",
+            "Source-traced visual for Fever/Chill Micro-Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O04-A02",
+          "name": "Comfort Switchboard",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Raise or Lower Sort",
+            "Source-traced visual for Comfort Switchboard",
+            "Source-traced visual for Fever/Chill Micro-Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O04-A03",
+          "name": "Fever/Chill Micro-Scenario",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-7",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Raise or Lower Sort",
+            "Source-traced visual for Comfort Switchboard",
+            "Source-traced visual for Fever/Chill Micro-Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "weighted_minutes": 8,
+      "activities": [
+        {
+          "activity_id": "M10-O05-A01",
+          "name": "Pulse Site Body Map",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Site Body Map",
+            "Source-traced visual for Heart-to-Artery Animation",
+            "Source-traced visual for Site Match Speed Round"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O05-A02",
+          "name": "Heart-to-Artery Animation",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Site Body Map",
+            "Source-traced visual for Heart-to-Artery Animation",
+            "Source-traced visual for Site Match Speed Round"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O05-A03",
+          "name": "Site Match Speed Round",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Site Body Map",
+            "Source-traced visual for Heart-to-Artery Animation",
+            "Source-traced visual for Site Match Speed Round"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 6,
+      "weighted_minutes": 12,
+      "activities": [
+        {
+          "activity_id": "M10-O06-A01",
+          "name": "Pulse Detective",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O06:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Detective",
+            "Source-traced visual for Beat Trainer",
+            "Source-traced visual for One-Full-Minute Practice"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O06-A02",
+          "name": "Beat Trainer",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O06:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Detective",
+            "Source-traced visual for Beat Trainer",
+            "Source-traced visual for One-Full-Minute Practice"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O06-A03",
+          "name": "One-Full-Minute Practice",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-8-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O06:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pulse Detective",
+            "Source-traced visual for Beat Trainer",
+            "Source-traced visual for One-Full-Minute Practice"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 7,
+      "weighted_minutes": 7,
+      "activities": [
+        {
+          "activity_id": "M10-O07-A01",
+          "name": "Breath Cycle Loop",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O07:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breath Cycle Loop",
+            "Source-traced visual for Respiration Factor Race",
+            "Source-traced visual for Normal Breathing Pick"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O07-A02",
+          "name": "Respiration Factor Race",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O07:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breath Cycle Loop",
+            "Source-traced visual for Respiration Factor Race",
+            "Source-traced visual for Normal Breathing Pick"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O07-A03",
+          "name": "Normal Breathing Pick",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-9",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O07:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breath Cycle Loop",
+            "Source-traced visual for Respiration Factor Race",
+            "Source-traced visual for Normal Breathing Pick"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 8,
+      "weighted_minutes": 10,
+      "activities": [
+        {
+          "activity_id": "M10-O08-A01",
+          "name": "Respiration Observation Lens",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O08:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Respiration Observation Lens",
+            "Source-traced visual for Cyanosis Alert",
+            "Source-traced visual for Report Now or Routine?"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O08-A02",
+          "name": "Cyanosis Alert",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O08:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Respiration Observation Lens",
+            "Source-traced visual for Cyanosis Alert",
+            "Source-traced visual for Report Now or Routine?"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O08-A03",
+          "name": "Report Now or Routine?",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O08:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Respiration Observation Lens",
+            "Source-traced visual for Cyanosis Alert",
+            "Source-traced visual for Report Now or Routine?"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 9,
+      "weighted_minutes": 9,
+      "activities": [
+        {
+          "activity_id": "M10-O09-A01",
+          "name": "Breathing Pattern Theater",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O09:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breathing Pattern Theater",
+            "Source-traced visual for Pattern Match",
+            "Source-traced visual for Urgency Ladder"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O09-A02",
+          "name": "Pattern Match",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O09:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breathing Pattern Theater",
+            "Source-traced visual for Pattern Match",
+            "Source-traced visual for Urgency Ladder"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O09-A03",
+          "name": "Urgency Ladder",
+          "objective_number": 9,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-10",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O09:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Breathing Pattern Theater",
+            "Source-traced visual for Pattern Match",
+            "Source-traced visual for Urgency Ladder"
+          ],
+          "narration_requirements": [
+            "Objective 9 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 10,
+      "weighted_minutes": 7,
+      "activities": [
+        {
+          "activity_id": "M10-O10-A01",
+          "name": "TPR Flow Timeline",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O10:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR Flow Timeline",
+            "Source-traced visual for Do Not Break the Flow",
+            "Source-traced visual for Memory Sticky Note"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O10-A02",
+          "name": "Do Not Break the Flow",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O10:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR Flow Timeline",
+            "Source-traced visual for Do Not Break the Flow",
+            "Source-traced visual for Memory Sticky Note"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O10-A03",
+          "name": "Memory Sticky Note",
+          "objective_number": 10,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O10:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR Flow Timeline",
+            "Source-traced visual for Do Not Break the Flow",
+            "Source-traced visual for Memory Sticky Note"
+          ],
+          "narration_requirements": [
+            "Objective 10 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 11,
+      "weighted_minutes": 12,
+      "activities": [
+        {
+          "activity_id": "M10-O11-A01",
+          "name": "Artery Pressure Pump",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O11:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Artery Pressure Pump",
+            "Source-traced visual for First Sound / Last Sound Demo",
+            "Source-traced visual for BP Fraction Builder"
+          ],
+          "narration_requirements": [
+            "Objective 11 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O11-A02",
+          "name": "First Sound / Last Sound Demo",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O11:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Artery Pressure Pump",
+            "Source-traced visual for First Sound / Last Sound Demo",
+            "Source-traced visual for BP Fraction Builder"
+          ],
+          "narration_requirements": [
+            "Objective 11 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O11-A03",
+          "name": "BP Fraction Builder",
+          "objective_number": 11,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-11-12",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O11:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Artery Pressure Pump",
+            "Source-traced visual for First Sound / Last Sound Demo",
+            "Source-traced visual for BP Fraction Builder"
+          ],
+          "narration_requirements": [
+            "Objective 11 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 12,
+      "weighted_minutes": 6,
+      "activities": [
+        {
+          "activity_id": "M10-O12-A01",
+          "name": "BP Elevator Game",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-12-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O12:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for BP Elevator Game",
+            "Source-traced visual for Before You Take BP Checklist",
+            "Source-traced visual for False Reading Mini-Lab"
+          ],
+          "narration_requirements": [
+            "Objective 12 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O12-A02",
+          "name": "Before You Take BP Checklist",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-12-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O12:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for BP Elevator Game",
+            "Source-traced visual for Before You Take BP Checklist",
+            "Source-traced visual for False Reading Mini-Lab"
+          ],
+          "narration_requirements": [
+            "Objective 12 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O12-A03",
+          "name": "False Reading Mini-Lab",
+          "objective_number": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-12-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O12:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for BP Elevator Game",
+            "Source-traced visual for Before You Take BP Checklist",
+            "Source-traced visual for False Reading Mini-Lab"
+          ],
+          "narration_requirements": [
+            "Objective 12 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 13,
+      "weighted_minutes": 8,
+      "activities": [
+        {
+          "activity_id": "M10-O13-A01",
+          "name": "Equipment Labeling Lab",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O13:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Equipment Labeling Lab",
+            "Source-traced visual for Manual vs Automated Sort",
+            "Source-traced visual for Clean Setup Challenge"
+          ],
+          "narration_requirements": [
+            "Objective 13 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O13-A02",
+          "name": "Manual vs Automated Sort",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O13:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Equipment Labeling Lab",
+            "Source-traced visual for Manual vs Automated Sort",
+            "Source-traced visual for Clean Setup Challenge"
+          ],
+          "narration_requirements": [
+            "Objective 13 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O13-A03",
+          "name": "Clean Setup Challenge",
+          "objective_number": 13,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O13:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Equipment Labeling Lab",
+            "Source-traced visual for Manual vs Automated Sort",
+            "Source-traced visual for Clean Setup Challenge"
+          ],
+          "narration_requirements": [
+            "Objective 13 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 14,
+      "weighted_minutes": 24,
+      "activities": [
+        {
+          "activity_id": "M10-O14-A01",
+          "name": "One-Step / Two-Step BP Procedure Player",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O14:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for One-Step / Two-Step BP Procedure Player",
+            "Source-traced visual for Cuff Placement Coach",
+            "Source-traced visual for Do Not Use This Arm"
+          ],
+          "narration_requirements": [
+            "Objective 14 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O14-A02",
+          "name": "Cuff Placement Coach",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O14:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for One-Step / Two-Step BP Procedure Player",
+            "Source-traced visual for Cuff Placement Coach",
+            "Source-traced visual for Do Not Use This Arm"
+          ],
+          "narration_requirements": [
+            "Objective 14 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O14-A03",
+          "name": "Do Not Use This Arm",
+          "objective_number": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-13-14",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O14:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for One-Step / Two-Step BP Procedure Player",
+            "Source-traced visual for Cuff Placement Coach",
+            "Source-traced visual for Do Not Use This Arm"
+          ],
+          "narration_requirements": [
+            "Objective 14 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 15,
+      "weighted_minutes": 15,
+      "activities": [
+        {
+          "activity_id": "M10-O15-A01",
+          "name": "Pain Scale Role Play",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-14-15-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O15:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pain Scale Role Play",
+            "Source-traced visual for Nonverbal Pain Clue Hunt",
+            "Source-traced visual for Bias Check Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 15 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O15-A02",
+          "name": "Nonverbal Pain Clue Hunt",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-14-15-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O15:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pain Scale Role Play",
+            "Source-traced visual for Nonverbal Pain Clue Hunt",
+            "Source-traced visual for Bias Check Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 15 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O15-A03",
+          "name": "Bias Check Scenario",
+          "objective_number": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-14-15-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O15:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for Pain Scale Role Play",
+            "Source-traced visual for Nonverbal Pain Clue Hunt",
+            "Source-traced visual for Bias Check Scenario"
+          ],
+          "narration_requirements": [
+            "Objective 15 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    },
+    {
+      "objective_number": 16,
+      "weighted_minutes": 14,
+      "activities": [
+        {
+          "activity_id": "M10-O16-A01",
+          "name": "TPR/BP Charting Sandbox",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O16:A01",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR/BP Charting Sandbox",
+            "Source-traced visual for Find the Charting Error",
+            "Source-traced visual for Report + Record Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 16 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O16-A02",
+          "name": "Find the Charting Error",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O16:A02",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR/BP Charting Sandbox",
+            "Source-traced visual for Find the Charting Error",
+            "Source-traced visual for Report + Record Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 16 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        },
+        {
+          "activity_id": "M10-O16-A03",
+          "name": "Report + Record Simulation",
+          "objective_number": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf#pages-16",
+          "mobile_pattern": "tap-card / choose / sort / short-response as appropriate",
+          "completion_event": "activity_complete:M10:O16:A03",
+          "accessibility_notes": "Keyboard reachable, text alternative required for visuals, no autoplay audio.",
+          "media_requirements": [
+            "Source-traced visual for TPR/BP Charting Sandbox",
+            "Source-traced visual for Find the Charting Error",
+            "Source-traced visual for Report + Record Simulation"
+          ],
+          "narration_requirements": [
+            "Objective 16 intro transcript",
+            "Activity instructions and debrief transcripts; Qwen CI-ION voice generation gated until scripts validated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only unless licensed source is available; do not synthesize SFX with TTS"
+          ],
+          "compliance_boundary": "Source-traced theory practice only; no online hands-on competency validation; no PHI."
+        }
+      ]
+    }
+  ]
+}

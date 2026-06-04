@@ -1,0 +1,36 @@
+**# Review 03_time_allotment — Module 10**
+
+**Verdict:** CONDITIONAL PASS
+
+**Top findings:**
+- [High] Deterministic confirmation of exactly 16 objectives and 180 weighted theory minutes: `source_map/source_objective_map.json` shows `objectives: count=16, minute_sum=180, theory_minutes_total:180`; identical `count=16, minute_sum=180` and `total_weighted_minutes:180` in `data/module10.content.json`. Matches declared values and source PDF authority.
+- [High] Per-objective distribution explicitly listed and sums to 180 in `reports/time_allotment_report.md` (e.g., Obj 3:22, Obj 14:24, Obj 15:15, Obj 16:14; full 16-line breakdown provided). JSONs (`source_objective_map.json`, `module10.content.json`) corroborate the aggregate minute_sum=180.
+- [Medium] Clinical/assessment/certificate exclusion handled per checkpoint: `source_objective_map.json` records `source_recommended_clinical_hours:6`, `online_clinical_credit_claimed:False`, `online_hands_on_competency_validated:False`; `time_allotment_report.md` states "Assessment, clinical, certificate, and optional support minutes excluded"; `validation_report.md` marks "no clinical/certificate time in theory" as PASS.
+- [Critical] Declared packet path `Module10_Dry_Run` not present: actual path facts state `Module10_Dry_Run: exists=False, kind=missing`; all generated artifacts and reports observed under `Module_Dry_Run/_module10_dryrun_outputs` and `Module_Dry_Run/standalone-course-mvp/src/data/`. Contradicts preflight/final_handoff claims of `Module10_Dry_Run` scope.
+- [High] Active app content pointer incorrect for Module 10: `Module_Dry_Run/standalone-course-mvp/src/data/contentV2.generated.ts` contains `import module13CourseContent from './module13.content.generated.json'; export const courseContentV2 = module13CourseContent;`. Module 10 files (`module10.content.generated.json`, `module10.content.json`) exist but are not referenced.
+- [Medium] Evidence self-contradiction on scope: preflight_report.md and final_handoff.md repeatedly assert output root `Module10_Dry_Run/_module10_dryrun_outputs` and "Approved app/write scope exists at `Module10_Dry_Run`", while actual path facts and file locations show `Module_Dry_Run`. Self-reported PASS in validation_report.md is lower-strength than path metrics.
+- [Low] Minor data inconsistency in activities file: `data/module10.activities.json` reports `objectives: count=16, minute_sum=180` but lists empty titles ("1. ; 2. ; ..."); full titles and source refs present in `module10.content.json` and `source_objective_map.json`.
+- [Medium] Source-recommended vs. minimum hours handled correctly in data: PDF smoke test (via preflight) notes "Minimum Number of Theory Hours: 3 Recommended Clinical Hours: 6"; generated artifacts use exactly 180 theory minutes (3 hrs) with clinical hours kept separate and non-claimed.
+
+**Checkpoint table:**
+
+| Check | Status | Evidence |
+|-------|--------|----------|
+| 16 objectives present | PASS | `source_map/source_objective_map.json`: count=16; `data/module10.content.json`: count=16; objective titles match source PDF refs |
+| Weighted theory minutes exactly 180 | PASS | `source_objective_map.json`: theory_minutes_total=180; `module10.content.json`: total_weighted_minutes=180; `time_allotment_report.md` sums to 180 |
+| Per-objective minute distribution | PASS | `reports/time_allotment_report.md` lists 16 allocations (e.g., 12+8+22+6+8+12+7+10+9+7+12+6+8+24+15+14=180); JSON minute_sum=180 |
+| Clinical/assessment/certificate exclusion from theory | PASS | `source_objective_map.json`: source_recommended_clinical_hours=6, online_clinical_credit_claimed=False; `time_allotment_report.md` explicit exclusion statement; validation_report.md PASS |
+| Output/app scope under literal `Module10_Dry_Run` | FAIL | Actual path facts: `Module10_Dry_Run` exists=False; artifacts under `Module_Dry_Run/_module10_dryrun_outputs` and `Module_Dry_Run/standalone-course-mvp` |
+| App content pointer uses Module 10 data | FAIL | `Module_Dry_Run/standalone-course-mvp/src/data/contentV2.generated.ts` imports/exports module13 content; module10 files present but unused |
+| Source authority (PDF) used, no backup/ContentV2 | PASS | `source_objective_map.json` and `module10.content.json`: source_authority=`CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf`; validation: backup_content_used_as_authority=False, contentv2_used_as_authority=False |
+| Self-reported PASS vs. deterministic metrics | Lower strength | validation_report.md and preflight_report.md claim PASS on time/scope; contradicted by path facts and contentV2 pointer |
+
+**Open questions / residual risks:**
+- Why does the actual filesystem use `Module_Dry_Run` (with module10/11/13 artifacts) when the packet and all reports mandate `Module10_Dry_Run`? This breaks scope isolation.
+- Given the contentV2.generated.ts pointer to module13, is the Module 10 time allotment data (180 min) actually loaded or rendered in the app?
+- Per-objective minute allocations in `time_allotment_report.md` are source-map-derived but lack direct cross-reference to specific PDF page densities in the provided bundle (only aggregate source refs shown).
+- `data/module10.activities.json` has empty objective titles despite correct minute_sum; this may indicate partial generation affecting downstream time-linked activities.
+- Unrelated dirty repo state and presence of module11/module13 files increase risk of cross-module leakage despite "Module 10 only" claims in reports.
+
+**One-sentence go/no-go recommendation.**  
+The weighted theory time metrics (exactly 180 minutes across 16 objectives with clinical/certificate exclusion) pass on deterministic JSON and report evidence, but the review is conditional on correcting the missing `Module10_Dry_Run` path and the module13 contentV2 pointer before the allotment data can be treated as active for this module.

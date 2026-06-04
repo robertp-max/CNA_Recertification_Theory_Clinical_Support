@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-04T00:47:54+00:00",
+  "source_folder": "CNA-Recert-Course/CNA_Modules",
+  "generator": "CNA-Recert-Course/ContentV2/tools/rebuild_contentv2_from_json.py",
+  "total_clips": 450,
+  "total_estimated_seconds": 15169,
+  "total_estimated_minutes": 252.82,
+  "clips_over_target": 8,
+  "unique_app_locations": 612,
+  "modules_covered": [
+    "M00",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M17"
+  ],
+  "audio_production": "Not authorized. Transcripts/manifest are planning artifacts only; no audio generated.",
+  "validation_status": "Regenerated from canonical courseContentV2.json by single-source pipeline."
+}

@@ -1,0 +1,461 @@
+{
+  "started": "2026-06-04T10:06:52",
+  "completed": "2026-06-04T10:12:40",
+  "model": "grok-build",
+  "api_url": "https://cli-chat-proxy.grok.com/v1/chat/completions",
+  "count_requested": 30,
+  "count_complete": 30,
+  "errors": [],
+  "results": [
+    {
+      "module": 10,
+      "lens_id": "01_scope_path_source",
+      "review_id": "module10_01_scope_path_source",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_01_scope_path_source.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_01_scope_path_source.json",
+      "runner": {
+        "review_id": "module10_01_scope_path_source",
+        "attempt": 1,
+        "elapsed_sec": 30.3,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6383
+    },
+    {
+      "module": 10,
+      "lens_id": "02_objectives_source_map",
+      "review_id": "module10_02_objectives_source_map",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_02_objectives_source_map.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_02_objectives_source_map.json",
+      "runner": {
+        "review_id": "module10_02_objectives_source_map",
+        "attempt": 1,
+        "elapsed_sec": 63.62,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6497
+    },
+    {
+      "module": 10,
+      "lens_id": "03_time_allotment",
+      "review_id": "module10_03_time_allotment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_03_time_allotment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_03_time_allotment.json",
+      "runner": {
+        "review_id": "module10_03_time_allotment",
+        "attempt": 1,
+        "elapsed_sec": 41.44,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5876
+    },
+    {
+      "module": 10,
+      "lens_id": "04_content_quality_scope",
+      "review_id": "module10_04_content_quality_scope",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_04_content_quality_scope.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_04_content_quality_scope.json",
+      "runner": {
+        "review_id": "module10_04_content_quality_scope",
+        "attempt": 1,
+        "elapsed_sec": 43.98,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6931
+    },
+    {
+      "module": 10,
+      "lens_id": "05_activities_assessment",
+      "review_id": "module10_05_activities_assessment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_05_activities_assessment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_05_activities_assessment.json",
+      "runner": {
+        "review_id": "module10_05_activities_assessment",
+        "attempt": 1,
+        "elapsed_sec": 35.76,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5378
+    },
+    {
+      "module": 10,
+      "lens_id": "06_app_integration_build",
+      "review_id": "module10_06_app_integration_build",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_06_app_integration_build.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_06_app_integration_build.json",
+      "runner": {
+        "review_id": "module10_06_app_integration_build",
+        "attempt": 1,
+        "elapsed_sec": 23.45,
+        "status": 200
+      },
+      "error": false,
+      "chars": 4806
+    },
+    {
+      "module": 10,
+      "lens_id": "07_media_audio_qwen",
+      "review_id": "module10_07_media_audio_qwen",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_07_media_audio_qwen.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_07_media_audio_qwen.json",
+      "runner": {
+        "review_id": "module10_07_media_audio_qwen",
+        "attempt": 1,
+        "elapsed_sec": 25.43,
+        "status": 200
+      },
+      "error": false,
+      "chars": 4581
+    },
+    {
+      "module": 10,
+      "lens_id": "08_compliance_regulatory",
+      "review_id": "module10_08_compliance_regulatory",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_08_compliance_regulatory.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_08_compliance_regulatory.json",
+      "runner": {
+        "review_id": "module10_08_compliance_regulatory",
+        "attempt": 1,
+        "elapsed_sec": 31.44,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6013
+    },
+    {
+      "module": 10,
+      "lens_id": "09_data_schema_json",
+      "review_id": "module10_09_data_schema_json",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_09_data_schema_json.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_09_data_schema_json.json",
+      "runner": {
+        "review_id": "module10_09_data_schema_json",
+        "attempt": 1,
+        "elapsed_sec": 23.95,
+        "status": 200
+      },
+      "error": false,
+      "chars": 4453
+    },
+    {
+      "module": 10,
+      "lens_id": "10_watchdog_handoff",
+      "review_id": "module10_10_watchdog_handoff",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module10_10_watchdog_handoff.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module10_10_watchdog_handoff.json",
+      "runner": {
+        "review_id": "module10_10_watchdog_handoff",
+        "attempt": 1,
+        "elapsed_sec": 30.81,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6107
+    },
+    {
+      "module": 11,
+      "lens_id": "01_scope_path_source",
+      "review_id": "module11_01_scope_path_source",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_01_scope_path_source.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_01_scope_path_source.json",
+      "runner": {
+        "review_id": "module11_01_scope_path_source",
+        "attempt": 1,
+        "elapsed_sec": 27.93,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5133
+    },
+    {
+      "module": 11,
+      "lens_id": "02_objectives_source_map",
+      "review_id": "module11_02_objectives_source_map",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_02_objectives_source_map.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_02_objectives_source_map.json",
+      "runner": {
+        "review_id": "module11_02_objectives_source_map",
+        "attempt": 1,
+        "elapsed_sec": 25.25,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5631
+    },
+    {
+      "module": 11,
+      "lens_id": "03_time_allotment",
+      "review_id": "module11_03_time_allotment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_03_time_allotment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_03_time_allotment.json",
+      "runner": {
+        "review_id": "module11_03_time_allotment",
+        "attempt": 1,
+        "elapsed_sec": 45.69,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6325
+    },
+    {
+      "module": 11,
+      "lens_id": "04_content_quality_scope",
+      "review_id": "module11_04_content_quality_scope",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_04_content_quality_scope.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_04_content_quality_scope.json",
+      "runner": {
+        "review_id": "module11_04_content_quality_scope",
+        "attempt": 1,
+        "elapsed_sec": 38.58,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6199
+    },
+    {
+      "module": 11,
+      "lens_id": "05_activities_assessment",
+      "review_id": "module11_05_activities_assessment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_05_activities_assessment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_05_activities_assessment.json",
+      "runner": {
+        "review_id": "module11_05_activities_assessment",
+        "attempt": 1,
+        "elapsed_sec": 46.2,
+        "status": 200
+      },
+      "error": false,
+      "chars": 4085
+    },
+    {
+      "module": 11,
+      "lens_id": "06_app_integration_build",
+      "review_id": "module11_06_app_integration_build",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_06_app_integration_build.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_06_app_integration_build.json",
+      "runner": {
+        "review_id": "module11_06_app_integration_build",
+        "attempt": 1,
+        "elapsed_sec": 33.71,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5397
+    },
+    {
+      "module": 11,
+      "lens_id": "07_media_audio_qwen",
+      "review_id": "module11_07_media_audio_qwen",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_07_media_audio_qwen.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_07_media_audio_qwen.json",
+      "runner": {
+        "review_id": "module11_07_media_audio_qwen",
+        "attempt": 1,
+        "elapsed_sec": 31.02,
+        "status": 200
+      },
+      "error": false,
+      "chars": 4527
+    },
+    {
+      "module": 11,
+      "lens_id": "08_compliance_regulatory",
+      "review_id": "module11_08_compliance_regulatory",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_08_compliance_regulatory.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_08_compliance_regulatory.json",
+      "runner": {
+        "review_id": "module11_08_compliance_regulatory",
+        "attempt": 1,
+        "elapsed_sec": 26.7,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5695
+    },
+    {
+      "module": 11,
+      "lens_id": "09_data_schema_json",
+      "review_id": "module11_09_data_schema_json",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_09_data_schema_json.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_09_data_schema_json.json",
+      "runner": {
+        "review_id": "module11_09_data_schema_json",
+        "attempt": 1,
+        "elapsed_sec": 35.64,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5051
+    },
+    {
+      "module": 11,
+      "lens_id": "10_watchdog_handoff",
+      "review_id": "module11_10_watchdog_handoff",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module11_10_watchdog_handoff.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module11_10_watchdog_handoff.json",
+      "runner": {
+        "review_id": "module11_10_watchdog_handoff",
+        "attempt": 1,
+        "elapsed_sec": 26.82,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5358
+    },
+    {
+      "module": 13,
+      "lens_id": "01_scope_path_source",
+      "review_id": "module13_01_scope_path_source",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_01_scope_path_source.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_01_scope_path_source.json",
+      "runner": {
+        "review_id": "module13_01_scope_path_source",
+        "attempt": 1,
+        "elapsed_sec": 32.64,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6171
+    },
+    {
+      "module": 13,
+      "lens_id": "02_objectives_source_map",
+      "review_id": "module13_02_objectives_source_map",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_02_objectives_source_map.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_02_objectives_source_map.json",
+      "runner": {
+        "review_id": "module13_02_objectives_source_map",
+        "attempt": 1,
+        "elapsed_sec": 34.9,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6069
+    },
+    {
+      "module": 13,
+      "lens_id": "03_time_allotment",
+      "review_id": "module13_03_time_allotment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_03_time_allotment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_03_time_allotment.json",
+      "runner": {
+        "review_id": "module13_03_time_allotment",
+        "attempt": 1,
+        "elapsed_sec": 54.38,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6430
+    },
+    {
+      "module": 13,
+      "lens_id": "04_content_quality_scope",
+      "review_id": "module13_04_content_quality_scope",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_04_content_quality_scope.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_04_content_quality_scope.json",
+      "runner": {
+        "review_id": "module13_04_content_quality_scope",
+        "attempt": 1,
+        "elapsed_sec": 35.04,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6317
+    },
+    {
+      "module": 13,
+      "lens_id": "05_activities_assessment",
+      "review_id": "module13_05_activities_assessment",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_05_activities_assessment.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_05_activities_assessment.json",
+      "runner": {
+        "review_id": "module13_05_activities_assessment",
+        "attempt": 1,
+        "elapsed_sec": 33.85,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5614
+    },
+    {
+      "module": 13,
+      "lens_id": "06_app_integration_build",
+      "review_id": "module13_06_app_integration_build",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_06_app_integration_build.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_06_app_integration_build.json",
+      "runner": {
+        "review_id": "module13_06_app_integration_build",
+        "attempt": 1,
+        "elapsed_sec": 36.34,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6226
+    },
+    {
+      "module": 13,
+      "lens_id": "07_media_audio_qwen",
+      "review_id": "module13_07_media_audio_qwen",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_07_media_audio_qwen.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_07_media_audio_qwen.json",
+      "runner": {
+        "review_id": "module13_07_media_audio_qwen",
+        "attempt": 1,
+        "elapsed_sec": 26.78,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5540
+    },
+    {
+      "module": 13,
+      "lens_id": "08_compliance_regulatory",
+      "review_id": "module13_08_compliance_regulatory",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_08_compliance_regulatory.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_08_compliance_regulatory.json",
+      "runner": {
+        "review_id": "module13_08_compliance_regulatory",
+        "attempt": 1,
+        "elapsed_sec": 38.98,
+        "status": 200
+      },
+      "error": false,
+      "chars": 6767
+    },
+    {
+      "module": 13,
+      "lens_id": "09_data_schema_json",
+      "review_id": "module13_09_data_schema_json",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_09_data_schema_json.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_09_data_schema_json.json",
+      "runner": {
+        "review_id": "module13_09_data_schema_json",
+        "attempt": 1,
+        "elapsed_sec": 33.29,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5873
+    },
+    {
+      "module": 13,
+      "lens_id": "10_watchdog_handoff",
+      "review_id": "module13_10_watchdog_handoff",
+      "review_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/reviews/module13_10_watchdog_handoff.md",
+      "raw_path": "Module_Dry_Run/_dry_run_analysis/grok_build_30/raw/module13_10_watchdog_handoff.json",
+      "runner": {
+        "review_id": "module13_10_watchdog_handoff",
+        "attempt": 1,
+        "elapsed_sec": 23.38,
+        "status": 200
+      },
+      "error": false,
+      "chars": 5928
+    }
+  ]
+}

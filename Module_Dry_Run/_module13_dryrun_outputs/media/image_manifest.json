@@ -1,0 +1,95 @@
+{
+  "status": "prompt_queue_only_no_images_generated",
+  "items": [
+    {
+      "image_id": "M13-IMG-01",
+      "category": "long-term care needs wheel",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: long-term care needs wheel; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for long-term care needs wheel; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-02",
+      "category": "community resources map",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: community resources map; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for community resources map; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-03",
+      "category": "seizure safety sequence",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: seizure safety sequence; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for seizure safety sequence; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-04",
+      "category": "Parkinson support plan",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: Parkinson support plan; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for Parkinson support plan; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-05",
+      "category": "dementia validation response",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: dementia validation response; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for dementia validation response; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-06",
+      "category": "body organization diagram",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: body organization diagram; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for body organization diagram; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-07",
+      "category": "body systems explorer",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: body systems explorer; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for body systems explorer; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-08",
+      "category": "pressure sore prevention visual",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: pressure sore prevention visual; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for pressure sore prevention visual; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    },
+    {
+      "image_id": "M13-IMG-09",
+      "category": "aging changes by system",
+      "prompt": "Professional healthcare education illustration for NATP Module 13 Long Term Care Resident: aging changes by system; fictional de-identified long-term care training context; mobile-readable; no facility logos; no readable records; no PHI.",
+      "negative_prompt": "PHI, real names, facility logos, readable charts, gore, unsafe clinical practice, certificate or approval claims",
+      "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+      "alt_text": "Training visual for aging changes by system; de-identified and source-traced.",
+      "final_path": "",
+      "review_status": "queued_prompt_only_not_generated"
+    }
+  ]
+}

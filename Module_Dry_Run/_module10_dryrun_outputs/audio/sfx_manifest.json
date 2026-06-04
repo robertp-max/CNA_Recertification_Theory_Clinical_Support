@@ -1,0 +1,165 @@
+{
+  "status": "queued_no_sfx_assets_used",
+  "items": [
+    {
+      "name": "regular pulse beat",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "irregular pulse beat",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "slow pulse beat",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "fast pulse beat",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "normal quiet breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "labored breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "shallow breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "rapid breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "slow breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "stertorous/snoring-type breathing",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "apnea pause/silence",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "BP first/last sounds",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "cuff inflation",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "cuff deflation",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "thermometer beep",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    },
+    {
+      "name": "neutral room tone",
+      "source_url_or_local_path": "",
+      "license": "queued_license_required_before_use",
+      "attribution_requirement": "TBD before use",
+      "commercial_use_status": "blocked_until_licensed_source_selected",
+      "final_asset_path": "",
+      "source_objective": "Module 10 relevant objective(s)",
+      "review_notes": "Do not use without complete license metadata."
+    }
+  ]
+}

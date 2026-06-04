@@ -1,0 +1,45 @@
+{
+  "id": "f84bfa2d-6730-9c86-ad04-8e3f396ee71f",
+  "object": "chat.completion",
+  "created": 1780593022,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 10_watchdog_handoff — Module 11**\n\n**Verdict:** CONDITIONAL PASS\n\n**Top findings:**\n- [High] Direct contradiction on app integration: `final_handoff.md` and `app_integration_notes.md` claim `contentV2.generated.ts` was repointed to `module11.content.generated.json`, but the actual file content shows `import module13CourseContent from './module13.content.generated.json'; export const courseContentV2 = module13CourseContent;`. Evidence: \"Current active app content pointer\" block + listed modified files.\n- [High] Orchestrator worker failure handling incomplete: `lms-orchestrator` async runner \"failed/disappeared\" after partial sanity commands; parent completed manually. `reports/async_failure_diagnostic.md` is explicitly MISSING. Evidence: `final_handoff.md`, `watchdog_report.md`, and file inventory.\n- [High] `data/module11.activities.json` shows objective titles as empty strings (\"1. ; 2. ; ...\") in deterministic metrics despite claiming 10 objectives and min/max 3 activities each. Contrasts with full titles in `source_objective_map.json` and `module11.content.json`. Evidence: \"Deterministic JSON/CSV Metrics\" section for activities.json.\n- [Medium] Cross-module contamination risk: multiple \"Use Module 10 generated content\" contexts appear in generated data (including quiz options and clinical notes), plus 40 \"Module 10\" term occurrences. Evidence: \"Risk-Term Contexts From Generated Data\" with 4 explicit contexts.\n- [Medium] Self-reported PASS in `validation_report.md` and `final_handoff.md` is not supported by actual app state (contentV2 pointer) or activities titles. Deterministic metrics take precedence per rubric. Evidence: validation table vs. actual file contents and contentV2 snippet.\n- [Medium] Dirty repo / scope risk: git exclude command in `final_handoff.md` produced error \"':(exclude)Module_Dry_Run' is outside repository\"; branch remains named `module-10-source-first-dry-run`. All outputs correctly prefixed under `Module_Dry_Run`, but proof is weak. Evidence: \"Proof Modifications Stayed Inside Module_Dry_Run\" section.\n- [Low] Narration is correctly JSON-only (`narration_batch_import_package.json`, `csv_used: False`, `audio_scripts.csv` MISSING as expected), but `audio_manifest.json` status is \"scripts_only_no_audio_generated\" with 40 queued clips and no Qwen TTS directory present (`exists=False`). Evidence: audio metrics + \"Qwen / Audio Runtime Observations\".\n- [Low] `Module10_Dry_Run` and `Module10_Dry_Run_module10_dryrun_outputs` are missing (as expected for Module 11 scope), but `Module_Dry_Run` is active with `_module11_dryrun_outputs`.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| Objectives = 10 (Module 11 declared) | PASS | `source_objective_map.json` (count=10), `module11.content.json` (count=10), titles match source PDF pages |\n| Weighted theory minutes = 120 | PASS | `source_objective_map.json` (theory_minutes_total:120), `module11.content.json` (total_weighted_minutes:120), `time_allotment_report.md` |\n| Source authority only (PDF, no ContentV2/Module10/backup) | PASS | `source_objective_map.json` validation block + `module11.content.json` (source_authority: PDF path); `validation_report.md` confirms |\n| Narration format (JSON batch, no CSV) | PASS | `narration_batch_import_package.json` (csv_used:False), `audio_manifest.json`; `audio_scripts.csv` absent |\n| App build success | PASS | `final_handoff.md` + `validation_report.md` (npm install rc=0, npm run build rc=0, 1763 modules) |\n| contentV2 pointer for Module 11 | FAIL | Actual `contentV2.generated.ts` imports module13; contradicts handoff claims |\n| Orchestrator failure handling + diagnostic | CONDITIONAL | Manual completion noted; `async_failure_diagnostic.md` MISSING |\n| No forbidden claims (approval, clinical credit, PHI, etc.) | PASS | Compliance flags present in reports + generated data; explicit \"no claim\" language, though term counts high |\n| Activities per objective (>=3) | CONDITIONAL | `module11.activities.json` reports min/max=3 but empty titles in metrics; validation claims PASS |\n| Dirty repo / write scope | MEDIUM RISK | Outputs inside `Module_Dry_Run`; git exclude error + stale branch name in reports |\n\n**Open questions / residual risks:**\n- Why was `contentV2.generated.ts` left pointing at module13 after explicit Module 11 integration claims?\n- Are the empty titles in `module11.activities.json` a generation defect or only a metrics parsing artifact?\n- No evidence of actual Qwen TTS env (`C:/AI/qwen3-tts-env`, model path, or CI-ION reference) being present or exercised.\n- High volume of \"approval\"/\"certificate\"/\"clinical-hour\"/\"Module 10\" strings in generated content despite no-claim language — requires full text audit for leakage.\n- `Module_Dry_Run/standalone-course-mvp/src/data/` now contains module10 + module11 + module13 artifacts; risk of stale pointer or mixed state on next run.\n- All media/SFX remain queued; no generation occurred (per policy).\n- npm audit vulnerabilities noted but untriaged.\n\n**One-sentence go/no-go recommendation.**  \nConditional go for SME/compliance review only after fixing the contentV2 pointer to module11, verifying activities.json titles and cross-module leakage, and producing the missing orchestrator failure diagnostic; do not treat current self-reported PASS as sufficient for progression.",
+        "reasoning_content": "# Review 10_watchdog_handoff — Module 11\nVerdict: PASS WITH RISKS\nTop findings:\n- [Critical] contentV2.generated.ts imports module13.content.generated.json, contradicting final_handoff.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7679,
+    "completion_tokens": 1218,
+    "total_tokens": 11560,
+    "prompt_tokens_details": {
+      "text_tokens": 7679,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2663,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 153386000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module11_10_watchdog_handoff",
+    "attempt": 1,
+    "elapsed_sec": 26.82,
+    "status": 200
+  }
+}

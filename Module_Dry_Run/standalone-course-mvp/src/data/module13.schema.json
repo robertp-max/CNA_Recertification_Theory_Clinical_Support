@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Module13SourceFirstContent",
+  "type": "object",
+  "required": [
+    "module_id",
+    "title",
+    "source_authority",
+    "objectives",
+    "total_weighted_minutes"
+  ],
+  "properties": {
+    "module_id": {
+      "const": "M13"
+    },
+    "title": {
+      "const": "NATP Module 13: Long Term Care Resident"
+    },
+    "source_authority": {
+      "const": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf"
+    },
+    "total_weighted_minutes": {
+      "const": 780
+    },
+    "objectives": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8
+    }
+  }
+}

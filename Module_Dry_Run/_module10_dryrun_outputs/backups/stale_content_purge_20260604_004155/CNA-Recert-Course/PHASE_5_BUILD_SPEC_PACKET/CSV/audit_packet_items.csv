@@ -1,0 +1,19 @@
+audit_item_id,audit_item,moodle_source,export_method,required,owner,mvp,retention_note
+AUD-001,Learner profile fields,User profile/custom profile fields,CSV/PDF profile export,Yes,Registrar,Yes,Retain at least four years
+AUD-002,Identity confirmation,Acknowledgement quiz/form,CSV/PDF attempt export,Yes,Registrar,Yes,Retain at least four years
+AUD-003,Online cap acknowledgement,Acknowledgement quiz/form,CSV/PDF attempt export,Yes,Compliance Reviewer,Yes,Retain at least four years
+AUD-004,Theory completion report,Activity/course completion,CSV export,Yes,Moodle Admin,Yes,Retain at least four years
+AUD-005,Active-time report,Time plugin/custom report/admin review,CSV/PDF export,Yes,Moodle Admin,Yes,Retain at least four years
+AUD-006,Interaction records,Lesson/H5P/Quiz attempts,CSV/PDF/screenshots as available,Yes,Instructional Designer,Yes,Retain at least four years
+AUD-007,Final exam/test attempts and score,Moodle Quiz report/gradebook,CSV/PDF export,Yes,RN Educator / Registrar,Yes,Retain at least four years
+AUD-008,Signed statement/affidavit,Approved e-sign/wet-sign workflow,PDF/file export or form record,Yes,Registrar,Yes,Retain at least four years
+AUD-009,Certificate PDF,Certificate plugin/tool,PDF,Yes,Registrar,Yes,Retain at least four years
+AUD-010,Certificate issue log,Certificate plugin/tool logs,CSV/PDF export,Yes,Registrar,Yes,Retain at least four years
+AUD-011,Course version,Course settings/version log,PDF/CSV/change log,Yes,Moodle Admin,Yes,Retain at least four years
+AUD-012,Content version,Content inventory/change log,PDF/XLSX/CSV,Yes,Content Owner,Yes,Retain at least four years
+AUD-013,Certificate template version,Certificate template archive,PDF/screenshot/version log,Yes,Registrar,Yes,Retain at least four years
+AUD-014,Approval/NAC# metadata,Admin approval archive,PDF/scan/file reference,Yes,Compliance Lead,Yes,Retain at least four years
+AUD-015,Manual override log if applicable,Restricted override log/form,CSV/PDF export,Conditional,Compliance Lead,Yes,Retain at least four years if used
+AUD-016,Optional clinical support records,Clinical hub assignments/forms,Separate CSV/PDF folder,Optional,Clinical Coordinator,Yes if used,Retain per policy and label separately
+AUD-017,PHI incident log if applicable,Restricted privacy incident log,Restricted export,Conditional,Privacy Officer,Yes if incident occurs,Retain under legal/privacy direction
+AUD-018,Support tickets relevant to certificate,Help form/messages,PDF/CSV as available,Conditional,Support Lead,Yes if issue affects certificate,Retain at least four years if used for certificate decision

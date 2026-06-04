@@ -1,0 +1,45 @@
+{
+  "id": "634b9eb8-2ff2-91a0-8f5b-02ea7aa6ae9a",
+  "object": "chat.completion",
+  "created": 1780593128,
+  "model": "grok-build",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "**# Review 09_data_schema_json — Module 13**\n\n**Verdict:** PASS WITH RISKS\n\n**Top findings:**\n- [High] Activities package contains empty objective titles (\"1. ; 2. ; 3. ; ...\") while source map and content packages contain the full 8 titles. Evidence: `data/module13.activities.json` (and `activities.generated.json`) explicitly lists blank titles; `source_objective_map.json` and `data/module13.content.json` list the complete titles matching the PDF (e.g., \"Define key terminology\", \"Describe the special needs of persons with Alzheimer’s Disease...\"). Recommended action: Regenerate activities package to pull titles from source_objective_map.\n- [High] Validation report self-reports \"PASS\" for activities and overall structure, but actual file state shows the title defect. Evidence: `reports/validation_report.md` lists \"8 objectives present\", \">=3 activities per objective\", and \"PASS\"; contradicts `data/module13.activities.json` metrics. Recommended action: Treat self-reported PASS as low-strength; add explicit title-consistency check to validation.\n- [Medium] Two distinct content variants coexist with different sizes and unclear authority: `module13.content.json` (114523 bytes) vs `module13.content.generated.json` / `content.generated.json` (both 170250 bytes). Evidence: File inventory lists both in `_module13_dryrun_outputs/data/` and `standalone-course-mvp/src/data/`. Recommended action: Document which variant is canonical for the app and remove or alias the other.\n- [Medium] Narration batch package correctly follows JSON-only rule (csv_used: false, no `audio_scripts.csv`), but all 32 clips remain queued with no audio produced. Evidence: `audio/narration_batch_import_package.json` and `audio/audio_manifest.json` show \"scripts_only_no_audio_generated\", \"qwen_sent\": false, clips statuses={'queued_not_generated': 32}. Recommended action: Confirm package shape is sufficient even if audio generation is deferred.\n- [Medium] App data pointer is correct but sits alongside duplicate content files. Evidence: `standalone-course-mvp/src/data/contentV2.generated.ts` does `import module13CourseContent from './module13.content.generated.json'; export const courseContentV2 = module13CourseContent;`. Recommended action: Verify runtime loading uses only the intended generated file.\n- [Low] Schema files exist and sizes match (`content.schema.json`, `module13.schema.json` both 693 bytes), but no schema validation run or shape diff is present in reports. Evidence: File inventory and deterministic metrics list the files; validation_report.md omits any schema check. Recommended action: Add deterministic schema validation output to future reports.\n- [Low] Source map, content JSON, and activities JSON all report exactly 8 objectives and 780 weighted minutes with matching source refs to the PDF. Evidence: `source_objective_map.json` (validation: objective_count=8, weighted_minutes_total=780), `module13.content.json` (same), `module13.activities.json` (same counts, min/max activities=3). Recommended action: Maintain this metric parity as baseline.\n- [Low] Top-level keys are consistent where present (module_id, source_authority, objectives array, total_weighted_minutes), but activities JSON omits titles that content and source map include. Evidence: Explicit key lists in deterministic metrics for all three JSONs.\n\n**Checkpoint table:**\n\n| Check | Status | Evidence |\n|-------|--------|----------|\n| Objectives count = 8 (declared) | PASS | source_objective_map.json:8; module13.content.json:8; module13.activities.json:8 |\n| Weighted minutes total = 780 | PASS | All three files report theory_minutes_total / total_weighted_minutes = 780; matches source_recommended_theory_hours=13 |\n| Narration batch package is JSON (no CSV) | PASS | narration_batch_import_package.json: csv_used=false; audio_scripts.csv=MISSING; audio_manifest.json confirms JSON clips |\n| Activities per objective >=3 | PASS | module13.activities.json: min_activities=3, max_activities=3 |\n| Objective titles consistent across source map / content / activities | FAIL | Activities titles blank; source map + content have full titles from PDF |\n| App content pointer correct for Module 13 | PASS | contentV2.generated.ts imports and exports module13.content.generated.json |\n| Schema files present | PASS | content.schema.json and module13.schema.json both exist (693 bytes) |\n| Source authority and no prior-module contamination in data packages | PASS | All JSONs cite only `ccccc-na-model-curriculum-module-13.pdf`; validation flags backup/contentv2/prior_module_used_as_authority=false |\n| Generated content package shape (top-level keys) | PASS WITH RISK | Keys present (module_id, objectives, total_weighted_minutes, etc.); activities titles defect is the only structural gap observed |\n\n**Open questions / residual risks:**\n- Why did the activities generation step drop titles while source map and content retained them? Is this a deliberate split or a bug in `source_map/generate_module13_artifacts.py`?\n- Do the two content JSON sizes represent intentional staged outputs (raw vs app-ready), or should one be deleted to prevent drift?\n- No actual JSON Schema content or validation run (e.g., against content.schema.json) is visible in the bundle; only file presence.\n- TTS runtime artifacts (PowerShell parse errors in run_qwen_tts_resume_until_done.ps1, qwen_sent=false) do not break the narration package JSON itself but leave the \"required\" Qwen path incomplete.\n- Self-reported validation PASS is contradicted by deterministic file contents on titles; this pattern reduces trust in other PASS claims.\n\n**One-sentence go/no-go recommendation.**  \nConditional pass on data/schema/JSON with remediation required for blank titles in the activities package and clarification of the duplicate content JSON variants before the artifacts can be treated as consistent.",
+        "reasoning_content": "# Review 09_data_schema_json — Module 13\nVerdict: PASS WITH RISKS\nTop findings:\n- [Critical] Activities JSON (module13.activities.json) has empty objective titles (\"1. ; 2. ; ...\") while source_map and content JSON have full titles/descriptions.",
+        "refusal": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 12098,
+    "completion_tokens": 1224,
+    "total_tokens": 17119,
+    "prompt_tokens_details": {
+      "text_tokens": 12098,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3797,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "num_sources_used": 0,
+    "cost_in_usd_ticks": 220376000
+  },
+  "system_fingerprint": "fp_91e95c2fd6049c66",
+  "service_tier": "default",
+  "_runner": {
+    "review_id": "module13_09_data_schema_json",
+    "attempt": 1,
+    "elapsed_sec": 33.29,
+    "status": 200
+  }
+}

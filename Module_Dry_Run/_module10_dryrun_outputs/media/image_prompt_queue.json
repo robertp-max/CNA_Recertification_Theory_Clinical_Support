@@ -1,0 +1,152 @@
+[
+  {
+    "image_id": "M10-IMG-01",
+    "category": "vital signs dashboard",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: vital signs dashboard; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for vital signs dashboard; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-02",
+    "category": "thermometer types",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: thermometer types; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for thermometer types; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-03",
+    "category": "temperature route comparison",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: temperature route comparison; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for temperature route comparison; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-04",
+    "category": "pulse site body map",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: pulse site body map; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for pulse site body map; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-05",
+    "category": "circulatory pulse concept visual",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: circulatory pulse concept visual; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for circulatory pulse concept visual; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-06",
+    "category": "respiration observation visual",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: respiration observation visual; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for respiration observation visual; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-07",
+    "category": "abnormal breathing pattern visual",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: abnormal breathing pattern visual; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for abnormal breathing pattern visual; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-08",
+    "category": "TPR sequence timeline",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: TPR sequence timeline; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for TPR sequence timeline; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-09",
+    "category": "BP equipment labeling diagram",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: BP equipment labeling diagram; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for BP equipment labeling diagram; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-10",
+    "category": "cuff placement coach",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: cuff placement coach; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for cuff placement coach; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-11",
+    "category": "one-step/two-step BP procedure visuals",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: one-step/two-step BP procedure visuals; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for one-step/two-step BP procedure visuals; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-12",
+    "category": "do-not-use-this-arm BP safety visuals",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: do-not-use-this-arm BP safety visuals; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for do-not-use-this-arm BP safety visuals; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-13",
+    "category": "pain scale role play visual",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: pain scale role play visual; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for pain scale role play visual; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-14",
+    "category": "charting mock forms",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: charting mock forms; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for charting mock forms; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  },
+  {
+    "image_id": "M10-IMG-15",
+    "category": "fictional resident room scenes",
+    "prompt": "Professional healthcare education illustration for NATP Module 10 Vital Signs: fictional resident room scenes; fictional de-identified training scene; mobile-readable; no facility logos; no readable patient records; no PHI.",
+    "negative_prompt": "PHI, real names, facility logos, readable charts, gore, exaggerated illness imagery, unsafe clinical action, certificate or approval claims",
+    "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-10.pdf",
+    "alt_text": "Training visual for fictional resident room scenes; de-identified and source-traced.",
+    "final_path": "",
+    "review_status": "queued_prompt_only_not_generated"
+  }
+]

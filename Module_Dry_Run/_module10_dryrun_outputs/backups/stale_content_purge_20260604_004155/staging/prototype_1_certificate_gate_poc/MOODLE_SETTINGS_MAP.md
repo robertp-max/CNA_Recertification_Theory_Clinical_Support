@@ -1,0 +1,21 @@
+# Moodle Settings Map
+
+Prototype Build 1 - Certificate Gate Proof of Concept
+
+| Activity | Moodle Tool | Completion Setting | Restrict Access Setting | Grade Setting | Certificate Gate? | Notes |
+|---|---|---|---|---|---|---|
+| Module 0 Orientation Page | Page or Book | Require view | None unless sequenced after enrollment | None | Yes | Orientation must explain staging-only status, partial renewal credit, online cap, and no-PHI boundary. |
+| Online Cap Acknowledgement | Choice, Quiz, Feedback, Assignment, or Checklist | Require acknowledgement submission/completion | Available after orientation if sequencing is used | Pass/complete or completed status | Yes | Must acknowledge 48 hours over 2 years, at least 12 hours each year, only 24 hours online through CDPH-approved online CE, and 12-hour theory course is partial renewal credit only. |
+| Required Legal Name field | User profile field | Required profile field completion or admin verification | Certificate restricted until populated/verified | None | Yes | Required for certificate identity. Do not collect PHI. |
+| Required CNA Certificate Number field | User profile field | Required profile field completion or admin verification | Certificate restricted until populated/verified | None | Yes | Required certificate field. Do not collect PHI. |
+| Sample Theory Activity | Page, Lesson, SCORM/H5P placeholder, Assignment, or Quiz placeholder | Require view/submission/completion evidence | Available after required orientation/acknowledgement if sequencing is used | Optional grade unless selected tool requires passing status | Yes | Placeholder only. Do not generate final course content. |
+| Required Interaction/Check | Forum, Assignment, Quiz question, Lesson question, Feedback, H5P, or equivalent | Require attempt, post, response, or completion record | Available in required theory path | Pass/complete or participation record | Yes | Must create auditable interaction/feedback evidence. |
+| Active-Time Status or Manual Review Hold | Candidate active-time tool, grade item, checklist item, manual completion, or admin review hold | Require validated active-time status or manual review completion | Certificate restricted until active-time status passes or hold clears | Complete/pass or manual status | Yes | Active-time tools are unvalidated until staging tests pass. Moodle logs alone are not enough. |
+| Final Exam/Test Placeholder | Quiz or test activity | Require passing grade | Available after required theory path if sequencing is used | Passing grade required | Yes | Placeholder only. Must block certificate on failed exam/test. |
+| Final Signed Statement/Affidavit | Assignment, Feedback, Quiz acknowledgement, Checklist, or e-signature-capable existing tool | Require signed statement/acknowledgement completion | Available near end of required theory path | Complete/pass or submitted status | Yes | Must produce auditable completion evidence. |
+| Certificate Activity | Certificate or Custom Certificate if already available | Issue only after all restrictions pass | Restricted by all required gates and admin hold clear | None unless certificate tool requires grade dependency | Yes | Staging-only or disabled until testing. Must not include clinical hours. |
+| Admin Hold | Grade item, group, manual completion, restriction field, or admin-only checklist | Require clear/released status | Certificate restricted while hold is active | Complete/pass when cleared | Yes | Used for administrative review, evidence gaps, or compliance hold. |
+| Optional Clinical Support Landing Page | Page or Label in optional support shell/section | Optional view only | No certificate restriction dependency | None | No | Must be visually and technically separated from required theory. |
+| Optional Confidence Check | Quiz, Feedback, Choice, or H5P | Optional completion only | No certificate restriction dependency | Optional/non-gating | No | Support only. Must not count toward online CE certificate gate. |
+| Optional Documentation Support Stub | Page, Folder, Assignment placeholder, or Label | Optional completion only | No certificate restriction dependency | None | No | Documentation support only unless CDPH gives written approval. |
+

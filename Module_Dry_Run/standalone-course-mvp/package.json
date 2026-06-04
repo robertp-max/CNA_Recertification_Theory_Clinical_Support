@@ -1,0 +1,33 @@
+{
+  "name": "standalone-course-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc && vite build",
+    "screenshots:v2": "npm run screenshots:v2:css && playwright test --config playwright.v2-screenshot.config.ts",
+    "screenshots:v2:css": "tailwindcss -c tailwind.v2-screenshot.config.cjs -i src/v2-screenshot-tailwind.input.css -o public/v2-screenshot-tailwind.css --minify",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.555.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^7.16.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.4",
+    "vitest": "^2.1.9"
+  }
+}

@@ -1,0 +1,22 @@
+Moved stale purge candidates into this recovery folder. Future workers must ignore this folder as source authority.
+
+Moved:
+_RUN_BACKUPS
+.venv
+CNA-Recert-Course
+staging
+standalone-mvp-sandbox
+BUILD_READINESS_STATUS.md
+CLAUDE_DAY_MODE_FIX_PROMPT.md
+extract_package.ps1
+GLOBAL_MASTER_PROMPT.md
+NEXT_BUILD_STEP.md
+REPOSITORY_STRUCTURE.md
+SECURITY.md
+WORKFLOW.md
+standalone-course-mvp/dist
+standalone-course-mvp/screenshots
+standalone-course-mvp/test-results
+
+Missing:
+

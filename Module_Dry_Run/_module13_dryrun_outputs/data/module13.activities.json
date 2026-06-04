@@ -1,0 +1,606 @@
+{
+  "module_id": "M13",
+  "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf",
+  "objectives": [
+    {
+      "objective_number": 1,
+      "weighted_minutes": 60,
+      "activities": [
+        {
+          "activity_id": "M13-O01-A01",
+          "name": "Terminology Flashcards",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O01:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI",
+            "Source-traced visual prompt for Body-System Term Sort; no PHI",
+            "Source-traced visual prompt for Charting Term Context Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O01-A02",
+          "name": "Body-System Term Sort",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O01:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI",
+            "Source-traced visual prompt for Body-System Term Sort; no PHI",
+            "Source-traced visual prompt for Charting Term Context Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O01-A03",
+          "name": "Charting Term Context Check",
+          "objective_number": 1,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#page-7",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O01:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Terminology Flashcards; no PHI",
+            "Source-traced visual prompt for Body-System Term Sort; no PHI",
+            "Source-traced visual prompt for Charting Term Context Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 1 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 2,
+      "weighted_minutes": 60,
+      "activities": [
+        {
+          "activity_id": "M13-O02-A01",
+          "name": "Need Category Sort",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O02:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Need Category Sort; no PHI",
+            "Source-traced visual prompt for Respectful Choice Scenario; no PHI",
+            "Source-traced visual prompt for Report Unusual Sign Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O02-A02",
+          "name": "Respectful Choice Scenario",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O02:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Need Category Sort; no PHI",
+            "Source-traced visual prompt for Respectful Choice Scenario; no PHI",
+            "Source-traced visual prompt for Report Unusual Sign Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O02-A03",
+          "name": "Report Unusual Sign Check",
+          "objective_number": 2,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-7-9",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O02:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Need Category Sort; no PHI",
+            "Source-traced visual prompt for Respectful Choice Scenario; no PHI",
+            "Source-traced visual prompt for Report Unusual Sign Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 2 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 3,
+      "weighted_minutes": 45,
+      "activities": [
+        {
+          "activity_id": "M13-O03-A01",
+          "name": "Community Resource Match",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O03:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Community Resource Match; no PHI",
+            "Source-traced visual prompt for Referral Boundary Map; no PHI",
+            "Source-traced visual prompt for Resource Information Role-Play; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O03-A02",
+          "name": "Referral Boundary Map",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O03:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Community Resource Match; no PHI",
+            "Source-traced visual prompt for Referral Boundary Map; no PHI",
+            "Source-traced visual prompt for Resource Information Role-Play; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O03-A03",
+          "name": "Resource Information Role-Play",
+          "objective_number": 3,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-9-10",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O03:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Community Resource Match; no PHI",
+            "Source-traced visual prompt for Referral Boundary Map; no PHI",
+            "Source-traced visual prompt for Resource Information Role-Play; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 3 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 4,
+      "weighted_minutes": 120,
+      "activities": [
+        {
+          "activity_id": "M13-O04-A01",
+          "name": "Seizure Safety Sequence",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O04:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Seizure Safety Sequence; no PHI",
+            "Source-traced visual prompt for Parkinson’s Support Plan; no PHI",
+            "Source-traced visual prompt for Behavior Escalation Report; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O04-A02",
+          "name": "Parkinson’s Support Plan",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O04:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Seizure Safety Sequence; no PHI",
+            "Source-traced visual prompt for Parkinson’s Support Plan; no PHI",
+            "Source-traced visual prompt for Behavior Escalation Report; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O04-A03",
+          "name": "Behavior Escalation Report",
+          "objective_number": 4,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-10-15",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O04:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Seizure Safety Sequence; no PHI",
+            "Source-traced visual prompt for Parkinson’s Support Plan; no PHI",
+            "Source-traced visual prompt for Behavior Escalation Report; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 4 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 5,
+      "weighted_minutes": 120,
+      "activities": [
+        {
+          "activity_id": "M13-O05-A01",
+          "name": "Dementia/Delirium/Depression Sort",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O05:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Dementia/Delirium/Depression Sort; no PHI",
+            "Source-traced visual prompt for Validation Response Scenario; no PHI",
+            "Source-traced visual prompt for Dementia Safety Environment Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O05-A02",
+          "name": "Validation Response Scenario",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O05:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Dementia/Delirium/Depression Sort; no PHI",
+            "Source-traced visual prompt for Validation Response Scenario; no PHI",
+            "Source-traced visual prompt for Dementia Safety Environment Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O05-A03",
+          "name": "Dementia Safety Environment Check",
+          "objective_number": 5,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-15-20",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O05:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Dementia/Delirium/Depression Sort; no PHI",
+            "Source-traced visual prompt for Validation Response Scenario; no PHI",
+            "Source-traced visual prompt for Dementia Safety Environment Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 5 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 6,
+      "weighted_minutes": 45,
+      "activities": [
+        {
+          "activity_id": "M13-O06-A01",
+          "name": "Body Organization Stack",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O06:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body Organization Stack; no PHI",
+            "Source-traced visual prompt for Tissue Organ System Match; no PHI",
+            "Source-traced visual prompt for Health Versus Disease Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O06-A02",
+          "name": "Tissue Organ System Match",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O06:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body Organization Stack; no PHI",
+            "Source-traced visual prompt for Tissue Organ System Match; no PHI",
+            "Source-traced visual prompt for Health Versus Disease Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O06-A03",
+          "name": "Health Versus Disease Check",
+          "objective_number": 6,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-20-21",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O06:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body Organization Stack; no PHI",
+            "Source-traced visual prompt for Tissue Organ System Match; no PHI",
+            "Source-traced visual prompt for Health Versus Disease Check; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 6 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 7,
+      "weighted_minutes": 270,
+      "activities": [
+        {
+          "activity_id": "M13-O07-A01",
+          "name": "Body System Explorer",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O07:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body System Explorer; no PHI",
+            "Source-traced visual prompt for Reportable Signs Triage; no PHI",
+            "Source-traced visual prompt for Immobility Complication Prevention; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O07-A02",
+          "name": "Reportable Signs Triage",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O07:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body System Explorer; no PHI",
+            "Source-traced visual prompt for Reportable Signs Triage; no PHI",
+            "Source-traced visual prompt for Immobility Complication Prevention; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O07-A03",
+          "name": "Immobility Complication Prevention",
+          "objective_number": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-21-56",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O07:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Body System Explorer; no PHI",
+            "Source-traced visual prompt for Reportable Signs Triage; no PHI",
+            "Source-traced visual prompt for Immobility Complication Prevention; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 7 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    },
+    {
+      "objective_number": 8,
+      "weighted_minutes": 60,
+      "activities": [
+        {
+          "activity_id": "M13-O08-A01",
+          "name": "Aging Change System Match",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O08:A01",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Aging Change System Match; no PHI",
+            "Source-traced visual prompt for Age-Related Care Measure Sort; no PHI",
+            "Source-traced visual prompt for Report Aging-Related Signs Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O08-A02",
+          "name": "Age-Related Care Measure Sort",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O08:A02",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Aging Change System Match; no PHI",
+            "Source-traced visual prompt for Age-Related Care Measure Sort; no PHI",
+            "Source-traced visual prompt for Report Aging-Related Signs Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        },
+        {
+          "activity_id": "M13-O08-A03",
+          "name": "Report Aging-Related Signs Scenario",
+          "objective_number": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-13.pdf#pages-56-59",
+          "mobile_pattern": "tap-card / sort / scenario / sequence / short-response",
+          "completion_event": "activity_complete:M13:O08:A03",
+          "accessibility_notes": "Keyboard reachable, text alternatives required, no autoplay audio, high-contrast mobile layout.",
+          "media_requirements": [
+            "Source-traced visual prompt for Aging Change System Match; no PHI",
+            "Source-traced visual prompt for Age-Related Care Measure Sort; no PHI",
+            "Source-traced visual prompt for Report Aging-Related Signs Scenario; no PHI"
+          ],
+          "narration_requirements": [
+            "Objective 8 intro transcript",
+            "Activity instruction/debrief transcripts; JSON batch import only; audio generation gated."
+          ],
+          "sfx_requirements": [
+            "queued/manifest only; no TTS-generated SFX"
+          ],
+          "remediation": "Return to the source objective summary and repeat the source-traced practice check; do not reveal internal answer keys.",
+          "compliance_boundary": "Source-traced theory practice only; no PHI, approval claim, clinical-hour credit, or online hands-on competency validation."
+        }
+      ]
+    }
+  ]
+}

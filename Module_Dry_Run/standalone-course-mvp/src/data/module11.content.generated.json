@@ -1,0 +1,2701 @@
+{
+  "app_copy": {
+    "dashboard": {
+      "badge": "Module 11 Dry Run",
+      "title": "NATP Module 11: Nutrition",
+      "summary": "Source-first dry run generated from approved NATP Module 11 PDF.",
+      "theory_card": "120 minutes of source-traced theory content.",
+      "clinical_card": "6 clinical hours are source-recommended only and deferred; not online credit.",
+      "audit_card": "Source map, manifests, and validation report generated for audit review.",
+      "compliance_notice": "No approval, certificate production, online clinical credit, or online competency validation is claimed."
+    },
+    "module0": {
+      "eyebrow": "Module 11 only",
+      "title": "NATP Module 11: Nutrition",
+      "intro": "This dry run contains Module 11 only.",
+      "acknowledgements": [
+        {
+          "key": "identity",
+          "text": "I understand this is a Module 11 dry run."
+        },
+        {
+          "key": "onlineCap",
+          "text": "I understand clinical time is not online credit."
+        },
+        {
+          "key": "clinicalBoundary",
+          "text": "I understand hands-on competency is deferred."
+        }
+      ]
+    },
+    "moduleAssessment": {
+      "title": "Module 11 Knowledge Check",
+      "summary": "Source-traced objective checks for Module 11 only."
+    },
+    "final": {
+      "title": "Module 11 Review Check",
+      "summary": "Dry-run review only; no production final exam claim.",
+      "no_key_notice": "Answer keys are internal-only.",
+      "pass_title": "Module 11 Review Complete",
+      "pass_body": "Dry-run only; no certificate or approval claim.",
+      "fail_title": "Review Module 11 Objectives"
+    },
+    "certificate": {
+      "checklist_title": "Certificate Disabled for Dry Run",
+      "intro": "Certificate production is not part of this Module 11 dry run.",
+      "locked_body": "Certificate remains locked and non-production.",
+      "ready_body": "Dry-run complete does not issue a production certificate.",
+      "restriction": "No clinical-hour credit, CDPH/TPRU approval, or online hands-on competency validation is claimed.",
+      "affidavit_text": "I confirm this is a non-production Module 11 dry run."
+    },
+    "clinicalHub": {
+      "eyebrow": "Clinical boundary",
+      "badge": "Deferred",
+      "title": "Clinical Support Deferred",
+      "warning": "Clinical practice is source-recommended only and not online credit.",
+      "documentation_title": "Documentation Support",
+      "documentation_warning": "Do not enter PHI. Use fictional, de-identified practice only.",
+      "scenarios": [
+        {
+          "title": "In-person clinical practice deferred",
+          "body": "Manual feeding skills require evaluator-supported practice and are not validated online.",
+          "action": "Use as theory preparation only"
+        }
+      ]
+    }
+  },
+  "control_facts": {
+    "theory_total_minutes": 120,
+    "source_authority": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf"
+  },
+  "clinical_support": {
+    "units": [],
+    "confidence_checks": []
+  },
+  "modules": [
+    {
+      "module_id": "M11",
+      "module_title": "NATP Module 11: Nutrition",
+      "short_title": "Nutrition",
+      "estimated_minutes": 120,
+      "status": "ready",
+      "counts_toward_theory": true,
+      "source_status_flag": "Generated from approved Module 11 PDF source map.",
+      "sme_review_flag": "SME review required before production.",
+      "compliance_review_flag": "Dry-run only; no approval/credit/certificate/competency claim.",
+      "learning_objectives": [
+        "Define key terminology",
+        "Discuss the body's need for food and fluids",
+        "List common nutrients and their food sources",
+        "Describe the My Plate food guidance system",
+        "Describe the vegan basic four food groups",
+        "Discuss nutritional and fluid needs of the elderly",
+        "Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+        "Describe proper techniques for feeding patients/residents",
+        "Discuss cultural and religious influences on dietary practices",
+        "Identify alternative ways to administer nutrition"
+      ],
+      "lessons": [
+        {
+          "lesson_id": "L01",
+          "lesson_title": "Objective 1: Define key terminology",
+          "estimated_minutes": 8,
+          "objective_number": 1,
+          "weighted_minutes": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L01",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l01.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l1",
+                "location": "module.m11.lesson.l01.card.c01_overview"
+              },
+              "scene_title": "Objective 1 Overview",
+              "display_title": "Objective 1 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Overview",
+                "alt_text": "Training visual: Objective 1 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 1: Define key terminology. Weighted theory time: 8 minutes. Source pages: 4.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "This lesson covers Objective 1: Define key terminology. Weighted theory time: 8 minutes. Source pages: 4.",
+              "why_it_matters": [
+                "This supports source Objective 1 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Allergy",
+                  "definition": "Source terminology for Module 11: Allergy."
+                },
+                {
+                  "term": "American Dietetic Association (ADA)",
+                  "definition": "Source terminology for Module 11: American Dietetic Association (ADA)."
+                },
+                {
+                  "term": "Amino acid",
+                  "definition": "Source terminology for Module 11: Amino acid."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 1: Define key terminology. Weighted theory time: 8 minutes. Source pages: 4.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L01",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l01.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l1",
+                "location": "module.m11.lesson.l01.card.c02_delivery"
+              },
+              "scene_title": "Objective 1 Source Teaching",
+              "display_title": "Objective 1 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Source Teaching",
+                "alt_text": "Training visual: Objective 1 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: review terminology spell/pronounce terms accurately use terms in proper charting/reporting context\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Source-traced teaching outline: review terminology spell/pronounce terms accurately use terms in proper charting/reporting context\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 1 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Allergy",
+                  "definition": "Source terminology for Module 11: Allergy."
+                },
+                {
+                  "term": "American Dietetic Association (ADA)",
+                  "definition": "Source terminology for Module 11: American Dietetic Association (ADA)."
+                },
+                {
+                  "term": "Amino acid",
+                  "definition": "Source terminology for Module 11: Amino acid."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: review terminology spell/pronounce terms accurately use terms in proper charting/reporting context\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L01",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l01.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l1",
+                "location": "module.m11.lesson.l01.card.c03_challenge"
+              },
+              "scene_title": "Objective 1 Practice Check",
+              "display_title": "Objective 1 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Practice Check",
+                "alt_text": "Training visual: Objective 1 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 1 using source-traced nutrition content.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Practice applying Objective 1 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 1 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Allergy",
+                  "definition": "Source terminology for Module 11: Allergy."
+                },
+                {
+                  "term": "American Dietetic Association (ADA)",
+                  "definition": "Source terminology for Module 11: American Dietetic Association (ADA)."
+                },
+                {
+                  "term": "Amino acid",
+                  "definition": "Source terminology for Module 11: Amino acid."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 1 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O01-KC",
+                "app_location": "module.m11.lesson.l01.challenge",
+                "prompt": "In Objective 1, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L01",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l01.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l1",
+                "location": "module.m11.lesson.l01.card.c04_debrief"
+              },
+              "scene_title": "Objective 1 Debrief",
+              "display_title": "Objective 1 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 1 Debrief",
+                "alt_text": "Training visual: Objective 1 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 1.",
+              "learning_goal": "Objective 1: Define key terminology",
+              "learner_facing_content": "Review the safest source-traced response for Objective 1.",
+              "why_it_matters": [
+                "This supports source Objective 1 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "Allergy",
+                  "definition": "Source terminology for Module 11: Allergy."
+                },
+                {
+                  "term": "American Dietetic Association (ADA)",
+                  "definition": "Source terminology for Module 11: American Dietetic Association (ADA)."
+                },
+                {
+                  "term": "Amino acid",
+                  "definition": "Source terminology for Module 11: Amino acid."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 1.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L02",
+          "lesson_title": "Objective 2: Discuss the body's need for food and fluids",
+          "estimated_minutes": 8,
+          "objective_number": 2,
+          "weighted_minutes": 8,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L02",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l02.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l2",
+                "location": "module.m11.lesson.l02.card.c01_overview"
+              },
+              "scene_title": "Objective 2 Overview",
+              "display_title": "Objective 2 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Overview",
+                "alt_text": "Training visual: Objective 2 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 2: Discuss the body's need for food and fluids. Weighted theory time: 8 minutes. Source pages: 4, 5.",
+              "learning_goal": "Objective 2: Discuss the body's need for food and fluids",
+              "learner_facing_content": "This lesson covers Objective 2: Discuss the body's need for food and fluids. Weighted theory time: 8 minutes. Source pages: 4, 5.",
+              "why_it_matters": [
+                "This supports source Objective 2 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "food and fluids provide energy",
+                  "definition": "Source terminology for Module 11: food and fluids provide energy."
+                },
+                {
+                  "term": "promote growth and tissue repair",
+                  "definition": "Source terminology for Module 11: promote growth and tissue repair."
+                },
+                {
+                  "term": "regulate body functions",
+                  "definition": "Source terminology for Module 11: regulate body functions."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 2: Discuss the body's need for food and fluids. Weighted theory time: 8 minutes. Source pages: 4, 5.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L02",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l02.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l2",
+                "location": "module.m11.lesson.l02.card.c02_delivery"
+              },
+              "scene_title": "Objective 2 Source Teaching",
+              "display_title": "Objective 2 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Source Teaching",
+                "alt_text": "Training visual: Objective 2 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: food and fluids provide energy promote growth and tissue repair regulate body functions meet basic survival need nutrition is food and relationship to health balanced diet has sufficient nutrients and about 1500 mL/day adult minimum fluids\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 2: Discuss the body's need for food and fluids",
+              "learner_facing_content": "Source-traced teaching outline: food and fluids provide energy promote growth and tissue repair regulate body functions meet basic survival need nutrition is food and relationship to health balanced diet has sufficient nutrients and about 1500 mL/day adult minimum fluids\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 2 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "food and fluids provide energy",
+                  "definition": "Source terminology for Module 11: food and fluids provide energy."
+                },
+                {
+                  "term": "promote growth and tissue repair",
+                  "definition": "Source terminology for Module 11: promote growth and tissue repair."
+                },
+                {
+                  "term": "regulate body functions",
+                  "definition": "Source terminology for Module 11: regulate body functions."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: food and fluids provide energy promote growth and tissue repair regulate body functions meet basic survival need nutrition is food and relationship to health balanced diet has sufficient nutrients and about 1500 mL/day adult minimum fluids\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L02",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l02.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l2",
+                "location": "module.m11.lesson.l02.card.c03_challenge"
+              },
+              "scene_title": "Objective 2 Practice Check",
+              "display_title": "Objective 2 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Practice Check",
+                "alt_text": "Training visual: Objective 2 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 2 using source-traced nutrition content.",
+              "learning_goal": "Objective 2: Discuss the body's need for food and fluids",
+              "learner_facing_content": "Practice applying Objective 2 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 2 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "food and fluids provide energy",
+                  "definition": "Source terminology for Module 11: food and fluids provide energy."
+                },
+                {
+                  "term": "promote growth and tissue repair",
+                  "definition": "Source terminology for Module 11: promote growth and tissue repair."
+                },
+                {
+                  "term": "regulate body functions",
+                  "definition": "Source terminology for Module 11: regulate body functions."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 2 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O02-KC",
+                "app_location": "module.m11.lesson.l02.challenge",
+                "prompt": "In Objective 2, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L02",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l02.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l2",
+                "location": "module.m11.lesson.l02.card.c04_debrief"
+              },
+              "scene_title": "Objective 2 Debrief",
+              "display_title": "Objective 2 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 2 Debrief",
+                "alt_text": "Training visual: Objective 2 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 2.",
+              "learning_goal": "Objective 2: Discuss the body's need for food and fluids",
+              "learner_facing_content": "Review the safest source-traced response for Objective 2.",
+              "why_it_matters": [
+                "This supports source Objective 2 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "food and fluids provide energy",
+                  "definition": "Source terminology for Module 11: food and fluids provide energy."
+                },
+                {
+                  "term": "promote growth and tissue repair",
+                  "definition": "Source terminology for Module 11: promote growth and tissue repair."
+                },
+                {
+                  "term": "regulate body functions",
+                  "definition": "Source terminology for Module 11: regulate body functions."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 2.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L03",
+          "lesson_title": "Objective 3: List common nutrients and their food sources",
+          "estimated_minutes": 15,
+          "objective_number": 3,
+          "weighted_minutes": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L03",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l03.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l3",
+                "location": "module.m11.lesson.l03.card.c01_overview"
+              },
+              "scene_title": "Objective 3 Overview",
+              "display_title": "Objective 3 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Overview",
+                "alt_text": "Training visual: Objective 3 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 3: List common nutrients and their food sources. Weighted theory time: 15 minutes. Source pages: 5, 6.",
+              "learning_goal": "Objective 3: List common nutrients and their food sources",
+              "learner_facing_content": "This lesson covers Objective 3: List common nutrients and their food sources. Weighted theory time: 15 minutes. Source pages: 5, 6.",
+              "why_it_matters": [
+                "This supports source Objective 3 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber",
+                  "definition": "Source terminology for Module 11: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber."
+                },
+                {
+                  "term": "proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids",
+                  "definition": "Source terminology for Module 11: proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids."
+                },
+                {
+                  "term": "fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection",
+                  "definition": "Source terminology for Module 11: fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 3: List common nutrients and their food sources. Weighted theory time: 15 minutes. Source pages: 5, 6.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L03",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l03.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l3",
+                "location": "module.m11.lesson.l03.card.c02_delivery"
+              },
+              "scene_title": "Objective 3 Source Teaching",
+              "display_title": "Objective 3 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Source Teaching",
+                "alt_text": "Training visual: Objective 3 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection vitamins/minerals: regulation and tissue building/repair dietary fiber supports bowel elimination fluids/water essential for body functioning\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 3: List common nutrients and their food sources",
+              "learner_facing_content": "Source-traced teaching outline: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection vitamins/minerals: regulation and tissue building/repair dietary fiber supports bowel elimination fluids/water essential for body functioning\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 3 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber",
+                  "definition": "Source terminology for Module 11: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber."
+                },
+                {
+                  "term": "proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids",
+                  "definition": "Source terminology for Module 11: proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids."
+                },
+                {
+                  "term": "fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection",
+                  "definition": "Source terminology for Module 11: fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection vitamins/minerals: regulation and tissue building/repair dietary fiber supports bowel elimination fluids/water essential for body functioning\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L03",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l03.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l3",
+                "location": "module.m11.lesson.l03.card.c03_challenge"
+              },
+              "scene_title": "Objective 3 Practice Check",
+              "display_title": "Objective 3 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Practice Check",
+                "alt_text": "Training visual: Objective 3 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 3 using source-traced nutrition content.",
+              "learning_goal": "Objective 3: List common nutrients and their food sources",
+              "learner_facing_content": "Practice applying Objective 3 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 3 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber",
+                  "definition": "Source terminology for Module 11: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber."
+                },
+                {
+                  "term": "proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids",
+                  "definition": "Source terminology for Module 11: proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids."
+                },
+                {
+                  "term": "fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection",
+                  "definition": "Source terminology for Module 11: fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 3 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O03-KC",
+                "app_location": "module.m11.lesson.l03.challenge",
+                "prompt": "In Objective 3, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L03",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l03.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l3",
+                "location": "module.m11.lesson.l03.card.c04_debrief"
+              },
+              "scene_title": "Objective 3 Debrief",
+              "display_title": "Objective 3 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 3 Debrief",
+                "alt_text": "Training visual: Objective 3 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 3.",
+              "learning_goal": "Objective 3: List common nutrients and their food sources",
+              "learner_facing_content": "Review the safest source-traced response for Objective 3.",
+              "why_it_matters": [
+                "This supports source Objective 3 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber",
+                  "definition": "Source terminology for Module 11: carbohydrates: grains/pastas/breads/cereals/fruits/vegetables; energy and fiber."
+                },
+                {
+                  "term": "proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids",
+                  "definition": "Source terminology for Module 11: proteins: eggs/milk/meat/fish/nuts/poultry/cheese/beans/peanut butter/soy; tissue growth/repair and amino acids."
+                },
+                {
+                  "term": "fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection",
+                  "definition": "Source terminology for Module 11: fats: oils/milk/cream/cheese/meat/butter/mayonnaise; energy, vitamin transport, heat conservation, organ protection."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 3.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L04",
+          "lesson_title": "Objective 4: Describe the My Plate food guidance system",
+          "estimated_minutes": 14,
+          "objective_number": 4,
+          "weighted_minutes": 14,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L04",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l04.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l4",
+                "location": "module.m11.lesson.l04.card.c01_overview"
+              },
+              "scene_title": "Objective 4 Overview",
+              "display_title": "Objective 4 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Overview",
+                "alt_text": "Training visual: Objective 4 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 4: Describe the My Plate food guidance system. Weighted theory time: 14 minutes. Source pages: 6, 7.",
+              "learning_goal": "Objective 4: Describe the My Plate food guidance system",
+              "learner_facing_content": "This lesson covers Objective 4: Describe the My Plate food guidance system. Weighted theory time: 14 minutes. Source pages: 6, 7.",
+              "why_it_matters": [
+                "This supports source Objective 4 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "grain group amounts",
+                  "definition": "Source terminology for Module 11: grain group amounts."
+                },
+                {
+                  "term": "vegetable group emphasis and amounts",
+                  "definition": "Source terminology for Module 11: vegetable group emphasis and amounts."
+                },
+                {
+                  "term": "fruit group and juice limits",
+                  "definition": "Source terminology for Module 11: fruit group and juice limits."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 4: Describe the My Plate food guidance system. Weighted theory time: 14 minutes. Source pages: 6, 7.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L04",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l04.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l4",
+                "location": "module.m11.lesson.l04.card.c02_delivery"
+              },
+              "scene_title": "Objective 4 Source Teaching",
+              "display_title": "Objective 4 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Source Teaching",
+                "alt_text": "Training visual: Objective 4 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: grain group amounts vegetable group emphasis and amounts fruit group and juice limits dairy group low/non-fat and amounts protein group amounts oil group choices and solid fat limits food journal/myplate comparison assignment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 4: Describe the My Plate food guidance system",
+              "learner_facing_content": "Source-traced teaching outline: grain group amounts vegetable group emphasis and amounts fruit group and juice limits dairy group low/non-fat and amounts protein group amounts oil group choices and solid fat limits food journal/myplate comparison assignment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 4 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "grain group amounts",
+                  "definition": "Source terminology for Module 11: grain group amounts."
+                },
+                {
+                  "term": "vegetable group emphasis and amounts",
+                  "definition": "Source terminology for Module 11: vegetable group emphasis and amounts."
+                },
+                {
+                  "term": "fruit group and juice limits",
+                  "definition": "Source terminology for Module 11: fruit group and juice limits."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: grain group amounts vegetable group emphasis and amounts fruit group and juice limits dairy group low/non-fat and amounts protein group amounts oil group choices and solid fat limits food journal/myplate comparison assignment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L04",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l04.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l4",
+                "location": "module.m11.lesson.l04.card.c03_challenge"
+              },
+              "scene_title": "Objective 4 Practice Check",
+              "display_title": "Objective 4 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Practice Check",
+                "alt_text": "Training visual: Objective 4 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 4 using source-traced nutrition content.",
+              "learning_goal": "Objective 4: Describe the My Plate food guidance system",
+              "learner_facing_content": "Practice applying Objective 4 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 4 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "grain group amounts",
+                  "definition": "Source terminology for Module 11: grain group amounts."
+                },
+                {
+                  "term": "vegetable group emphasis and amounts",
+                  "definition": "Source terminology for Module 11: vegetable group emphasis and amounts."
+                },
+                {
+                  "term": "fruit group and juice limits",
+                  "definition": "Source terminology for Module 11: fruit group and juice limits."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 4 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O04-KC",
+                "app_location": "module.m11.lesson.l04.challenge",
+                "prompt": "In Objective 4, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L04",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l04.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l4",
+                "location": "module.m11.lesson.l04.card.c04_debrief"
+              },
+              "scene_title": "Objective 4 Debrief",
+              "display_title": "Objective 4 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 4 Debrief",
+                "alt_text": "Training visual: Objective 4 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 4.",
+              "learning_goal": "Objective 4: Describe the My Plate food guidance system",
+              "learner_facing_content": "Review the safest source-traced response for Objective 4.",
+              "why_it_matters": [
+                "This supports source Objective 4 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "grain group amounts",
+                  "definition": "Source terminology for Module 11: grain group amounts."
+                },
+                {
+                  "term": "vegetable group emphasis and amounts",
+                  "definition": "Source terminology for Module 11: vegetable group emphasis and amounts."
+                },
+                {
+                  "term": "fruit group and juice limits",
+                  "definition": "Source terminology for Module 11: fruit group and juice limits."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 4.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L05",
+          "lesson_title": "Objective 5: Describe the vegan basic four food groups",
+          "estimated_minutes": 7,
+          "objective_number": 5,
+          "weighted_minutes": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L05",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l05.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l5",
+                "location": "module.m11.lesson.l05.card.c01_overview"
+              },
+              "scene_title": "Objective 5 Overview",
+              "display_title": "Objective 5 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Overview",
+                "alt_text": "Training visual: Objective 5 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 5: Describe the vegan basic four food groups. Weighted theory time: 7 minutes. Source pages: 7.",
+              "learning_goal": "Objective 5: Describe the vegan basic four food groups",
+              "learner_facing_content": "This lesson covers Objective 5: Describe the vegan basic four food groups. Weighted theory time: 7 minutes. Source pages: 7.",
+              "why_it_matters": [
+                "This supports source Objective 5 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "vegetarian diet excludes meat/fish/poultry with variations",
+                  "definition": "Source terminology for Module 11: vegetarian diet excludes meat/fish/poultry with variations."
+                },
+                {
+                  "term": "vegan excludes all animal products including milk/fish/eggs/honey",
+                  "definition": "Source terminology for Module 11: vegan excludes all animal products including milk/fish/eggs/honey."
+                },
+                {
+                  "term": "vegan groups: whole grains, vegetables, fruits, legumes",
+                  "definition": "Source terminology for Module 11: vegan groups: whole grains, vegetables, fruits, legumes."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 5: Describe the vegan basic four food groups. Weighted theory time: 7 minutes. Source pages: 7.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L05",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l05.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l5",
+                "location": "module.m11.lesson.l05.card.c02_delivery"
+              },
+              "scene_title": "Objective 5 Source Teaching",
+              "display_title": "Objective 5 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Source Teaching",
+                "alt_text": "Training visual: Objective 5 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: vegetarian diet excludes meat/fish/poultry with variations vegan excludes all animal products including milk/fish/eggs/honey vegan groups: whole grains, vegetables, fruits, legumes\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 5: Describe the vegan basic four food groups",
+              "learner_facing_content": "Source-traced teaching outline: vegetarian diet excludes meat/fish/poultry with variations vegan excludes all animal products including milk/fish/eggs/honey vegan groups: whole grains, vegetables, fruits, legumes\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 5 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "vegetarian diet excludes meat/fish/poultry with variations",
+                  "definition": "Source terminology for Module 11: vegetarian diet excludes meat/fish/poultry with variations."
+                },
+                {
+                  "term": "vegan excludes all animal products including milk/fish/eggs/honey",
+                  "definition": "Source terminology for Module 11: vegan excludes all animal products including milk/fish/eggs/honey."
+                },
+                {
+                  "term": "vegan groups: whole grains, vegetables, fruits, legumes",
+                  "definition": "Source terminology for Module 11: vegan groups: whole grains, vegetables, fruits, legumes."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: vegetarian diet excludes meat/fish/poultry with variations vegan excludes all animal products including milk/fish/eggs/honey vegan groups: whole grains, vegetables, fruits, legumes\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L05",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l05.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l5",
+                "location": "module.m11.lesson.l05.card.c03_challenge"
+              },
+              "scene_title": "Objective 5 Practice Check",
+              "display_title": "Objective 5 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Practice Check",
+                "alt_text": "Training visual: Objective 5 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 5 using source-traced nutrition content.",
+              "learning_goal": "Objective 5: Describe the vegan basic four food groups",
+              "learner_facing_content": "Practice applying Objective 5 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 5 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "vegetarian diet excludes meat/fish/poultry with variations",
+                  "definition": "Source terminology for Module 11: vegetarian diet excludes meat/fish/poultry with variations."
+                },
+                {
+                  "term": "vegan excludes all animal products including milk/fish/eggs/honey",
+                  "definition": "Source terminology for Module 11: vegan excludes all animal products including milk/fish/eggs/honey."
+                },
+                {
+                  "term": "vegan groups: whole grains, vegetables, fruits, legumes",
+                  "definition": "Source terminology for Module 11: vegan groups: whole grains, vegetables, fruits, legumes."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 5 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O05-KC",
+                "app_location": "module.m11.lesson.l05.challenge",
+                "prompt": "In Objective 5, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L05",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l05.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l5",
+                "location": "module.m11.lesson.l05.card.c04_debrief"
+              },
+              "scene_title": "Objective 5 Debrief",
+              "display_title": "Objective 5 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 5 Debrief",
+                "alt_text": "Training visual: Objective 5 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 5.",
+              "learning_goal": "Objective 5: Describe the vegan basic four food groups",
+              "learner_facing_content": "Review the safest source-traced response for Objective 5.",
+              "why_it_matters": [
+                "This supports source Objective 5 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "vegetarian diet excludes meat/fish/poultry with variations",
+                  "definition": "Source terminology for Module 11: vegetarian diet excludes meat/fish/poultry with variations."
+                },
+                {
+                  "term": "vegan excludes all animal products including milk/fish/eggs/honey",
+                  "definition": "Source terminology for Module 11: vegan excludes all animal products including milk/fish/eggs/honey."
+                },
+                {
+                  "term": "vegan groups: whole grains, vegetables, fruits, legumes",
+                  "definition": "Source terminology for Module 11: vegan groups: whole grains, vegetables, fruits, legumes."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 5.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L06",
+          "lesson_title": "Objective 6: Discuss nutritional and fluid needs of the elderly",
+          "estimated_minutes": 12,
+          "objective_number": 6,
+          "weighted_minutes": 12,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L06",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l06.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l6",
+                "location": "module.m11.lesson.l06.card.c01_overview"
+              },
+              "scene_title": "Objective 6 Overview",
+              "display_title": "Objective 6 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Overview",
+                "alt_text": "Training visual: Objective 6 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 6: Discuss nutritional and fluid needs of the elderly. Weighted theory time: 12 minutes. Source pages: 7, 8.",
+              "learning_goal": "Objective 6: Discuss nutritional and fluid needs of the elderly",
+              "learner_facing_content": "This lesson covers Objective 6: Discuss nutritional and fluid needs of the elderly. Weighted theory time: 12 minutes. Source pages: 7, 8.",
+              "why_it_matters": [
+                "This supports source Objective 6 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "lower calorie needs with less activity",
+                  "definition": "Source terminology for Module 11: lower calorie needs with less activity."
+                },
+                {
+                  "term": "vitamin/mineral needs with digestive disturbances",
+                  "definition": "Source terminology for Module 11: vitamin/mineral needs with digestive disturbances."
+                },
+                {
+                  "term": "medications affect fluid balance/digestion/nutrient use",
+                  "definition": "Source terminology for Module 11: medications affect fluid balance/digestion/nutrient use."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 6: Discuss nutritional and fluid needs of the elderly. Weighted theory time: 12 minutes. Source pages: 7, 8.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L06",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l06.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l6",
+                "location": "module.m11.lesson.l06.card.c02_delivery"
+              },
+              "scene_title": "Objective 6 Source Teaching",
+              "display_title": "Objective 6 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Source Teaching",
+                "alt_text": "Training visual: Objective 6 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: lower calorie needs with less activity vitamin/mineral needs with digestive disturbances medications affect fluid balance/digestion/nutrient use oral hygiene, teeth, dentures affect nutrition taste changes disease, isolation, supplements allergy checks and food choice factors\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 6: Discuss nutritional and fluid needs of the elderly",
+              "learner_facing_content": "Source-traced teaching outline: lower calorie needs with less activity vitamin/mineral needs with digestive disturbances medications affect fluid balance/digestion/nutrient use oral hygiene, teeth, dentures affect nutrition taste changes disease, isolation, supplements allergy checks and food choice factors\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 6 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "lower calorie needs with less activity",
+                  "definition": "Source terminology for Module 11: lower calorie needs with less activity."
+                },
+                {
+                  "term": "vitamin/mineral needs with digestive disturbances",
+                  "definition": "Source terminology for Module 11: vitamin/mineral needs with digestive disturbances."
+                },
+                {
+                  "term": "medications affect fluid balance/digestion/nutrient use",
+                  "definition": "Source terminology for Module 11: medications affect fluid balance/digestion/nutrient use."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: lower calorie needs with less activity vitamin/mineral needs with digestive disturbances medications affect fluid balance/digestion/nutrient use oral hygiene, teeth, dentures affect nutrition taste changes disease, isolation, supplements allergy checks and food choice factors\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L06",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l06.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l6",
+                "location": "module.m11.lesson.l06.card.c03_challenge"
+              },
+              "scene_title": "Objective 6 Practice Check",
+              "display_title": "Objective 6 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Practice Check",
+                "alt_text": "Training visual: Objective 6 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 6 using source-traced nutrition content.",
+              "learning_goal": "Objective 6: Discuss nutritional and fluid needs of the elderly",
+              "learner_facing_content": "Practice applying Objective 6 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 6 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "lower calorie needs with less activity",
+                  "definition": "Source terminology for Module 11: lower calorie needs with less activity."
+                },
+                {
+                  "term": "vitamin/mineral needs with digestive disturbances",
+                  "definition": "Source terminology for Module 11: vitamin/mineral needs with digestive disturbances."
+                },
+                {
+                  "term": "medications affect fluid balance/digestion/nutrient use",
+                  "definition": "Source terminology for Module 11: medications affect fluid balance/digestion/nutrient use."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 6 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O06-KC",
+                "app_location": "module.m11.lesson.l06.challenge",
+                "prompt": "In Objective 6, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L06",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l06.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l6",
+                "location": "module.m11.lesson.l06.card.c04_debrief"
+              },
+              "scene_title": "Objective 6 Debrief",
+              "display_title": "Objective 6 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 6 Debrief",
+                "alt_text": "Training visual: Objective 6 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 6.",
+              "learning_goal": "Objective 6: Discuss nutritional and fluid needs of the elderly",
+              "learner_facing_content": "Review the safest source-traced response for Objective 6.",
+              "why_it_matters": [
+                "This supports source Objective 6 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "lower calorie needs with less activity",
+                  "definition": "Source terminology for Module 11: lower calorie needs with less activity."
+                },
+                {
+                  "term": "vitamin/mineral needs with digestive disturbances",
+                  "definition": "Source terminology for Module 11: vitamin/mineral needs with digestive disturbances."
+                },
+                {
+                  "term": "medications affect fluid balance/digestion/nutrient use",
+                  "definition": "Source terminology for Module 11: medications affect fluid balance/digestion/nutrient use."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 6.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L07",
+          "lesson_title": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+          "estimated_minutes": 15,
+          "objective_number": 7,
+          "weighted_minutes": 15,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L07",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l07.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l7",
+                "location": "module.m11.lesson.l07.card.c01_overview"
+              },
+              "scene_title": "Objective 7 Overview",
+              "display_title": "Objective 7 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Overview",
+                "alt_text": "Training visual: Objective 7 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant. Weighted theory time: 15 minutes. Source pages: 8, 9.",
+              "learning_goal": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+              "learner_facing_content": "This lesson covers Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant. Weighted theory time: 15 minutes. Source pages: 8, 9.",
+              "why_it_matters": [
+                "This supports source Objective 7 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland",
+                  "definition": "Source terminology for Module 11: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland."
+                },
+                {
+                  "term": "liquid diets: clear/full/thickened nectar or honey",
+                  "definition": "Source terminology for Module 11: liquid diets: clear/full/thickened nectar or honey."
+                },
+                {
+                  "term": "special consistency: mechanical soft, pureed, soft",
+                  "definition": "Source terminology for Module 11: special consistency: mechanical soft, pureed, soft."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant. Weighted theory time: 15 minutes. Source pages: 8, 9.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L07",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l07.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l7",
+                "location": "module.m11.lesson.l07.card.c02_delivery"
+              },
+              "scene_title": "Objective 7 Source Teaching",
+              "display_title": "Objective 7 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Source Teaching",
+                "alt_text": "Training visual: Objective 7 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland liquid diets: clear/full/thickened nectar or honey special consistency: mechanical soft, pureed, soft NA responsibilities: ordered diet, ID/diet card checks, report problems, open containers, I&O monitoring, food intake recording, refusal handling, no extra food/condiments without checking, temperatures, do not mix pureed foods, upright eating\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+              "learner_facing_content": "Source-traced teaching outline: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland liquid diets: clear/full/thickened nectar or honey special consistency: mechanical soft, pureed, soft NA responsibilities: ordered diet, ID/diet card checks, report problems, open containers, I&O monitoring, food intake recording, refusal handling, no extra food/condiments without checking, temperatures, do not mix pureed foods, upright eating\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 7 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland",
+                  "definition": "Source terminology for Module 11: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland."
+                },
+                {
+                  "term": "liquid diets: clear/full/thickened nectar or honey",
+                  "definition": "Source terminology for Module 11: liquid diets: clear/full/thickened nectar or honey."
+                },
+                {
+                  "term": "special consistency: mechanical soft, pureed, soft",
+                  "definition": "Source terminology for Module 11: special consistency: mechanical soft, pureed, soft."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland liquid diets: clear/full/thickened nectar or honey special consistency: mechanical soft, pureed, soft NA responsibilities: ordered diet, ID/diet card checks, report problems, open containers, I&O monitoring, food intake recording, refusal handling, no extra food/condiments without checking, temperatures, do not mix pureed foods, upright eating\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L07",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l07.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l7",
+                "location": "module.m11.lesson.l07.card.c03_challenge"
+              },
+              "scene_title": "Objective 7 Practice Check",
+              "display_title": "Objective 7 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Practice Check",
+                "alt_text": "Training visual: Objective 7 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 7 using source-traced nutrition content.",
+              "learning_goal": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+              "learner_facing_content": "Practice applying Objective 7 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 7 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland",
+                  "definition": "Source terminology for Module 11: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland."
+                },
+                {
+                  "term": "liquid diets: clear/full/thickened nectar or honey",
+                  "definition": "Source terminology for Module 11: liquid diets: clear/full/thickened nectar or honey."
+                },
+                {
+                  "term": "special consistency: mechanical soft, pureed, soft",
+                  "definition": "Source terminology for Module 11: special consistency: mechanical soft, pureed, soft."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 7 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O07-KC",
+                "app_location": "module.m11.lesson.l07.challenge",
+                "prompt": "In Objective 7, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L07",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l07.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l7",
+                "location": "module.m11.lesson.l07.card.c04_debrief"
+              },
+              "scene_title": "Objective 7 Debrief",
+              "display_title": "Objective 7 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 7 Debrief",
+                "alt_text": "Training visual: Objective 7 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 7.",
+              "learning_goal": "Objective 7: Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+              "learner_facing_content": "Review the safest source-traced response for Objective 7.",
+              "why_it_matters": [
+                "This supports source Objective 7 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland",
+                  "definition": "Source terminology for Module 11: therapeutic diets: low sodium, diabetic, low fat, low cholesterol, liquid, bland."
+                },
+                {
+                  "term": "liquid diets: clear/full/thickened nectar or honey",
+                  "definition": "Source terminology for Module 11: liquid diets: clear/full/thickened nectar or honey."
+                },
+                {
+                  "term": "special consistency: mechanical soft, pureed, soft",
+                  "definition": "Source terminology for Module 11: special consistency: mechanical soft, pureed, soft."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 7.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L08",
+          "lesson_title": "Objective 8: Describe proper techniques for feeding patients/residents",
+          "estimated_minutes": 18,
+          "objective_number": 8,
+          "weighted_minutes": 18,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L08",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l08.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l8",
+                "location": "module.m11.lesson.l08.card.c01_overview"
+              },
+              "scene_title": "Objective 8 Overview",
+              "display_title": "Objective 8 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Overview",
+                "alt_text": "Training visual: Objective 8 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 8: Describe proper techniques for feeding patients/residents. Weighted theory time: 18 minutes. Source pages: 9, 10, 11.",
+              "learning_goal": "Objective 8: Describe proper techniques for feeding patients/residents",
+              "learner_facing_content": "This lesson covers Objective 8: Describe proper techniques for feeding patients/residents. Weighted theory time: 18 minutes. Source pages: 9, 10, 11.",
+              "why_it_matters": [
+                "This supports source Objective 8 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "comfortable feeding atmosphere and eye-level seating",
+                  "definition": "Source terminology for Module 11: comfortable feeding atmosphere and eye-level seating."
+                },
+                {
+                  "term": "encourage participation and pace; do not rush",
+                  "definition": "Source terminology for Module 11: encourage participation and pace; do not rush."
+                },
+                {
+                  "term": "adaptive equipment and room/dining service",
+                  "definition": "Source terminology for Module 11: adaptive equipment and room/dining service."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 8: Describe proper techniques for feeding patients/residents. Weighted theory time: 18 minutes. Source pages: 9, 10, 11.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L08",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l08.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l8",
+                "location": "module.m11.lesson.l08.card.c02_delivery"
+              },
+              "scene_title": "Objective 8 Source Teaching",
+              "display_title": "Objective 8 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Source Teaching",
+                "alt_text": "Training visual: Objective 8 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: comfortable feeding atmosphere and eye-level seating encourage participation and pace; do not rush adaptive equipment and room/dining service alternate liquids/solids; check swallowing high-risk dysphagia/choking groups follow feeding plans, small pieces/amounts, wait to swallow signs of dysphagia and reporting upright during/30 minutes after eating, thicken liquids as ordered, choking signs\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 8: Describe proper techniques for feeding patients/residents",
+              "learner_facing_content": "Source-traced teaching outline: comfortable feeding atmosphere and eye-level seating encourage participation and pace; do not rush adaptive equipment and room/dining service alternate liquids/solids; check swallowing high-risk dysphagia/choking groups follow feeding plans, small pieces/amounts, wait to swallow signs of dysphagia and reporting upright during/30 minutes after eating, thicken liquids as ordered, choking signs\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 8 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "comfortable feeding atmosphere and eye-level seating",
+                  "definition": "Source terminology for Module 11: comfortable feeding atmosphere and eye-level seating."
+                },
+                {
+                  "term": "encourage participation and pace; do not rush",
+                  "definition": "Source terminology for Module 11: encourage participation and pace; do not rush."
+                },
+                {
+                  "term": "adaptive equipment and room/dining service",
+                  "definition": "Source terminology for Module 11: adaptive equipment and room/dining service."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: comfortable feeding atmosphere and eye-level seating encourage participation and pace; do not rush adaptive equipment and room/dining service alternate liquids/solids; check swallowing high-risk dysphagia/choking groups follow feeding plans, small pieces/amounts, wait to swallow signs of dysphagia and reporting upright during/30 minutes after eating, thicken liquids as ordered, choking signs\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L08",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l08.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l8",
+                "location": "module.m11.lesson.l08.card.c03_challenge"
+              },
+              "scene_title": "Objective 8 Practice Check",
+              "display_title": "Objective 8 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Practice Check",
+                "alt_text": "Training visual: Objective 8 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 8 using source-traced nutrition content.",
+              "learning_goal": "Objective 8: Describe proper techniques for feeding patients/residents",
+              "learner_facing_content": "Practice applying Objective 8 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 8 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "comfortable feeding atmosphere and eye-level seating",
+                  "definition": "Source terminology for Module 11: comfortable feeding atmosphere and eye-level seating."
+                },
+                {
+                  "term": "encourage participation and pace; do not rush",
+                  "definition": "Source terminology for Module 11: encourage participation and pace; do not rush."
+                },
+                {
+                  "term": "adaptive equipment and room/dining service",
+                  "definition": "Source terminology for Module 11: adaptive equipment and room/dining service."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 8 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O08-KC",
+                "app_location": "module.m11.lesson.l08.challenge",
+                "prompt": "In Objective 8, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L08",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l08.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l8",
+                "location": "module.m11.lesson.l08.card.c04_debrief"
+              },
+              "scene_title": "Objective 8 Debrief",
+              "display_title": "Objective 8 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 8 Debrief",
+                "alt_text": "Training visual: Objective 8 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 8.",
+              "learning_goal": "Objective 8: Describe proper techniques for feeding patients/residents",
+              "learner_facing_content": "Review the safest source-traced response for Objective 8.",
+              "why_it_matters": [
+                "This supports source Objective 8 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "comfortable feeding atmosphere and eye-level seating",
+                  "definition": "Source terminology for Module 11: comfortable feeding atmosphere and eye-level seating."
+                },
+                {
+                  "term": "encourage participation and pace; do not rush",
+                  "definition": "Source terminology for Module 11: encourage participation and pace; do not rush."
+                },
+                {
+                  "term": "adaptive equipment and room/dining service",
+                  "definition": "Source terminology for Module 11: adaptive equipment and room/dining service."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 8.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L09",
+          "lesson_title": "Objective 9: Discuss cultural and religious influences on dietary practices",
+          "estimated_minutes": 7,
+          "objective_number": 9,
+          "weighted_minutes": 7,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L09",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l09.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l9",
+                "location": "module.m11.lesson.l09.card.c01_overview"
+              },
+              "scene_title": "Objective 9 Overview",
+              "display_title": "Objective 9 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Overview",
+                "alt_text": "Training visual: Objective 9 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 9: Discuss cultural and religious influences on dietary practices. Weighted theory time: 7 minutes. Source pages: 11.",
+              "learning_goal": "Objective 9: Discuss cultural and religious influences on dietary practices",
+              "learner_facing_content": "This lesson covers Objective 9: Discuss cultural and religious influences on dietary practices. Weighted theory time: 7 minutes. Source pages: 11.",
+              "why_it_matters": [
+                "This supports source Objective 9 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "dietary practices affiliated with religion/culture",
+                  "definition": "Source terminology for Module 11: dietary practices affiliated with religion/culture."
+                },
+                {
+                  "term": "ask residents/families about preferences",
+                  "definition": "Source terminology for Module 11: ask residents/families about preferences."
+                },
+                {
+                  "term": "encourage family ethnic/cultural foods if allowed",
+                  "definition": "Source terminology for Module 11: encourage family ethnic/cultural foods if allowed."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 9: Discuss cultural and religious influences on dietary practices. Weighted theory time: 7 minutes. Source pages: 11.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L09",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l09.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l9",
+                "location": "module.m11.lesson.l09.card.c02_delivery"
+              },
+              "scene_title": "Objective 9 Source Teaching",
+              "display_title": "Objective 9 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Source Teaching",
+                "alt_text": "Training visual: Objective 9 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: dietary practices affiliated with religion/culture ask residents/families about preferences encourage family ethnic/cultural foods if allowed avoid assumptions; document/report preferences\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 9: Discuss cultural and religious influences on dietary practices",
+              "learner_facing_content": "Source-traced teaching outline: dietary practices affiliated with religion/culture ask residents/families about preferences encourage family ethnic/cultural foods if allowed avoid assumptions; document/report preferences\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 9 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "dietary practices affiliated with religion/culture",
+                  "definition": "Source terminology for Module 11: dietary practices affiliated with religion/culture."
+                },
+                {
+                  "term": "ask residents/families about preferences",
+                  "definition": "Source terminology for Module 11: ask residents/families about preferences."
+                },
+                {
+                  "term": "encourage family ethnic/cultural foods if allowed",
+                  "definition": "Source terminology for Module 11: encourage family ethnic/cultural foods if allowed."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: dietary practices affiliated with religion/culture ask residents/families about preferences encourage family ethnic/cultural foods if allowed avoid assumptions; document/report preferences\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L09",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l09.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l9",
+                "location": "module.m11.lesson.l09.card.c03_challenge"
+              },
+              "scene_title": "Objective 9 Practice Check",
+              "display_title": "Objective 9 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Practice Check",
+                "alt_text": "Training visual: Objective 9 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 9 using source-traced nutrition content.",
+              "learning_goal": "Objective 9: Discuss cultural and religious influences on dietary practices",
+              "learner_facing_content": "Practice applying Objective 9 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 9 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "dietary practices affiliated with religion/culture",
+                  "definition": "Source terminology for Module 11: dietary practices affiliated with religion/culture."
+                },
+                {
+                  "term": "ask residents/families about preferences",
+                  "definition": "Source terminology for Module 11: ask residents/families about preferences."
+                },
+                {
+                  "term": "encourage family ethnic/cultural foods if allowed",
+                  "definition": "Source terminology for Module 11: encourage family ethnic/cultural foods if allowed."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 9 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O09-KC",
+                "app_location": "module.m11.lesson.l09.challenge",
+                "prompt": "In Objective 9, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L09",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l09.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l9",
+                "location": "module.m11.lesson.l09.card.c04_debrief"
+              },
+              "scene_title": "Objective 9 Debrief",
+              "display_title": "Objective 9 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 9 Debrief",
+                "alt_text": "Training visual: Objective 9 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 9.",
+              "learning_goal": "Objective 9: Discuss cultural and religious influences on dietary practices",
+              "learner_facing_content": "Review the safest source-traced response for Objective 9.",
+              "why_it_matters": [
+                "This supports source Objective 9 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "dietary practices affiliated with religion/culture",
+                  "definition": "Source terminology for Module 11: dietary practices affiliated with religion/culture."
+                },
+                {
+                  "term": "ask residents/families about preferences",
+                  "definition": "Source terminology for Module 11: ask residents/families about preferences."
+                },
+                {
+                  "term": "encourage family ethnic/cultural foods if allowed",
+                  "definition": "Source terminology for Module 11: encourage family ethnic/cultural foods if allowed."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 9.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        },
+        {
+          "lesson_id": "L10",
+          "lesson_title": "Objective 10: Identify alternative ways to administer nutrition",
+          "estimated_minutes": 16,
+          "objective_number": 10,
+          "weighted_minutes": 16,
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12",
+          "cards": [
+            {
+              "module_id": "M11",
+              "lesson_id": "L10",
+              "card_id": "C01",
+              "card_type": "overview",
+              "app_location": "module.m11.lesson.l10.card.c01_overview",
+              "app": {
+                "route": "/modules/m11/lesson/l10",
+                "location": "module.m11.lesson.l10.card.c01_overview"
+              },
+              "scene_title": "Objective 10 Overview",
+              "display_title": "Objective 10 Overview",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Overview",
+                "alt_text": "Training visual: Objective 10 Overview. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "This lesson covers Objective 10: Identify alternative ways to administer nutrition. Weighted theory time: 16 minutes. Source pages: 11, 12.",
+              "learning_goal": "Objective 10: Identify alternative ways to administer nutrition",
+              "learner_facing_content": "This lesson covers Objective 10: Identify alternative ways to administer nutrition. Weighted theory time: 16 minutes. Source pages: 11, 12.",
+              "why_it_matters": [
+                "This supports source Objective 10 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "tube feedings ordered by doctor and started by licensed nurse",
+                  "definition": "Source terminology for Module 11: tube feedings ordered by doctor and started by licensed nurse."
+                },
+                {
+                  "term": "NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump",
+                  "definition": "Source terminology for Module 11: NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump."
+                },
+                {
+                  "term": "IV ordered/started/monitored by licensed nurse",
+                  "definition": "Source terminology for Module 11: IV ordered/started/monitored by licensed nurse."
+                }
+              ],
+              "transcript_text": "This lesson covers Objective 10: Identify alternative ways to administer nutrition. Weighted theory time: 16 minutes. Source pages: 11, 12.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L10",
+              "card_id": "C02",
+              "card_type": "delivery",
+              "app_location": "module.m11.lesson.l10.card.c02_delivery",
+              "app": {
+                "route": "/modules/m11/lesson/l10",
+                "location": "module.m11.lesson.l10.card.c02_delivery"
+              },
+              "scene_title": "Objective 10 Source Teaching",
+              "display_title": "Objective 10 Source Teaching",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Source Teaching",
+                "alt_text": "Training visual: Objective 10 Source Teaching. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Source-traced teaching outline: tube feedings ordered by doctor and started by licensed nurse NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump IV ordered/started/monitored by licensed nurse NA monitors tubing/alarms/site symptoms/fever/difficulty breathing/leaks/disconnection/empty fluid; never adjusts IV equipment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "learning_goal": "Objective 10: Identify alternative ways to administer nutrition",
+              "learner_facing_content": "Source-traced teaching outline: tube feedings ordered by doctor and started by licensed nurse NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump IV ordered/started/monitored by licensed nurse NA monitors tubing/alarms/site symptoms/fever/difficulty breathing/leaks/disconnection/empty fluid; never adjusts IV equipment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "why_it_matters": [
+                "This supports source Objective 10 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "tube feedings ordered by doctor and started by licensed nurse",
+                  "definition": "Source terminology for Module 11: tube feedings ordered by doctor and started by licensed nurse."
+                },
+                {
+                  "term": "NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump",
+                  "definition": "Source terminology for Module 11: NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump."
+                },
+                {
+                  "term": "IV ordered/started/monitored by licensed nurse",
+                  "definition": "Source terminology for Module 11: IV ordered/started/monitored by licensed nurse."
+                }
+              ],
+              "transcript_text": "Source-traced teaching outline: tube feedings ordered by doctor and started by licensed nurse NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump IV ordered/started/monitored by licensed nurse NA monitors tubing/alarms/site symptoms/fever/difficulty breathing/leaks/disconnection/empty fluid; never adjusts IV equipment\n\nCNA boundary: follow ordered diet/feeding plans, observe, record, and report according to facility policy and licensed-nurse direction. This dry run does not validate hands-on competency or claim clinical-hour credit.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L10",
+              "card_id": "C03",
+              "card_type": "challenge",
+              "app_location": "module.m11.lesson.l10.card.c03_challenge",
+              "app": {
+                "route": "/modules/m11/lesson/l10",
+                "location": "module.m11.lesson.l10.card.c03_challenge"
+              },
+              "scene_title": "Objective 10 Practice Check",
+              "display_title": "Objective 10 Practice Check",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Practice Check",
+                "alt_text": "Training visual: Objective 10 Practice Check. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Practice applying Objective 10 using source-traced nutrition content.",
+              "learning_goal": "Objective 10: Identify alternative ways to administer nutrition",
+              "learner_facing_content": "Practice applying Objective 10 using source-traced nutrition content.",
+              "why_it_matters": [
+                "This supports source Objective 10 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "tube feedings ordered by doctor and started by licensed nurse",
+                  "definition": "Source terminology for Module 11: tube feedings ordered by doctor and started by licensed nurse."
+                },
+                {
+                  "term": "NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump",
+                  "definition": "Source terminology for Module 11: NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump."
+                },
+                {
+                  "term": "IV ordered/started/monitored by licensed nurse",
+                  "definition": "Source terminology for Module 11: IV ordered/started/monitored by licensed nurse."
+                }
+              ],
+              "transcript_text": "Practice applying Objective 10 using source-traced nutrition content.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": {
+                "id": "M11-O10-KC",
+                "app_location": "module.m11.lesson.l10.challenge",
+                "prompt": "In Objective 10, what is the safest CNA boundary to remember?",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "Change the resident diet independently if the resident dislikes the tray."
+                  },
+                  {
+                    "id": "B",
+                    "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+                  },
+                  {
+                    "id": "C",
+                    "label": "Use Module 10 generated content if the nutrition source is incomplete."
+                  },
+                  {
+                    "id": "D",
+                    "label": "Treat online feeding scenarios as hands-on competency validation."
+                  }
+                ],
+                "correct_id_internal": "B",
+                "rationale_internal": "The Module 11 source keeps the Nurse Assistant within ordered diet/feeding plan, observation, recording, and reporting boundaries.",
+                "option_rationales_internal": {
+                  "A": "Changing diets independently is outside CNA scope.",
+                  "B": "This preserves source meaning and CNA scope.",
+                  "C": "Module 10 output is not Module 11 source authority.",
+                  "D": "The dry run does not validate hands-on competency online."
+                },
+                "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12"
+              }
+            },
+            {
+              "module_id": "M11",
+              "lesson_id": "L10",
+              "card_id": "C04",
+              "card_type": "debrief",
+              "app_location": "module.m11.lesson.l10.card.c04_debrief",
+              "app": {
+                "route": "/modules/m11/lesson/l10",
+                "location": "module.m11.lesson.l10.card.c04_debrief"
+              },
+              "scene_title": "Objective 10 Debrief",
+              "display_title": "Objective 10 Debrief",
+              "media_prompt_placeholder": {
+                "scene_title": "Objective 10 Debrief",
+                "alt_text": "Training visual: Objective 10 Debrief. De-identified illustration; no PHI."
+              },
+              "estimated_narration_seconds": 45,
+              "narration_script": "Review the safest source-traced response for Objective 10.",
+              "learning_goal": "Objective 10: Identify alternative ways to administer nutrition",
+              "learner_facing_content": "Review the safest source-traced response for Objective 10.",
+              "why_it_matters": [
+                "This supports source Objective 10 and CNA diet/feeding/reporting responsibilities."
+              ],
+              "cna_practice_example": "Apply the source rule in a fictional, de-identified resident nutrition scenario; report diet, swallowing, intake, allergy, tube/IV, or aspiration concerns to the licensed nurse.",
+              "key_terms": [
+                {
+                  "term": "tube feedings ordered by doctor and started by licensed nurse",
+                  "definition": "Source terminology for Module 11: tube feedings ordered by doctor and started by licensed nurse."
+                },
+                {
+                  "term": "NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump",
+                  "definition": "Source terminology for Module 11: NA monitors tubing, feeding level, head of bed, alarms, aspiration symptoms; never turns off pump."
+                },
+                {
+                  "term": "IV ordered/started/monitored by licensed nurse",
+                  "definition": "Source terminology for Module 11: IV ordered/started/monitored by licensed nurse."
+                }
+              ],
+              "transcript_text": "Review the safest source-traced response for Objective 10.",
+              "sme_review_flag": "Source-traced draft; SME review required before production.",
+              "internal_challenge": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "assessments": {
+    "module_assessments": {
+      "M11": {
+        "title": "Module 11 Knowledge Check",
+        "pass_percent": 80,
+        "questions": [
+          {
+            "id": "M11-Q01",
+            "prompt": "Objective 1: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4"
+          },
+          {
+            "id": "M11-Q02",
+            "prompt": "Objective 2: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5"
+          },
+          {
+            "id": "M11-Q03",
+            "prompt": "Objective 3: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6"
+          },
+          {
+            "id": "M11-Q04",
+            "prompt": "Objective 4: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7"
+          },
+          {
+            "id": "M11-Q05",
+            "prompt": "Objective 5: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7"
+          },
+          {
+            "id": "M11-Q06",
+            "prompt": "Objective 6: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8"
+          },
+          {
+            "id": "M11-Q07",
+            "prompt": "Objective 7: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9"
+          },
+          {
+            "id": "M11-Q08",
+            "prompt": "Objective 8: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11"
+          },
+          {
+            "id": "M11-Q09",
+            "prompt": "Objective 9: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11"
+          },
+          {
+            "id": "M11-Q10",
+            "prompt": "Objective 10: Which action best preserves CNA scope and source-traced nutrition practice?",
+            "choices": [
+              {
+                "id": "A",
+                "label": "Change the resident diet independently if the resident dislikes the tray."
+              },
+              {
+                "id": "B",
+                "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+              },
+              {
+                "id": "C",
+                "label": "Use Module 10 generated content if the nutrition source is incomplete."
+              },
+              {
+                "id": "D",
+                "label": "Treat online feeding scenarios as hands-on competency validation."
+              }
+            ],
+            "correct_id_internal": "B",
+            "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12"
+          }
+        ]
+      }
+    },
+    "final_assessment": {
+      "attempt_size": 10,
+      "pass_percent": 80,
+      "answer_key_policy": "Internal scoring only; answer keys are not displayed as learner-facing content.",
+      "remediation_map": {
+        "Objective 1": "Define key terminology",
+        "Objective 2": "Discuss the body's need for food and fluids",
+        "Objective 3": "List common nutrients and their food sources",
+        "Objective 4": "Describe the My Plate food guidance system",
+        "Objective 5": "Describe the vegan basic four food groups",
+        "Objective 6": "Discuss nutritional and fluid needs of the elderly",
+        "Objective 7": "Describe therapeutic diets commonly ordered for patients/residents and the responsibilities of the Nurse Assistant",
+        "Objective 8": "Describe proper techniques for feeding patients/residents",
+        "Objective 9": "Discuss cultural and religious influences on dietary practices",
+        "Objective 10": "Identify alternative ways to administer nutrition"
+      },
+      "questions": [
+        {
+          "id": "M11-Q01",
+          "prompt": "Objective 1: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4"
+        },
+        {
+          "id": "M11-Q02",
+          "prompt": "Objective 2: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-4-5"
+        },
+        {
+          "id": "M11-Q03",
+          "prompt": "Objective 3: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-5-6"
+        },
+        {
+          "id": "M11-Q04",
+          "prompt": "Objective 4: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-6-7"
+        },
+        {
+          "id": "M11-Q05",
+          "prompt": "Objective 5: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7"
+        },
+        {
+          "id": "M11-Q06",
+          "prompt": "Objective 6: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-7-8"
+        },
+        {
+          "id": "M11-Q07",
+          "prompt": "Objective 7: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-8-9"
+        },
+        {
+          "id": "M11-Q08",
+          "prompt": "Objective 8: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-9-10-11"
+        },
+        {
+          "id": "M11-Q09",
+          "prompt": "Objective 9: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11"
+        },
+        {
+          "id": "M11-Q10",
+          "prompt": "Objective 10: Which action best preserves CNA scope and source-traced nutrition practice?",
+          "choices": [
+            {
+              "id": "A",
+              "label": "Change the resident diet independently if the resident dislikes the tray."
+            },
+            {
+              "id": "B",
+              "label": "Follow the ordered diet or feeding plan and report diet, intake, swallowing, allergy, tube, IV, or aspiration concerns to the licensed nurse."
+            },
+            {
+              "id": "C",
+              "label": "Use Module 10 generated content if the nutrition source is incomplete."
+            },
+            {
+              "id": "D",
+              "label": "Treat online feeding scenarios as hands-on competency validation."
+            }
+          ],
+          "correct_id_internal": "B",
+          "source_reference": "CNA-Recert-Course/CNA_Modules/cccco-na-model-curriculum-module-11.pdf#pages-11-12"
+        }
+      ]
+    }
+  }
+}

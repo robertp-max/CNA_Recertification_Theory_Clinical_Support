@@ -1,0 +1,10 @@
+Second-pass app data purge. Recovery only; ignore as source authority.
+
+Moved:
+standalone-course-mvp/src/data/contentV2.generated.ts
+standalone-course-mvp/src/data/modules
+standalone-course-mvp/src/data/phase1Module1.ts
+standalone-course-mvp/src/data/remediationOverrides.ts
+
+Missing:
+
