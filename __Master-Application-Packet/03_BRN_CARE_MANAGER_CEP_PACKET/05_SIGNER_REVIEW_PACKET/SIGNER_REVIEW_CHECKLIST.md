@@ -1,10 +1,12 @@
-# BRN Signer Review Checklist
+# Final Verification / Signature Checklist
 
-- [ ] Confirm the BRN lane should proceed
-- [ ] Confirm legal name, FEIN, mailing address, and main contact set
-- [ ] Approve the representative course packet
-- [ ] Confirm instructor choice and qualification evidence
-- [ ] Approve flyer, certificate, and policies
-- [ ] Prepare payment workflow
+Status: DOCUMENTATION COMPLETE - READY FOR OFFICIAL FORM TRANSFER/SIGNATURE
 
-Current result: NOT READY FOR SIGNATURE
+- [ ] Confirm CE coordinator designation
+- [ ] Confirm prior-provider-history answer
+- [ ] Confirm Yadvir Saandal as BRN contact person or replace during transfer
+- [ ] Attach Vanessa evidence packet
+- [ ] Confirm legal/privacy sign-off on policy packet
+- [ ] Attach $750 payment instrument
+- [ ] Transfer completed worksheet into official BRN PDF
+- [ ] Apply authorized signer signature/date

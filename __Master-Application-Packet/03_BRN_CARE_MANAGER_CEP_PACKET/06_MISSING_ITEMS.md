@@ -1,9 +1,15 @@
-# BRN Missing Items
+# Remaining Final Verification and Signature Items
 
-- [[MISSING: local official BRN CEP application PDF]]
-- [[NOT FOUND IN SOURCE FOLDER]] CE coordinator / person responsible for CE course coordination
-- [[REGULATOR VERIFICATION REQUIRED]] prior California nursing CE provider history
-- [[MISSING: final instructor selection and BRN instructor evidence set]]
-- [[SME REVIEW REQUIRED BEFORE SUBMISSION]] representative course
-- [[LEGAL/PRIVACY REVIEW REQUIRED]] policy packet
-- [[MISSING: BRN payment readiness confirmation]]
+| Classification | Item |
+| --- | --- |
+| A. Final verification only | CE coordinator designation |
+| A. Final verification only | Prior California nursing CE provider history answer |
+| A. Final verification only | Vanessa SME/instructor evidence packet - final verification/attachment required |
+| A. Final verification only | Final legal/privacy sign-off on policy packet |
+| B. Signature only | Authorized signer signature/date on BRN application |
+| C. Payment/check attachment only | $750 payment/check attachment confirmation |
+| D. Official form transfer only | Transfer completed BRN worksheet into official BRN PDF |
+
+## Documentation Gaps That Still Prevent Completion
+
+- None

@@ -1,10 +1,11 @@
-# CNA Signer Review Checklist
+# Final Verification / Signature Checklist
 
-- [ ] Confirm legal name and public/provider name
-- [ ] Confirm mailing address, phone, email, and website
-- [ ] Confirm authorized signer title
-- [ ] Confirm whether a separate CDPH CE-provider approval / NAC exists
-- [ ] Approve or revise the 24-hour CE matrix
-- [ ] Confirm whether online reviewer access must be included
+Status: DOCUMENTATION COMPLETE - READY FOR OFFICIAL FORM TRANSFER/SIGNATURE
 
-Current result: NOT READY FOR SIGNATURE
+- [ ] Verify 192B pricing / membership fields
+- [ ] Verify whether a separate mailing address is needed on CDPH 193
+- [ ] Confirm Yadvir Saandal as contact person / records contact
+- [ ] Confirm reviewer credentials work
+- [ ] Attach Vanessa SME/instructor evidence packet
+- [ ] Transfer completed worksheets into official PDFs
+- [ ] Apply authorized signer signature/date

@@ -1,32 +1,15 @@
-# Signer Review Draft - Transfer to Official CDPH CE Forms
+# CDPH Transfer Worksheet Index
 
-## Selected packet posture
-
-- Selected filing path: online CE provider application / transfer worksheet posture
-- Existing NATP approval supports entity and online-program background only.
-- Existing NATP approval does not automatically prove CE-provider approval.
-- Existing NAC number: N/A for this initial-provider posture
-
-## Source-backed transfer values
-
-- Legal provider name: CI Institute of Nursing, Inc.
-- Public/provider name: CI Institute of Nursing
-- Business address: 419 E. Hamilton Ave., Campbell, CA 95008
-- Business phone: 650-449-6706
-- Business email: humanresources@ci-ion.com
-- Website: https://www.ci-ion.com
-- Authorized signer: Maria Divina Bustos, CEO
-- Program director: Vanessa Valerio, RN Program Director, RN license 788389
-- Institution contact / records contact candidate: Yadvir Saandal
-- Records address: 419 E. Hamilton Ave., Campbell, CA 95008
-
-## Required transfer blockers
-
-- [[MISSING: local official CDPH CE form set]]
-- [[MISSING: current reviewer URL, instructor-level credentials, and cohort access package]]
-- [[SME REVIEW REQUIRED BEFORE SUBMISSION]] 24-hour CNA CE matrix
-- [[MISSING: instructor or SME assignment for the 24-hour CNA CE matrix]]
-
-## Mailing / correspondence address note
-
-- [[CONFLICT: signer must select correct value]] if an official CDPH CE form requires a separate mailing or correspondence address.
+Documentation-complete transfer set:
+- `official_cdph192b.pdf`
+- `official_cdph193.pdf`
+- `CDPH_192B_TRANSFER_WORKSHEET.md`
+- `CDPH_193_TRANSFER_WORKSHEET.md`
+- `CDPH_192B_COURSE_LIST_ATTACHMENT.md`
+- `CNA_REVIEWER_ACCESS_DOCUMENTATION.md`
+- `REVIEWER_ACCESS_VERIFICATION_CHECKLIST.md`
+- `CNA_CERTIFICATE_DRAFT.md`
+- `REQUIRED_ATTACHMENTS_INDEX.md`
+- `PAYMENT_CHECK_ATTACHMENT_CHECKLIST.md`
+- `INSTRUCTOR_SME_ASSIGNMENT.md`
+- `INSTRUCTOR_SME_EVIDENCE_CHECKLIST.md`

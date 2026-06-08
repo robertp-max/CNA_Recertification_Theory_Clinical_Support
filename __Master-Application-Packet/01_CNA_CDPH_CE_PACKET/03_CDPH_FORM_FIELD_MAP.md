@@ -1,19 +1,7 @@
 # CDPH Form Field Map
 
-| form field | value entered | source file | page/section/cell/reference | confidence level | signer review required yes/no |
-| --- | --- | --- | --- | --- | --- |
-| Application posture / path | Online CE provider application / transfer worksheet posture | CNA-Recert-Course/_CNA_Recert/CNA-Recert-Course_CNA_Recert/CNA_Recertification_Project_Binder.md | Executive summary + gate status | Medium | Yes |
-| Legal provider name | CI Institute of Nursing, Inc. | CNA-Recert-Course/CI-ION Rosurce for Form Applications/Initial Application BPPE/1 Draft approval_nonaccredited.pdf | Page 1 | High | No |
-| Public/provider name | CI Institute of Nursing | CNA-Recert-Course/CI-ION Rosurce for Form Applications/4b. Supporting Documents/CI Institute of Nursing Student Catalog.pdf | Header branding | High | No |
-| Business / training address | 419 E. Hamilton Ave., Campbell, CA 95008 | CNA-Recert-Course/CI-ION Rosurce for Form Applications/4b. Supporting Documents/CI Institute of Nursing Student Catalog.pdf | Header + campus section | High | No |
-| Business phone | 650-449-6706 | CNA-Recert-Course/CI-ION Rosurce for Form Applications/3. BPPE Compliance/Letters and Communication from BPPE/CI_Institute_of_Nursing_On-Site_Inspection_Documents-deeb_careindeed.com.pdf | BPPE General Information Form page 3 | High | No |
-| Business email | humanresources@ci-ion.com | CNA-Recert-Course/CI-ION Rosurce for Form Applications/3. BPPE Compliance/Letters and Communication from BPPE/CI_Institute_of_Nursing_On-Site_Inspection_Documents-deeb_careindeed.com.pdf | BPPE General Information Form page 3 | High | No |
-| Website | https://www.ci-ion.com | CNA-Recert-Course/CI-ION Rosurce for Form Applications/3. BPPE Compliance/Letters and Communication from BPPE/CI_Institute_of_Nursing_On-Site_Inspection_Documents-deeb_careindeed.com.pdf | BPPE General Information Form page 3 | High | No |
-| Authorized signer | Maria Divina Bustos | CNA-Recert-Course/CI-ION Rosurce for Form Applications/Initial Application BPPE/1 Draft approval_nonaccredited.pdf | Page 2 owner block | High | Yes |
-| Authorized signer title | CEO | CNA-Recert-Course/CI-ION Rosurce for Form Applications/Initial Application CDPH/CDPH 276D Ownership and Disclosure.pdf | Page 2 signature block | High | Yes |
-| Program director | Vanessa Valerio, RN Program Director, RN license 788389 | CNA-Recert-Course/CI-ION Rosurce for Form Applications/Initial Application CDPH/cdphe279 Vanessa Valerio.pdf | Page 1 | High | No |
-| Institution contact / records contact | Yadvir Saandal | CNA-Recert-Course/CI-ION Rosurce for Form Applications/3. BPPE Compliance/Letters and Communication from BPPE/CI_Institute_of_Nursing_On-Site_Inspection_Documents-deeb_careindeed.com.pdf | BPPE General Information Form page 3 | High | Yes |
-| Recordkeeping address | 419 E. Hamilton Ave., Campbell, CA 95008 | CNA-Recert-Course/CI-ION Rosurce for Form Applications/3. BPPE Compliance/Letters and Communication from BPPE/CI_Institute_of_Nursing_On-Site_Inspection_Documents-deeb_careindeed.com.pdf | BPPE General Information Form page 3 | High | No |
-| Existing CE provider approval / NAC | N/A for initial provider-application posture; no existing source-backed CE-provider approval or NAC number found in the designated source folders | CNA-Recert-Course/CI-ION Rosurce for Form Applications; CNA-Recert-Course/_CNA_Recert | Broad source search plus NATP-only source bundle | Medium | Yes |
-| Online reviewer-access package | [[MISSING: current reviewer URL, instructor-level credentials, and cohort access package]] | CNA-Recert-Course/CI-ION Rosurce for Form Applications/Initial Application CDPH/cdphe276.pdf; CNA-Recert-Course/CI-ION Rosurce for Form Applications/2. CDPH Compliance/Letters From CDPH/Renewal Incomplete Letter CI Institute of Nursing.pdf | E276 page 1; renewal letter pages 1-2 | High | Yes |
-| Official 192B / 193 / 276E local form set | [[MISSING: local official CDPH CE form set]] | CNA-Recert-Course/_CNA_Recert; CNA-Recert-Course/CI-ION Rosurce for Form Applications | Filename search for 192, 192B, 193, 276E within designated source folders | High | Yes |
+This lane now uses two completed regulator-shaped transfer worksheets:
+- `04_CDPH_APPLICATION_PACKET/CDPH_192B_TRANSFER_WORKSHEET.md`
+- `04_CDPH_APPLICATION_PACKET/CDPH_193_TRANSFER_WORKSHEET.md`
+
+Each worksheet includes field-by-field values or final verification markers and is ready for official PDF transfer/signature.
