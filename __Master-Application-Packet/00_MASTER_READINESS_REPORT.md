@@ -1,5 +1,12 @@
 # Master Readiness Report
 
+Superseded for final submission determination by `00_FINAL_READY_TO_SUBMIT_REPORT.md`.
+
+Current hard statuses:
+- CNA / CDPH: NOT READY FOR SIGNATURE
+- RCFE / CDSS: SIGNATURE READY AFTER LISTED CORRECTIONS
+- BRN / CEP: NOT READY FOR SIGNATURE
+
 ## Executive Summary
 
 The repo root, branch, commit, and read-only source folders match the master prompt. The shared source bundle provides strong organization, address, ownership, instructor, NATP, recordkeeping, and policy evidence, but it does not prove a ready-to-submit 24-hour CNA CE packet, a finalized RCFE signer packet, or a source-backed BRN representative course. RCFE is the furthest along; CNA has the largest scope conflict; BRN remains largely a documentation build.

@@ -1,6 +1,8 @@
+[[SIGNER REVIEW REQUIRED]]
+
 # Sample Certificate Draft
 
-Status: pre-approval placeholder only
+This certifies that **[Participant Name]** completed **[Course Title]** on **[Date]** and earned **[X] contact hours** from **CI Institute of Nursing**.
 
 Required fields:
 - Participant name
@@ -9,7 +11,11 @@ Required fields:
 - Contact hours
 - Provider/business name
 - Signature block
-- BRN provider-number line after approval only
-- Learner retention note for 4 years
+- Provider-number line after approval only
+- Retention note
 
-Current wording status: [[MISSING: final certificate wording]]
+Retention note:
+- Please retain this certificate of completion for four years.
+
+Pre-approval control:
+- Do not insert a BRN provider number or claim BRN approval before approval is issued.

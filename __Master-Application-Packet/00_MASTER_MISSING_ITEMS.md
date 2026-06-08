@@ -1,19 +1,49 @@
 # Master Missing Items
 
-| packet | missing item | current status | owner | why it matters | risk | next action |
-| --- | --- | --- | --- | --- | --- | --- |
-| CNA / CDPH | 24-hour CE course matrix sign-off | [[SME REVIEW REQUIRED BEFORE SUBMISSION]] | Program Director | The source set does not prove a final 24-hour CE packet. | Scope mismatch and regulator challenge | Approve or revise the drafted 24-hour course map. |
-| CNA / CDPH | CDPH CE provider approval / NAC number | [[MISSING: CDPH NAC number]] | Compliance Lead | NATP evidence is not the same as CE-provider approval. | Improper approval claim | Confirm whether separate CE-provider approval exists and add source-backed evidence. |
-| CNA / CDPH | Filing path decision | [[REGULATOR VERIFICATION REQUIRED]] | Compliance Lead | Classroom and online filing paths require different packet components. | Wrong form set or missing attachments | Decide classroom, online, or mixed path before transfer to official forms. |
-| CNA / CDPH | Current reviewer-access package | [[REGULATOR VERIFICATION REQUIRED]] | LMS Admin | Current CDPH reviewer access is needed for any online submission path. | Incomplete or stale online-review evidence | Provide current reviewer credentials by controlled channel and verify live access. |
-| RCFE / CDSS | Vendor signer fields | [[MISSING: authorized signer title]] | Authorized Signer | The vendor packet cannot be signed with placeholder signer values. | Packet returned or unsigned | Lock signer name/title and authority evidence. |
-| RCFE / CDSS | Instructor roster, CVs, and licenses | [[MISSING: instructor CV]] | Instructor | Each LIC 9140 packet needs instructor support. | Course packets incomplete | Collect CVs, licenses, and course assignments for the final instructor slate. |
-| RCFE / CDSS | Reviewer access validation | [[REGULATOR VERIFICATION REQUIRED]] | LMS Admin | Reviewer access remains pending in the source packet. | Course approval hold | Validate the reviewer/demo environment and controlled credential handoff. |
-| RCFE / CDSS | Payment readiness | [[MISSING: payment receipt]] | Finance/Admin | Fee handling must be ready before submission. | Submission blocked | Prepare the vendor/course fee payment artifact and signer routing. |
-| BRN / CEP | Executive go / no-go | [[REGULATOR VERIFICATION REQUIRED]] | Authorized Signer | The BRN lane is still marked optional in the source set. | Unapproved workstream | Confirm whether the BRN provider packet should move forward. |
-| BRN / CEP | Representative course approval | [[SME REVIEW REQUIRED BEFORE SUBMISSION]] | Program Director | The BRN packet requires a representative course packet. | Application incomplete | Approve or revise the drafted representative course packet. |
-| BRN / CEP | Instructor packet | [[MISSING: instructor license]] / [[MISSING: instructor CV]] | Instructor | BRN requires instructor information forms and qualification evidence. | Packet incomplete | Pick the representative instructor and collect supporting documents. |
-| BRN / CEP | BRN policy packet | [[MISSING: retention policy]] | Legal/Privacy | Refund, cancellation, and recordkeeping policies are required attachments. | Submission blocked | Approve the BRN-facing policy excerpts derived from the institutional source documents. |
-| BRN / CEP | BRN fee/payment artifact | [[MISSING: payment receipt]] | Finance/Admin | The application cannot be mailed without the fee. | Submission blocked | Prepare the $750 payment workflow. |
-| All packets | Main phone/email/website normalization | [[CONFLICT: signer must select correct value]] | Authorized Signer | The source set contains conflicting contact values. | Inconsistent regulator records | Choose and apply one canonical contact set across all packets. |
-| All packets | Current records custodian | [[CONFLICT: signer must select correct value]] | Authorized Signer | Recordkeeping roles vary between source documents. | Regulator follow-up confusion | Assign one custodian and update all packet worksheets consistently. |
+## A. Resolved From Source
+
+| blocker | classification | resolution |
+| --- | --- | --- |
+| Authorized signer name/title | A. Resolvable from source | Resolved to Maria Divina Bustos / CEO using BPPE + CDPH signed filings. |
+| Institution phone/email/website | A. Resolvable from source | Resolved to 650-449-6706 / humanresources@ci-ion.com / https://www.ci-ion.com from the BPPE General Information Form. |
+| Recordkeeping custodian | A. Resolvable from source | Resolved to Yadvir Saandal from the BPPE General Information Form. |
+| BRN provider identity fields | A. Resolvable from source | Legal name, entity type, FEIN, business address, phone, website, signer, and records address have been prefilled. |
+| CNA filing path | A. Resolvable from source | Selected as online CE provider application / transfer worksheet posture based on NATP/LMS architecture and the existing CNA source packet. |
+
+## B. Resolved By Drafting Required Submission Content
+
+| blocker | classification | resolution |
+| --- | --- | --- |
+| CNA 24-hour matrix | B. Resolvable by drafting required submission content for review | Final 24-hour matrix drafted and marked [[SME REVIEW REQUIRED BEFORE SUBMISSION]]. |
+| BRN representative course | B. Resolvable by drafting required submission content for review | Representative course finalized as a minimum packet and marked [[SME REVIEW REQUIRED BEFORE SUBMISSION]]. |
+| BRN policies / flyer / certificate | B. Resolvable by drafting required submission content for review | Minimum application-ready drafts created and marked [[LEGAL/PRIVACY REVIEW REQUIRED]] or signer review. |
+
+## C. Not Actually Required For Current Submission Posture
+
+| item | classification | reason |
+| --- | --- | --- |
+| Existing CDPH NAC number | C. Not actually required for submission | This packet is being treated as an initial online CE provider application; an existing NAC number is not expected before approval. |
+| Existing RCFE vendor number | C. Not actually required for submission | LIC 9141 is drafted as a new vendor application; the number will be assigned after approval. |
+| Existing RCFE course approval numbers | C. Not actually required for submission | Each LIC 9140 packet is drafted as an initial course approval request. |
+| LIC 9139 | C. Not actually required for submission | No source-backed evidence shows renewal of previously approved RCFE courses. |
+| LIC 9140A | C. Not actually required for submission | No source-backed instructor add/replace event is documented for current submission readiness. |
+| LIC 9142A roster workflow | C. Not actually required for submission | This is post-approval operating support, not a current submission blocker. |
+| Existing BRN CEP number | C. Not actually required for submission | BRN provider number is not expected before initial approval. |
+
+## D. Remaining True Blockers
+
+| packet | blocker | classification | owner | status | next action |
+| --- | --- | --- | --- | --- | --- |
+| CNA / CDPH | Local official CDPH CE form set not present in the designated source folders | D. True blocker | Compliance Lead | Blocks signature and submission | Add the local 192B / 193 / 276E form set or a packet-local exact mirrored transfer set before signature. |
+| CNA / CDPH | Current online reviewer-access package with instructor-level credentials not found | D. True blocker | LMS Admin | Blocks signature and submission | Provide current reviewer URL, instructor-level credentials, cohort access, and identity/timer evidence. |
+| CNA / CDPH | 24-hour matrix is drafted but still needs SME approval and named instructor/SME assignment | D. True blocker | Program Director / SME | Blocks signature and submission | Approve the drafted matrix and assign source-backed instructor/SME coverage. |
+| RCFE / CDSS | California certificate of status / business-license-style authority document not found | D. True blocker | Authorized Signer | Blocks submission | Attach a current California entity-status or business-license record for the vendor packet. |
+| RCFE / CDSS | Per-course instructor assignment and CV/license package not found | D. True blocker | Instructor / Authorized Signer | Blocks signature and submission | Select the instructor of record for each course and attach CV/license evidence. |
+| RCFE / CDSS | Reviewer access package remains pending for live-stream courses | D. True blocker | LMS Admin | Blocks signature and submission | Provide reviewer URL/login/platform and participation-control evidence for each live-stream course packet. |
+| RCFE / CDSS | Payment readiness confirmation not found | D. True blocker | Finance/Admin | Blocks submission | Add check number, money-order data, or VAP confirmation for vendor and course fees. |
+| BRN / CEP | Local official BRN CEP application PDF was not present in the designated source folders | D. True blocker | Compliance Lead | Blocks signature and submission | Add the official BRN application PDF locally or mirror it exactly in a packet-local transfer set before signature. |
+| BRN / CEP | CE coordinator / person responsible for CE course coordination not found | D. True blocker | Authorized Signer | Blocks signature and submission | Designate the CE coordinator and update the BRN transfer worksheet. |
+| BRN / CEP | Instructor of record, CV/resume, and license package not source-backed | D. True blocker | Instructor | Blocks signature and submission | Select the representative-course instructor and attach CV/resume/license evidence. |
+| BRN / CEP | Representative course still requires SME approval | D. True blocker | Program Director / SME | Blocks signature and submission | Approve the drafted representative course packet. |
+| BRN / CEP | Drafted BRN policy packet still requires legal/privacy approval | D. True blocker | Legal/Privacy | Blocks signature and submission | Approve or revise the drafted refund/cancellation/recordkeeping/proof-of-attendance language. |
+| BRN / CEP | BRN payment readiness confirmation not found | D. True blocker | Finance/Admin | Blocks submission | Prepare the $750 payment artifact or written check authorization. |

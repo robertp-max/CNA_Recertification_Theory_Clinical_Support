@@ -1,26 +1,30 @@
 # CNA Clarification Summary
 
 1. Items preventing signature today:
-   filing path decision, contact normalization, signer-title confirmation, 24-hour matrix approval
+   - [[MISSING: local official CDPH CE form set]]
+   - [[MISSING: current reviewer URL, instructor-level credentials, and cohort access package]]
+   - [[SME REVIEW REQUIRED BEFORE SUBMISSION]] 24-hour CNA CE matrix
+   - [[MISSING: instructor or SME assignment for the 24-hour CNA CE matrix]]
 2. Items preventing mailing/submission today:
-   no source-backed CE-provider approval / NAC number proven
+   - [[MISSING: local official CDPH CE form set]]
+   - [[MISSING: current reviewer URL, instructor-level credentials, and cohort access package]]
 3. Items needing SME approval:
-   24-hour CE matrix
+   - [[SME REVIEW REQUIRED BEFORE SUBMISSION]] `24_HOUR_CNA_COURSE_MATRIX_FINAL.md`
 4. Items needing signer confirmation:
-   mailing address, phone, email, website, signer title
+   - [[CONFLICT: signer must select correct value]] separate mailing/correspondence address if the official form requires one.
 5. Items needing legal/privacy review:
-   reviewer-access handoff and final CE certificate wording
+   any future reviewer-credential handoff or certificate wording added after official CE forms are supplied.
 6. Items needing regulator verification:
-   whether NATP evidence can support any part of the CE filing packet without separate CE approval evidence
+   none beyond the current reviewer-access package once official forms are supplied; the packet posture has been selected as online CE provider application support.
 7. Fields where source documents conflicted:
-   mailing address, phone, email, website
+   mailing/correspondence address only.
 8. Any TJ Padilla role contamination:
-   none in generated packet files
+   none.
 9. Any certificate wording risks:
-   final CE wording not source-backed
+   existing institutional completion language is not a final CDPH CE-provider certificate template.
 10. Any public-claim/marketing risks:
-    NATP approval must not be presented as CE-provider approval
+    NATP approval must not be presented as CE-provider approval.
 11. Any duplicate or superseded work identified:
-    internal 12-hour binder preserved as source context only
+    prior internal 12-hour binder remains context only; `24_HOUR_CNA_COURSE_MATRIX_FINAL.md` is the active remediation matrix.
 12. Packet status:
-    NOT READY FOR SIGNATURE / NOT READY FOR SUBMISSION
+    NOT READY FOR SIGNATURE

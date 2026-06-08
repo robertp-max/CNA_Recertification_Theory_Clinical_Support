@@ -1,26 +1,29 @@
 # RCFE Clarification Summary
 
 1. Items preventing signature today:
-   signer-title normalization and unresolved contact conflicts
+   - [[MISSING: completed authorized-representative disclosures for LIC 9141 sections 6-10]]
+   - [[MISSING: source-backed instructor-of-record assignment, CV, and license set]]
+   - [[MISSING: live-stream reviewer URL/login/platform confirmation]]
 2. Items preventing mailing/submission today:
-   vendor/course numbers not issued, instructor packet pending, reviewer access pending, payment artifact pending
+   - [[MISSING: California certificate of status or business license / entity record for CDSS filing]]
+   - [[MISSING: payment receipt or check readiness confirmation]]
 3. Items needing SME approval:
-   none; existing developed course packets are reused
+   - None; course content itself is already drafted.
 4. Items needing signer confirmation:
-   mailing address, main contact set, signer title, records custodian
+   - [[MISSING: completed authorized-representative disclosures for LIC 9141 sections 6-10]]
 5. Items needing legal/privacy review:
-   any reviewer credential handoff and claim-safe marketing language
+   controlled reviewer-credential handoff instructions once reviewer access exists.
 6. Items needing regulator verification:
-   reviewer-access expectations for the final delivery model
+   none beyond the missing reviewer-access package for live-stream delivery.
 7. Fields where source documents conflicted:
-   mailing address, phone, email, website
+   separate mailing address is not used on the current LIC 9141 transfer worksheet; business address is resolved to 419 E. Hamilton Ave.
 8. Any TJ Padilla role contamination:
-   none in generated packet files
+   none in the generated packet output.
 9. Any certificate wording risks:
-   post-approval certificate must remain withheld until numbers are issued
+   RCFE certificate sample remains post-approval only and must not be issued before vendor/course numbers are granted.
 10. Any public-claim/marketing risks:
-    no CDSS approval claims before vendor/course issuance
+    no RCFE approval claim may be made before vendor/course issuance.
 11. Any duplicate or superseded work identified:
-    archive-combined and PDF companion artifacts left untouched outside the output folder
+    split LIC 9141 and LIC 9140 trees remain the canonical source; combined/archive trees stay reference-only.
 12. Packet status:
-    SIGNATURE READY AFTER CORRECTIONS / NOT READY FOR SUBMISSION
+    SIGNATURE READY AFTER LISTED CORRECTIONS
