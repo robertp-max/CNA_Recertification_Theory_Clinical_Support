@@ -1,6 +1,6 @@
 # BRN Course Shell Build Spec
 
-Status: Pending BRN CEP approval. Provider-approval framing (not course-by-course). Contact hours, not CEUs. No certification claim; no scope-expansion claim. No 4-contact-hour language.
+Status: Pending BRN CEP approval. Provider-approval framing (not course-by-course). Contact hours, not CEUs. No certification claim; no scope-expansion claim. No obsolete four-hour BRN wording.
 
 - Category: `CI-BRN-CM`
 - Course short name: `BRN-CM-30`

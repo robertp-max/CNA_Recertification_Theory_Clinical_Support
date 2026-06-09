@@ -22,8 +22,8 @@ This package is in a Draft / Pending Approval posture. "Complete" means the impl
 | Certificate controls defined | PASS | 06 + GENERATED_CERTIFICATE_GATE_COPY.md |
 | Role/reviewer workflow defined | PASS | 04 + 15 + ROLE_MATRIX_IMPORT_REFERENCE.csv |
 | Course structures match current packet (CNA 12x2; RCFE 9/27h; BRN 10x3=30 contact hrs) | PASS | 02 + 11 + course_shells |
-| No stale "4 contact hours"/"4-contact-hour" in actual use | PASS | only negation/scan-description contexts |
-| No "200 instructional minutes" | PASS | 0 hits |
+| No stale obsolete four-hour BRN wording in actual use | PASS | only negation/scan-description contexts |
+| No obsolete 200-minute BRN module wording | PASS | 0 hits |
 | No "40-hour RCFE" as current submitted structure | PASS | only "future-only" context |
 | No "CEUs" except "not CEUs" explanatory/distractor wording | PASS | all hits are teaching contact-hours-vs-CEUs |
 | No "clinical hours" in CNA credit claim | PASS | all hits are "no clinical hours"/"online CE only" |

@@ -14,7 +14,7 @@ This package follows the controlling master application packet (see `FINAL_SUBMI
 
 1. CNA / CDPH CE - 12 units x 2 online CE hours = 24 online CE hours. Year 1 = U01-U06 (12 hrs); Year 2 = U07-U12 (12 hrs). Source backbone = CCCCO/NATP Modules 10-17. Online CE only; no clinical hours; no hands-on competency validation; no full 48-hour renewal claim. Draft / Pending Approval.
 2. RCFE / CDSS CETP - filed packet = 9 LIC 9140 courses / 27 hours (RCFE-CETP-001 through 009). The 40-hour / 12-module program is listed only as a future, non-submitted expansion. Draft / Pending Approval.
-3. BRN / CEP RN Case Management - 30 contact hours = 10 modules x 3 contact hours; 50 instructional minutes minimum per contact hour; 30 contact hours = at least 1,500 instructional minutes. Provider-approval framing (not course-by-course). Contact hours, not CEUs. Pending BRN CEP approval. No certification or scope-expansion claim. No stale 4-contact-hour language.
+3. BRN / CEP RN Case Management - 30 contact hours = 10 modules x 3 contact hours; 50 instructional minutes minimum per contact hour; 30 contact hours = at least 1,500 instructional minutes. Provider-approval framing (not course-by-course). Contact hours, not CEUs. Pending BRN CEP approval. No certification or scope-expansion claim. No obsolete four-hour BRN wording.
 
 ## What the MVP proves
 

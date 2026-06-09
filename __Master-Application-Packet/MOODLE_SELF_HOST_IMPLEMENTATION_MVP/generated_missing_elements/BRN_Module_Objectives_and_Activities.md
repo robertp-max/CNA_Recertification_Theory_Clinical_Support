@@ -1,6 +1,6 @@
 # Generated BRN Module Objectives and Activities
 
-Status: Pending BRN CEP approval. Generated Moodle MVP implementation artifact. SME review required. 30 contact hours = 10 modules x 3 contact hours; contact hours (not CEUs); provider approval; no certification/scope-expansion claim; no 4-contact-hour language.
+Status: Pending BRN CEP approval. Generated Moodle MVP implementation artifact. SME review required. 30 contact hours = 10 modules x 3 contact hours; contact hours (not CEUs); provider approval; no certification/scope-expansion claim; no obsolete four-hour BRN wording.
 
 Each module uses: Objectives, Timed Content (>=150 min), Case Scenario, Documentation/Decision Activity, Module Quiz (see shell spec).
 

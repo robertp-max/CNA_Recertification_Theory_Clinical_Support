@@ -46,7 +46,7 @@ A certificate is released to a learner only when ALL are true:
 
 ## BRN contact hours only
 
-- BRN certificates use "contact hours" terminology; never "CEUs" (except explanatory "not CEUs" wording). No stale 4-contact-hour language.
+- BRN certificates use "contact hours" terminology; never "CEUs" (except explanatory "not CEUs" wording). No obsolete four-hour BRN wording.
 
 ## RCFE certificate must match approved terms after approval
 

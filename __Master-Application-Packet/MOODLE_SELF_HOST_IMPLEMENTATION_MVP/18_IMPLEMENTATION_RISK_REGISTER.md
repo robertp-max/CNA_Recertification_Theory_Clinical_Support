@@ -6,7 +6,7 @@ Status: Draft / Pending Approval. Columns: risk | lane | severity | likelihood |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Premature certificate release | All | Critical | Medium | Certificate disabled + approval-flag gate; only Admin/Manager can enable; test CT-01/CT-02 | Manager | gate config + test results | Open - controlled |
 | Missing quiz mapping (a unit/course/module lacks items) | All | High | Low | Coverage audit verifies minimums per category; GIFT categories enforced | Manager | QUIZ_BANK_COVERAGE_AUDIT.md | Mitigated (455 items) |
-| Stale BRN 4-hour reference appears | BRN | Critical | Low | Content authored to contact hours; validation scans for "4 contact hours"/"4-contact-hour" | Compliance | validation scan | Mitigated |
+| Stale BRN 4-hour reference appears | BRN | Critical | Low | Content authored to contact hours; validation scans for obsolete four-hour BRN wording | Compliance | validation scan | Mitigated |
 | CNA clinical-hour overclaim | CNA | Critical | Low | "Online CE only / no clinical hours" wording; certificate excludes clinical hours; validation scan | Compliance | course text + scan | Mitigated |
 | RCFE 40-hour concept confusion | RCFE | High | Medium | Build only filed 9-course/27h; 40-hour labeled future-only; validation scan | Manager | architecture docs + scan | Mitigated |
 | PHI entry by learner | All | High | Medium | No-PHI warnings/prompts; quarantine/deletion process; review (test PH-02) | Compliance | warnings + review note | Open - controlled |
