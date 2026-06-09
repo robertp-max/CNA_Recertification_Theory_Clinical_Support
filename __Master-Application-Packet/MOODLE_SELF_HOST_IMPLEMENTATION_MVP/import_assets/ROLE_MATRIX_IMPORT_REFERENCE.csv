@@ -1,0 +1,10 @@
+role,moodle_base_role,enroll_scope,edit_content,view_grades,edit_grades,view_reports,export_data,view_user_pii,manage_certificates,key_prohibitions
+Site Administrator,Site administrator (manager-level account),Site,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Use a dedicated admin account; no shared logins; MFA where supported
+Moodle Manager,Manager,Category/Site,Yes,Yes,Yes (with documentation),Yes,Yes,Yes,Yes,Manual grade overrides must be documented; no certificate enablement before approval
+Course Creator,Course creator,Category,Yes (create/build),No (by default),No,Limited,No,No,No,Cannot release certificates; cannot edit learner grades
+Editing Teacher,Editing teacher,Course,Yes,Yes,Yes,Yes,Limited,Limited,No,Cannot change site config; cannot enable certificates before approval
+Non-editing Teacher,Non-editing teacher,Course,No,Yes,No,Yes,Limited,Limited,No,View/grade per assignment only; no content edits
+External Survey Reviewer,Custom read-only reviewer role,Assigned category/courses,No,Yes (read-only),No,Yes (read-only),Yes (read-only bundle),No (de-identified review),No,No edit rights; temporary credential; expires/deactivates after survey window
+Read-only Compliance Reviewer,Custom read-only reviewer role,Assigned category/courses,No,Yes (read-only),No,Yes (read-only),Yes (read-only),No,No,Internal read-only; no edits; documented access
+Learner,Student,Course,No,Own only,No,Own only,Own certificate (post-approval only),Own only,No,Cannot view answer keys; cannot access others' data
+Support/Admin Staff,Custom support role,Site (scoped),No,Limited,No,Limited,Limited,Limited (support tasks only),No,Access limited to support tasks; actions logged; no certificate control

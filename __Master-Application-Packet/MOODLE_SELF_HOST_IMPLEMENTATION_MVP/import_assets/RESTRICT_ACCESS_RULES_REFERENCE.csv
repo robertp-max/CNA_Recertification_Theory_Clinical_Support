@@ -1,0 +1,12 @@
+lane,course,restricted_activity,restriction_type,depends_on,condition,survey_rationale
+CNA,CNA-CE-24,U02..U12 unit content,Activity completion,Prior unit completion,Previous unit marked complete,Enforces sequential progression and seat time
+CNA,CNA-CE-24,Unit scenario activity,Grade,Unit quiz,Unit quiz grade >= 80%,Quiz pass required before scenario/attestation
+CNA,CNA-CE-24,Comprehensive final,Activity completion,All 12 units,All units complete,Final gated behind full content completion
+CNA,CNA-CE-24,Certificate (post-approval only),Grade + completion + approval flag,Final + course completion,Final passed AND course complete AND approval metadata present,No certificate before regulator approval
+RCFE,RCFE-CETP-001..009,Course final assessment,Activity completion,Scenario/judgment exercise,Scenario complete,Assessment gated behind content/scenario
+RCFE,RCFE-CETP-001..009,Attestation,Grade,Final assessment,Final grade >= 70%,Attestation after passing assessment
+RCFE,RCFE-CETP-001..009,Certificate (post-approval only),Grade + completion + approval flag,Final + evaluation + attestation,Passed AND evaluation AND attestation AND approval metadata present,No certificate before regulator approval
+BRN,BRN-CM-30,M02..M10 module content,Activity completion,Prior module completion,Previous module complete,Enforces sequential progression and contact-hour time
+BRN,BRN-CM-30,Module quiz,Activity completion,Module documentation/decision activity,Activity complete,Quiz after required module activities
+BRN,BRN-CM-30,Capstone final assessment,Activity completion,All 10 modules,All modules complete,Capstone gated behind all modules
+BRN,BRN-CM-30,Certificate (post-approval only),Grade + completion + approval flag,Capstone + course completion,Capstone passed AND course complete AND approval metadata present,No certificate before BRN CEP approval
