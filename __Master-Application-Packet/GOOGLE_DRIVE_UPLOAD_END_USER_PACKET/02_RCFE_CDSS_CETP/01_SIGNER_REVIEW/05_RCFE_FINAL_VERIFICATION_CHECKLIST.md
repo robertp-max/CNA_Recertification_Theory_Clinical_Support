@@ -13,7 +13,7 @@ Official forms in this lane:
 - [ ] Apply authorized-signer signature, initials, and date.
 - [ ] Complete personal legal attestation sections that the signer/instructor must declare.
 - [ ] Confirm reviewer credentials (URL/user ID/password/platform).
-- [ ] Attach Vanessa Valerio instructor/SME evidence (resume, license verification, expiration date).
+- [ ] Vanessa evidence verification checklist: Provided in source — verify currentness, completeness, and correct lane attachment before submission (resume/CV, RN license/license verification, and instructor/SME evidence).
 - [ ] Obtain final legal/privacy sign-off on policy/notice language.
 - [ ] LIC 9141 Sections 6-10 authorized-representative legal attestations (signed by representative).
 - [ ] LIC 9140 instructor Sections 7-10 instructor legal attestations (signed by instructor).

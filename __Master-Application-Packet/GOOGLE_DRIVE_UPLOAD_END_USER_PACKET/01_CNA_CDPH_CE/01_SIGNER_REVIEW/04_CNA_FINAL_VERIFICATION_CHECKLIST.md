@@ -11,7 +11,7 @@ Official forms in this lane:
 - [ ] Apply authorized-signer signature, initials, and date.
 - [ ] Complete personal legal attestation sections that the signer/instructor must declare.
 - [ ] Confirm reviewer credentials (URL/user ID/password/platform).
-- [ ] Attach Vanessa Valerio instructor/SME evidence (resume, license verification, expiration date).
+- [ ] Vanessa evidence verification checklist: Provided in source — verify currentness, completeness, and correct lane attachment before submission (resume/CV, RN license/license verification, and instructor/SME evidence).
 - [ ] Obtain final legal/privacy sign-off on policy/notice language.
 - [ ] Enter final CE-unit/membership pricing on CDPH 192B (business pricing decision).
 

@@ -10,7 +10,7 @@ Official forms in this lane:
 - [ ] Apply authorized-signer signature, initials, and date.
 - [ ] Complete personal legal attestation sections that the signer/instructor must declare.
 - [ ] Confirm reviewer credentials (URL/user ID/password/platform).
-- [ ] Attach Vanessa Valerio instructor/SME evidence (resume, license verification, expiration date).
+- [ ] Vanessa evidence verification checklist: Provided in source — verify current RN license status, completeness, and correct lane attachment before submission (resume/CV, RN license/license verification, and instructor/SME evidence).
 - [ ] Obtain final legal/privacy sign-off on policy/notice language.
 - [ ] Confirm CE coordinator designation and prior-provider-history answer.
 - [ ] Confirm FEIN entry and instructor license expiration date.
