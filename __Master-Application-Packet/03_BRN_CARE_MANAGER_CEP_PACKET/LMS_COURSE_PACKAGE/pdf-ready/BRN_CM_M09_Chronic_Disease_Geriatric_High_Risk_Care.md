@@ -1,0 +1,166 @@
+# BRN Case Management CE Package - Draft / Pending BRN CEP Approval
+
+## Chronic Disease, Geriatric, and High-Risk Patient Management
+
+**Provider (from master packet):** CI Institute of Nursing, Inc. — 419 E. Hamilton Ave., Campbell, CA 95008 — 650-449-6706 — humanresources@ci-ion.com — https://www.ci-ion.com
+
+> "Pending California Board of Registered Nursing Continuing Education Provider approval. Do not advertise, issue certificates, or represent this course as approved until a BRN CEP number has been issued."
+
+*This document follows a CCCCO-style documentation *organization* only (structured overview, objectives, content outline, activities, facilitator notes, assessment mapping, compliance support). No CCCCO content is copied; all content is original and customized for California BRN Case Management CE.*
+
+### Module At a Glance
+
+| Field | Value |
+| --- | --- |
+| Module ID | CM-M09 |
+| Module title | Chronic Disease, Geriatric, and High-Risk Patient Management |
+| Parent course | RN Case Management in Home Health: Care Coordination, Documentation, Patient Advocacy, and Safe Transitions of Care |
+| Contact hours | 3 (draft design math) |
+| Estimated learner minutes | 170 (>=150 floor) |
+| Direct/indirect linkage | Direct patient/client care (scientific knowledge) |
+| Approval status | Draft / Pending BRN CEP Approval |
+
+### BRN Relevance Rationale
+
+Applies clinical/scientific knowledge to manage high-risk populations and reduce decompensation.
+
+### Module Description
+
+Strengthens risk-stratification, chronic-disease management priorities, geriatric-syndrome awareness, and monitoring plans with escalation triggers. Educational content only; not medical advice.
+
+### Measurable Learning Objectives
+
+By the end of this module the learner will be able to:
+
+1. Apply risk-stratification to identify high-risk patients in a panel.
+2. Describe nursing management priorities for common chronic conditions in care management.
+3. Identify geriatric-specific risks (falls, polypharmacy, cognition) and nursing mitigations.
+4. Build a monitoring plan with escalation triggers.
+
+### Required Readings / Learning Content Sections
+
+- Reading 9.1 - Risk stratification.
+- Reading 9.2 - Chronic-disease management priorities.
+- Reading 9.3 - Geriatric syndromes and polypharmacy.
+- Reading 9.4 - Monitoring plans and escalation triggers.
+
+### Detailed Lesson Outline
+
+| Lesson ID | Lesson | Est. minutes |
+| --- | --- | --- |
+| CM-M09-L1 | Risk stratification | 40 |
+| CM-M09-L2 | Chronic-disease management priorities | 40 |
+| CM-M09-L3 | Geriatric syndromes & polypharmacy | 35 |
+| CM-M09-L4 | Monitoring plans & triggers | 35 |
+| CM-M09-KC | Knowledge check + risk-stratification worksheet | 20 |
+
+Total estimated instructional minutes: **170** (meets the >=150-minute / 3-contact-hour floor).
+
+### Key Terms
+
+| Term | Definition |
+| --- | --- |
+| Risk stratification | Classifying patients by risk to target resources. |
+| Polypharmacy | Use of multiple medications, raising interaction/adverse-event risk. |
+| Geriatric syndrome | Multifactorial conditions common in older adults (falls, delirium). |
+| Escalation trigger | A predefined change that prompts a higher level of action. |
+| Decompensation | Functional/clinical decline as a condition worsens. |
+
+### Fictional / De-identified Case Scenario
+
+*All clinical content is fictional and de-identified. No PHI.* A fictional 80-year-old with heart failure, diabetes, and mild cognitive impairment takes nine medications and had one recent fall.
+
+### Learner Activities
+
+- Read Sections 9.1-9.4.
+- Stratify the client's risk level with justification.
+- Identify polypharmacy and fall risks with nursing mitigations.
+- Build a monitoring plan with >=3 triggers and complete Knowledge Check 9.
+
+### Documentation / Decision-Making Exercise
+
+Complete a Risk-Stratification + Monitoring Worksheet for the scenario, including at least three escalation triggers tied to specific findings.
+
+### Knowledge Check Blueprint
+
+10 items, unlimited attempts, immediate feedback, no full key, >=80% to complete.
+
+### Assessment Items (Learner-Facing Stems)
+
+**KC9-Q1 (Multi-select).** Which factors raise this geriatric client's risk profile? (select all)
+- A) Polypharmacy (9 meds)
+- B) Recent fall
+- C) Cognitive impairment
+- D) A single stable condition
+
+**KC9-Q2 (MCQ).** An appropriate escalation trigger in a heart-failure monitoring plan is:
+- A) Weight gain of >=3 lb in a day / 5 lb in a week
+- B) Any change in TV channel
+- C) Normal daily walk
+- D) Stable weight
+
+**KC9-Q3 (True/False).** Polypharmacy increases the risk of adverse drug events and warrants medication review.
+- True
+- False
+
+### LMS Completion Criteria
+
+- All lesson pages viewed (activity completion: require view).
+- CM-M09 knowledge check passed at >=80% (require passing grade).
+- Documentation/decision exercise submitted (require submission).
+
+### Evidence Generated by Learner Completion
+
+- Activity-completion timestamps (time-on-task evidence).
+- Knowledge-check score and attempt log.
+- Submitted exercise artifact (retained >=4 years; no PHI).
+
+### Moodle Activity Recommendations
+
+- Page
+- Book
+- Quiz (KC9)
+- Assignment (worksheet)
+
+### Accessibility Considerations
+
+- Captions + transcripts for any media; semantic headings; alt text on diagrams.
+- Sufficient color contrast; no color-only meaning; keyboard-navigable activities.
+- Accessible downloadable templates (tagged PDF + DOCX); extended-time accommodation supported.
+- Target WCAG 2.1 AA on the built course.
+
+### PHI / Privacy Guardrails
+
+- All cases fictional and de-identified; no real patient/resident/family/facility data.
+- Fictional clinical profile only; avoid color-only risk tiers (use labels).
+- Submission reminders and (for capstone) attestation + manual PHI review.
+
+### SME Review Flags
+
+- [[SME REVIEW REQUIRED]] Confirm clinical content currency; mark as education, not medical advice or standing orders.
+
+### Compliance Review Flags
+
+- [[COMPLIANCE REVIEW]] Fictional clinical profile only; avoid color-only risk tiers (use labels).
+
+### Internal Answer Key Appendix (ADMIN / FACULTY ONLY - DO NOT SHOW LEARNERS)
+
+| Item ID | Type | Correct answer | Rationale | Remediation |
+| --- | --- | --- | --- | --- |
+| KC9-Q1 | Multi-select | A, B, C | A-C are high-risk geriatric markers; D is comparatively lower risk. | Review Reading 9.1/9.3. |
+| KC9-Q2 | MCQ | A | Rapid weight gain can signal fluid overload requiring escalation. | Review Reading 9.4. |
+| KC9-Q3 | True/False | True | Multiple medications raise interaction/adverse-event risk. | Review Reading 9.3. |
+
+### Debrief / Remediation Guidance
+
+Show how stratification drives monitoring intensity and triggers, and how polypharmacy review prevents harm. Failed attempts route to Reading 9.1/9.3/9.4. Reinforce content is educational, not medical advice.
+
+### Application-Packet Defensibility Notes
+
+Application of scientific/clinical knowledge to high-risk patients is core direct patient care and strongly BRN-relevant.
+
+> **Scope-change flag:** The master packet currently documents a 4-contact-hour representative course. This module is part of a new 30-contact-hour design that is Draft / Needs SME approval and is not yet reflected in the official BRN contact-hour map or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+---
+
+*Do not advertise, issue certificates, or represent this course as BRN-approved until the official BRN CEP approval and provider number are issued.*
