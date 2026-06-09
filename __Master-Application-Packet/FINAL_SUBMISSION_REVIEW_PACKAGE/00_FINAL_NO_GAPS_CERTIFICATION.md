@@ -16,6 +16,7 @@ READY FOR VERIFICATION, SIGNATURE, AND SUBMISSION REVIEW
 - One complete consolidated binder exists per lane, plus a master index binder; all four were rebuilt in the mandated template visual language (see 00_FINAL_BINDER_QA_REPORT.md).
 - Course structures are aligned for submission, with future/non-submitted LMS work explicitly isolated (see 00_FINAL_COURSE_ALIGNMENT_AUDIT.md): CNA = 24 online CE hours = 12 units x 2 hours (Units U01-U12; source Modules 10-17); RCFE = 9 LIC 9140 courses / 27 hours; BRN = 30 contact hours / 10 modules x 3.
 - The BRN CEP application representative-course section was updated to the 30-contact-hour, 10-module program under explicit, documented direction.
+- Stale 4-contact-hour references have been removed from all signer-facing current BRN materials (contact-hour map, transfer worksheet, representative course packet, flyer/brochure draft, LMS course package, consolidated BRN binder, and BRN CEP filled PDF). Residual 4-contact-hour text remains only in the superseded, excluded `BRANDED_PDF_OUTPUTS` derivatives.
 - The visual reference PDF and any template PDF are excluded from the submission package.
 - Superseded one-page branded PDFs (BRANDED_PDF_OUTPUTS) are not used as final outputs.
 - The master submission-review index identifies all final files clearly.

@@ -958,10 +958,12 @@ def module_md(m):
     L.append("")
     L.append(m["defensibility"])
     L.append("")
-    L.append("> **Scope-change flag:** The master packet currently documents a 4-contact-hour "
-             "representative course. This module is part of a new 30-contact-hour design that is "
-             "Draft / Needs SME approval and is not yet reflected in the official BRN contact-hour map "
-             "or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]")
+    L.append("> **Program-structure note:** This module is part of the 30-contact-hour, 10-module RN "
+             "case management program (10 modules x 3 contact hours; 50 instructional minutes = 1 contact "
+             "hour; minimum 1,500 instructional minutes, 1,680 design minutes). The official BRN contact-hour "
+             "map and transfer worksheet are aligned to this 30-contact-hour structure. Any earlier "
+             "4-contact-hour representative course is superseded and is not part of the current BRN CEP "
+             "signer-review package. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]")
     L.append("")
     L.append("---")
     L.append("")
@@ -983,11 +985,13 @@ def course_md():
     L.append("")
     L.append(f"*{DOC_MODEL_NOTE}*")
     L.append("")
-    L.append("> **Scope-change flag (read first):** The master application packet documents a single "
-             "**4-contact-hour** representative course. This packet documents a **new 30-contact-hour** "
-             "course design. The 30-hour design is **Draft / Needs SME approval** and is **not yet "
-             "reflected** in the official BRN contact-hour map or transfer worksheet. "
-             "[[SME REVIEW REQUIRED BEFORE SUBMISSION]]")
+    L.append("> **Program-structure note (read first):** The BRN / CEP lane is a **30-contact-hour, "
+             "10-module** RN case management program (10 modules x 3 contact hours each; 50 instructional "
+             "minutes = 1 contact hour; minimum **1,500 instructional minutes**, 1,680 design minutes). The "
+             "official BRN contact-hour map and transfer worksheet are aligned to this 30-contact-hour "
+             "structure. Any earlier 4-contact-hour representative course is **superseded** and is **not part "
+             "of the current BRN CEP signer-review package**. Approval posture: pending BRN CEP approval "
+             "(provider approval, not course-by-course approval). [[SME REVIEW REQUIRED BEFORE SUBMISSION]]")
     L.append("")
 
     L.append("### 1. Course Overview")
@@ -1231,9 +1235,10 @@ def course_md():
 
     L.append("### 15. Open Items Requiring Confirmation Before Submission")
     L.append("")
-    L.append("1. **Scope reconciliation:** packet documents a 4-hour live webinar; this design is 30-hour "
-             "online self-paced. Reconcile and update the official BRN contact-hour map + transfer "
-             "worksheet. [[SME REVIEW REQUIRED]]")
+    L.append("1. **Offering-type reconciliation:** contact hours are reconciled at 30 contact hours across "
+             "the official BRN contact-hour map, transfer worksheet, and this design. Delivery mode still "
+             "differs (worksheet: live webinar / live-stream; this design: online self-paced); confirm the "
+             "intended delivery mode before submission. [[SME REVIEW REQUIRED]]")
     L.append("2. **Offering type / independent-study:** confirm BRN independent-study methodology "
              "requirements if delivered online self-paced.")
     L.append("3. **Instructor evidence (Vanessa Valerio, RN 788389):** license expiration, education, "

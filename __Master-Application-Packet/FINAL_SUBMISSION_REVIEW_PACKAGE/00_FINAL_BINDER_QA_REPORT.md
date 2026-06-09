@@ -37,6 +37,7 @@ All four binders were **rebuilt** in the mandated template visual language (bran
 - Filled government forms exist and are appended + provided separately in each lane's OFFICIAL_FORMS_FILLED folder: Yes.
 - Tables readable / no clipped text: Yes (verified by page rasterization of cover, status, catalog, syllabus, instructor, and sign-off pages across all binders).
 - No forbidden placeholders in final binders or official forms: Yes (verified by automated scan).
+- No stale 4-contact-hour signer-facing BRN references: Yes (verified by automated text scan of all BRN binders, the BRN CEP official filled PDF, and BRN source files). The BRN lane reads 30 contact hours / 10 modules x 3 throughout signer-facing materials; the official BRN CEP filled PDF reads 30 contact hours. The only residual 4-contact-hour text is inside the superseded `03_BRN_CARE_MANAGER_CEP_PACKET/BRANDED_PDF_OUTPUTS` derivatives, which are explicitly excluded from submission (see Section 10 of 00_MASTER_SUBMISSION_REVIEW_INDEX.md and the folder's `_SUPERSEDED_DO_NOT_USE.md`).
 - Course structures aligned or mismatches explicitly isolated: Yes (see 00_FINAL_COURSE_ALIGNMENT_AUDIT.md).
 - TJ Padilla author/compiler only: Yes (cover + footer compiler attribution and an explicit non-operational disclaimer; never an applicant, signer, instructor, or operational role).
 - Reference / template PDFs excluded from submission package: Yes.
