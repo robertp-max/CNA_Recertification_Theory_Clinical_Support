@@ -20,7 +20,7 @@ All official government forms were filled through their native PDF AcroForm fiel
 | RCFE / CDSS | CDSS LIC 9140 (RCFE-CETP-009: RCFE Business Operations, Records, and C...) | FILLED OFFICIAL PDF - READY FOR SIGNATURE | 02_RCFE_CDSS_CETP/OFFICIAL_FORMS_FILLED/RCFE-CETP-009_LIC_9140_FILLED.pdf | 23 | Signature/Date; instructor Sections 7-10 personal attestations; attached course narrative + instructor resume | None | No | Yes | Source-backed values; visually official and unbranded. |
 | RCFE / CDSS | CDSS Vendor Application Fee Notice | FILLED OFFICIAL PDF - READY FOR SIGNATURE | 02_RCFE_CDSS_CETP/OFFICIAL_FORMS_FILLED/VENDOR_FEE_NOTICE_FILLED.pdf | 6 | Check/money-order number at payment insertion | None | No | Yes | Source-backed values; visually official and unbranded. |
 | RCFE / CDSS | CDSS Course Application Fee Notice | FILLED OFFICIAL PDF - READY FOR SIGNATURE | 02_RCFE_CDSS_CETP/OFFICIAL_FORMS_FILLED/COURSE_FEE_NOTICE_FILLED.pdf | 12 | Per-line course fee itemization confirmed at payment insertion; check/money-order number | None | No | Yes | Source-backed values; visually official and unbranded. |
-| BRN / CEP | BRN CEP Application (Provider/Course/Instructor) | FILLED OFFICIAL PDF - READY FOR SIGNATURE | 03_BRN_CARE_MANAGER_CEP/OFFICIAL_FORMS_FILLED/BRN_CEP_APPLICATION_FILLED.pdf | 29 | Signature/Date; CE coordinator confirmation; license expiration + instructor evidence attachment; FEIN number confirmation | None | No | Yes | Source-backed values; visually official and unbranded. |
+| BRN / CEP | BRN CEP Application (Provider/Course/Instructor) | FILLED OFFICIAL PDF - READY FOR SIGNATURE | 03_BRN_CARE_MANAGER_CEP/OFFICIAL_FORMS_FILLED/BRN_CEP_APPLICATION_FILLED.pdf | 29 | Signature/Date; CE coordinator confirmation; license expiration + instructor evidence attachment; FEIN number confirmation | None | No | Yes | Source-backed values; visually official and unbranded. Representative-course section updated to the 30-contact-hour, 10-module RN case management program (Title + Contact Hours fields) per directed alignment; see 00_FINAL_COURSE_ALIGNMENT_AUDIT.md. |
 
 ## Summary
 - Filled official PDFs created: 15
@@ -29,3 +29,6 @@ All official government forms were filled through their native PDF AcroForm fiel
 - Forbidden placeholders in any official form: No
 
 Every official form is classified: FILLED OFFICIAL PDF - READY FOR SIGNATURE.
+
+## Directed form alignment change
+- BRN CEP application representative-course section updated from a single 4-contact-hour course to the **30-contact-hour, 10-module** RN case management program (`2 Title`, `8 Number of Contact Hours`, objectives, and overview fields). This is an explicit, documented direction - not a silent change - and is recorded in `00_FINAL_COURSE_ALIGNMENT_AUDIT.md`. BRN-facing values use **contact hours**, not CEUs. No other official form's course structure was changed.

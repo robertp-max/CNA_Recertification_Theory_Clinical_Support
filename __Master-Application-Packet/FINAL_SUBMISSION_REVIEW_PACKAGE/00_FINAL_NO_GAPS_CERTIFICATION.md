@@ -13,9 +13,11 @@ READY FOR VERIFICATION, SIGNATURE, AND SUBMISSION REVIEW
 - Instructor of record (Vanessa Valerio) is assigned and promoted in every lane; instructor names are source-backed.
 - Vanessa Valerio is promoted as SME/instructor wherever source-backed (CDPH E279).
 - Attachment indexes, payment/check checklists, and reviewer-credential checklists exist for each lane.
-- One complete consolidated binder exists per lane, plus a master index binder.
-- The visual reference PDF is excluded from the submission package.
-- Superseded one-page branded PDFs are not used as final outputs.
+- One complete consolidated binder exists per lane, plus a master index binder; all four were rebuilt in the mandated template visual language (see 00_FINAL_BINDER_QA_REPORT.md).
+- Course structures are aligned for submission, with future/non-submitted LMS work explicitly isolated (see 00_FINAL_COURSE_ALIGNMENT_AUDIT.md): CNA = 24 online CE hours = 12 units x 2 hours (Units U01-U12; source Modules 10-17); RCFE = 9 LIC 9140 courses / 27 hours; BRN = 30 contact hours / 10 modules x 3.
+- The BRN CEP application representative-course section was updated to the 30-contact-hour, 10-module program under explicit, documented direction.
+- The visual reference PDF and any template PDF are excluded from the submission package.
+- Superseded one-page branded PDFs (BRANDED_PDF_OUTPUTS) are not used as final outputs.
 - The master submission-review index identifies all final files clearly.
 
 ## Remaining items (allowed final execution items only - NOT documentation gaps)
