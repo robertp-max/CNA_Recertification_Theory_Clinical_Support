@@ -1,0 +1,167 @@
+# BRN Case Management CE Package - Draft / Pending BRN CEP Approval
+
+## Care Coordination Across Disciplines and Settings
+
+**Provider (from master packet):** CI Institute of Nursing, Inc. — 419 E. Hamilton Ave., Campbell, CA 95008 — 650-449-6706 — humanresources@ci-ion.com — https://www.ci-ion.com
+
+> "Pending California Board of Registered Nursing Continuing Education Provider approval. Do not advertise, issue certificates, or represent this course as approved until a BRN CEP number has been issued."
+
+*This document follows a CCCCO-style documentation *organization* only (structured overview, objectives, content outline, activities, facilitator notes, assessment mapping, compliance support). No CCCCO content is copied; all content is original and customized for California BRN Case Management CE.*
+
+### Module At a Glance
+
+| Field | Value |
+| --- | --- |
+| Module ID | CM-M03 |
+| Module title | Care Coordination Across Disciplines and Settings |
+| Parent course | RN Case Management in Home Health: Care Coordination, Documentation, Patient Advocacy, and Safe Transitions of Care |
+| Contact hours | 3 (draft design math) |
+| Estimated learner minutes | 165 (>=150 floor) |
+| Direct/indirect linkage | Direct + indirect patient/client care |
+| Approval status | Draft / Pending BRN CEP Approval |
+
+### BRN Relevance Rationale
+
+Nurse-led interdisciplinary coordination protects continuity and prevents gaps that cause patient harm.
+
+### Module Description
+
+Develops the RN's coordinating role across the interdisciplinary team and care settings using structured handoff communication and loop-closure tracking.
+
+### Measurable Learning Objectives
+
+By the end of this module the learner will be able to:
+
+1. Map an interdisciplinary team and each member's contribution to a care plan.
+2. Apply structured handoff communication (e.g., SBAR) to a coordination event.
+3. Identify two failure points in cross-setting transitions and a nursing mitigation for each.
+4. Distinguish information that may be shared under minimum-necessary principles.
+
+### Required Readings / Learning Content Sections
+
+- Reading 3.1 - The interdisciplinary team and the RN's coordinating role.
+- Reading 3.2 - Structured communication and SBAR.
+- Reading 3.3 - Cross-setting coordination (home health, primary care, specialty, payer).
+- Reading 3.4 - Closing the loop and follow-up tracking.
+
+### Detailed Lesson Outline
+
+| Lesson ID | Lesson | Est. minutes |
+| --- | --- | --- |
+| CM-M03-L1 | The interdisciplinary team & RN's coordinating role | 35 |
+| CM-M03-L2 | Structured communication / SBAR | 40 |
+| CM-M03-L3 | Cross-setting coordination | 35 |
+| CM-M03-L4 | Closing the loop & follow-up tracking | 35 |
+| CM-M03-KC | Knowledge check + coordination map | 20 |
+
+Total estimated instructional minutes: **165** (meets the >=150-minute / 3-contact-hour floor).
+
+### Key Terms
+
+| Term | Definition |
+| --- | --- |
+| SBAR | Situation-Background-Assessment-Recommendation: a structured handoff format. |
+| Interdisciplinary team | Clinicians and staff from multiple disciplines collaborating on care. |
+| Loop closure | Confirming that a referral/order/result was completed and acted upon. |
+| Minimum necessary | Sharing only the information needed for the purpose. |
+| Transition point | A handoff between settings/providers where care can break down. |
+
+### Fictional / De-identified Case Scenario
+
+*All clinical content is fictional and de-identified. No PHI.* A fictional client is discharged from a hospital to home health, but the medication reconciliation is missing and the primary care follow-up is unscheduled.
+
+### Learner Activities
+
+- Read Sections 3.1-3.4.
+- Build an interdisciplinary team map for the scenario.
+- Draft a 3-line SBAR to the primary care office.
+- Complete the branching coordination scenario and Knowledge Check 3.
+
+### Documentation / Decision-Making Exercise
+
+Build an Interdisciplinary Coordination Map (who / what / when / loop-closure) for the scenario and write a 3-line SBAR handoff.
+
+### Knowledge Check Blueprint
+
+8 items + 1 branching-lesson decision path, unlimited attempts, immediate feedback, no full key, >=80% to complete.
+
+### Assessment Items (Learner-Facing Stems)
+
+**KC3-Q1 (MCQ).** Which tool best structures a nurse-to-provider handoff?
+- A) SOAP
+- B) SBAR
+- C) PDSA
+- D) SWOT
+
+**KC3-Q2 (MCQ).** The missing medication reconciliation in the scenario is best described as a:
+- A) Loop-closure failure at a transition point
+- B) Billing dispute
+- C) Normal finding
+- D) Scope violation
+
+**KC3-Q3 (True/False).** Under minimum-necessary principles, the RN should share only the information needed for the coordination purpose.
+- True
+- False
+
+### LMS Completion Criteria
+
+- All lesson pages viewed (activity completion: require view).
+- CM-M03 knowledge check passed at >=80% (require passing grade).
+- Documentation/decision exercise submitted (require submission).
+
+### Evidence Generated by Learner Completion
+
+- Activity-completion timestamps (time-on-task evidence).
+- Knowledge-check score and attempt log.
+- Submitted exercise artifact (retained >=4 years; no PHI).
+
+### Moodle Activity Recommendations
+
+- Lesson (branching)
+- Wiki
+- Database
+- Quiz (KC3)
+- Assignment (map)
+
+### Accessibility Considerations
+
+- Captions + transcripts for any media; semantic headings; alt text on diagrams.
+- Sufficient color contrast; no color-only meaning; keyboard-navigable activities.
+- Accessible downloadable templates (tagged PDF + DOCX); extended-time accommodation supported.
+- Target WCAG 2.1 AA on the built course.
+
+### PHI / Privacy Guardrails
+
+- All cases fictional and de-identified; no real patient/resident/family/facility data.
+- All team/member/facility names must be fictional.
+- Submission reminders and (for capstone) attestation + manual PHI review.
+
+### SME Review Flags
+
+- [[SME REVIEW REQUIRED]] Confirm SBAR/handoff examples reflect current practice.
+
+### Compliance Review Flags
+
+- [[COMPLIANCE REVIEW]] All team/member/facility names must be fictional.
+
+### Internal Answer Key Appendix (ADMIN / FACULTY ONLY - DO NOT SHOW LEARNERS)
+
+| Item ID | Type | Correct answer | Rationale | Remediation |
+| --- | --- | --- | --- | --- |
+| KC3-Q1 | MCQ | B | SBAR is a structured handoff communication tool. | Review Reading 3.2 (SBAR). |
+| KC3-Q2 | MCQ | A | A required step did not close the loop at the hospital-to-home transition. | Review Reading 3.3/3.4. |
+| KC3-Q3 | True/False | True | Minimum-necessary limits disclosure to what the purpose requires. | Review Reading 3.4. |
+
+### Debrief / Remediation Guidance
+
+Highlight how a single unclosed loop (med rec) cascades into harm, and how SBAR plus tracking prevents it. Failed attempts route to Reading 3.2-3.4.
+
+### Application-Packet Defensibility Notes
+
+Coordination and handoff communication directly protect continuity of patient care - clearly nursing-relevant indirect/direct care.
+
+> **Scope-change flag:** The master packet currently documents a 4-contact-hour representative course. This module is part of a new 30-contact-hour design that is Draft / Needs SME approval and is not yet reflected in the official BRN contact-hour map or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+---
+
+*Do not advertise, issue certificates, or represent this course as BRN-approved until the official BRN CEP approval and provider number are issued.*

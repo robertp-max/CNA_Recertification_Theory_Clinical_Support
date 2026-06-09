@@ -1,0 +1,788 @@
+CRITICAL: This task is application-packet generation only. Do not edit, move, delete, stage, commit, or modify any file outside C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\__Master-Application-Packet. Source folders are read-only.   Research reference rule:
+
+Also review this research file as a secondary reference only:
+
+Application_Packets_Research.md
+
+Use it to inform regulatory checks, readiness logic, missing-item categories, sequencing, and risk flags.
+
+However, this research file is not the controlling source for application fields. The controlling sources are the local source folders and regulator forms. If the research file conflicts with the current user instructions, follow the current user instructions.
+
+Current overrides:
+
+* CNA scope is 24 hours total, not 48 hours.
+* All generated output must be created only under:
+  C:\AI\Git\CNA_Recertification_Theory_Clinical_Support__Master-Application-Packet
+* Do not modify anything outside __Master-Application-Packet.
+* TJ Padilla is author/compiler only and must not appear in any operations role.
+* Create only content required for application submission, signer review, and required regulator attachments.
+* Do not create broad research binders or duplicate planning reports.
+* Use source folders first to prefill forms; do not guess missing fields.
+
+Use Application_Packets_Research.md to strengthen compliance review, but do not copy its older assumptions into the final packets without checking them against the source folders and current instructions.
+Override output location and repo safety rule:
+
+All generated application-packet output must be created only under this folder:
+
+C:\AI\Git\CNA_Recertification_Theory_Clinical_Support__Master-Application-Packet
+
+Create the folder if it does not already exist.
+
+Do not create, modify, move, rename, delete, stage, or commit anything outside:
+
+C:\AI\Git\CNA_Recertification_Theory_Clinical_Support__Master-Application-Packet
+
+The rest of the app/repo must remain untouched.
+
+Read-only source folders:
+
+* C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\CNA-Recert-Course\CI-ION Rosurce for Form Applications
+* C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\CNA-Recert-Course_RCFE CETP
+* C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\CNA-Recert-Course_CNA_Recert
+* C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\CNA-Recert-Course_BRN CEP Care Manager CE Application - Optional
+
+These source folders may be read, inventoried, cited, and used to prefill application packets, but must not be edited or reorganized.
+
+Do not edit:
+
+* source application folders
+* curriculum source files
+* existing app files
+* package files
+* build/config files
+* src/
+* public/
+* docs/
+* staging/
+* tests/
+* README files outside __Master-Application-Packet
+* any unrelated local changes
+
+If existing packet files are found outside __Master-Application-Packet, treat them as read-only source/reference material only. Do not update them in place. Instead, create the cleaned submission-ready version inside __Master-Application-Packet and document the source path in the field map.
+
+All final packet folders, field maps, signer packets, missing-items reports, clarification summaries, and generated form drafts must live inside:
+
+__Master-Application-Packet
+
+Required output tree must be rooted as:
+
+__Master-Application-Packet
+00_MASTER_SOURCE_MAP.md
+00_DUPLICATION_REVIEW.md
+00_MASTER_READINESS_REPORT.md
+00_MASTER_MISSING_ITEMS.md
+00_CLARIFICATION_SUMMARY.md
+00_PACKET_INDEX.md
+00_AUTHORING_NOTE_TJ_PADILLA.md
+
+01_CNA_CDPH_CE_PACKET
+02_RCFE_CDSS_CETP_PACKET
+03_BRN_CARE_MANAGER_CEP_PACKET\
+
+If the agent needs to create additional support files, they must be placed only inside the relevant packet folder under __Master-Application-Packet.
+
+Before final response, run a safety check and report:
+
+1. Confirm all created/modified files are under __Master-Application-Packet.
+2. Confirm no source folders were modified.
+3. Confirm no app/source/build/config files were modified.
+4. Confirm no git staging or commit was performed.
+5. If any attempted change outside __Master-Application-Packet occurred, stop and report it as a violation instead of continuing.
+You are working locally in this repo:
+
+C:\AI\Git\CNA_Recertification_Theory_Clinical_Support
+
+Mission:
+Build complete, signer-ready, submission-focused application packets for CI Institute of Nursing continuing education approvals.
+
+Active application lanes:
+
+1. CNA / CDPH CE packet
+2. RCFE Administrator / CDSS CETP packet
+3. Case Management / BRN CEP packet
+
+Primary outcome:
+Each packet must be complete enough that an authorized signer can review, sign, and mail/submit today if no correction items remain.
+
+Hard scope control:
+Create only content required for the application submission, signer review, and regulator packet support.
+
+Do not create:
+
+* generic binders
+* broad research reports
+* extra policy manuals not required for submission
+* LMS build specifications unless required by an application field
+* marketing copy beyond required flyer/brochure/application advertising samples
+* duplicate course packets
+* duplicate field maps
+* duplicate checklists
+* speculative curriculum
+* extra “nice to have” documents
+* unrelated BPPE materials
+* unrelated NATP initial-approval materials
+* unrelated operational SOPs
+
+Allowed output types:
+
+* official form drafts or form-transfer worksheets
+* required attachments
+* course approval packets
+* source-to-field maps
+* signer review checklists
+* mailing/submission checklists
+* missing-item reports
+* clarification summaries
+* certificate drafts where required
+* flyer/brochure drafts where required
+* record-retention, refund/cancellation, attendance/completion policy excerpts only if required by the regulator packet
+* SME-review replacement content only when existing source content is missing or noncompliant
+
+Important user correction:
+The CNA CE application scope is 24 hours total, not 48 hours.
+
+Use this CNA framing:
+“24-hour CNA continuing education / in-service education package for renewal support.”
+
+Do not call the CNA packet a 48-hour full renewal package unless a source document in the designated source folders explicitly requires that and the user confirms it.
+
+If the source files define Part 1 / Part 2, preserve the source-backed structure and exact hour split.
+If the source files do not define the split, do not invent it silently. Create the best source-backed 24-hour course matrix and flag the missing split in the clarification summary.
+
+Critical role rule:
+TJ Padilla must not appear in any operations role.
+
+TJ Padilla is only the project binder author/compiler. TJ Padilla may appear only:
+
+* on packet cover pages
+* in document footers as author/compiler/version-control attribution
+* in the authoring note
+
+TJ Padilla must not appear as:
+
+* applicant
+* owner
+* operator
+* authorized signer
+* signer contact
+* administrator
+* program director
+* CE coordinator
+* registrar
+* compliance lead
+* recordkeeping custodian
+* instructor
+* LMS admin
+* payment contact
+* mailing contact
+* regulator correspondence contact
+* responsible party
+* operational contact
+
+Check these variants:
+
+* TJ Padilla
+* T.J. Padilla
+* Teejay Padilla
+* Teej Padilla
+* Robert Padilla
+* Robert “TJ” Padilla
+* R. Padilla
+
+If any variant appears in an operational field, remove it from the form draft and flag:
+[[ROLE CONFLICT: TJ PADILLA AUTHOR ONLY - NOT OPERATIONS]]
+
+Source folders to review:
+
+CNA-Recert-Course\CI-ION Rosurce for Form Applications
+CNA-Recert-Course_RCFE CETP
+CNA-Recert-Course_CNA_Recert
+CNA-Recert-Course_BRN CEP Care Manager CE Application - Optional
+
+The source folder name “Rosurce” is misspelled. Do not rename it during this pass.
+
+Reference commit and branch:
+
+repo: robertp-max/CNA_Recertification_Theory_Clinical_Support
+branch: module-10-17-source-first-dry-run-review
+full SHA: ded72dcdaaf9f875a0ac7fc5bbb12c65addb01d1
+commit message: Add CI-ION form application resources
+
+Initial verification:
+
+1. Confirm repo root:
+
+git rev-parse --show-toplevel
+
+Expected:
+
+C:\AI\Git\CNA_Recertification_Theory_Clinical_Support
+
+2. Confirm branch and commit:
+
+git branch --show-current
+git rev-parse module-10-17-source-first-dry-run-review
+git show --stat ded72dcdaaf9f875a0ac7fc5bbb12c65addb01d1
+
+3. Confirm source folders exist:
+
+Test-Path "CNA-Recert-Course\CI-ION Rosurce for Form Applications"
+Test-Path "CNA-Recert-Course_RCFE CETP"
+Test-Path "CNA-Recert-Course_CNA_Recert"
+Test-Path "CNA-Recert-Course_BRN CEP Care Manager CE Application - Optional"
+
+4. Inventory the committed source bundle:
+
+git show --name-only --pretty=format: ded72dcdaaf9f875a0ac7fc5bbb12c65addb01d1
+
+Stop if:
+
+* repo root is wrong
+* commit cannot be found locally
+* source folders are missing
+* source folders are empty
+* source inventory cannot be produced
+
+If blocked, create only:
+
+CNA-Recert-Course_APPLICATION_BLOCKED_CANNOT_VERIFY_SOURCE_BUNDLE.md
+
+Do not modify unrelated local changes.
+Do not overwrite source files.
+Do not stage or commit unless explicitly instructed.
+Do not run code tests unless code is changed.
+
+Anti-duplication phase — mandatory before creating anything:
+
+Before writing new files, review existing packet folders and create:
+
+CNA-Recert-Course_APPLICATION_DUPLICATION_REVIEW.md
+
+For each existing file under:
+
+* CNA-Recert-Course_RCFE CETP
+* CNA-Recert-Course_CNA_Recert
+* CNA-Recert-Course_BRN CEP Care Manager CE Application - Optional
+
+Record:
+
+* path
+* likely packet lane
+* document purpose
+* whether it is source, draft output, final packet item, duplicate, obsolete, or unknown
+* whether it should be reused, updated, replaced, or left untouched
+* reason
+
+Rules:
+
+* Reuse existing work when it is compliant and submission-relevant.
+* Update existing packet files rather than creating duplicates.
+* Do not create a second course packet if one already exists and can be corrected.
+* Do not create a second field map if one already exists and can be updated.
+* Do not create a second certificate draft if one already exists and can be corrected.
+* Do not delete anything.
+* If duplicate files exist, create a duplicate-resolution recommendation but do not remove files.
+* If an existing item is noncompliant, create a corrected replacement only if needed for the application packet and clearly mark the old item as superseded in the duplication review.
+
+Output root:
+Create or update this folder tree only as needed. Do not create extra folders.
+
+CNA-Recert-Course
+_APPLICATION_MASTER_SOURCE_MAP.md
+_APPLICATION_DUPLICATION_REVIEW.md
+_APPLICATION_MASTER_READINESS_REPORT.md
+_APPLICATION_MASTER_MISSING_ITEMS.md
+_APPLICATION_CLARIFICATION_SUMMARY.md
+_APPLICATION_PACKET_INDEX.md
+_APPLICATION_AUTHORING_NOTE_TJ_PADILLA.md
+
+_CNA_Recert
+00_README_STATUS.md
+01_SOURCE_INVENTORY.md
+02_24_HOUR_CNA_COURSE_MAP.md
+03_CDPH_FORM_FIELD_MAP.md
+04_CDPH_APPLICATION_PACKET
+05_SIGNER_REVIEW_PACKET
+06_MISSING_ITEMS.md
+07_CLARIFICATION_SUMMARY.md
+08_DO_NOT_SUBMIT_UNTIL.md
+
+_RCFE CETP
+00_README_STATUS.md
+01_SOURCE_INVENTORY.md
+02_RCFE_COURSE_CATALOG_AND_LIC9140_INDEX.md
+03_CDSS_FORM_FIELD_MAP.md
+04_CDSS_APPLICATION_PACKET
+05_SIGNER_REVIEW_PACKET
+06_MISSING_ITEMS.md
+07_CLARIFICATION_SUMMARY.md
+08_DO_NOT_SUBMIT_UNTIL.md
+
+_BRN CEP Care Manager CE Application - Optional
+00_README_STATUS.md
+01_SOURCE_INVENTORY.md
+02_BRN_CEP_COURSE_AND_CONTACT_HOUR_MAP.md
+03_BRN_FORM_FIELD_MAP.md
+04_BRN_APPLICATION_PACKET
+05_SIGNER_REVIEW_PACKET
+06_MISSING_ITEMS.md
+07_CLARIFICATION_SUMMARY.md
+08_DO_NOT_SUBMIT_UNTIL.md
+
+Folder title rule:
+The physical BRN folder may keep “Optional,” but signer-facing BRN documents must not call the application optional if the packet is being prepared for submission.
+
+Source-first extraction rule:
+The source folder is expected to contain the information needed to prefill forms, including instructor information. Search thoroughly before marking anything missing.
+
+Read every file in the four source folders, including:
+
+* PDF
+* DOCX
+* XLSX
+* CSV
+* MD
+* TXT
+* HTML
+* image files only where needed for forms, certificates, signatures, logos, or licenses
+
+For each source file, record:
+
+* source path
+* file type
+* extraction method
+* fields extracted
+* packet relevance: CNA/CDPH, RCFE/CDSS, BRN, global, unknown
+* confidence level
+* signer review needed: yes/no
+* whether source appears application-ready
+
+Create source inventory files in each packet folder:
+
+* _CNA_Recert\01_SOURCE_INVENTORY.md
+* _RCFE CETP\01_SOURCE_INVENTORY.md
+* _BRN CEP Care Manager CE Application - Optional\01_SOURCE_INVENTORY.md
+
+Master source map:
+Create:
+
+CNA-Recert-Course_APPLICATION_MASTER_SOURCE_MAP.md
+
+Columns:
+| field | extracted value | source file | quote/ref/page/cell | applies to | confidence | signer review required | packet destination | missing action |
+
+Required master fields:
+
+* legal organization name
+* DBA / CI Institute of Nursing name
+* NATP license / approval evidence
+* business entity type
+* tax ID / FEIN, if present
+* mailing address
+* physical/training address
+* recordkeeping address
+* phone
+* email
+* website
+* authorized signer name
+* authorized signer title
+* signer authority evidence
+* program director
+* registrar/admin contact
+* compliance contact
+* CE coordinator
+* recordkeeping custodian
+* instructor names
+* instructor credentials/licenses
+* instructor CV/resume source files
+* course titles
+* course hours/contact hours
+* delivery method
+* course objectives
+* timed outlines
+* assessment / quiz / final exam method
+* evaluation method
+* certificate template
+* retention policy
+* refund/cancellation policy
+* LMS/reviewer access information
+* identity verification workflow
+* active-time / attendance workflow
+* public claim language
+* payment/fee evidence
+
+No-invention rule:
+Do not invent missing data.
+Do not infer signer authority.
+Do not infer approval numbers.
+Do not infer certificate wording.
+Do not infer instructor license numbers.
+Do not infer FEIN/tax ID.
+Do not infer regulator correspondence details beyond official form instructions.
+Do not make TJ Padilla operational.
+
+Use these exact placeholders:
+[[MISSING: legal applicant name]]
+[[MISSING: authorized signer name]]
+[[MISSING: authorized signer title]]
+[[MISSING: signer authority evidence]]
+[[MISSING: NATP license number]]
+[[MISSING: CDPH CE provider approval]]
+[[MISSING: CDPH NAC number]]
+[[MISSING: CDPH course approval]]
+[[MISSING: CDSS vendor number]]
+[[MISSING: CDSS course approval number]]
+[[MISSING: BRN CEP number]]
+[[MISSING: instructor CV]]
+[[MISSING: instructor license]]
+[[MISSING: final certificate wording]]
+[[MISSING: payment receipt]]
+[[MISSING: retention policy]]
+[[MISSING: course objective]]
+[[MISSING: timed outline]]
+[[MISSING: assessment method]]
+[[MISSING: SME approval]]
+[[REGULATOR VERIFICATION REQUIRED]]
+[[LEGAL/PRIVACY REVIEW REQUIRED]]
+[[NOT FOUND IN SOURCE FOLDER]]
+[[CONFLICT: signer must select correct value]]
+[[ROLE CONFLICT: TJ PADILLA AUTHOR ONLY - NOT OPERATIONS]]
+[[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+[[SUPERSEDED BY CORRECTED SUBMISSION VERSION]]
+
+Source precedence:
+
+1. Official regulator approval letter, issued license, signed filing, or regulator correspondence
+2. Existing approved institutional license / NATP approval source
+3. Signed internal policy or approved catalog/enrollment agreement
+4. Existing application draft forms
+5. Current course packet / developed curriculum
+6. Planning binder / notes
+
+If sources conflict, do not choose silently. Preserve all conflicting values and mark:
+[[CONFLICT: signer must select correct value]]
+
+Submission-only content filter:
+For every proposed output file, ask:
+“Is this required to complete, sign, attach, explain, or submit the application packet?”
+
+If no, do not create it.
+
+CNA / CDPH packet instructions:
+
+Create a complete 24-hour CNA CE application packet.
+
+Use output folder:
+
+CNA-Recert-Course_CNA_Recert\04_CDPH_APPLICATION_PACKET
+
+Build only submission-required materials:
+
+* CDPH application/form field map
+* 24-hour course matrix
+* Part 1 / Part 2 map only if source-backed or needed for application clarity
+* course titles
+* course objectives
+* timed outlines
+* instructor map
+* assessment / final test map
+* completion/certificate map
+* learner-facing disclosure language only if required for application/certificate/advertising
+* record-retention evidence
+* LMS/attendance/active-time evidence if online approval requires it
+* certificate draft if required
+* packet cover sheet
+* signer checklist
+* mailing/submission checklist
+
+CNA hard rules:
+
+* Scope is 24 hours total unless source documents prove otherwise.
+* Do not call this a 48-hour full renewal package.
+* Do not state the learner has completed all CNA renewal requirements unless source-backed and regulator-safe.
+* If online CE is used, keep the 24-hour online cap issue clear and defensible.
+* Do not use NATP approval as automatic proof of CE provider approval.
+* CDPH 283A / 283C may be included as renewal-support references, but do not treat learner renewal forms as the CE provider application.
+* If the filing path is online CE, require source-backed reviewer access, identity control, interactivity, timed participation, final attestation/affidavit, certificate release control, and retention evidence.
+* If the filing path is classroom/in-person CE, require source-backed lesson plans, instructor qualifications, sign-in/attendance method, certificate sample, and retention evidence.
+* If filing path is unclear, do not create multiple full packets. Create one packet with a path-decision clarification item.
+
+Course development rule for CNA:
+First try to reuse existing developed source courses.
+If a required CNA course is missing, incomplete, or noncompliant, create only the minimum corrected SME-review course packet required for submission:
+
+* course title
+* hour value
+* target audience
+* measurable objectives
+* timed outline
+* instructional method
+* learner engagement method
+* assessment method
+* certificate/completion evidence
+* references/source basis
+* SME approval block
+
+Mark all newly drafted or materially repaired course content:
+[[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+RCFE / CDSS packet instructions:
+
+Create a complete RCFE CETP application packet.
+
+Use output folder:
+
+CNA-Recert-Course_RCFE CETP\04_CDSS_APPLICATION_PACKET
+
+Build only submission-required materials:
+
+* LIC 9141 Vendor Application/Renewal packet
+* LIC 9140 course approval packet for each course
+* LIC 9140A instructor add/replace packet only if needed
+* LIC 9139 course renewal packet only if source shows renewal of previously approved courses
+* LIC 9142A roster workflow only as required operational/reporting support
+* course schedule notification workflow only if required for submission/readiness
+* fee/payment checklist
+* Core of Knowledge mapping
+* course catalog
+* instructor qualification packet
+* certificate template
+* attendance/participation verification workflow
+* evaluation method
+* recordkeeping workflow
+* packet cover sheet
+* signer checklist
+* mailing/submission checklist
+
+RCFE hard rules:
+
+* LIC 9141 is vendor-level.
+* LIC 9140 is course-level.
+* Create one LIC 9140 packet per course unless source documents clearly support grouping.
+* Do not invent CDSS vendor numbers or course approval numbers.
+* If courses are already developed, use the developed course files.
+* Do not create duplicate LIC 9140 packets for the same course.
+* If “LIC 940” appears in notes, treat it as likely LIC 9140 unless the source file clearly identifies an actual form. Flag the ambiguity in the clarification summary.
+
+For each LIC 9140 course packet include:
+
+* course title
+* hours
+* Core of Knowledge category
+* course description
+* measurable objectives
+* timed outline
+* instructional method
+* instructor(s)
+* instructor qualifications
+* assessment/evaluation method
+* source references
+* delivery method
+* certificate/proof of completion
+* records retained
+* required attachments
+* SME approval block only if new or repaired content was created
+
+Course development rule for RCFE:
+First try to reuse existing developed source courses.
+If a required RCFE course is missing, incomplete, or noncompliant, create only the minimum corrected SME-review course packet required for submission and mark:
+[[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+BRN / Case Management CE packet instructions:
+
+Create a complete BRN CEP application packet for Case Management CE.
+
+Use output folder:
+
+CNA-Recert-Course_BRN CEP Care Manager CE Application - Optional\04_BRN_APPLICATION_PACKET
+
+Build only submission-required materials:
+
+* BRN CEP application field map
+* representative course packet
+* course information form support
+* instructor information form support
+* instructor CV/license source map
+* flyer/brochure draft
+* sample certificate draft
+* contact-hour calculation map
+* independent/home-study methodology only if applicable
+* attendance/proof-of-completion workflow
+* refund policy
+* cancellation policy
+* refund timeline policy
+* record-retention policy
+* payment checklist
+* packet cover sheet
+* signer checklist
+* mailing/submission checklist
+
+BRN hard rules:
+
+* Use “contact hours,” not generic “CEUs,” in BRN-facing materials unless explaining conversion.
+* BRN approves continuing education providers, not individual courses.
+* Do not claim BRN approval before approval exists.
+* Do not claim BRN approval satisfies CCMC, ACMA, NASW, or another case-management credential unless source-backed.
+* Do not create extra case-management courses if a compliant representative course already exists.
+
+Case Management course development rule:
+First try to reuse the representative case-management course in the source folders.
+If missing, incomplete, or noncompliant, draft one minimum complete SME-review representative course packet:
+
+* course title
+* target audience
+* RN/case-management relevance
+* contact-hour value
+* contact-hour calculation method
+* behavioral objectives
+* detailed timed outline
+* teaching methods
+* evaluation method
+* assessment/completion method
+* instructor requirements
+* source references
+* sample flyer copy
+* sample certificate wording placeholder
+* SME approval block
+
+Mark:
+[[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+Forms completion requirement:
+Fill out forms as completely as possible from source documents.
+
+For every form:
+
+* Do not leave silent blanks.
+* If a field can be filled from source, fill it.
+* If a field cannot be filled from source after thorough search, use the exact placeholder.
+* If a field does not apply, write “N/A” only when defensible.
+* If a field is uncertain, use [[REGULATOR VERIFICATION REQUIRED]] and explain in the clarification summary.
+* Each completed form must have a companion field map showing the source for each filled value.
+* If instructor info is expected but not found, search all source folders before marking missing.
+* If the source folder includes instructor info, use it and map the source.
+
+PDF form handling:
+If official fillable PDF form completion is possible:
+
+* create filled PDF drafts in the relevant application packet folder
+* preserve original blank forms
+* create a field map for each PDF
+
+If PDF form filling is not possible:
+
+* create a fully completed markdown or DOCX-style prefill worksheet mirroring the official form fields exactly
+* mark it:
+  “Signer Review Draft - Transfer to Official Form”
+
+Do not create both a filled PDF and a redundant worksheet unless the worksheet is required as the source field map.
+
+Signer-ready requirement:
+The final packet should be capable of being signed and mailed/submitted today if:
+
+* no required fields remain missing
+* signer confirms source values
+* SME approves any newly drafted or repaired course content
+* regulator-specific submission method is confirmed
+* payment/checks are ready
+
+Clarification summary requirement:
+Create this file for each packet:
+
+07_CLARIFICATION_SUMMARY.md
+
+Each clarification summary must include:
+
+1. Items preventing signature today
+2. Items preventing mailing/submission today
+3. Items needing SME approval
+4. Items needing signer confirmation
+5. Items needing legal/privacy review
+6. Items needing regulator verification
+7. Fields where source documents conflicted
+8. Any TJ Padilla role contamination
+9. Any certificate wording risks
+10. Any public-claim/marketing risks
+11. Any duplicate or superseded work identified
+12. Whether packet status is:
+
+* READY FOR SIGNATURE TODAY
+* READY FOR MAILING/SUBMISSION TODAY
+* SIGNATURE READY AFTER CORRECTIONS
+* NOT READY FOR SIGNATURE
+* NOT READY FOR SUBMISSION
+
+Master clarification summary:
+Create:
+
+CNA-Recert-Course_APPLICATION_CLARIFICATION_SUMMARY.md
+
+Include:
+
+* CNA/CDPH readiness
+* RCFE/CDSS readiness
+* BRN readiness
+* missing source values
+* corrections required before signing
+* corrections required before mailing/submission
+* SME approval queue
+* signer queue
+* packet mailing/submission method
+* payment readiness
+* duplicate-work findings
+* TJ Padilla author-only verification
+
+Authoring note:
+Create:
+
+CNA-Recert-Course_APPLICATION_AUTHORING_NOTE_TJ_PADILLA.md
+
+Include this exact rule:
+
+“TJ Padilla is the project binder author/compiler only. TJ Padilla is not the applicant, operator, authorized signer, program director, administrator, CE coordinator, instructor, recordkeeping custodian, or operational contact for any regulator application. TJ Padilla may appear only on binder cover pages and footers as author/compiler/version-control attribution.”
+
+QA checks:
+Before final output, run a text search across generated packet files for:
+
+* TJ Padilla
+* T.J. Padilla
+* Teejay Padilla
+* Teej Padilla
+* Robert Padilla
+* Robert “TJ” Padilla
+* R. Padilla
+
+For each hit, verify it is only on cover/footer/author note.
+If not, move it to the clarification summary as a role conflict and correct the operational field.
+
+Run a duplication QA check:
+
+* identify repeated course packets
+* identify repeated field maps
+* identify repeated certificate drafts
+* identify repeated missing-items lists
+* identify files with overlapping purpose
+* confirm each application-required item has one primary packet location
+* mark superseded items in _APPLICATION_DUPLICATION_REVIEW.md
+
+Final output required:
+Print a final report with:
+
+1. Repo and branch verified
+2. Source folders reviewed
+3. Number of source files inventoried
+4. Number of existing packet files reused
+5. Number of duplicate/superseded items identified
+6. Number of forms filled or prefilled
+7. Number of courses reused from developed source files
+8. Number of courses newly drafted or repaired for SME approval
+9. Packet readiness table
+10. Clarification summary table
+11. Signature-ready status by packet
+12. Mailing/submission-ready status by packet
+13. Remaining blockers by owner
+14. TJ Padilla author-only QA result
+15. Duplicate-work QA result
+
+Do not say “complete for submission” unless the clarification summary shows no blockers.
+If blockers remain, say exactly what must be corrected so the packet can be signed and mailed/submitted.

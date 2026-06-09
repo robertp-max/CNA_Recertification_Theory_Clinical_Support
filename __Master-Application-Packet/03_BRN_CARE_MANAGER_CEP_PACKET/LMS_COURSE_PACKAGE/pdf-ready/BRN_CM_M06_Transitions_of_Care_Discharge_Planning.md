@@ -1,0 +1,169 @@
+# BRN Case Management CE Package - Draft / Pending BRN CEP Approval
+
+## Transitions of Care, Discharge Planning, and Community Resources
+
+**Provider (from master packet):** CI Institute of Nursing, Inc. — 419 E. Hamilton Ave., Campbell, CA 95008 — 650-449-6706 — humanresources@ci-ion.com — https://www.ci-ion.com
+
+> "Pending California Board of Registered Nursing Continuing Education Provider approval. Do not advertise, issue certificates, or represent this course as approved until a BRN CEP number has been issued."
+
+*This document follows a CCCCO-style documentation *organization* only (structured overview, objectives, content outline, activities, facilitator notes, assessment mapping, compliance support). No CCCCO content is copied; all content is original and customized for California BRN Case Management CE.*
+
+### Module At a Glance
+
+| Field | Value |
+| --- | --- |
+| Module ID | CM-M06 |
+| Module title | Transitions of Care, Discharge Planning, and Community Resources |
+| Parent course | RN Case Management in Home Health: Care Coordination, Documentation, Patient Advocacy, and Safe Transitions of Care |
+| Contact hours | 3 (draft design math) |
+| Estimated learner minutes | 170 (>=150 floor) |
+| Direct/indirect linkage | Direct patient/client care |
+| Approval status | Draft / Pending BRN CEP Approval |
+
+### BRN Relevance Rationale
+
+Effective discharge planning and warm handoffs reduce avoidable readmissions and patient harm.
+
+### Module Description
+
+Builds competency in transition risk assessment, discharge-plan construction, teach-back verification, and matching community resources to identified needs.
+
+### Measurable Learning Objectives
+
+By the end of this module the learner will be able to:
+
+1. Build a discharge/transition plan addressing meds, follow-up, equipment, and caregiver needs.
+2. Apply teach-back to confirm patient/caregiver understanding.
+3. Match at least three community resources to identified needs.
+4. Identify red-flag gaps that should delay or modify a transition.
+
+### Required Readings / Learning Content Sections
+
+- Reading 6.1 - Transition risk and readmission drivers.
+- Reading 6.2 - Discharge-plan components.
+- Reading 6.3 - Teach-back and caregiver readiness.
+- Reading 6.4 - Community resources and referrals.
+
+### Detailed Lesson Outline
+
+| Lesson ID | Lesson | Est. minutes |
+| --- | --- | --- |
+| CM-M06-L1 | Transition risk & readmission drivers | 35 |
+| CM-M06-L2 | Discharge-plan components | 40 |
+| CM-M06-L3 | Teach-back & caregiver readiness | 35 |
+| CM-M06-L4 | Community resources & referrals | 35 |
+| CM-M06-KC | Knowledge check + discharge plan | 25 |
+
+Total estimated instructional minutes: **170** (meets the >=150-minute / 3-contact-hour floor).
+
+### Key Terms
+
+| Term | Definition |
+| --- | --- |
+| Teach-back | Having the patient/caregiver restate or demonstrate instructions to confirm understanding. |
+| Readmission driver | A factor that increases the chance of returning to acute care. |
+| Warm handoff | A transfer of care conducted in real time with the patient present. |
+| Caregiver readiness | The caregiver's ability and resources to safely support the patient. |
+| Red-flag gap | A safety gap serious enough to delay or modify a transition. |
+
+### Fictional / De-identified Case Scenario
+
+*All clinical content is fictional and de-identified. No PHI.* A fictional client is going home with new oxygen equipment; the only caregiver works full time and has not been trained on the equipment.
+
+### Learner Activities
+
+- Read Sections 6.1-6.4.
+- Identify the red-flag gap(s) in the scenario.
+- Match at least three community resources to needs.
+- Complete the Discharge/Transition Plan and Knowledge Check 6.
+
+### Documentation / Decision-Making Exercise
+
+Complete a Discharge/Transition Plan template (meds, follow-up, equipment, caregiver support, community resources) including a teach-back confirmation line.
+
+### Knowledge Check Blueprint
+
+10 items, unlimited attempts, immediate feedback, no full key, >=80% to complete.
+
+### Assessment Items (Learner-Facing Stems)
+
+**KC6-Q1 (MCQ).** Which best confirms a caregiver understands new equipment instructions?
+- A) Ask 'Do you understand?'
+- B) Teach-back demonstration
+- C) Hand them a pamphlet
+- D) Assume understanding
+
+**KC6-Q2 (MCQ).** In the scenario, the untrained full-time caregiver is best treated as a:
+- A) Reason to cancel care
+- B) Red-flag gap to address before/at transition
+- C) Billing problem
+- D) Non-issue
+
+**KC6-Q3 (Multi-select).** Core components of a discharge plan include: (select all)
+- A) Medication reconciliation
+- B) Follow-up appointments
+- C) Equipment/supplies
+- D) Caregiver support
+
+### LMS Completion Criteria
+
+- All lesson pages viewed (activity completion: require view).
+- CM-M06 knowledge check passed at >=80% (require passing grade).
+- Documentation/decision exercise submitted (require submission).
+
+### Evidence Generated by Learner Completion
+
+- Activity-completion timestamps (time-on-task evidence).
+- Knowledge-check score and attempt log.
+- Submitted exercise artifact (retained >=4 years; no PHI).
+
+### Moodle Activity Recommendations
+
+- Page
+- Book
+- Database (resources)
+- Quiz (KC6)
+- Assignment (plan)
+
+### Accessibility Considerations
+
+- Captions + transcripts for any media; semantic headings; alt text on diagrams.
+- Sufficient color contrast; no color-only meaning; keyboard-navigable activities.
+- Accessible downloadable templates (tagged PDF + DOCX); extended-time accommodation supported.
+- Target WCAG 2.1 AA on the built course.
+
+### PHI / Privacy Guardrails
+
+- All cases fictional and de-identified; no real patient/resident/family/facility data.
+- Resource directory uses fictional/generic resource types; no real client data.
+- Submission reminders and (for capstone) attestation + manual PHI review.
+
+### SME Review Flags
+
+- [[SME REVIEW REQUIRED]] Validate teach-back technique and resource categories.
+
+### Compliance Review Flags
+
+- [[COMPLIANCE REVIEW]] Resource directory uses fictional/generic resource types; no real client data.
+
+### Internal Answer Key Appendix (ADMIN / FACULTY ONLY - DO NOT SHOW LEARNERS)
+
+| Item ID | Type | Correct answer | Rationale | Remediation |
+| --- | --- | --- | --- | --- |
+| KC6-Q1 | MCQ | B | Teach-back verifies understanding; yes/no questions do not. | Review Reading 6.3 (teach-back). |
+| KC6-Q2 | MCQ | B | It is a safety gap that must be addressed to ensure a safe transition. | Review Reading 6.1/6.3. |
+| KC6-Q3 | Multi-select | A, B, C, D | All four are core discharge-plan components. | Review Reading 6.2. |
+
+### Debrief / Remediation Guidance
+
+Emphasize that an unaddressed caregiver-training gap is a classic readmission driver; teach-back and resource matching close it. Failed attempts route to Reading 6.2/6.3.
+
+### Application-Packet Defensibility Notes
+
+Discharge planning to prevent readmission harm is direct patient care and a recognized BRN-relevant topic.
+
+> **Scope-change flag:** The master packet currently documents a 4-contact-hour representative course. This module is part of a new 30-contact-hour design that is Draft / Needs SME approval and is not yet reflected in the official BRN contact-hour map or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+
+---
+
+*Do not advertise, issue certificates, or represent this course as BRN-approved until the official BRN CEP approval and provider number are issued.*

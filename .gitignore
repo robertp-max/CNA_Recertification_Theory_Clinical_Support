@@ -20,3 +20,5 @@
 *.mbz
 *certificate*.pdf
 *Certificate*.pdf
+__pycache__/
+*.pyc
