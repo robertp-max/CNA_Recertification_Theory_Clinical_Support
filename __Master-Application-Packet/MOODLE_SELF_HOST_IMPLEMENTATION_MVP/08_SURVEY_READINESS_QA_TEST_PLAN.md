@@ -22,7 +22,7 @@ Status: Draft / Pending Approval. Each test case: ID | purpose | steps | expecte
 | RV-01 | Reviewer access without edit rights | Log in as reviewer | Read-only; no edit/grade/enroll/cert controls | screenshot | critical |  |
 | PH-02 | No PHI in activities | Review submissions/prompts | Only fictional/de-identified content present | review note | high |  |
 | AP-01 | No approval claim present | Scan course text/certificates | No statement implying issued approval | scan note | critical |  |
-| BR-LANG-01 | No stale BRN 4-hour language | Search BRN content for "4 contact hours"/"4-contact-hour" | None found (contact hours only) | search result | critical |  |
+| BR-LANG-01 | No stale BRN 4-hour language | Search BRN content for obsolete four-hour BRN wording | None found (contact hours only) | search result | critical |  |
 | ST-CNA-01 | CNA structure correct | Verify 12 units, 2 hrs each, Year1/Year2 | Matches 12x2=24 online CE | screenshot | high |  |
 | ST-RCFE-01 | RCFE structure correct | Verify 9 courses / 27 hours | Matches filed LIC 9140 set | screenshot | high |  |
 | ST-BRN-01 | BRN structure correct | Verify 10 modules x 3 + capstone | Matches 30 contact hours | screenshot | high |  |
