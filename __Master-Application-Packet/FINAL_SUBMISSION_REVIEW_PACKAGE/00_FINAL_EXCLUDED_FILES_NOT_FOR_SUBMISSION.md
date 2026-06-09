@@ -4,7 +4,10 @@ Prepared: June 09, 2026
 
 The following exist in the working packet root but are intentionally EXCLUDED from FINAL_SUBMISSION_REVIEW_PACKAGE because they are not signer/submission-review deliverables:
 
-- pdf_reference_only.pdf (visual style reference only)
+- pdf_reference_only.pdf (visual style reference only - not a submission deliverable)
+- TEMPLATE MUST USE.pdf (mandated design template, if present; reference only - not a submission deliverable. Note: this file was not found in the repository at build time; the rebuild followed the explicit prompt structure plus pdf_reference_only.pdf for visual language.)
+- RCFE_Admin_Renewal_CE_Package/ (separate 40-hour / 12-module RCFE administrator-renewal LMS concept - future expansion; NOT part of the filed 9 LIC 9140 / 27-hour set; no matching updated LIC 9140 forms)
+- CNA M00-M07 ContentV2 (superseded 12-hour content; not the controlling source for the 24-hour Modules 10-17 submission)
 - Master_Prompt (internal instruction file)
 - Application_Packets_Research.md (internal research)
 - BRANDED_PDF_OUTPUTS/ and all per-lane BRANDED_PDF_OUTPUTS/ folders (superseded one-page branded PDFs)

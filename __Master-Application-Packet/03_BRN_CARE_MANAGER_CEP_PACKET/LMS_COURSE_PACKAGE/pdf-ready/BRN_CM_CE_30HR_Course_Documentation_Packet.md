@@ -10,7 +10,7 @@
 
 *This document follows a CCCCO-style documentation *organization* only (structured overview, objectives, content outline, activities, facilitator notes, assessment mapping, compliance support). No CCCCO content is copied; all content is original and customized for California BRN Case Management CE.*
 
-> **Scope-change flag (read first):** The master application packet documents a single **4-contact-hour** representative course. This packet documents a **new 30-contact-hour** course design. The 30-hour design is **Draft / Needs SME approval** and is **not yet reflected** in the official BRN contact-hour map or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+> **Program-structure note (read first):** The BRN / CEP lane is a **30-contact-hour, 10-module** RN case management program (10 modules x 3 contact hours each; 50 instructional minutes = 1 contact hour; minimum **1,500 instructional minutes**, 1,680 design minutes). The official BRN contact-hour map and transfer worksheet are aligned to this 30-contact-hour structure. Any earlier 4-contact-hour representative course is **superseded** and is **not part of the current BRN CEP signer-review package**. Approval posture: pending BRN CEP approval (provider approval, not course-by-course approval). [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
 
 ### 1. Course Overview
 
@@ -205,7 +205,7 @@ Delivered as a Moodle Feedback activity; required for completion.
 
 ### 15. Open Items Requiring Confirmation Before Submission
 
-1. **Scope reconciliation:** packet documents a 4-hour live webinar; this design is 30-hour online self-paced. Reconcile and update the official BRN contact-hour map + transfer worksheet. [[SME REVIEW REQUIRED]]
+1. **Offering-type reconciliation:** contact hours are reconciled at 30 contact hours across the official BRN contact-hour map, transfer worksheet, and this design. Delivery mode still differs (worksheet: live webinar / live-stream; this design: online self-paced); confirm the intended delivery mode before submission. [[SME REVIEW REQUIRED]]
 2. **Offering type / independent-study:** confirm BRN independent-study methodology requirements if delivered online self-paced.
 3. **Instructor evidence (Vanessa Valerio, RN 788389):** license expiration, education, experience, teaching experience, adult-education info - all **Needs confirmation**.
 4. **SME of record for the expanded 30-hour scope** (especially CM-M07/CM-M08) - **Needs confirmation**.

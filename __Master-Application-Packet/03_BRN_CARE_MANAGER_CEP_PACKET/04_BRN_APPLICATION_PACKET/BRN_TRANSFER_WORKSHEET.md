@@ -27,17 +27,17 @@ Status: DOCUMENTATION COMPLETE - READY FOR OFFICIAL FORM TRANSFER/SIGNATURE
 | BRN course-information field | Value prepared for transfer | Source / basis | Final execution item |
 | --- | --- | --- | --- |
 | Provider/Business Name | CI Institute of Nursing | Shared source bundle | None |
-| Title | RN Case Management Foundations: Care Coordination, Transitions, Documentation, and Ethical Practice | Representative course packet | None |
+| Title | RN Case Management in Home Health: Care Coordination, Documentation, Patient Advocacy, and Safe Transitions of Care | 30-contact-hour, 10-module course documentation packet | None |
 | Date(s) to be Offered | Final schedule verification required | Scheduling item | Final verification only |
-| Objectives (Behavioral Terminology) | See representative course packet objectives section | Prepared packet | None |
-| Overview/Description | See representative course packet course-identity and relevance section | Prepared packet | None |
-| Type of Offering | Live webinar / live-stream instructor-led session | Representative course packet | None |
-| Teaching Methods | See representative course packet teaching-methods section | Prepared packet | None |
-| Number of Contact Hours | 4 contact hours | Representative course packet | None |
+| Objectives (Behavioral Terminology) | See 30-contact-hour program objectives / 10-module course documentation packet | 30-contact-hour course documentation packet | None |
+| Overview/Description | See 30-contact-hour program overview | 30-contact-hour course documentation packet | None |
+| Type of Offering | Live webinar / live-stream instructor-led session | 30-contact-hour course documentation packet | None |
+| Teaching Methods | See 30-contact-hour course documentation packet teaching-methods section | 30-contact-hour course documentation packet | None |
+| Number of Contact Hours | 30 contact hours (10 modules x 3 contact hours; 50 instructional minutes = 1 contact hour; minimum 1,500 instructional minutes, 1,680 design minutes) | 30-contact-hour course documentation packet | None |
 | Independent-study methodology | N/A - not an independent/home-study course | Prepared packet | None |
-| Content (Outline Form) | See representative course packet timed outline | Prepared packet | None |
+| Content (Outline Form) | See 10-module timed outline | 30-contact-hour course documentation packet | None |
 | Overview of how Implicit Bias is incorporated into Content | Course emphasizes reflective review of communication, documentation, escalation, and social-determinant concerns that can surface implicit bias in care coordination. | Drafted representative course packet | Final verification only |
-| Method of Evaluation when Required | End-of-course evaluation plus completion attestation | Representative course packet | None |
+| Method of Evaluation when Required | End-of-course evaluation, module knowledge checks, and cumulative final assessment per the 30-contact-hour program | 30-contact-hour course documentation packet | None |
 
 ## Instructor Information
 

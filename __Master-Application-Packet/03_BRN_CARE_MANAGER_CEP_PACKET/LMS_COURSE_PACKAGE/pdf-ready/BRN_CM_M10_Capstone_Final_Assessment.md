@@ -159,7 +159,7 @@ Faculty debrief uses the rubric to give criterion-level feedback (no answer key)
 
 Demonstrates integrated nurse-led care management and verifies competency, supporting the course's overall BRN relevance and rigor.
 
-> **Scope-change flag:** The master packet currently documents a 4-contact-hour representative course. This module is part of a new 30-contact-hour design that is Draft / Needs SME approval and is not yet reflected in the official BRN contact-hour map or transfer worksheet. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
+> **Program-structure note:** This module is part of the 30-contact-hour, 10-module RN case management program (10 modules x 3 contact hours; 50 instructional minutes = 1 contact hour; minimum 1,500 instructional minutes, 1,680 design minutes). The official BRN contact-hour map and transfer worksheet are aligned to this 30-contact-hour structure. Any earlier 4-contact-hour representative course is superseded and is not part of the current BRN CEP signer-review package. [[SME REVIEW REQUIRED BEFORE SUBMISSION]]
 
 ---
 
