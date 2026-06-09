@@ -1,0 +1,1626 @@
+// CNA / CDPH Online CE - Moodle Quiz Bank (Units U01-U12 + Final; source Modules 10-17)
+// Generated Moodle MVP implementation artifact. SME review required before production use.
+// No PHI; fictional de-identified scenarios only.
+
+$CATEGORY: $course$/CNA/U01
+
+// question: CNA-U01-Q01
+::CNA-U01-Q01::
+What is the primary reason a nurse assistant measures and records a resident's vital signs? {
+~To diagnose new medical conditions independently
+=To provide objective baseline and change data the licensed nurse uses to monitor the resident
+~To decide which medications the resident should receive
+~To replace the need for nurse assessment
+#### Nurse assistants collect and report objective data; diagnosis and medication decisions are outside the CNA scope.
+}
+
+// question: CNA-U01-Q02
+::CNA-U01-Q02::
+Which set best represents the four standard vital signs? {
+=Temperature, pulse, respirations, blood pressure
+~Height, weight, intake, output
+~Pain, mood, appetite, sleep
+~Pulse, oxygen tank level, room temperature, weight
+#### The four standard vital signs are temperature, pulse, respirations, and blood pressure; pain is often documented as a fifth measure.
+}
+
+// question: CNA-U01-Q03
+::CNA-U01-Q03::
+A resident's measured value falls outside the range your facility lists as expected for that resident. What is the nurse assistant's correct action? {
+~Adjust the resident's care plan
+=Record the value and promptly report it to the licensed nurse
+~Repeat the measurement until it reads normal
+~Tell the resident not to worry
+#### CNAs accurately record and promptly report out-of-range values; they do not alter care plans or hide abnormal findings.
+}
+
+// question: CNA-U01-Q04
+::CNA-U01-Q04::
+The term 'afebrile' most accurately means the resident\: {
+~Has an elevated temperature
+=Has no fever
+~Has a rapid pulse
+~Is dehydrated
+#### Afebrile means without fever; febrile means having a fever.
+}
+
+// question: CNA-U01-Q05
+::CNA-U01-Q05::
+Pain is a subjective experience, so the resident's own report is the most reliable indicator of pain. {T
+#### Pain is subjective; the resident's self-report is the standard, supplemented by observation when the resident cannot communicate.}
+
+// question: CNA-U01-Q06
+::CNA-U01-Q06::
+Before measuring an oral temperature, which recent activity would most likely require waiting before measuring? {
+~The resident watched television
+=The resident drank hot coffee a few minutes ago
+~The resident read a book
+~The resident spoke with a visitor
+#### Hot or cold liquids can alter oral temperature; waiting improves accuracy.
+}
+
+// question: CNA-U01-Q07
+::CNA-U01-Q07::
+Scenario\: A resident grimaces, guards one arm, and is reluctant to move during care, but says 'I'm fine.' Based on your CNA scope, what is the best action? {
+~Document only the words 'I'm fine' and continue
+=Note both the resident's statement and the observed nonverbal signs, and report the discrepancy to the licensed nurse
+~Tell the resident they must be in pain
+~Give the resident an over-the-counter pain reliever
+#### Objective nonverbal signs are reportable observations; CNAs document what they see and hear and report to the nurse, and never administer medication outside scope.
+}
+
+// question: CNA-U01-Q08
+::CNA-U01-Q08::
+Which of the following are objective observations a nurse assistant can measure or directly observe? (Select all that apply.) {
+~%50.0%Skin color and warmth
+~%-50.0%The resident's medical diagnosis
+~%50.0%Pulse rate
+~%-50.0%The resident's stated worry about family
+}
+
+// question: CNA-U01-Q09
+::CNA-U01-Q09::
+Which statement about documenting vital signs is correct? {
+~Record values from memory at end of shift
+=Record values accurately and promptly, with the time taken
+~Round values to make them look normal
+~Only record values that seem abnormal
+#### Accurate, timely documentation with the time of measurement supports safe care and audit-ready records.
+}
+
+// question: CNA-U01-Q10
+::CNA-U01-Q10::
+When a resident cannot verbally report pain, the nurse assistant should rely most on\: {
+~Assuming the resident has no pain
+=Observed behaviors such as facial expression, guarding, restlessness, and changes from baseline
+~The resident's diagnosis only
+~Waiting until the next shift
+#### Behavioral and nonverbal cues, compared to the resident's baseline, guide observation and reporting when self-report is not possible.
+}
+
+$CATEGORY: $course$/CNA/U02
+
+// question: CNA-U02-Q01
+::CNA-U02-Q01::
+When counting a resting radial pulse, which practice best supports an accurate count? {
+~Count for 5 seconds and multiply by 12
+=Count for a full 30-60 seconds, noting rate, rhythm, and strength
+~Count only if the resident reports feeling unwell
+~Estimate based on how the resident looks
+#### Counting for a longer interval and noting rhythm and strength improves accuracy, especially with irregular pulses.
+}
+
+// question: CNA-U02-Q02
+::CNA-U02-Q02::
+To count respirations accurately, the nurse assistant should\: {
+~Tell the resident you are counting their breathing
+=Count discreetly, often right after the pulse, so the resident does not consciously change breathing
+~Ask the resident to breathe deeply while counting
+~Count only the inhalations during exercise
+#### Counting discreetly avoids voluntary changes in breathing; one rise and fall equals one respiration.
+}
+
+// question: CNA-U02-Q03
+::CNA-U02-Q03::
+Which finding about a resident's pulse should be reported promptly to the licensed nurse? {
+~A regular rhythm at the resident's usual rate
+=A new irregular rhythm or a rate well outside the resident's baseline
+~The resident resting quietly
+~A pulse taken after the resident sat down
+#### New irregularity or a significant change from baseline is a reportable change in condition.
+}
+
+// question: CNA-U02-Q04
+::CNA-U02-Q04::
+A blood pressure reading is written as systolic over diastolic (for example, the top number over the bottom number). {T
+#### Blood pressure is recorded as systolic/diastolic; the CNA records and reports the value to the nurse.}
+
+// question: CNA-U02-Q05
+::CNA-U02-Q05::
+Which factor can falsely raise a blood pressure reading? {
+~Resting quietly for several minutes first
+~Using a cuff that is the correct size
+=Measuring immediately after the resident hurried to the room or is anxious
+~Supporting the arm at heart level
+#### Recent activity and anxiety can elevate readings; correct technique reduces error.
+}
+
+// question: CNA-U02-Q06
+::CNA-U02-Q06::
+The term 'dyspnea' refers to\: {
+~Normal easy breathing
+=Difficult or labored breathing
+~A slow heart rate
+~High blood pressure
+#### Dyspnea means difficult or labored breathing and should be reported.
+}
+
+// question: CNA-U02-Q07
+::CNA-U02-Q07::
+Scenario\: While taking vital signs, you notice the resident's breathing is labored and faster than usual, and their lips look slightly bluish. What is the best first action? {
+~Finish all other residents' vital signs first
+=Stay with the resident, ensure safety, and report the change to the licensed nurse immediately
+~Wait until the next scheduled check
+~Encourage the resident to walk it off
+#### Labored breathing with bluish color is a potential emergency; ensure safety and report immediately. Recognizing distress and escalating is within CNA scope.
+}
+
+// question: CNA-U02-Q08
+::CNA-U02-Q08::
+Which actions support accurate vital sign documentation and reporting? (Select all that apply.) {
+~%33.33333%Record the value and the time taken
+~%33.33333%Report values significantly different from baseline to the nurse
+~%-100.0%Wait until end of shift to recall all numbers
+~%33.33333%Use the resident's known baseline as a comparison
+}
+
+// question: CNA-U02-Q09
+::CNA-U02-Q09::
+A resting adult respiratory rate that is much faster than the resident's usual baseline is best described as a\: {
+~Normal finding requiring no action
+=Change in condition that should be reported
+~Sign the resident is healthy
+~Reason to stop monitoring
+#### A significant change from baseline is reportable as a change in condition.
+}
+
+// question: CNA-U02-Q10
+::CNA-U02-Q10::
+If a resident refuses to let you take their blood pressure, the nurse assistant should\: {
+~Take it anyway because it is required
+=Respect the refusal, document it, and report to the licensed nurse
+~Ignore the missing reading
+~Tell the resident they will be discharged
+#### Residents have the right to refuse; the CNA documents the refusal and reports so the nurse can follow up.
+}
+
+$CATEGORY: $course$/CNA/U03
+
+// question: CNA-U03-Q01
+::CNA-U03-Q01::
+A resident is on a mechanical soft diet. The nurse assistant understands this diet is intended to\: {
+~Restrict all fluids
+=Provide foods that are easier to chew and swallow
+~Eliminate all protein
+~Increase choking risk
+#### A mechanical soft diet modifies texture to make chewing and swallowing safer and easier.
+}
+
+// question: CNA-U03-Q02
+::CNA-U03-Q02::
+Which positioning best reduces aspiration risk when assisting a resident to eat? {
+~Lying flat
+=Sitting upright at about 90 degrees
+~Reclined far back
+~Turned on the side
+#### An upright position supports safe swallowing and reduces aspiration risk.
+}
+
+// question: CNA-U03-Q03
+::CNA-U03-Q03::
+Which observation during a meal should be reported promptly as a possible swallowing problem? {
+~The resident enjoys the meal
+=Coughing, choking, or a wet/gurgly voice after swallowing
+~The resident drinks water
+~The resident finishes the plate
+#### Coughing, choking, or a wet voice can indicate dysphagia/aspiration risk and should be reported.
+}
+
+// question: CNA-U03-Q04
+::CNA-U03-Q04::
+Monitoring and reporting a resident's food and fluid intake is part of the nurse assistant's role. {T
+#### CNAs observe, record, and report intake; the nurse uses this data for nutrition and hydration monitoring.}
+
+// question: CNA-U03-Q05
+::CNA-U03-Q05::
+Which sign may indicate dehydration and should be reported? {
+~Moist lips and frequent urination
+=Dark concentrated urine, dry mouth, and reduced intake
+~Clear urine and good appetite
+~Stable weight
+#### Dark urine, dry mouth, and decreased intake are warning signs of dehydration to report.
+}
+
+// question: CNA-U03-Q06
+::CNA-U03-Q06::
+When feeding a resident who needs assistance, the nurse assistant should\: {
+~Rush so the food stays warm
+=Offer small bites, allow time to chew and swallow, and avoid talking that hurries the resident
+~Mix all foods together
+~Feed while the resident lies down
+#### Small bites and adequate time reduce choking risk and support dignity.
+}
+
+// question: CNA-U03-Q07
+::CNA-U03-Q07::
+Scenario\: A resident on thickened liquids asks you for a glass of regular water because they are thirsty. What is the best response? {
+~Give regular water since the resident asked
+=Explain you must check with the nurse, honor the prescribed thickened-liquid order, and report the request
+~Ignore the request
+~Tell the resident water is not allowed ever
+#### Thickened-liquid orders address aspiration risk; the CNA follows the order, reports the request, and lets the nurse address it. Honoring the resident's concern with dignity matters.
+}
+
+// question: CNA-U03-Q08
+::CNA-U03-Q08::
+Which measures help reduce aspiration risk during meals? (Select all that apply.) {
+~%33.33333%Upright positioning
+~%33.33333%Following the prescribed diet texture
+~%-100.0%Encouraging large rapid bites
+~%33.33333%Allowing time between bites
+}
+
+// question: CNA-U03-Q09
+::CNA-U03-Q09::
+A 'NPO' order most accurately means the resident\: {
+~May eat normally
+=Should have nothing by mouth
+~Needs extra fluids
+~Can have only liquids
+#### NPO means nothing by mouth; the CNA must follow the order and report any concerns.
+}
+
+// question: CNA-U03-Q10
+::CNA-U03-Q10::
+A resident eats only a small portion of meals over several days. The best CNA action is to\: {
+~Assume the resident is fine
+=Record the intake and report the ongoing poor intake to the licensed nurse
+~Force the resident to eat
+~Remove the resident's meals
+#### Documenting and reporting poor intake supports timely nutrition intervention by the nurse.
+}
+
+$CATEGORY: $course$/CNA/U04
+
+// question: CNA-U04-Q01
+::CNA-U04-Q01::
+A resident suddenly clutches their throat, cannot speak or cough, and looks panicked during a meal. This most likely indicates\: {
+~Mild throat irritation
+=A complete airway obstruction (severe choking) requiring immediate help
+~Normal eating behavior
+~A request for more food
+#### Inability to speak, cough, or breathe signals a severe airway obstruction needing immediate emergency response.
+}
+
+// question: CNA-U04-Q02
+::CNA-U04-Q02::
+When a resident is choking but can still cough forcefully and speak, the best initial action is to\: {
+~Perform abdominal thrusts immediately
+=Encourage the resident to keep coughing and stay with them while monitoring
+~Give the resident water
+~Leave to get a snack
+#### With a partial obstruction and effective cough, encourage coughing and monitor; intervene further only if it becomes severe, per facility protocol and training.
+}
+
+// question: CNA-U04-Q03
+::CNA-U04-Q03::
+In most facilities, the first step when you discover an emergency is to\: {
+~Leave the resident to find supplies
+=Call for help/activate the facility emergency response while staying with the resident
+~Document the event before acting
+~Move the resident to another room
+#### Calling for help and not leaving the resident are priorities; documentation follows the response.
+}
+
+// question: CNA-U04-Q04
+::CNA-U04-Q04::
+Nurse assistants should know their facility's emergency codes and their assigned role during an emergency. {T
+#### Knowing facility codes and one's role supports a safe, coordinated emergency response.}
+
+// question: CNA-U04-Q05
+::CNA-U04-Q05::
+A resident is found on the floor. After ensuring the scene is safe, the nurse assistant should first\: {
+~Lift the resident back to bed alone
+=Call for the nurse/help and avoid moving the resident until assessed, unless in immediate danger
+~Give the resident something to drink
+~Document and continue other duties
+#### Do not move a fallen resident before assessment unless immediate danger exists; call for the nurse to assess for injury.
+}
+
+// question: CNA-U04-Q06
+::CNA-U04-Q06::
+Which is an example of a general safety measure that helps prevent emergencies in long-term care? {
+~Leaving spills on the floor
+=Keeping call lights within reach and clearing walkways of hazards
+~Blocking exits with equipment
+~Ignoring frayed cords
+#### Accessible call lights and clear, hazard-free walkways reduce falls and other emergencies.
+}
+
+// question: CNA-U04-Q07
+::CNA-U04-Q07::
+Scenario\: During a fire alarm (facility 'Code Red'), you are with a resident who uses a wheelchair. What is the best action consistent with CNA scope and typical RACE principles? {
+~Use the elevator to evacuate quickly
+=Follow facility fire procedure\: ensure resident safety, contain/close doors as trained, and follow staff direction for evacuation
+~Run to safety first and return later
+~Open all windows
+#### Facility fire response (often summarized as Rescue, Alarm, Contain, Extinguish/Evacuate) prioritizes resident safety; elevators are typically not used in a fire.
+}
+
+// question: CNA-U04-Q08
+::CNA-U04-Q08::
+Which signs in a resident warrant immediate help and reporting as possible distress? (Select all that apply.) {
+~%33.33333%Sudden chest discomfort
+~%33.33333%Sudden inability to breathe or speak
+~%-100.0%Resting comfortably
+~%33.33333%New confusion or unresponsiveness
+}
+
+// question: CNA-U04-Q09
+::CNA-U04-Q09::
+After an emergency is over, the nurse assistant's documentation should\: {
+~Include guesses about the cause
+=Objectively record what was observed, the time, and actions taken, then report to the nurse
+~Be skipped to save time
+~Blame the resident
+#### Documentation should be objective, timely, and factual, supporting an audit-ready record.
+}
+
+// question: CNA-U04-Q10
+::CNA-U04-Q10::
+The main reason a nurse assistant should not exceed their training during an emergency is that\: {
+~It saves time
+=Acting outside trained scope can harm the resident and is not within CNA responsibilities
+~The nurse prefers it
+~It looks better on records
+#### Staying within trained scope protects residents; CNAs summon licensed help for actions beyond their role.
+}
+
+$CATEGORY: $course$/CNA/U05
+
+// question: CNA-U05-Q01
+::CNA-U05-Q01::
+Which statement about normal aging is most accurate? {
+~Confusion is a normal, expected part of aging
+=Some slowing of body systems is normal, but sudden confusion is not normal and should be reported
+~Aging always means total dependence
+~Older adults cannot learn new routines
+#### Gradual changes occur with aging, but acute confusion is a change in condition to report, not 'just aging.'
+}
+
+// question: CNA-U05-Q02
+::CNA-U05-Q02::
+As skin changes with age, residents are at higher risk for\: {
+~Faster wound healing
+=Skin breakdown and pressure injuries
+~Thicker, tougher skin
+~No change in skin
+#### Aging skin is thinner and more fragile, increasing risk of breakdown and pressure injuries.
+}
+
+// question: CNA-U05-Q03
+::CNA-U05-Q03::
+Which observation about a resident's skin should be reported promptly? {
+~Intact, warm, dry skin
+=A new reddened area over a bony prominence that does not fade
+~Normal skin color
+~Clean, moisturized skin
+#### Non-blanching redness over a bony area is an early pressure injury sign to report.
+}
+
+// question: CNA-U05-Q04
+::CNA-U05-Q04::
+Repositioning and good skin care help prevent pressure injuries in residents with limited mobility. {T
+#### Regular repositioning, skin care, and pressure relief are core prevention measures.}
+
+// question: CNA-U05-Q05
+::CNA-U05-Q05::
+A resident with reduced mobility is most at risk for which set of complications without preventive care? {
+=Pressure injuries, stiffness/contractures, and constipation
+~Improved circulation
+~Stronger muscles
+~Better appetite
+#### Immobility increases risk for pressure injuries, contractures, constipation, and other complications.
+}
+
+// question: CNA-U05-Q06
+::CNA-U05-Q06::
+Which approach best supports a resident with a chronic condition such as arthritis during care? {
+~Move the resident quickly to finish faster
+=Allow extra time, use gentle movements, and respect reports of pain
+~Ignore stiffness
+~Tell the resident pain is not real
+#### Gentle, paced care and respecting pain reports support comfort and dignity.
+}
+
+// question: CNA-U05-Q07
+::CNA-U05-Q07::
+Scenario\: A resident who is normally alert becomes suddenly drowsy and confused during your shift. What is the best action? {
+~Assume it is normal aging and continue
+=Report the sudden change to the licensed nurse promptly and monitor the resident's safety
+~Let the resident sleep and say nothing
+~Wait until the next day to mention it
+#### Sudden mental status change is a reportable change in condition that may signal an acute problem.
+}
+
+// question: CNA-U05-Q08
+::CNA-U05-Q08::
+Which are reportable changes in a long-term care resident? (Select all that apply.) {
+~%33.33333%New shortness of breath
+~%33.33333%Sudden change in mental status
+~%-100.0%Stable usual routine
+~%33.33333%New skin breakdown
+}
+
+// question: CNA-U05-Q09
+::CNA-U05-Q09::
+Promoting resident independence in activities of daily living means the nurse assistant should\: {
+~Do everything for the resident
+=Encourage and allow the resident to do what they safely can, assisting only as needed
+~Discourage the resident from trying
+~Rush the resident
+#### Supporting safe independence maintains function and dignity.
+}
+
+// question: CNA-U05-Q10
+::CNA-U05-Q10::
+Which body system change is commonly associated with aging? {
+~Increased bladder capacity
+=Decreased bone density, raising fracture risk
+~Faster reflexes
+~Improved night vision
+#### Decreased bone density (and slower reflexes, vision changes) commonly accompany aging and raise injury risk.
+}
+
+$CATEGORY: $course$/CNA/U06
+
+// question: CNA-U06-Q01
+::CNA-U06-Q01::
+When communicating with a resident who has dementia and is confused, the best approach is to\: {
+~Argue with the resident until they agree
+=Use a calm voice, simple words, and reassurance, approaching from the front
+~Speak quickly and use medical terms
+~Ignore the resident
+#### Calm, simple, reassuring communication and approaching from the front reduce fear and agitation.
+}
+
+// question: CNA-U06-Q02
+::CNA-U06-Q02::
+A resident with dementia becomes agitated during bathing. A dementia-sensitive response is to\: {
+~Continue quickly to get it over with
+=Stop, reassure, identify possible triggers, and try again later or adjust the approach
+~Tell the resident to calm down
+~Restrain the resident
+#### Recognizing triggers and using a calm, flexible approach respects the resident and reduces distress; restraints are not appropriate.
+}
+
+// question: CNA-U06-Q03
+::CNA-U06-Q03::
+Which behavior is a common, expected challenge when caring for residents with dementia? {
+~Perfect memory of recent events
+=Memory loss, confusion about time/place, and possible repetition
+~No change in behavior
+~Always independent in all ADLs
+#### Memory loss, disorientation, and repetition are common with dementia and call for patience and structure.
+}
+
+// question: CNA-U06-Q04
+::CNA-U06-Q04::
+Maintaining familiar routines and a calm environment can help reduce confusion and agitation for residents with dementia. {T
+#### Consistency and a calm environment support residents with dementia.}
+
+// question: CNA-U06-Q05
+::CNA-U06-Q05::
+Psychosocial needs of long-term care residents include\: {
+~Only physical care
+=Social connection, dignity, meaningful activity, and respect for preferences
+~Isolation
+~Ignoring cultural background
+#### Psychosocial care addresses social, emotional, cultural, and dignity needs, not just physical tasks.
+}
+
+// question: CNA-U06-Q06
+::CNA-U06-Q06::
+A resident frequently tries to leave the unit looking for a long-deceased spouse. A dementia-sensitive, dignity-preserving response is to\: {
+~Bluntly tell the resident the spouse is dead repeatedly
+=Respond with gentle reassurance and redirection, and report wandering/exit-seeking to the nurse for safety planning
+~Lock the resident in their room
+~Ignore the behavior
+#### Gentle reassurance, redirection, and reporting for safety planning are appropriate; harsh repeated correction and improper confinement are not.
+}
+
+// question: CNA-U06-Q07
+::CNA-U06-Q07::
+Which actions support the psychosocial well-being of residents? (Select all that apply.) {
+~%33.33333%Respecting personal and cultural preferences
+~%33.33333%Encouraging participation in activities they enjoy
+~%-100.0%Talking about residents disrespectfully
+~%33.33333%Honoring privacy and dignity
+}
+
+// question: CNA-U06-Q08
+::CNA-U06-Q08::
+Community resources and family involvement are important for residents because they\: {
+~Replace professional care
+=Support emotional well-being, identity, and connection beyond the facility
+~Are not allowed in long-term care
+~Increase confusion
+#### Family and community connections support identity and emotional well-being.
+}
+
+// question: CNA-U06-Q09
+::CNA-U06-Q09::
+When a resident with dementia gives an answer that is not factually accurate but is not causing harm, the best general approach is to\: {
+~Always correct them firmly
+=Avoid unnecessary confrontation, provide reassurance, and redirect when needed
+~Laugh at the resident
+~Report them for lying
+#### Avoiding needless confrontation and using reassurance/redirection preserves dignity and reduces distress.
+}
+
+// question: CNA-U06-Q10
+::CNA-U06-Q10::
+A nurse assistant notices a normally social resident has withdrawn and stopped attending activities. The best action is to\: {
+~Ignore it as a personal choice
+=Report the change to the licensed nurse, as withdrawal can signal illness, depression, or another problem
+~Force the resident to attend
+~Tell the resident to cheer up
+#### A change in social engagement is a reportable observation that may indicate an underlying issue.
+}
+
+$CATEGORY: $course$/CNA/U07
+
+// question: CNA-U07-Q01
+::CNA-U07-Q01::
+The main goal of restorative/rehabilitative nursing care is to\: {
+~Do all tasks for the resident permanently
+=Help the resident regain or maintain the highest possible level of function and independence
+~Speed up care by skipping exercises
+~Discourage movement
+#### Restorative care promotes and maintains function and independence to the resident's highest practicable level.
+}
+
+// question: CNA-U07-Q02
+::CNA-U07-Q02::
+Range-of-motion (ROM) exercises help prevent\: {
+=Joint stiffness and contractures
+~Faster healing of wounds
+~Weight gain
+~Improved appetite
+#### ROM helps maintain joint mobility and prevent contractures in residents with limited movement.
+}
+
+// question: CNA-U07-Q03
+::CNA-U07-Q03::
+While assisting a resident with prescribed exercises, the nurse assistant should\: {
+~Push the joint past the point of pain
+=Move joints gently and stop if the resident reports pain, then report it
+~Skip the exercises if inconvenient
+~Force rapid movements
+#### Movements should be gentle and within comfort; pain should stop the activity and be reported.
+}
+
+// question: CNA-U07-Q04
+::CNA-U07-Q04::
+Encouraging a resident to do as much of their own self-care as safely possible is part of restorative care. {T
+#### Promoting self-care within safe limits supports the resident's function and dignity.}
+
+// question: CNA-U07-Q05
+::CNA-U07-Q05::
+When a resident uses a walker, the nurse assistant supports safety by\: {
+~Letting the resident hurry
+=Ensuring the walker is within reach, brakes/feet are intact, and the path is clear
+~Removing the walker during transfers
+~Placing the walker far away
+#### Proper device readiness and a clear path reduce falls and support mobility.
+}
+
+// question: CNA-U07-Q06
+::CNA-U07-Q06::
+Why is consistency important when carrying out a resident's restorative program? {
+~It is not important
+=Regular, consistent practice helps maintain gains and prevent decline
+~It saves the facility money only
+~It allows skipping documentation
+#### Consistency supports maintenance of function; gains can be lost without regular practice.
+}
+
+// question: CNA-U07-Q07
+::CNA-U07-Q07::
+Scenario\: A resident in a restorative walking program says they are too tired today and feels dizzy. What is the best action? {
+~Insist they walk the full distance anyway
+=Stop the activity, ensure the resident's safety, and report the dizziness and fatigue to the nurse
+~Tell the resident dizziness is normal and continue
+~Document that the resident walked the full program
+#### Dizziness is a safety concern; stop, keep the resident safe, and report. Never falsify documentation.
+}
+
+// question: CNA-U07-Q08
+::CNA-U07-Q08::
+Which practices support restorative care goals? (Select all that apply.) {
+~%33.33333%Encouraging safe self-care
+~%33.33333%Following the prescribed restorative plan
+~%-100.0%Doing everything for the resident to save time
+~%33.33333%Reporting changes in the resident's ability
+}
+
+// question: CNA-U07-Q09
+::CNA-U07-Q09::
+A resident regains the ability to feed themselves with a special utensil. The nurse assistant should\: {
+~Take over feeding to be faster
+=Encourage and allow the resident to self-feed and report the progress
+~Hide the utensil
+~Tell the resident not to bother
+#### Supporting newly regained skills and reporting progress reinforces restorative outcomes.
+}
+
+// question: CNA-U07-Q10
+::CNA-U07-Q10::
+Proper body mechanics during transfers protect\: {
+~Only the resident
+=Both the resident and the nurse assistant from injury
+~Only the nurse assistant
+~Neither person
+#### Good body mechanics and approved transfer techniques protect both resident and caregiver.
+}
+
+$CATEGORY: $course$/CNA/U08
+
+// question: CNA-U08-Q01
+::CNA-U08-Q01::
+Which is an example of an OBJECTIVE observation? {
+~The resident seems sad
+=The resident's skin is warm and reddened over the left heel
+~The resident is probably in pain
+~The resident might be hungry
+#### Objective observations are measurable or directly observed facts; the others are interpretations or assumptions.
+}
+
+// question: CNA-U08-Q02
+::CNA-U08-Q02::
+Which is an example of SUBJECTIVE information? {
+~Pulse of a measured rate
+=The resident states, 'My stomach hurts.'
+~Reddened skin
+~A measured temperature
+#### Subjective information is what the resident reports; it is recorded as the resident's own statement.
+}
+
+// question: CNA-U08-Q03
+::CNA-U08-Q03::
+When reporting an observation to the licensed nurse, the nurse assistant should provide\: {
+~Only a vague summary
+=Specific, factual, and timely information about what was observed
+~An opinion about the diagnosis
+~Information only if asked
+#### Specific, factual, timely reporting helps the nurse respond appropriately.
+}
+
+// question: CNA-U08-Q04
+::CNA-U08-Q04::
+Nurse assistants should report changes in a resident's condition promptly rather than waiting until the end of the shift. {T
+#### Prompt reporting allows timely intervention and is safer for the resident.}
+
+// question: CNA-U08-Q05
+::CNA-U08-Q05::
+Which set are all senses a nurse assistant uses to make observations? {
+=Sight, hearing, smell, and touch
+~Only sight
+~Only hearing
+~Taste of the resident's food
+#### Observation uses sight, hearing, smell, and touch; tasting a resident's food is not an appropriate observation method.
+}
+
+// question: CNA-U08-Q06
+::CNA-U08-Q06::
+Which observation is the highest priority to report immediately? {
+~A resident requesting a different TV channel
+=A resident with new chest discomfort and shortness of breath
+~A resident who wants a snack
+~A resident reading quietly
+#### New chest discomfort with shortness of breath is urgent and requires immediate reporting.
+}
+
+// question: CNA-U08-Q07
+::CNA-U08-Q07::
+Scenario\: You observe a resident's output appears darker and reduced, the resident's lips are dry, and they seem more confused than usual. What should you report? {
+~Only that the resident is confused
+=All three objective observations together, with the time, to the licensed nurse
+~Nothing, since one symptom alone is minor
+~Your guess that it is a urinary infection
+#### Reporting the full picture of objective observations (not a diagnosis) helps the nurse assess possible dehydration or other issues.
+}
+
+// question: CNA-U08-Q08
+::CNA-U08-Q08::
+Which are objective observations a CNA can chart? (Select all that apply.) {
+~%33.33333%Amount of meal eaten
+~%33.33333%Resident's measured weight
+~%-100.0%Your opinion of the resident's prognosis
+~%33.33333%Visible swelling of the ankle
+}
+
+// question: CNA-U08-Q09
+::CNA-U08-Q09::
+Why is the timing of an observation important in reporting? {
+~It is not important
+=Knowing when a change occurred helps the nurse evaluate the situation
+~It makes the chart longer
+~It is only needed for billing
+#### Time context helps the clinical team interpret changes and respond.
+}
+
+// question: CNA-U08-Q10
+::CNA-U08-Q10::
+If a nurse assistant is unsure whether an observation is important enough to report, the best action is to\: {
+~Decide not to report it
+=Report it to the licensed nurse and let the nurse determine significance
+~Wait to see if it gets worse
+~Ask another resident
+#### When in doubt, report; the licensed nurse determines clinical significance.
+}
+
+$CATEGORY: $course$/CNA/U09
+
+// question: CNA-U09-Q01
+::CNA-U09-Q01::
+Which statement about charting/documentation is correct for a nurse assistant? {
+~Document care before it is performed
+=Document accurately, promptly, and only the care actually given and observations actually made
+~Document what you think should have happened
+~Leave documentation for the next shift to complete
+#### Documentation must be accurate, timely, and truthful, reflecting only actual care and observations.
+}
+
+// question: CNA-U09-Q02
+::CNA-U09-Q02::
+If a nurse assistant makes an error while charting on paper, the correct method is to\: {
+~Erase or use correction fluid
+=Draw a single line through the error, write the correction, and initial/date per facility policy
+~Scribble it out completely
+~Rewrite the whole page
+#### A single line through the error preserves the original record and supports an audit-ready, legal document.
+}
+
+// question: CNA-U09-Q03
+::CNA-U09-Q03::
+The resident's medical record is a legal document, and entries should never be falsified. {T
+#### The record is a legal document; falsification is prohibited and can harm residents and lead to discipline.}
+
+// question: CNA-U09-Q04
+::CNA-U09-Q04::
+Which entry is documented appropriately and objectively? {
+~'Resident was difficult and rude.'
+='Resident ate 50% of lunch and walked to the dining room with a walker.'
+~'Resident is probably depressed.'
+~'Resident seemed fine, I think.'
+#### Objective, specific, factual entries are appropriate; labels and assumptions are not.
+}
+
+// question: CNA-U09-Q05
+::CNA-U09-Q05::
+When should a nurse assistant chart care that was provided? {
+~Days later
+=As soon as possible after the care is given, per facility policy
+~Only at annual review
+~Never
+#### Timely charting near the time of care improves accuracy and reliability of the record.
+}
+
+// question: CNA-U09-Q06
+::CNA-U09-Q06::
+Confidentiality of the resident's record means the nurse assistant should\: {
+~Share resident details with anyone who asks
+=Access and share resident information only as needed for care and only with authorized people
+~Post about residents on social media
+~Discuss residents in the elevator
+#### Resident information is private; access and disclosure are limited to care needs and authorized individuals.
+}
+
+// question: CNA-U09-Q07
+::CNA-U09-Q07::
+Scenario\: You realize you forgot to chart a completed care task from earlier in your shift. The best action is to\: {
+~Leave it out since time passed
+=Make a late entry per facility policy, clearly noted as a late entry with the correct date/time of care
+~Ask a coworker to chart it as if they did it
+~Backdate the entry to hide the delay
+#### A properly labeled late entry maintains an honest, audit-ready record; backdating or having others chart your care is falsification.
+}
+
+// question: CNA-U09-Q08
+::CNA-U09-Q08::
+Which are features of legally sound documentation? (Select all that apply.) {
+~%33.33333%Accurate and factual entries
+~%33.33333%Timely entries
+~%-100.0%Whiteout used to remove errors
+~%33.33333%Confidential handling of records
+}
+
+// question: CNA-U09-Q09
+::CNA-U09-Q09::
+A change in a resident's condition should be documented and\: {
+~Kept secret
+=Reported to the licensed nurse, with the report and time noted
+~Mentioned only to family
+~Posted publicly
+#### Changes must be both documented and reported to the nurse, with the time recorded.
+}
+
+// question: CNA-U09-Q10
+::CNA-U09-Q10::
+Using only approved abbreviations and clear language in charting helps to\: {
+~Confuse other staff
+=Ensure the record is understood correctly and reduce errors
+~Make the chart look complicated
+~Hide information
+#### Approved abbreviations and clear language improve communication and reduce errors.
+}
+
+$CATEGORY: $course$/CNA/U10
+
+// question: CNA-U10-Q01
+::CNA-U10-Q01::
+Which statement best reflects culturally and individually sensitive end-of-life care? {
+~All residents grieve and want the same care
+=Respect each resident's and family's individual, cultural, and spiritual preferences
+~Avoid discussing the resident's wishes
+~Impose the caregiver's own beliefs
+#### End-of-life care is individualized and respects cultural and spiritual preferences.
+}
+
+// question: CNA-U10-Q02
+::CNA-U10-Q02::
+The main goal of hospice/comfort care is to\: {
+~Cure the underlying illness
+=Provide comfort, dignity, and symptom relief near the end of life
+~Speed up the dying process
+~Stop all care
+#### Hospice/comfort care focuses on comfort, dignity, and quality of life rather than cure.
+}
+
+// question: CNA-U10-Q03
+::CNA-U10-Q03::
+When providing comfort to a dying resident, a nurse assistant should\: {
+~Avoid the room to give space
+=Provide gentle care, presence, mouth and skin care, and report symptoms of discomfort to the nurse
+~Talk loudly to keep them awake
+~Withhold repositioning
+#### Comfort care includes gentle physical care, presence, and reporting discomfort for management by the nurse.
+}
+
+// question: CNA-U10-Q04
+::CNA-U10-Q04::
+Grief is a normal response, and residents, families, and staff may all experience it. {T
+#### Grief is a normal process experienced by residents, families, and caregivers.}
+
+// question: CNA-U10-Q05
+::CNA-U10-Q05::
+An advance directive (such as a documented care wish) means the nurse assistant should\: {
+~Ignore it
+=Be aware of it and follow the care team's direction consistent with the resident's documented wishes
+~Decide for the resident
+~Tell the family to override it
+#### Advance directives express the resident's wishes; the care team follows them, and CNAs support care accordingly.
+}
+
+// question: CNA-U10-Q06
+::CNA-U10-Q06::
+Postmortem care performed by a nurse assistant should be done\: {
+~Carelessly since the resident has died
+=With the same respect and dignity given in life, following facility policy and the nurse's direction
+~Without privacy
+~Before confirming the death per policy
+#### Postmortem care is performed respectfully, with privacy, per policy and the nurse's direction, after death is pronounced per facility process.
+}
+
+// question: CNA-U10-Q07
+::CNA-U10-Q07::
+Scenario\: The family of a dying resident is tearful and asks you medical questions about how long their loved one has to live. The best response is to\: {
+~Give your own estimate of time remaining
+=Offer compassionate presence and support, and refer their medical questions to the licensed nurse
+~Tell them not to be upset
+~Change the subject and leave
+#### Prognosis questions are answered by licensed clinicians; the CNA provides compassionate support and refers clinical questions appropriately.
+}
+
+// question: CNA-U10-Q08
+::CNA-U10-Q08::
+Which are appropriate comfort measures for a dying resident? (Select all that apply.) {
+~%33.33333%Gentle mouth and skin care
+~%33.33333%Calm, quiet, respectful presence
+~%-100.0%Ignoring signs of pain
+~%33.33333%Repositioning for comfort as tolerated
+}
+
+// question: CNA-U10-Q09
+::CNA-U10-Q09::
+If a nurse assistant feels emotionally affected after a resident's death, a healthy response is to\: {
+~Suppress all feelings and never discuss them
+=Acknowledge the feelings and use appropriate support resources
+~Avoid all future residents
+~Quit immediately
+#### Acknowledging grief and using support resources promotes caregiver well-being.
+}
+
+// question: CNA-U10-Q10
+::CNA-U10-Q10::
+Maintaining a resident's dignity during the dying process includes\: {
+~Discussing the resident loudly in the hallway
+=Providing privacy, gentle communication, and respecting personal and cultural wishes
+~Rushing care
+~Excluding the family
+#### Dignity is maintained through privacy, respectful communication, and honoring wishes.
+}
+
+$CATEGORY: $course$/CNA/U11
+
+// question: CNA-U11-Q01
+::CNA-U11-Q01::
+Residents in long-term care have the right to\: {
+=Be free from abuse, neglect, and mistreatment
+~Be restrained for staff convenience
+~Have their mail read by staff
+~Be denied participation in their own care
+#### Residents have the right to be free from abuse, neglect, exploitation, and mistreatment.
+}
+
+// question: CNA-U11-Q02
+::CNA-U11-Q02::
+Which is an example of physical abuse? {
+~Helping a resident transfer safely
+=Hitting, slapping, or rough handling of a resident
+~Offering a snack
+~Listening to the resident
+#### Physical abuse includes hitting, slapping, or rough handling that causes harm or pain.
+}
+
+// question: CNA-U11-Q03
+::CNA-U11-Q03::
+Which is an example of neglect? {
+~Promptly answering call lights
+=Failing to provide needed food, hydration, hygiene, or care
+~Repositioning a resident on schedule
+~Reporting a change in condition
+#### Neglect is the failure to provide needed care or services that results in or risks harm.
+}
+
+// question: CNA-U11-Q04
+::CNA-U11-Q04::
+Verbal threats, intimidation, and humiliation are forms of emotional/psychological abuse. {T
+#### Emotional/psychological abuse includes threats, intimidation, humiliation, and isolation.}
+
+// question: CNA-U11-Q05
+::CNA-U11-Q05::
+Which is an example of financial exploitation? {
+~Helping a resident call their bank with consent and authorization
+=Taking or misusing a resident's money or belongings without authorization
+~Returning found property to a resident
+~Documenting personal items on admission
+#### Financial exploitation is the unauthorized or improper use of a resident's funds or property.
+}
+
+// question: CNA-U11-Q06
+::CNA-U11-Q06::
+Which set are possible warning signs of abuse that should be reported? {
+=Unexplained bruises, fear of a specific person, and sudden withdrawal
+~Good appetite and social engagement
+~Stable mood and clean environment
+~Participation in activities
+#### Unexplained injuries, fearfulness, and behavior changes can indicate abuse and must be reported.
+}
+
+// question: CNA-U11-Q07
+::CNA-U11-Q07::
+Scenario\: You see a coworker roughly grab a resident's arm and speak harshly, and the resident appears frightened. What should you do? {
+~Ignore it because it is not your resident
+=Ensure the resident's immediate safety and report the suspected abuse per facility policy and law
+~Confront the coworker later privately and keep it between you
+~Wait to see if it happens again
+#### Suspected abuse must be reported promptly per policy and law; protecting the resident comes first. (Specific reporting timelines/recipients require SME/legal confirmation for the facility's jurisdiction.)
+}
+
+// question: CNA-U11-Q08
+::CNA-U11-Q08::
+Which actions help prevent abuse and protect residents? (Select all that apply.) {
+~%33.33333%Treating residents with respect and dignity
+~%33.33333%Reporting suspected abuse promptly
+~%-100.0%Using restraints for convenience
+~%33.33333%Following person-centered, trauma-informed care
+}
+
+// question: CNA-U11-Q09
+::CNA-U11-Q09::
+Using a physical restraint on a resident for staff convenience or discipline is\: {
+~Acceptable when busy
+=Prohibited; restraints are not used for convenience or discipline
+~A good prevention tool
+~Required nightly
+#### Restraints for convenience or discipline are prohibited and can constitute abuse.
+}
+
+// question: CNA-U11-Q10
+::CNA-U11-Q10::
+Involuntary seclusion (isolating a resident against their will) is best classified as\: {
+~A normal care routine
+=A form of resident mistreatment that must be reported
+~A reward system
+~An activity choice
+#### Involuntary seclusion is a form of mistreatment and is reportable.
+}
+
+$CATEGORY: $course$/CNA/U12
+
+// question: CNA-U12-Q01
+::CNA-U12-Q01::
+As a mandated reporter, when a nurse assistant suspects resident abuse, they must\: {
+~Wait for proof before doing anything
+=Report the suspicion promptly per facility policy and applicable law
+~Investigate fully on their own first
+~Report only if a supervisor agrees
+#### Mandated reporters report reasonable suspicion promptly; proof is not required, and the duty is personal. (Jurisdiction-specific timelines/recipients require SME/legal confirmation.)
+}
+
+// question: CNA-U12-Q02
+::CNA-U12-Q02::
+The duty to report suspected abuse generally means the nurse assistant\: {
+~Can delegate the duty and forget it
+=Has a personal responsibility to ensure a report is made, even if others are also reporting
+~Only reports if asked
+~Reports only at year end
+#### The reporting duty is personal; the CNA must ensure a report is made per law and policy.
+}
+
+// question: CNA-U12-Q03
+::CNA-U12-Q03::
+Resident information related to an abuse report should still be handled confidentially and shared only with authorized parties. {T
+#### Confidentiality applies; information is shared only with authorized investigators/authorities as required.}
+
+// question: CNA-U12-Q04
+::CNA-U12-Q04::
+Good-faith reporting of suspected abuse generally means a mandated reporter\: {
+~Will always be punished
+=Is reporting an honest, reasonable suspicion and is generally protected for doing so
+~Must guarantee the abuse occurred
+~Should stay anonymous and never follow up
+#### Good-faith reports based on reasonable suspicion are generally protected; reporters need not prove the abuse. (Confirm jurisdiction protections with SME/legal.)
+}
+
+// question: CNA-U12-Q05
+::CNA-U12-Q05::
+When documenting an observation related to suspected abuse, the nurse assistant should record\: {
+~Personal opinions and blame
+=Objective, factual observations (what was seen/heard), the time, and actions taken
+~Only a vague note
+~Nothing, to avoid involvement
+#### Objective, factual, timely documentation supports investigation and an audit-ready record.
+}
+
+// question: CNA-U12-Q06
+::CNA-U12-Q06::
+Confidentiality of resident information generally means a nurse assistant should NOT\: {
+~Discuss care with the assigned nurse
+=Post or discuss resident information publicly or on social media
+~Document care in the record
+~Report changes to the nurse
+#### Public disclosure or social media posting of resident information violates confidentiality.
+}
+
+// question: CNA-U12-Q07
+::CNA-U12-Q07::
+Scenario\: A resident quietly tells you that a family member took money from them and threatened them, and begs you not to tell anyone. What is the best action? {
+~Promise to keep it completely secret
+=Reassure the resident, keep them safe, and report the suspected exploitation/abuse per policy and law, explaining you must report to protect them
+~Decide it is a family matter and do nothing
+~Confront the family member yourself
+#### Suspected exploitation must be reported; the CNA cannot promise secrecy that conflicts with the duty to protect and report. (Confirm jurisdiction process with SME/legal.)
+}
+
+// question: CNA-U12-Q08
+::CNA-U12-Q08::
+Which are appropriate steps when abuse is suspected? (Select all that apply.) {
+~%33.33333%Ensure the resident's immediate safety
+~%33.33333%Report per facility policy and law
+~%33.33333%Document objective observations
+~%-100.0%Hide the information to avoid conflict
+}
+
+// question: CNA-U12-Q09
+::CNA-U12-Q09::
+If a nurse assistant fears retaliation for reporting suspected abuse, they should\: {
+~Not report at all
+=Still report, knowing reporting is required and retaliation against good-faith reporters is generally prohibited
+~Wait until they leave the job
+~Report anonymously to a resident
+#### The duty to report stands; protections generally exist against retaliation for good-faith reports. (Confirm with SME/legal.)
+}
+
+// question: CNA-U12-Q10
+::CNA-U12-Q10::
+The overall purpose of abuse prevention, recognition, and reporting training is to\: {
+~Increase paperwork
+=Protect residents' safety, dignity, and rights
+~Reduce resident rights
+~Replace the licensed nurse's role
+#### The goal is to protect residents' safety, dignity, and rights through prevention, recognition, and reporting.
+}
+
+$CATEGORY: $course$/CNA/FINAL
+
+// question: CNA-FINAL-Q01
+::CNA-FINAL-Q01::
+The nurse assistant's primary role in vital signs is to\: {
+~Diagnose conditions
+=Accurately measure, record, and report data to the licensed nurse
+~Prescribe treatment
+~Change the care plan
+#### CNAs collect and report data within scope; diagnosis and care-plan changes are not CNA functions.
+}
+
+// question: CNA-FINAL-Q02
+::CNA-FINAL-Q02::
+The four standard vital signs are temperature, pulse, respirations, and\: {
+~Weight
+=Blood pressure
+~Height
+~Appetite
+#### Blood pressure completes the four standard vital signs.
+}
+
+// question: CNA-FINAL-Q03
+::CNA-FINAL-Q03::
+A resident's self-report is the most reliable indicator of their pain. {T
+#### Pain is subjective; self-report is the standard.}
+
+// question: CNA-FINAL-Q04
+::CNA-FINAL-Q04::
+'Dyspnea' means\: {
+~Slow pulse
+=Difficult or labored breathing
+~Normal breathing
+~High temperature
+#### Dyspnea is labored breathing.
+}
+
+// question: CNA-FINAL-Q05
+::CNA-FINAL-Q05::
+Counting respirations discreetly is important because\: {
+~It is faster
+=Awareness can cause the resident to change their breathing
+~It is required by law
+~It improves pulse accuracy
+#### Discreet counting avoids voluntary changes.
+}
+
+// question: CNA-FINAL-Q06
+::CNA-FINAL-Q06::
+A mechanical soft diet is intended to\: {
+~Restrict fluids
+=Make chewing and swallowing easier and safer
+~Remove all protein
+~Increase choking risk
+#### Texture-modified diets aid safe swallowing.
+}
+
+// question: CNA-FINAL-Q07
+::CNA-FINAL-Q07::
+The safest position for assisting a resident to eat is\: {
+~Lying flat
+=Upright at about 90 degrees
+~Reclined far back
+~On the side
+#### Upright positioning reduces aspiration risk.
+}
+
+// question: CNA-FINAL-Q08
+::CNA-FINAL-Q08::
+Coughing, choking, or a wet/gurgly voice during meals may indicate\: {
+~Good appetite
+=A swallowing problem to report
+~Normal eating
+~Dehydration only
+#### These are possible dysphagia/aspiration signs to report.
+}
+
+// question: CNA-FINAL-Q09
+::CNA-FINAL-Q09::
+Dark concentrated urine, dry mouth, and reduced intake may indicate\: {
+~Overhydration
+=Dehydration
+~Good nutrition
+~Normal aging only
+#### These are warning signs of dehydration.
+}
+
+// question: CNA-FINAL-Q10
+::CNA-FINAL-Q10::
+'NPO' means\: {
+~Eat normally
+=Nothing by mouth
+~Only liquids
+~Extra fluids
+#### NPO \= nothing by mouth.
+}
+
+// question: CNA-FINAL-Q11
+::CNA-FINAL-Q11::
+A resident who cannot speak, cough, or breathe is showing signs of\: {
+~A partial obstruction
+=A severe (complete) airway obstruction needing immediate help
+~Normal eating
+~Mild irritation
+#### These signs indicate severe choking requiring immediate response.
+}
+
+// question: CNA-FINAL-Q12
+::CNA-FINAL-Q12::
+The first step on discovering an emergency is usually to\: {
+~Document first
+=Call for help/activate emergency response and stay with the resident
+~Move the resident
+~Leave to find supplies
+#### Summon help and remain with the resident.
+}
+
+// question: CNA-FINAL-Q13
+::CNA-FINAL-Q13::
+A fallen resident should generally not be moved before assessment unless they are in immediate danger. {T
+#### Avoid moving a fallen resident before nurse assessment unless danger exists.}
+
+// question: CNA-FINAL-Q14
+::CNA-FINAL-Q14::
+Elevators are typically NOT used during which emergency? {
+~A medication delivery
+=A fire
+~A meal service
+~A family visit
+#### Elevators are generally not used during a fire.
+}
+
+// question: CNA-FINAL-Q15
+::CNA-FINAL-Q15::
+A sudden change in a resident's mental status should be\: {
+~Ignored as normal aging
+=Reported promptly to the licensed nurse
+~Documented only at year end
+~Discussed with visitors
+#### Acute mental status change is a reportable change in condition.
+}
+
+// question: CNA-FINAL-Q16
+::CNA-FINAL-Q16::
+A new, non-fading reddened area over a bony prominence is an early sign of\: {
+~Improved circulation
+=A pressure injury
+~Dehydration
+~Normal skin
+#### Non-blanching redness over bone is an early pressure injury sign.
+}
+
+// question: CNA-FINAL-Q17
+::CNA-FINAL-Q17::
+Repositioning residents with limited mobility primarily helps prevent\: {
+=Pressure injuries
+~Weight gain
+~Better hearing
+~Faster speech
+#### Regular repositioning helps prevent pressure injuries.
+}
+
+// question: CNA-FINAL-Q18
+::CNA-FINAL-Q18::
+Dementia-sensitive communication includes\: {
+~Arguing until the resident agrees
+=Calm voice, simple words, reassurance, approaching from the front
+~Speaking fast with medical jargon
+~Ignoring the resident
+#### Calm, simple, reassuring communication helps.
+}
+
+// question: CNA-FINAL-Q19
+::CNA-FINAL-Q19::
+A dignity-preserving response to a resident with dementia who is exit-seeking is to\: {
+~Lock them in a room
+=Use gentle reassurance and redirection and report for safety planning
+~Argue with them repeatedly
+~Ignore it
+#### Reassurance, redirection, and reporting support safety and dignity.
+}
+
+// question: CNA-FINAL-Q20
+::CNA-FINAL-Q20::
+Which support residents' psychosocial well-being? (Select all that apply.) {
+~%33.33333%Respecting cultural preferences
+~%33.33333%Encouraging enjoyed activities
+~%-100.0%Talking about residents disrespectfully
+~%33.33333%Honoring privacy and dignity
+}
+
+// question: CNA-FINAL-Q21
+::CNA-FINAL-Q21::
+The goal of restorative care is to\: {
+~Make the resident fully dependent
+=Help the resident reach/maintain the highest practicable function
+~Skip exercises
+~Discourage movement
+#### Restorative care maximizes function and independence.
+}
+
+// question: CNA-FINAL-Q22
+::CNA-FINAL-Q22::
+Range-of-motion exercises help prevent\: {
+=Contractures and joint stiffness
+~Weight gain
+~Better appetite
+~Faster healing
+#### ROM prevents contractures and maintains mobility.
+}
+
+// question: CNA-FINAL-Q23
+::CNA-FINAL-Q23::
+During assisted exercise, if the resident reports pain, the nurse assistant should\: {
+~Push past the pain
+=Stop and report the pain
+~Speed up
+~Ignore it
+#### Stop the activity and report pain.
+}
+
+// question: CNA-FINAL-Q24
+::CNA-FINAL-Q24::
+Good body mechanics during transfers protect both the resident and the nurse assistant. {T
+#### Proper technique protects both people.}
+
+// question: CNA-FINAL-Q25
+::CNA-FINAL-Q25::
+Which is an objective observation? {
+~The resident seems anxious
+=The resident's measured pulse rate
+~The resident is probably hungry
+~The resident might be in pain
+#### A measured pulse rate is objective.
+}
+
+// question: CNA-FINAL-Q26
+::CNA-FINAL-Q26::
+Which is subjective information? {
+~A measured temperature
+='My head hurts,' stated by the resident
+~Reddened skin
+~Counted respirations
+#### A resident statement is subjective.
+}
+
+// question: CNA-FINAL-Q27
+::CNA-FINAL-Q27::
+To correct a paper charting error, the nurse assistant should\: {
+~Use correction fluid
+=Draw a single line through it, correct, and initial/date
+~Erase it
+~Rewrite the page
+#### Single line, correction, initial/date preserves the legal record.
+}
+
+// question: CNA-FINAL-Q28
+::CNA-FINAL-Q28::
+The medical record is a legal document and must never be falsified. {T
+#### Records are legal documents; falsification is prohibited.}
+
+// question: CNA-FINAL-Q29
+::CNA-FINAL-Q29::
+When in doubt about whether to report an observation, the nurse assistant should\: {
+~Not report it
+=Report it and let the nurse judge significance
+~Wait until it worsens
+~Ask a visitor
+#### When in doubt, report.
+}
+
+// question: CNA-FINAL-Q30
+::CNA-FINAL-Q30::
+Charting should be completed\: {
+~Days later
+=As soon as possible after care, per policy
+~Only annually
+~Never
+#### Timely charting improves accuracy.
+}
+
+// question: CNA-FINAL-Q31
+::CNA-FINAL-Q31::
+Hospice/comfort care focuses on\: {
+~Curing the illness
+=Comfort, dignity, and symptom relief
+~Speeding death
+~Stopping all care
+#### Comfort care emphasizes comfort and dignity.
+}
+
+// question: CNA-FINAL-Q32
+::CNA-FINAL-Q32::
+Culturally sensitive end-of-life care means\: {
+~Treating all residents identically
+=Respecting individual, cultural, and spiritual preferences
+~Imposing the caregiver's beliefs
+~Avoiding the topic
+#### Care is individualized to the resident's culture and beliefs.
+}
+
+// question: CNA-FINAL-Q33
+::CNA-FINAL-Q33::
+Postmortem care should be performed\: {
+~Carelessly
+=With the same respect and dignity given in life, per policy
+~Without privacy
+~Without the nurse's direction in all cases
+#### Postmortem care is respectful and follows policy/nurse direction.
+}
+
+// question: CNA-FINAL-Q34
+::CNA-FINAL-Q34::
+Grief is a normal response that residents, families, and staff may all experience. {T
+#### Grief is normal across all involved.}
+
+// question: CNA-FINAL-Q35
+::CNA-FINAL-Q35::
+If a family asks the nurse assistant a prognosis question (how long), the best response is to\: {
+~Give your own estimate
+=Provide support and refer the clinical question to the nurse
+~Tell them not to ask
+~Leave the room
+#### Prognosis is answered by licensed clinicians; CNA gives support.
+}
+
+// question: CNA-FINAL-Q36
+::CNA-FINAL-Q36::
+Residents have the right to be free from\: {
+~Activities
+=Abuse, neglect, and mistreatment
+~Visitors
+~Their own care plan
+#### Residents have the right to be free from abuse, neglect, and mistreatment.
+}
+
+// question: CNA-FINAL-Q37
+::CNA-FINAL-Q37::
+Failing to provide needed food, hygiene, or care is\: {
+~Good practice
+=Neglect
+~Restorative care
+~A resident right
+#### Withholding needed care is neglect.
+}
+
+// question: CNA-FINAL-Q38
+::CNA-FINAL-Q38::
+Threats, intimidation, and humiliation are forms of\: {
+~Physical abuse
+=Emotional/psychological abuse
+~Good care
+~Financial abuse
+#### These are emotional/psychological abuse.
+}
+
+// question: CNA-FINAL-Q39
+::CNA-FINAL-Q39::
+Taking a resident's money without authorization is\: {
+=Financial exploitation
+~Physical abuse
+~Neglect
+~Acceptable if small
+#### Unauthorized use of funds is financial exploitation.
+}
+
+// question: CNA-FINAL-Q40
+::CNA-FINAL-Q40::
+As a mandated reporter, the nurse assistant must report suspected abuse\: {
+~Only with proof
+=Promptly, based on reasonable suspicion, per law and policy
+~Only if a supervisor agrees
+~At year end
+#### Reasonable suspicion triggers prompt reporting; proof is not required.
+}
+
+// question: CNA-FINAL-Q41
+::CNA-FINAL-Q41::
+Using physical restraints for staff convenience or discipline is prohibited. {T
+#### Restraints for convenience/discipline are prohibited.}
+
+// question: CNA-FINAL-Q42
+::CNA-FINAL-Q42::
+Good-faith reporting of suspected abuse generally means the reporter\: {
+~Must prove the abuse
+=Reports an honest, reasonable suspicion and is generally protected
+~Will be punished
+~Should never follow up
+#### Good-faith reports are generally protected.
+}
+
+// question: CNA-FINAL-Q43
+::CNA-FINAL-Q43::
+Which are reportable changes in condition? (Select all that apply.) {
+~%33.33333%New shortness of breath
+~%33.33333%Sudden confusion
+~%-100.0%Stable usual routine
+~%33.33333%New skin breakdown
+}
+
+// question: CNA-FINAL-Q44
+::CNA-FINAL-Q44::
+This online CE course, by itself\: {
+~Completes all California CNA renewal requirements
+=Does not by itself complete all CNA renewal requirements; it provides online CE only with no clinical hours
+~Replaces clinical competency validation
+~Grants certification
+#### The course is online CE only; it does not include clinical hours or competency validation and does not by itself satisfy all renewal requirements.
+}
+
+// question: CNA-FINAL-Q45
+::CNA-FINAL-Q45::
+Resident confidentiality means a nurse assistant should\: {
+~Share information publicly
+=Limit access and disclosure to care needs and authorized people
+~Post about residents online
+~Discuss residents in public areas
+#### Confidential information is shared only as needed for care with authorized parties.
+}
+
+// question: CNA-FINAL-Q46
+::CNA-FINAL-Q46::
+A resident refuses a measurement or care. The nurse assistant should\: {
+~Force the care
+=Respect the refusal, document it, and report to the nurse
+~Ignore it
+~Discharge the resident
+#### Residents may refuse; document and report.
+}
+
+// question: CNA-FINAL-Q47
+::CNA-FINAL-Q47::
+Scenario\: A resident is eating when they suddenly cannot speak or cough and clutch their throat. Within your training, you should\: {
+~Wait and watch quietly
+=Call for help immediately and respond per your facility's choking/emergency protocol and your training
+~Offer water
+~Document and continue with other residents
+#### Severe choking is an emergency\: call for help and respond per protocol and training.
+}
+
+// question: CNA-FINAL-Q48
+::CNA-FINAL-Q48::
+Scenario\: You notice unexplained bruising on a resident and they flinch when a particular staff member enters. The best action is to\: {
+~Assume it is from normal activity
+=Ensure the resident's safety, document objective observations, and report suspected abuse per policy and law
+~Ask the resident to keep it quiet
+~Wait to see if it recurs
+#### Possible abuse signs require safety, objective documentation, and reporting. (Confirm jurisdiction process with SME/legal.)
+}
+
+// question: CNA-FINAL-Q49
+::CNA-FINAL-Q49::
+Which is the best example of person-centered care? {
+~Doing tasks the fastest way regardless of preference
+=Tailoring care to the resident's needs, preferences, and dignity
+~Treating all residents identically
+~Excluding residents from decisions
+#### Person-centered care respects individual needs, preferences, and dignity.
+}
+
+// question: CNA-FINAL-Q50
+::CNA-FINAL-Q50::
+The nurse assistant's documentation should always be\: {
+~Based on assumptions
+=Objective, accurate, timely, and confidential
+~Completed by another shift
+~Optional
+#### Documentation must be objective, accurate, timely, and confidential.
+}
+

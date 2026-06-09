@@ -1,0 +1,1389 @@
+// BRN / CEP RN Case Management - Moodle Quiz Bank (10 modules x 3 contact hours + Capstone)
+// Generated Moodle MVP implementation artifact. SME review required before production use.
+// No PHI; fictional de-identified scenarios only.
+
+$CATEGORY: $course$/BRN/M01
+
+// question: BRN-M01-Q01
+::BRN-M01-Q01::
+The core purpose of RN case management is to\: {
+~Replace the primary physician
+=Coordinate and advocate for safe, effective, patient-centered care across settings
+~Reduce all costs regardless of quality
+~Eliminate documentation
+#### RN case management coordinates and advocates for patient-centered care, balancing quality, safety, and resource use.
+}
+
+// question: BRN-M01-Q02
+::BRN-M01-Q02::
+Operating within one's RN scope of practice means the nurse\: {
+~Performs any task requested regardless of licensure
+=Acts within the legal/professional boundaries defined for registered nurses
+~Ignores standards of practice
+~Practices medicine independently
+#### Scope of practice defines the legal and professional boundaries for RN actions. Confirm jurisdiction specifics with SME/legal.
+}
+
+// question: BRN-M01-Q03
+::BRN-M01-Q03::
+A patient-centered approach in case management means decisions are guided primarily by\: {
+~The case manager's convenience
+=The patient's needs, goals, values, and informed preferences
+~Payer preferences only
+~Facility throughput only
+#### Patient-centered care centers the patient's needs, goals, and informed preferences.
+}
+
+// question: BRN-M01-Q04
+::BRN-M01-Q04::
+Case managers balance advocacy for the patient with responsible use of resources. {T
+#### Case management balances patient advocacy with appropriate stewardship of resources.}
+
+// question: BRN-M01-Q05
+::BRN-M01-Q05::
+Which best describes the RN case manager's relationship with the interdisciplinary team? {
+~Works in isolation
+=Collaborates and communicates across disciplines to coordinate care
+~Directs physicians' medical orders
+~Avoids other team members
+#### Case managers collaborate across disciplines to coordinate care.
+}
+
+// question: BRN-M01-Q06
+::BRN-M01-Q06::
+Standards of professional practice and a code of ethics guide the case manager by\: {
+~Being optional suggestions
+=Providing a framework for accountable, ethical, competent practice
+~Replacing clinical judgment entirely
+~Limiting patient advocacy
+#### Professional standards and ethics frame accountable, competent practice.
+}
+
+// question: BRN-M01-Q07
+::BRN-M01-Q07::
+Scenario\: A case manager is asked by a supervisor to perform a task that appears outside the RN scope of practice. The most appropriate response is to\: {
+~Perform it to avoid conflict
+=Decline tasks outside the RN scope, clarify the concern, and seek appropriate qualified involvement
+~Delegate it to an aide
+~Ignore the request entirely without explanation
+#### Nurses should not perform tasks outside scope; they clarify and route to the appropriate qualified professional. Confirm scope with SME/legal.
+}
+
+// question: BRN-M01-Q08
+::BRN-M01-Q08::
+Which are core functions of RN case management? (Select all that apply.) {
+~%33.33333%Assessment and care coordination
+~%33.33333%Advocacy for the patient
+~%-100.0%Practicing outside one's license
+~%33.33333%Monitoring and evaluating outcomes
+}
+
+// question: BRN-M01-Q09
+::BRN-M01-Q09::
+In the home health context, the RN case manager often serves as a\: {
+~Barrier between patient and team
+=Central coordinator linking the patient, providers, and resources
+~Replacement for the physician
+~Billing-only function
+#### In home health, the case manager coordinates among patient, providers, and resources.
+}
+
+// question: BRN-M01-Q10
+::BRN-M01-Q10::
+This program is structured as continuing education measured in\: {
+~CEUs
+=Contact hours
+~Clinical rotations
+~Academic credits
+#### BRN continuing education is expressed in contact hours, not CEUs.
+}
+
+// question: BRN-M01-Q11
+::BRN-M01-Q11::
+Maintaining competency through continuing education supports safe, current case-management practice. {T
+#### Ongoing education maintains competency for safe practice.}
+
+// question: BRN-M01-Q12
+::BRN-M01-Q12::
+The overall foundation this module establishes is\: {
+~Medication prescribing authority
+=The role, scope, ethics, and coordinating function of RN case management
+~Facility marketing
+~Billing codes only
+#### The module establishes role, scope, ethics, and coordination foundations.
+}
+
+$CATEGORY: $course$/BRN/M02
+
+// question: BRN-M02-Q01
+::BRN-M02-Q01::
+A comprehensive case-management assessment should include\: {
+~Only the primary diagnosis
+=Physical, functional, psychosocial, environmental, and support-system factors
+~Only insurance information
+~Only the patient's age
+#### Holistic assessment spans physical, functional, psychosocial, environmental, and support factors.
+}
+
+// question: BRN-M02-Q02
+::BRN-M02-Q02::
+During intake, verifying and reconciling key information helps to\: {
+~Delay care
+=Establish an accurate baseline and reduce errors
+~Avoid documentation
+~Replace assessment
+#### Accurate intake reconciliation establishes a reliable baseline and reduces errors.
+}
+
+// question: BRN-M02-Q03
+::BRN-M02-Q03::
+A patient-centered care plan goal is best written as\: {
+~Vague and open-ended
+=Specific, measurable, achievable, relevant, and time-bound, reflecting the patient's priorities
+~Decided without the patient
+~Focused only on facility metrics
+#### SMART, patient-aligned goals support measurable, individualized care planning.
+}
+
+// question: BRN-M02-Q04
+::BRN-M02-Q04::
+The patient (and family/caregiver as appropriate) should be involved in developing the care plan. {T
+#### Patient/caregiver involvement is central to patient-centered planning.}
+
+// question: BRN-M02-Q05
+::BRN-M02-Q05::
+Prioritizing problems in a care plan should be guided primarily by\: {
+~Alphabetical order
+=Acuity, safety, and the patient's goals
+~The case manager's preference
+~Billing potential
+#### Prioritization reflects acuity, safety, and patient goals.
+}
+
+// question: BRN-M02-Q06
+::BRN-M02-Q06::
+Identifying social determinants of health during assessment helps the case manager to\: {
+~Ignore barriers
+=Recognize barriers (e.g., transportation, housing, food) that affect outcomes and plan accordingly
+~Increase costs only
+~Avoid referrals
+#### Social determinants influence outcomes and should inform planning and referrals.
+}
+
+// question: BRN-M02-Q07
+::BRN-M02-Q07::
+Scenario\: A newly admitted home-health patient lives alone, has limited mobility, and no nearby support. The case manager should\: {
+~Proceed with a standard plan ignoring the situation
+=Assess safety and support needs, incorporate resources/referrals (e.g., home support, equipment), and tailor the care plan
+~Discharge from services
+~Tell the patient to manage alone
+#### Assessment of safety/support and resource integration produces an individualized, safe plan.
+}
+
+// question: BRN-M02-Q08
+::BRN-M02-Q08::
+Which belong in a patient-centered care plan? (Select all that apply.) {
+~%33.33333%Measurable goals
+~%33.33333%Interventions matched to needs
+~%-100.0%Goals decided without the patient
+~%33.33333%A plan for evaluation/reassessment
+}
+
+// question: BRN-M02-Q09
+::BRN-M02-Q09::
+Reassessment of the care plan should occur\: {
+~Never
+=Regularly and when the patient's condition or circumstances change
+~Only at discharge
+~Only if the payer asks
+#### Care plans are living documents reassessed regularly and on change.
+}
+
+// question: BRN-M02-Q10
+::BRN-M02-Q10::
+Using validated assessment tools when appropriate helps to\: {
+~Introduce bias
+=Support consistent, evidence-informed assessment
+~Replace clinical judgment entirely
+~Avoid documentation
+#### Validated tools support consistency and complement clinical judgment.
+}
+
+// question: BRN-M02-Q11
+::BRN-M02-Q11::
+An accurate, current problem list helps the team deliver coordinated, individualized care. {T
+#### A current problem list supports coordinated, individualized care.}
+
+// question: BRN-M02-Q12
+::BRN-M02-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen comprehensive assessment, intake, and patient-centered care planning
+~Replace the physician
+~Focus only on billing
+#### The aim is sound assessment, intake, and patient-centered planning.
+}
+
+$CATEGORY: $course$/BRN/M03
+
+// question: BRN-M03-Q01
+::BRN-M03-Q01::
+Care coordination across disciplines primarily aims to\: {
+~Create silos
+=Align team members and services so care is safe, continuous, and non-duplicative
+~Increase fragmentation
+~Reduce communication
+#### Coordination aligns the team to deliver safe, continuous, non-duplicative care.
+}
+
+// question: BRN-M03-Q02
+::BRN-M03-Q02::
+Effective interdisciplinary communication is supported by\: {
+~Ambiguous handoffs
+=Structured, clear, and timely information sharing (e.g., standardized handoff)
+~Withholding information
+~Relying on memory only
+#### Structured, timely communication (e.g., standardized handoffs) reduces errors.
+}
+
+// question: BRN-M03-Q03
+::BRN-M03-Q03::
+When coordinating across settings (hospital, home, community), the case manager should ensure\: {
+~Information is lost between settings
+=Continuity of the care plan and accurate information transfer
+~Each setting starts from scratch
+~No follow-up
+#### Continuity and accurate transfer prevent gaps across settings.
+}
+
+// question: BRN-M03-Q04
+::BRN-M03-Q04::
+Clear role definition among team members reduces gaps and duplication in care. {T
+#### Defined roles reduce gaps and duplication.}
+
+// question: BRN-M03-Q05
+::BRN-M03-Q05::
+A primary risk when care is poorly coordinated is\: {
+~Improved outcomes
+=Fragmented care, errors, duplicated services, and gaps
+~Lower costs always
+~Better communication
+#### Poor coordination causes fragmentation, errors, duplication, and gaps.
+}
+
+// question: BRN-M03-Q06
+::BRN-M03-Q06::
+Coordinating referrals effectively includes\: {
+~Sending incomplete information
+=Providing relevant information, confirming receipt, and following up on outcomes
+~Never following up
+~Avoiding documentation
+#### Effective referrals include complete information, confirmation, and follow-up.
+}
+
+// question: BRN-M03-Q07
+::BRN-M03-Q07::
+Scenario\: A patient is receiving conflicting instructions from two providers. The case manager should\: {
+~Pick one at random
+=Facilitate communication among the providers to reconcile the plan and clarify instructions for the patient
+~Tell the patient to choose
+~Ignore the conflict
+#### The case manager facilitates reconciliation and clear, consistent instructions.
+}
+
+// question: BRN-M03-Q08
+::BRN-M03-Q08::
+Which support effective care coordination? (Select all that apply.) {
+~%33.33333%Timely, structured communication
+~%33.33333%Shared, current care plan
+~%-100.0%Withholding information from the team
+~%33.33333%Clear roles and follow-up
+}
+
+// question: BRN-M03-Q09
+::BRN-M03-Q09::
+The patient's role in care coordination is best described as\: {
+~Passive bystander
+=An active partner whose input and understanding are essential
+~Irrelevant
+~Decision-maker for the clinical team
+#### Patients are active partners in coordinated care.
+}
+
+// question: BRN-M03-Q10
+::BRN-M03-Q10::
+Documenting coordination activities (calls, referrals, follow-ups) is important because it\: {
+~Wastes time
+=Creates a record of actions, supports continuity, and demonstrates accountability
+~Replaces communication
+~Is optional
+#### Documentation records coordination, supports continuity, and shows accountability.
+}
+
+// question: BRN-M03-Q11
+::BRN-M03-Q11::
+Coordinating with community resources can help address needs that affect health outcomes. {T
+#### Community resources help address determinants affecting outcomes.}
+
+// question: BRN-M03-Q12
+::BRN-M03-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen interdisciplinary and cross-setting care coordination
+~Promote fragmented care
+~Replace the team
+#### The aim is effective interdisciplinary, cross-setting coordination.
+}
+
+$CATEGORY: $course$/BRN/M04
+
+// question: BRN-M04-Q01
+::BRN-M04-Q01::
+Legally sound nursing documentation should be\: {
+~Vague and delayed
+=Accurate, objective, timely, complete, and legible
+~Based on assumptions
+~Altered after the fact without notation
+#### Sound documentation is accurate, objective, timely, complete, and legible.
+}
+
+// question: BRN-M04-Q02
+::BRN-M04-Q02::
+Charting should generally reflect\: {
+~What the nurse intended to do
+=What was actually assessed, done, and observed, and the patient's response
+~Only favorable information
+~Opinions about the patient's character
+#### Documentation reflects actual assessment, actions, observations, and responses.
+}
+
+// question: BRN-M04-Q03
+::BRN-M04-Q03::
+If an error is made in an electronic record, the appropriate action is to\: {
+~Delete the entry so no one sees it
+=Correct it per policy using an addendum/correction that preserves the original entry and audit trail
+~Ask IT to erase the history
+~Leave the error and ignore it
+#### Corrections must preserve the original entry and audit trail per policy.
+}
+
+// question: BRN-M04-Q04
+::BRN-M04-Q04::
+The medical record can serve as a legal document and may be used in audits or legal proceedings. {T
+#### The record is a legal document used in audits and proceedings.}
+
+// question: BRN-M04-Q05
+::BRN-M04-Q05::
+'Audit-ready' documentation means records are\: {
+~Incomplete and disorganized
+=Complete, accurate, and organized so they can withstand review
+~Hidden from reviewers
+~Written in personal shorthand only
+#### Audit-ready records are complete, accurate, and organized for review.
+}
+
+// question: BRN-M04-Q06
+::BRN-M04-Q06::
+Documenting patient education and the patient's response is important because it\: {
+~Is unnecessary
+=Demonstrates the education occurred and supports safe, coordinated care
+~Replaces the care plan
+~Hides information
+#### Documenting education and response evidences teaching and supports care.
+}
+
+// question: BRN-M04-Q07
+::BRN-M04-Q07::
+Scenario\: A case manager realizes a prior entry omitted an important assessment finding from earlier that day. The best action is to\: {
+~Backdate a new entry to the earlier time
+=Make a clearly labeled late entry/addendum per policy, with the current date/time and reference to when the event occurred
+~Ask a colleague to enter it
+~Leave it out to avoid scrutiny
+#### A properly labeled late entry maintains integrity; backdating or proxy entry is falsification.
+}
+
+// question: BRN-M04-Q08
+::BRN-M04-Q08::
+Which are characteristics of defensible documentation? (Select all that apply.) {
+~%33.33333%Objective and factual
+~%33.33333%Timely
+~%-100.0%Altered without notation
+~%33.33333%Complete and legible
+}
+
+// question: BRN-M04-Q09
+::BRN-M04-Q09::
+Confidentiality and privacy of records require that information is\: {
+~Shared with anyone
+=Accessed and disclosed only as authorized and necessary, consistent with privacy law and policy
+~Posted publicly
+~Discussed openly
+#### Access/disclosure is limited to authorized, necessary use under privacy law and policy. Confirm specific privacy requirements with SME/legal.
+}
+
+// question: BRN-M04-Q10
+::BRN-M04-Q10::
+Using approved terminology and avoiding unapproved abbreviations helps to\: {
+~Confuse readers
+=Reduce misinterpretation and errors
+~Make charts longer
+~Hide information
+#### Standardized terminology reduces misinterpretation and error.
+}
+
+// question: BRN-M04-Q11
+::BRN-M04-Q11::
+Documentation should never be falsified, and care that was not provided should not be charted as done. {T
+#### Falsification is prohibited; only actual care is documented.}
+
+// question: BRN-M04-Q12
+::BRN-M04-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen documentation, legal charting, and audit-ready recordkeeping
+~Encourage shortcuts
+~Replace the care plan
+#### The aim is sound documentation, legal charting, and audit readiness.
+}
+
+$CATEGORY: $course$/BRN/M05
+
+// question: BRN-M05-Q01
+::BRN-M05-Q01::
+Informed consent generally requires that the patient\: {
+~Signs without understanding
+=Receives understandable information about the option, risks, benefits, and alternatives and voluntarily agrees
+~Is told only the benefits
+~Is pressured to agree
+#### Informed consent requires understandable disclosure and voluntary agreement. Confirm legal specifics with SME/legal.
+}
+
+// question: BRN-M05-Q02
+::BRN-M05-Q02::
+Patient advocacy in case management means the nurse\: {
+~Always defers to the payer
+=Supports the patient's rights, voice, and informed choices within ethical and legal bounds
+~Makes all decisions for the patient
+~Ignores patient preferences
+#### Advocacy supports the patient's rights and informed choices within ethical/legal limits.
+}
+
+// question: BRN-M05-Q03
+::BRN-M05-Q03::
+Respecting patient autonomy means\: {
+~Overriding patient decisions
+=Honoring the patient's right to make informed decisions about their own care
+~Withholding information
+~Deciding for the patient
+#### Autonomy is the patient's right to make informed decisions.
+}
+
+// question: BRN-M05-Q04
+::BRN-M05-Q04::
+Patients generally have the right to refuse care, and refusals should be documented and addressed appropriately. {T
+#### The right to refuse is fundamental; refusals are documented and managed appropriately. Confirm legal nuances with SME/legal.}
+
+// question: BRN-M05-Q05
+::BRN-M05-Q05::
+A professional boundary issue arises when the nurse\: {
+~Maintains a therapeutic, professional relationship
+=Allows personal interests or relationships to interfere with professional judgment or the patient relationship
+~Documents accurately
+~Follows the code of ethics
+#### Boundary issues occur when personal interests compromise professional judgment/relationship.
+}
+
+// question: BRN-M05-Q06
+::BRN-M05-Q06::
+When an ethical dilemma arises, a sound approach is to\: {
+~Decide quickly alone
+=Identify the issue, consider the patient's values and ethical principles, and use available resources (e.g., ethics consultation, policy)
+~Ignore it
+~Always choose the cheapest option
+#### Structured ethical reasoning and available resources support sound decisions.
+}
+
+// question: BRN-M05-Q07
+::BRN-M05-Q07::
+Scenario\: A competent patient declines a recommended service that the team believes is beneficial. The case manager should\: {
+~Override the patient's decision
+=Ensure the patient is informed of risks/benefits/alternatives, respect the autonomous decision, document it, and continue supportive care
+~Discharge the patient for non-compliance
+~Pressure the patient to agree
+#### A competent, informed patient may refuse; the nurse ensures understanding, respects autonomy, and documents.
+}
+
+// question: BRN-M05-Q08
+::BRN-M05-Q08::
+Which are core ethical principles relevant to case management? (Select all that apply.) {
+~%33.33333%Autonomy
+~%33.33333%Beneficence and non-maleficence
+~%-100.0%Deception
+~%33.33333%Justice
+}
+
+// question: BRN-M05-Q09
+::BRN-M05-Q09::
+Confidentiality of patient information means the nurse should\: {
+~Share freely
+=Protect information and disclose only as authorized or legally required
+~Post about patients
+~Discuss patients publicly
+#### Confidentiality limits disclosure to authorized/legally required situations.
+}
+
+// question: BRN-M05-Q10
+::BRN-M05-Q10::
+Cultural humility in advocacy means the nurse\: {
+~Imposes their own values
+=Respects and responds to the patient's cultural beliefs and preferences
+~Ignores culture
+~Treats all patients identically
+#### Cultural humility respects and responds to the patient's beliefs and preferences.
+}
+
+// question: BRN-M05-Q11
+::BRN-M05-Q11::
+Advance directives express a patient's wishes and should be honored within legal and policy frameworks. {T
+#### Advance directives guide care per legal and policy frameworks. Confirm specifics with SME/legal.}
+
+// question: BRN-M05-Q12
+::BRN-M05-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen knowledge of patient rights, consent, advocacy, and ethical boundaries
+~Reduce advocacy
+~Replace the ethics committee
+#### The aim is rights, consent, advocacy, and ethical boundaries.
+}
+
+$CATEGORY: $course$/BRN/M06
+
+// question: BRN-M06-Q01
+::BRN-M06-Q01::
+A safe transition of care depends most on\: {
+~Speed alone
+=Accurate information transfer, a clear plan, and confirmed follow-up arrangements
+~Minimizing patient involvement
+~Avoiding documentation
+#### Safe transitions require accurate information transfer, a clear plan, and confirmed follow-up.
+}
+
+// question: BRN-M06-Q02
+::BRN-M06-Q02::
+Discharge planning should ideally begin\: {
+~At the moment of discharge
+=Early in the care episode and be updated as the patient's status changes
+~After the patient leaves
+~Only if problems occur
+#### Early, dynamic discharge planning improves outcomes and reduces readmission risk.
+}
+
+// question: BRN-M06-Q03
+::BRN-M06-Q03::
+Medication reconciliation at transitions helps to\: {
+~Increase errors
+=Identify and resolve discrepancies to prevent medication errors
+~Replace the pharmacist
+~Avoid documentation
+#### Reconciliation identifies discrepancies and reduces medication errors at transitions.
+}
+
+// question: BRN-M06-Q04
+::BRN-M06-Q04::
+Teach-back (having the patient restate instructions in their own words) helps confirm understanding at discharge. {T
+#### Teach-back verifies patient understanding of discharge instructions.}
+
+// question: BRN-M06-Q05
+::BRN-M06-Q05::
+Connecting patients to appropriate community resources helps to\: {
+~Create barriers
+=Address ongoing needs and support continuity after discharge
+~Increase readmissions
+~Avoid follow-up
+#### Community resources support continuity and address ongoing needs.
+}
+
+// question: BRN-M06-Q06
+::BRN-M06-Q06::
+A key cause of avoidable readmissions is\: {
+~Thorough discharge planning
+=Poor transitions, unclear instructions, and inadequate follow-up
+~Medication reconciliation
+~Patient education
+#### Poor transitions and follow-up contribute to avoidable readmissions.
+}
+
+// question: BRN-M06-Q07
+::BRN-M06-Q07::
+Scenario\: A patient is being discharged home but expresses confusion about their new medications and follow-up appointments. The case manager should\: {
+~Proceed with discharge as planned
+=Pause to clarify instructions using teach-back, reconcile medications, confirm follow-up, and arrange support/resources as needed
+~Tell the patient to figure it out
+~Cancel the discharge entirely
+#### Clarifying instructions, reconciling medications, and confirming follow-up create a safe transition.
+}
+
+// question: BRN-M06-Q08
+::BRN-M06-Q08::
+Which elements belong in a safe discharge plan? (Select all that apply.) {
+~%33.33333%Clear instructions the patient understands
+~%33.33333%Medication reconciliation
+~%-100.0%No follow-up arrangements
+~%33.33333%Connection to needed resources/support
+}
+
+// question: BRN-M06-Q09
+::BRN-M06-Q09::
+Involving family/caregivers in discharge planning is helpful because they\: {
+~Should be excluded
+=Often support follow-through and can identify barriers at home
+~Make care less safe
+~Replace the care team
+#### Caregivers support follow-through and identify home barriers.
+}
+
+// question: BRN-M06-Q10
+::BRN-M06-Q10::
+Communicating the transition plan to the receiving provider/setting should be\: {
+~Optional
+=Timely, accurate, and complete to ensure continuity
+~Vague
+~Avoided
+#### Timely, accurate, complete communication to the receiving setting ensures continuity.
+}
+
+// question: BRN-M06-Q11
+::BRN-M06-Q11::
+Follow-up after discharge (e.g., confirming appointments or check-in) can reduce gaps and readmissions. {T
+#### Post-discharge follow-up reduces gaps and readmissions.}
+
+// question: BRN-M06-Q12
+::BRN-M06-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen safe transitions, discharge planning, and community-resource linkage
+~Increase readmissions
+~Replace the discharge team
+#### The aim is safe transitions, discharge planning, and resource linkage.
+}
+
+$CATEGORY: $course$/BRN/M07
+
+// question: BRN-M07-Q01
+::BRN-M07-Q01::
+Utilization review (UR) in case management primarily evaluates\: {
+~Staff schedules
+=Whether services are appropriate, necessary, and delivered at the right level of care
+~Marketing performance
+~Facility decor
+#### UR evaluates appropriateness, medical necessity, and level of care.
+}
+
+// question: BRN-M07-Q02
+::BRN-M07-Q02::
+'Medical necessity' generally refers to services that are\: {
+~Requested by the patient regardless of need
+=Appropriate and required for the patient's condition based on accepted standards
+~The most expensive option
+~Optional conveniences
+#### Medical necessity reflects appropriate, required care per accepted standards. Confirm payer/legal definitions with SME.
+}
+
+// question: BRN-M07-Q03
+::BRN-M07-Q03::
+'Payer-safe' communication means the case manager\: {
+~Exaggerates the patient's condition to obtain authorization
+=Communicates accurately and truthfully, supported by documentation
+~Withholds relevant information
+~Guarantees coverage outcomes
+#### Payer-safe communication is accurate, truthful, and documentation-supported; never exaggerated or fraudulent.
+}
+
+// question: BRN-M07-Q04
+::BRN-M07-Q04::
+Misrepresenting a patient's condition to obtain authorization is unethical and can constitute fraud. {T
+#### Misrepresentation for authorization is unethical and may be fraud.}
+
+// question: BRN-M07-Q05
+::BRN-M07-Q05::
+Documentation supporting medical necessity should\: {
+~Be vague
+=Clearly reflect the clinical picture, services, and rationale
+~Be inflated
+~Be omitted
+#### Documentation should accurately support the clinical picture and rationale for services.
+}
+
+// question: BRN-M07-Q06
+::BRN-M07-Q06::
+When a service is denied by a payer, an appropriate case-manager action is to\: {
+~Tell the patient nothing
+=Understand the reason, support appeal/alternative options as appropriate, and keep the patient informed
+~Falsify records to overturn it
+~Abandon the patient
+#### Case managers address denials through legitimate appeals/alternatives and patient communication.
+}
+
+// question: BRN-M07-Q07
+::BRN-M07-Q07::
+Scenario\: A supervisor pressures the case manager to document a higher level of need than is clinically accurate to secure payment. The case manager should\: {
+~Comply to keep peace
+=Refuse to misrepresent, document accurately, and escalate the concern through appropriate channels
+~Quietly alter the chart
+~Ask the patient to lie
+#### The nurse must document accurately, refuse misrepresentation, and escalate; this protects patients and integrity.
+}
+
+// question: BRN-M07-Q08
+::BRN-M07-Q08::
+Which practices support ethical utilization management? (Select all that apply.) {
+~%33.33333%Accurate documentation
+~%33.33333%Truthful payer communication
+~%-100.0%Inflating severity for payment
+~%33.33333%Balancing patient advocacy with appropriate resource use
+}
+
+// question: BRN-M07-Q09
+::BRN-M07-Q09::
+Balancing advocacy and stewardship means the case manager\: {
+~Always chooses the cheapest option
+=Advocates for needed care while using resources responsibly
+~Ignores cost entirely
+~Ignores patient needs
+#### Case managers advocate for appropriate care while stewarding resources responsibly.
+}
+
+// question: BRN-M07-Q10
+::BRN-M07-Q10::
+Knowing the patient's coverage and benefits helps the case manager to\: {
+~Deny care
+=Plan realistic, appropriate care and reduce surprises for the patient
+~Avoid documentation
+~Replace clinical judgment
+#### Understanding benefits supports realistic, appropriate planning.
+}
+
+// question: BRN-M07-Q11
+::BRN-M07-Q11::
+The patient should be kept informed about coverage issues affecting their care in an honest, understandable way. {T
+#### Honest, understandable communication keeps patients informed about coverage issues.}
+
+// question: BRN-M07-Q12
+::BRN-M07-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen utilization review, medical-necessity documentation, and payer-safe communication
+~Encourage upcoding
+~Replace the payer
+#### The aim is sound UR, medical-necessity documentation, and payer-safe communication.
+}
+
+$CATEGORY: $course$/BRN/M08
+
+// question: BRN-M08-Q01
+::BRN-M08-Q01::
+The purpose of quality assurance/quality improvement in case management is to\: {
+~Assign blame
+=Systematically monitor and improve care processes and outcomes
+~Increase paperwork only
+~Hide problems
+#### QA/QI systematically monitors and improves processes and outcomes.
+}
+
+// question: BRN-M08-Q02
+::BRN-M08-Q02::
+Risk management primarily focuses on\: {
+~Ignoring hazards
+=Identifying, evaluating, and reducing risks to patients, staff, and the organization
+~Increasing risk
+~Marketing
+#### Risk management identifies and reduces risks to patients, staff, and the organization.
+}
+
+// question: BRN-M08-Q03
+::BRN-M08-Q03::
+An incident report should be\: {
+~A way to assign blame
+=An objective, factual, timely record of an event used to improve safety
+~Optional
+~Filled with opinions
+#### Incident reports are objective, factual, timely, and used to improve safety, not to assign blame.
+}
+
+// question: BRN-M08-Q04
+::BRN-M08-Q04::
+Near-misses, not just actual harm events, are valuable to report because they reveal system weaknesses. {T
+#### Near-miss reporting reveals weaknesses before harm occurs.}
+
+// question: BRN-M08-Q05
+::BRN-M08-Q05::
+Escalation in case management means\: {
+~Hiding a problem
+=Promptly raising a concern to the appropriate level/person when it exceeds one's authority or requires urgent attention
+~Waiting indefinitely
+~Solving everything alone
+#### Escalation routes concerns promptly to the right level when needed.
+}
+
+// question: BRN-M08-Q06
+::BRN-M08-Q06::
+A 'just culture' approach to safety emphasizes\: {
+~Punishing all errors harshly
+=Learning from errors and addressing system factors while maintaining accountability
+~Ignoring errors
+~Hiding events
+#### Just culture balances accountability with learning and system improvement.
+}
+
+// question: BRN-M08-Q07
+::BRN-M08-Q07::
+Scenario\: A case manager identifies a recurring process gap that has led to several near-misses in handoffs. The best action is to\: {
+~Ignore it since no one was harmed
+=Report it through QA/risk channels, document the pattern, and propose/participate in a process improvement
+~Blame an individual colleague
+~Conceal it
+#### Reporting patterns and improving the process prevents future harm.
+}
+
+// question: BRN-M08-Q08
+::BRN-M08-Q08::
+Which support a strong safety/quality program? (Select all that apply.) {
+~%33.33333%Timely incident and near-miss reporting
+~%33.33333%Objective, factual documentation
+~%-100.0%Punitive blame for all errors
+~%33.33333%Process improvement based on data
+}
+
+// question: BRN-M08-Q09
+::BRN-M08-Q09::
+When a patient-safety concern is urgent and exceeds the case manager's authority, the nurse should\: {
+~Wait for the next meeting
+=Escalate immediately to the appropriate person/level per policy
+~Do nothing
+~Document only and move on
+#### Urgent concerns require immediate escalation per policy.
+}
+
+// question: BRN-M08-Q10
+::BRN-M08-Q10::
+Tracking and trending data on incidents helps the organization to\: {
+~Hide issues
+=Identify patterns and target improvements
+~Increase errors
+~Avoid accountability
+#### Trending data reveals patterns and guides targeted improvement.
+}
+
+// question: BRN-M08-Q11
+::BRN-M08-Q11::
+Reporting a safety concern in good faith is part of professional accountability. {T
+#### Good-faith reporting is part of professional accountability and safety culture.}
+
+// question: BRN-M08-Q12
+::BRN-M08-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen quality assurance, risk management, incident reporting, and escalation
+~Discourage reporting
+~Replace leadership
+#### The aim is QA, risk management, incident reporting, and escalation.
+}
+
+$CATEGORY: $course$/BRN/M09
+
+// question: BRN-M09-Q01
+::BRN-M09-Q01::
+Chronic disease management in case management emphasizes\: {
+~One-time treatment only
+=Ongoing support, self-management education, monitoring, and coordination over time
+~Avoiding the patient
+~Ignoring comorbidities
+#### Chronic disease management is longitudinal\: support, education, monitoring, and coordination.
+}
+
+// question: BRN-M09-Q02
+::BRN-M09-Q02::
+High-risk patients often benefit from\: {
+~Less attention
+=Closer monitoring, proactive coordination, and individualized planning
+~No care plan
+~Standardized generic care
+#### High-risk patients benefit from closer monitoring and individualized, proactive coordination.
+}
+
+// question: BRN-M09-Q03
+::BRN-M09-Q03::
+Geriatric patients may require special attention to\: {
+~No special factors
+=Polypharmacy, fall risk, cognitive changes, and functional status
+~Only their age
+~Marketing preferences
+#### Geriatric care attends to polypharmacy, falls, cognition, and function.
+}
+
+// question: BRN-M09-Q04
+::BRN-M09-Q04::
+Polypharmacy can increase the risk of adverse drug events, especially in older adults. {T
+#### Polypharmacy raises adverse-event risk, particularly in older adults. Confirm clinical specifics with SME.}
+
+// question: BRN-M09-Q05
+::BRN-M09-Q05::
+Patient self-management education for chronic disease aims to\: {
+~Make the patient dependent
+=Build the patient's knowledge, skills, and confidence to manage their condition
+~Replace all professional care
+~Avoid the patient's involvement
+#### Self-management education builds patient knowledge, skills, and confidence.
+}
+
+// question: BRN-M09-Q06
+::BRN-M09-Q06::
+Recognizing early warning signs of decompensation in a chronic condition allows the case manager to\: {
+~Wait for a crisis
+=Intervene or escalate early to prevent deterioration or hospitalization
+~Ignore changes
+~Stop monitoring
+#### Early recognition supports timely intervention/escalation to prevent deterioration.
+}
+
+// question: BRN-M09-Q07
+::BRN-M09-Q07::
+Scenario\: A home-health patient with heart failure reports rapid weight gain and increased shortness of breath. The case manager should\: {
+~Wait until the next routine visit
+=Recognize possible decompensation, follow protocol, notify the appropriate provider promptly, and document
+~Tell the patient it is normal
+~Discontinue services
+#### These are possible decompensation signs warranting prompt provider notification per protocol. (Clinical thresholds require SME confirmation.)
+}
+
+// question: BRN-M09-Q08
+::BRN-M09-Q08::
+Which support high-risk/chronic care management? (Select all that apply.) {
+~%33.33333%Individualized care planning
+~%33.33333%Patient self-management education
+~%-100.0%Ignoring comorbidities
+~%33.33333%Proactive monitoring and coordination
+}
+
+// question: BRN-M09-Q09
+::BRN-M09-Q09::
+Addressing social determinants for high-risk patients can\: {
+~Worsen outcomes
+=Reduce barriers and improve the likelihood of successful self-management
+~Be ignored safely
+~Replace clinical care
+#### Addressing social determinants reduces barriers and supports outcomes.
+}
+
+// question: BRN-M09-Q10
+::BRN-M09-Q10::
+Coordinating multiple specialists for a complex patient helps to\: {
+~Fragment care
+=Align treatment, reduce conflicting plans, and improve safety
+~Increase duplication
+~Confuse the patient
+#### Coordination aligns specialists and reduces conflicting plans.
+}
+
+// question: BRN-M09-Q11
+::BRN-M09-Q11::
+Individualized goals and regular reassessment are important in managing chronic and high-risk patients. {T
+#### Individualized goals and reassessment are key in chronic/high-risk management.}
+
+// question: BRN-M09-Q12
+::BRN-M09-Q12::
+The overall aim of this module is to\: {
+~Teach prescribing
+=Strengthen management of chronic disease, geriatric, and high-risk patients
+~Reduce monitoring
+~Replace specialists
+#### The aim is chronic, geriatric, and high-risk patient management.
+}
+
+$CATEGORY: $course$/BRN/M10
+
+// question: BRN-M10-Q01
+::BRN-M10-Q01::
+An integrated case-management approach means the case manager\: {
+~Treats each issue in isolation
+=Synthesizes assessment, planning, coordination, documentation, and advocacy into a cohesive process
+~Focuses only on billing
+~Avoids the team
+#### Integrated case management synthesizes all core functions into a cohesive, patient-centered process.
+}
+
+// question: BRN-M10-Q02
+::BRN-M10-Q02::
+Applying the full case-management process to a complex patient begins with\: {
+~Discharge
+=Comprehensive assessment that informs an individualized plan
+~Billing
+~Marketing
+#### The process begins with comprehensive assessment to inform an individualized plan.
+}
+
+// question: BRN-M10-Q03
+::BRN-M10-Q03::
+Across the case-management process, the patient's role should be\: {
+~Excluded
+=An active, informed partner throughout
+~Limited to signing forms
+~Replaced by family only
+#### The patient is an active, informed partner throughout the process.
+}
+
+// question: BRN-M10-Q04
+::BRN-M10-Q04::
+Evaluating outcomes and revising the plan are ongoing parts of the case-management process. {T
+#### Outcome evaluation and plan revision are continuous in case management.}
+
+// question: BRN-M10-Q05
+::BRN-M10-Q05::
+When multiple priorities compete for a complex patient, the case manager should\: {
+~Address them randomly
+=Prioritize based on safety, acuity, and patient goals while coordinating the team
+~Ignore safety
+~Focus only on cost
+#### Prioritization integrates safety, acuity, and patient goals with team coordination.
+}
+
+// question: BRN-M10-Q06
+::BRN-M10-Q06::
+Ethical and legal considerations in an integrated case should be\: {
+~Ignored
+=Woven throughout assessment, planning, communication, and documentation
+~Considered only at discharge
+~Left to others
+#### Ethics and legal considerations are integral throughout the process.
+}
+
+// question: BRN-M10-Q07
+::BRN-M10-Q07::
+Scenario\: A complex home-health patient has a new chronic diagnosis, limited support, coverage questions, and a safety concern at home. An integrated response is to\: {
+~Handle only the coverage issue
+=Reassess holistically, update the plan, coordinate the team and resources, communicate in a payer-safe manner, address safety, and document thoroughly
+~Discharge to simplify
+~Focus only on documentation
+#### Integrated management addresses clinical, social, coverage, safety, and documentation needs together.
+}
+
+// question: BRN-M10-Q08
+::BRN-M10-Q08::
+Which are integrated across a complete case-management episode? (Select all that apply.) {
+~%33.33333%Assessment and planning
+~%33.33333%Coordination and advocacy
+~%-100.0%Falsified documentation
+~%33.33333%Evaluation and revision
+}
+
+// question: BRN-M10-Q09
+::BRN-M10-Q09::
+Demonstrating competency in this program is shown by\: {
+~Memorizing terms only
+=Applying the integrated process safely, ethically, and within scope to realistic scenarios
+~Avoiding scenarios
+~Ignoring documentation
+#### Competency is shown by safe, ethical, in-scope application to realistic scenarios.
+}
+
+// question: BRN-M10-Q10
+::BRN-M10-Q10::
+Reflective practice at the end of a case helps the case manager to\: {
+~Repeat mistakes
+=Identify what worked, what to improve, and how to strengthen future practice
+~Avoid learning
+~Blame the patient
+#### Reflection supports continuous improvement of practice.
+}
+
+// question: BRN-M10-Q11
+::BRN-M10-Q11::
+This 30-contact-hour program prepares RNs to apply integrated case-management skills; it does not certify a specialty or expand scope of practice. {T
+#### The program builds skills via continuing education; it makes no certification or scope-expansion claim.}
+
+// question: BRN-M10-Q12
+::BRN-M10-Q12::
+The capstone module's overall aim is to\: {
+~Introduce new unrelated content
+=Integrate and apply the full case-management process across realistic scenarios
+~Replace prior modules
+~Focus only on theory
+#### The capstone integrates and applies the full process.
+}
+
+$CATEGORY: $course$/BRN/CAPSTONE_FINAL
+
+// question: BRN-CAPSTONE_FINAL-Q01
+::BRN-CAPSTONE_FINAL-Q01::
+The core purpose of RN case management is to\: {
+~Replace the physician
+=Coordinate and advocate for safe, patient-centered care across settings
+~Cut costs regardless of quality
+~Eliminate documentation
+#### Case management coordinates and advocates for patient-centered care.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q02
+::BRN-CAPSTONE_FINAL-Q02::
+Acting within RN scope of practice means\: {
+~Doing any requested task
+=Practicing within legal/professional boundaries for RNs
+~Practicing medicine independently
+~Ignoring standards
+#### Scope defines legal/professional boundaries.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q03
+::BRN-CAPSTONE_FINAL-Q03::
+This continuing education is measured in\: {
+~CEUs
+=Contact hours
+~Academic credits
+~Clinical rotations
+#### BRN CE is measured in contact hours, not CEUs.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q04
+::BRN-CAPSTONE_FINAL-Q04::
+A comprehensive assessment includes\: {
+~Only diagnosis
+=Physical, functional, psychosocial, and environmental factors
+~Only insurance
+~Only age
+#### Holistic assessment spans multiple domains.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q05
+::BRN-CAPSTONE_FINAL-Q05::
+A patient-centered care plan goal should be\: {
+~Vague
+=Specific, measurable, and aligned with the patient's priorities
+~Decided without the patient
+~Facility-focused only
+#### SMART, patient-aligned goals support individualized care.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q06
+::BRN-CAPSTONE_FINAL-Q06::
+The patient should be involved in developing their care plan. {T
+#### Patient involvement is central to patient-centered planning.}
+
+// question: BRN-CAPSTONE_FINAL-Q07
+::BRN-CAPSTONE_FINAL-Q07::
+Care coordination aims to make care\: {
+~Fragmented
+=Safe, continuous, and non-duplicative across the team and settings
+~Siloed
+~Less communicated
+#### Coordination aligns the team for continuous, non-duplicative care.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q08
+::BRN-CAPSTONE_FINAL-Q08::
+Structured handoffs primarily help to\: {
+~Lose information
+=Transfer accurate information and reduce errors
+~Slow care
+~Avoid documentation
+#### Structured handoffs reduce errors at transitions.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q09
+::BRN-CAPSTONE_FINAL-Q09::
+Legally sound documentation is\: {
+~Vague and delayed
+=Accurate, objective, timely, complete, and legible
+~Opinion-based
+~Altered without notation
+#### Sound documentation is accurate, objective, timely, complete, legible.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q10
+::BRN-CAPSTONE_FINAL-Q10::
+Care that was not provided should never be charted as if it were done. {T
+#### Documentation integrity prohibits charting care not provided.}
+
+// question: BRN-CAPSTONE_FINAL-Q11
+::BRN-CAPSTONE_FINAL-Q11::
+Informed consent requires\: {
+~A signature without understanding
+=Understandable disclosure of risks/benefits/alternatives and voluntary agreement
+~Only benefits disclosed
+~Coercion
+#### Informed consent requires disclosure and voluntary agreement.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q12
+::BRN-CAPSTONE_FINAL-Q12::
+Respecting autonomy means\: {
+~Deciding for the patient
+=Honoring the patient's right to make informed decisions
+~Withholding information
+~Overriding refusals
+#### Autonomy honors informed patient decisions.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q13
+::BRN-CAPSTONE_FINAL-Q13::
+Which are core ethical principles? (Select all that apply.) {
+~%33.33333%Autonomy
+~%33.33333%Beneficence/non-maleficence
+~%-100.0%Deception
+~%33.33333%Justice
+}
+
+// question: BRN-CAPSTONE_FINAL-Q14
+::BRN-CAPSTONE_FINAL-Q14::
+A safe transition of care requires\: {
+~Speed only
+=Accurate information transfer, a clear plan, and confirmed follow-up
+~Less patient involvement
+~No documentation
+#### Safe transitions require information transfer, a plan, and follow-up.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q15
+::BRN-CAPSTONE_FINAL-Q15::
+Teach-back at discharge is used to\: {
+~Lengthen the visit
+=Confirm the patient understands instructions
+~Replace written instructions
+~Avoid education
+#### Teach-back confirms understanding.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q16
+::BRN-CAPSTONE_FINAL-Q16::
+Medication reconciliation at transitions helps to\: {
+~Increase errors
+=Identify and resolve medication discrepancies
+~Replace the pharmacist
+~Avoid documentation
+#### Reconciliation reduces medication errors.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q17
+::BRN-CAPSTONE_FINAL-Q17::
+Medical necessity refers to services that are\: {
+~The most expensive
+=Appropriate and required for the condition per accepted standards
+~Optional conveniences
+~Patient-requested regardless of need
+#### Medical necessity is appropriate, required care per standards.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q18
+::BRN-CAPSTONE_FINAL-Q18::
+Misrepresenting a patient's condition to obtain authorization is unethical and may constitute fraud. {T
+#### Misrepresentation for authorization is unethical and potentially fraudulent.}
+
+// question: BRN-CAPSTONE_FINAL-Q19
+::BRN-CAPSTONE_FINAL-Q19::
+Payer-safe communication means\: {
+~Exaggerating need
+=Communicating accurately and truthfully, supported by documentation
+~Withholding information
+~Guaranteeing coverage
+#### Payer-safe communication is accurate and documentation-supported.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q20
+::BRN-CAPSTONE_FINAL-Q20::
+An incident report should be\: {
+~A blame tool
+=An objective, factual, timely safety record
+~Optional
+~Opinion-filled
+#### Incident reports are objective, factual, timely, and safety-focused.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q21
+::BRN-CAPSTONE_FINAL-Q21::
+Escalation means\: {
+~Hiding a concern
+=Promptly raising a concern to the appropriate level when needed
+~Waiting indefinitely
+~Solving everything alone
+#### Escalation routes concerns to the right level promptly.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q22
+::BRN-CAPSTONE_FINAL-Q22::
+Near-misses are valuable to report because they reveal system weaknesses before harm occurs. {T
+#### Near-miss reporting prevents future harm.}
+
+// question: BRN-CAPSTONE_FINAL-Q23
+::BRN-CAPSTONE_FINAL-Q23::
+Chronic disease management emphasizes\: {
+~One-time treatment
+=Ongoing support, education, monitoring, and coordination
+~Avoiding the patient
+~Ignoring comorbidities
+#### Chronic disease management is longitudinal and coordinated.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q24
+::BRN-CAPSTONE_FINAL-Q24::
+Geriatric care often requires attention to\: {
+~No special factors
+=Polypharmacy, fall risk, cognition, and function
+~Only age
+~Marketing
+#### Geriatric care attends to polypharmacy, falls, cognition, function.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q25
+::BRN-CAPSTONE_FINAL-Q25::
+Scenario\: A heart-failure home-health patient reports rapid weight gain and worsening shortness of breath. The case manager should\: {
+~Wait for the next routine visit
+=Recognize possible decompensation, follow protocol, notify the provider promptly, and document
+~Say it is normal
+~Discontinue services
+#### Prompt provider notification per protocol addresses possible decompensation. (Clinical thresholds need SME confirmation.)
+}
+
+// question: BRN-CAPSTONE_FINAL-Q26
+::BRN-CAPSTONE_FINAL-Q26::
+Integrated case management means\: {
+~Treating issues in isolation
+=Synthesizing assessment, planning, coordination, documentation, and advocacy
+~Billing only
+~Avoiding the team
+#### Integration synthesizes all core functions.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q27
+::BRN-CAPSTONE_FINAL-Q27::
+Which are integrated across a full case-management episode? (Select all that apply.) {
+~%33.33333%Assessment and planning
+~%33.33333%Coordination and advocacy
+~%-100.0%Falsified records
+~%33.33333%Evaluation and revision
+}
+
+// question: BRN-CAPSTONE_FINAL-Q28
+::BRN-CAPSTONE_FINAL-Q28::
+Scenario\: A supervisor pressures the case manager to document a higher acuity than is accurate to secure payment. The case manager should\: {
+~Comply
+=Refuse to misrepresent, document accurately, and escalate appropriately
+~Quietly alter records
+~Ask the patient to misstate symptoms
+#### Integrity requires accurate documentation, refusal to misrepresent, and escalation.
+}
+
+// question: BRN-CAPSTONE_FINAL-Q29
+::BRN-CAPSTONE_FINAL-Q29::
+This 30-contact-hour program builds case-management skills but makes no certification or scope-expansion claim. {T
+#### The program is continuing education; it makes no certification or scope-expansion claim.}
+
+// question: BRN-CAPSTONE_FINAL-Q30
+::BRN-CAPSTONE_FINAL-Q30::
+Confidentiality of patient information requires that it is\: {
+~Shared freely
+=Disclosed only as authorized or legally required
+~Posted online
+~Discussed publicly
+#### Confidential information is disclosed only as authorized/legally required.
+}
+

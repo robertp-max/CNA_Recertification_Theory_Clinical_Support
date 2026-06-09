@@ -1,0 +1,11 @@
+report_or_export,moodle_source,purpose,format,responsible_role,retention_location,survey_use
+Activity completion report,Reports > Activity completion,Show each learner's per-activity completion,CSV/Excel,Manager/Teacher,Evidence archive (secure store),Demonstrates content/seat-time completion
+Course completion report,Reports > Course completion,Show overall course completion status,CSV/Excel,Manager/Teacher,Evidence archive,Demonstrates completion gating works
+Grade report (grader/single view),Grades > Grader report / User report,Show quiz and activity grades,CSV/Excel,Manager/Teacher,Evidence archive,Demonstrates pass thresholds enforced
+Quiz attempts/responses report,Quiz > Results > Responses/Statistics,Show attempts retained including failed attempts,CSV/Excel,Manager/Teacher,Evidence archive,Demonstrates retake history retained
+Logs report,Reports > Logs,Show user activity/audit trail,CSV/Excel,Manager/Admin,Evidence archive,Audit trail of access and actions
+Configurable report (optional),Custom/Configurable reports plugin (if installed),Combine completion + grade + time evidence,CSV/Excel,Manager,Evidence archive,Consolidated survey evidence bundle
+Certificate issuance log (post-approval),Certificate activity report,Show certificates issued after approval only,CSV/PDF list,Manager,Evidence archive,Proves no pre-approval issuance
+Course backup (.mbz),Course administration > Backup,Full course export for retention/DR,.mbz,Admin,Backup store + offsite,Restorable approved-course snapshot
+Reviewer export bundle,Compiled from above,Read-only evidence set for survey reviewer,Folder/ZIP,Manager,Reviewer bundle store,Survey-day reviewer package
+No-PHI scan note,Manual + activity review,Confirm no PHI present in submissions,Note/checklist,Compliance Reviewer,Evidence archive,Confirms privacy controls
