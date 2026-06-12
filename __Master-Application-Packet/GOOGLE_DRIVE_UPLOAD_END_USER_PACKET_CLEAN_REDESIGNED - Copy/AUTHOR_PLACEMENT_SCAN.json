@@ -1,0 +1,2308 @@
+{
+  "tj_allowed_count": 281,
+  "tj_ci_body_violation_count": 0,
+  "yadvir_ci_count": 0,
+  "yadvir_official_preserved_count": 6,
+  "tj_allowed": [
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / START HERE READ ME",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / START HERE READ ME",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / MASTER END USER PACKET INDEX",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CATALOG AND WEBSITE GUIDE",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CATALOG AND WEBSITE GUIDE",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "y0": 741.5,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 6,
+      "y0": 741.5,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH SUBMISSION PACKET",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA CDPH REVIEW CONTEXT",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 5,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 13,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 14,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 22,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 23,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 31,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 32,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 33,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / CNA COURSE MATRIX",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 6,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE CDSS APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 2,
+      "y0": 731.4,
+      "text": "TJ PADILLA / RCFE/CDSS MINIMUM REQUIRED SUBMISSION PACKET",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE/CDSS POST-HANDOFF CONTEXT",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 5,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 13,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 14,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 22,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 23,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 31,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 32,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 33,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 34,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 35,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 36,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 37,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 38,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 39,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 40,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 41,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 42,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 43,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 44,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 45,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 46,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 47,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 48,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 49,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 50,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 51,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 52,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 53,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 54,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 55,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 56,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 57,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 58,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 59,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 60,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / RCFE COURSE MATRIX AND DEMENTIA BLOCK",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 6,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP APPLICATION BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP MINIMUM SUBMISSION PACKET",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CEP REVIEW CONTEXT",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 4,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 5,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 13,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 14,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 22,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 23,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 31,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 32,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 33,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 34,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 35,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 36,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 37,
+      "y0": 734.7,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 38,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 39,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 40,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 41,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 42,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 43,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 44,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 45,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 46,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 47,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 48,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 49,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 50,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 51,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 52,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 53,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 54,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 55,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 56,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 57,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 58,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 59,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 60,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 61,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 62,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN COURSE MATERIALS",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / BRN CONTACT HOUR MAP",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 2,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 3,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 4,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 5,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 6,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 7,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 8,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 9,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 10,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 11,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 12,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 13,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 14,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 15,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 16,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 17,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 18,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 19,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 20,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 21,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 22,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 23,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 24,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 25,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 26,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 27,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 28,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 29,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 30,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 31,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 32,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 33,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 34,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 35,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 36,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 37,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 38,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 39,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 40,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 41,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 42,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 43,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 44,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 45,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 46,
+      "y0": 553.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 47,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 48,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 49,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 50,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 51,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 52,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 53,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 54,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 55,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 56,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 57,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 58,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 59,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 60,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 61,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 62,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 63,
+      "y0": 745.6,
+      "text": "TJ PADILLA / IMPLEMENTATION REQUIREMENT BINDER",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / POST-SME MOODLE BUILD HANDOFF",
+      "zone": "footer",
+      "official_page": false
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "page": 1,
+      "y0": 572.8,
+      "text": "P R E PA R E D  BY  TJ PADILLA \u00b7  J U N E  9 ,  2 0 2 6",
+      "zone": "cover",
+      "official_page": false
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "page": 2,
+      "y0": 731.0,
+      "text": "TJ PADILLA / POST-SME MOODLE BUILD HANDOFF",
+      "zone": "footer",
+      "official_page": false
+    }
+  ],
+  "tj_ci_body_violations": [],
+  "yadvir_ci_hits": [],
+  "yadvir_official_preserved_hits": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 13,
+      "y0": 277.4,
+      "text": "Yadvir Saandal",
+      "zone": "body",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 13,
+      "y0": 315.8,
+      "text": "yadvirs@careindeed.com",
+      "zone": "body",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 4,
+      "y0": 277.4,
+      "text": "Yadvir Saandal",
+      "zone": "body",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 4,
+      "y0": 315.8,
+      "text": "yadvirs@careindeed.com",
+      "zone": "body",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "page": 1,
+      "y0": 277.4,
+      "text": "Yadvir Saandal",
+      "zone": "cover",
+      "official_page": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "page": 1,
+      "y0": 315.8,
+      "text": "yadvirs@careindeed.com",
+      "zone": "cover",
+      "official_page": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page_count": 46,
+      "draft_pages_before": [
+        1,
+        13,
+        14,
+        16,
+        17,
+        19,
+        20,
+        22,
+        23,
+        25,
+        26,
+        28,
+        29,
+        31,
+        32,
+        34,
+        35,
+        37,
+        38,
+        40,
+        41
+      ],
+      "draft_xobjects_removed": [
+        636,
+        851
+      ],
+      "draft_pages_after_save": [
+        1
+      ],
+      "draft_pages_after_reopen": [
+        1
+      ]
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page_count": 37,
+      "draft_pages_before": [
+        1,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        13,
+        14,
+        16,
+        17,
+        19,
+        20,
+        22,
+        23,
+        25,
+        26,
+        28,
+        29,
+        31,
+        32
+      ],
+      "draft_xobjects_removed": [
+        463,
+        678
+      ],
+      "draft_pages_after_save": [
+        1
+      ],
+      "draft_pages_after_reopen": [
+        1
+      ]
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "page_count": 34,
+      "draft_pages_before": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        13,
+        14,
+        16,
+        17,
+        19,
+        20,
+        22,
+        23,
+        25,
+        26,
+        28,
+        29
+      ],
+      "draft_xobjects_removed": [
+        166,
+        589,
+        954,
+        1319,
+        1684,
+        2049,
+        2414,
+        2779,
+        3144,
+        3509
+      ],
+      "draft_pages_after_save": [],
+      "draft_pages_after_reopen": []
+    }
+  ]
+}

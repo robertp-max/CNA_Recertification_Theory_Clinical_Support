@@ -1,0 +1,55 @@
+{
+  "course_results": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "source": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\MOODLE_COURSE_CONTENT_READY_FOR_BUILD\\01_CNA_COURSE_CONTENT\\01_CNA_24HR_12_UNIT_MOODLE_COURSE_CONTENT.md",
+      "before_sha256": "c0a95a5cb5ddaa4118c6904042e95badddfe1ca95fa527931e1d8fbfb2191fac",
+      "after_sha256": "c0a95a5cb5ddaa4118c6904042e95badddfe1ca95fa527931e1d8fbfb2191fac",
+      "pages": 33,
+      "content_pages": 32
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "source": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\MOODLE_COURSE_CONTENT_READY_FOR_BUILD\\02_RCFE_COURSE_CONTENT\\01_RCFE_ADMIN_9_COURSE_27HR_MOODLE_COURSE_CONTENT.md",
+      "before_sha256": "668ed70949e25cf5c24d3a02c532ec6e1c11cd394f76acb80360a4c594a44036",
+      "after_sha256": "285bc80774bde55b44dbf4c93ed2ee2a8b0edd4463aa8eede0224332f856a5b3",
+      "pages": 60,
+      "content_pages": 59
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "source": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\MOODLE_COURSE_CONTENT_READY_FOR_BUILD\\03_BRN_COURSE_CONTENT\\01_BRN_RN_CASE_MANAGEMENT_30_CONTACT_HOUR_MOODLE_COURSE_CONTENT.md",
+      "before_sha256": "215dc6f7db7901ad43953c5a2824d26e831cdccf5f4f3a87685fc6a468e20500",
+      "after_sha256": "215dc6f7db7901ad43953c5a2824d26e831cdccf5f4f3a87685fc6a468e20500",
+      "pages": 62,
+      "content_pages": 61
+    }
+  ],
+  "handoff_results": [
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "before_sha256": "28af50305ae9bdf06e1e8a18517870462b6cf209b984ec17accd5ca10ec4acaa",
+      "after_sha256": "03cc9ebcc803af77e79edf788481066ff410ce84179f918b2dd488a8a7aaf78e",
+      "pages": 2
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "before_sha256": "2504f21556e67fbcc3b23f275c091f3fed5efacef77e4388a7a0d2270f9822b4",
+      "after_sha256": "c9d8a5718649f4d71abd0ef937cac31ee3d99d5600cd2be6aa17b2b308757b34",
+      "pages": 2
+    }
+  ],
+  "removed_raw_lms": [],
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_compiled_course_materials_qa\\02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX_p002.png"
+  ]
+}

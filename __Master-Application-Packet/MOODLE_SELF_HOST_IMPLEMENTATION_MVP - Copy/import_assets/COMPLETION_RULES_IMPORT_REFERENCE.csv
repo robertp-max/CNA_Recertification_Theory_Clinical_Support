@@ -1,0 +1,26 @@
+lane,course_unit_module,moodle_activity,activity_completion_condition,grade_pass_condition,restrict_access_dependency,evidence_generated,status
+CNA,U01-U12 (each unit),Overview page,Marked viewed (require view),N/A,None (or prior unit complete for U02-U12),Activity completion log,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Objectives page,Marked viewed (require view),N/A,Overview complete,Activity completion log,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Lesson/Resource (content),Require view; minimum time guidance per seat-time policy,N/A,Objectives complete,Activity completion + time-in-activity guidance,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Interaction/checkpoint,Require interaction/attempt,N/A,Content complete,Activity completion log,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Unit quiz,Require passing grade,>= 80% (configurable; confirm with SME/CDPH),Checkpoint complete,Quiz attempts + grade,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Scenario/documentation activity,Require submission/attempt,Graded or complete-on-submit,Unit quiz passed,Submission record,Generated Moodle MVP implementation artifact
+CNA,U01-U12 (each unit),Attestation,Require checkbox/submission,N/A,Scenario complete,Attestation submission record,Generated Moodle MVP implementation artifact
+CNA,Course,Course completion,All units complete + Final passed,Final >= 80% (configurable),All units complete,Course completion report,Generated Moodle MVP implementation artifact
+CNA,FINAL,Comprehensive final,Require passing grade,>= 80% (configurable; confirm with SME/CDPH),All 12 units complete,Quiz attempts + grade,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Overview,Require view,N/A,None,Activity completion log,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Objectives,Require view,N/A,Overview complete,Activity completion log,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Timed content sections,Require view; minimum time guidance per seat-time policy,N/A,Objectives complete,Activity completion + time guidance,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Interaction/checkpoint,Require interaction,N/A,Content complete,Activity completion log,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Scenario/admin judgment exercise,Require submission,Graded or complete-on-submit,Checkpoint complete,Submission record,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Final assessment,Require passing grade,>= 70% (configurable; confirm with SME/CDSS),Scenario complete,Quiz attempts + grade,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Participant evaluation,Require submission,N/A,Final passed,Evaluation submission record,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Attestation,Require checkbox/submission,N/A,Evaluation complete,Attestation submission record,Generated Moodle MVP implementation artifact
+RCFE,RCFE-CETP-001..009 (each course),Course completion,All required activities + final passed + attestation,Final passed,All activities complete,Course completion report,Generated Moodle MVP implementation artifact
+BRN,M01-M10 (each module),Objectives,Require view,N/A,Prior module complete (M02-M10),Activity completion log,Generated Moodle MVP implementation artifact
+BRN,M01-M10 (each module),Timed content,Require view; >= 150 instructional minutes target per 3 contact hours (50 min/contact hour),N/A,Objectives complete,Activity completion + time guidance,Generated Moodle MVP implementation artifact
+BRN,M01-M10 (each module),Case scenario,Require submission/attempt,Graded or complete-on-submit,Content complete,Submission record,Generated Moodle MVP implementation artifact
+BRN,M01-M10 (each module),Documentation/decision activity,Require submission,Graded or complete-on-submit,Case scenario complete,Submission record,Generated Moodle MVP implementation artifact
+BRN,M01-M10 (each module),Module quiz,Require passing grade,>= 80% (configurable; confirm with SME/BRN),Documentation activity complete,Quiz attempts + grade,Generated Moodle MVP implementation artifact
+BRN,Capstone/Final,Capstone final assessment,Require passing grade,>= 80% (configurable; confirm with SME/BRN),All 10 modules complete,Quiz attempts + grade,Generated Moodle MVP implementation artifact
+BRN,Course,Course completion,All modules complete + capstone passed,Capstone passed,All modules complete,Course completion report,Generated Moodle MVP implementation artifact

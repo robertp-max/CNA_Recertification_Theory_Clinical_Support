@@ -1,0 +1,40 @@
+﻿{
+    "checkpoint_created_local":  "2026-06-11 18:09:40 -07:00",
+    "status":  "paused_by_user_request",
+    "output_root":  "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy",
+    "source_root":  "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN - Copy - Copy",
+    "design_source_of_truth":  "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\PDF_Design_Studio\\pdf_design_studio.html",
+    "git_status_snapshot":  "CHECKPOINT_GIT_STATUS_SHORT.txt",
+    "validation_snapshot":  "CHECKPOINT_OFFICIAL_COMPARE.json",
+    "last_completed_reports":  [
+                                   "CNA_STUDIO_REBUILD_LAST_RUN.json",
+                                   "RCFE_REMAINING_STUDIO_HTML_REPORT.json",
+                                   "REMAINING_OLD_SHELL_STUDIO_REPORT.json"
+                               ],
+    "current_counts":  {
+                           "output_pdfs":  26,
+                           "completed":  26,
+                           "skipped":  1,
+                           "pending":  0,
+                           "blocked":  0
+                       },
+    "confirmed":  [
+                      "No packet-generation Python process is currently running; the only observed Python process is ComfyUI.",
+                      "RCFE LMS raw course-content PDF was removed and is intentionally skipped.",
+                      "Official government appendices compared visually against source with zero failures in CHECKPOINT_OFFICIAL_COMPARE.json."
+                  ],
+    "do_not_do_next":  [
+                           "Do not generate 02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf.",
+                           "Do not touch source folder files.",
+                           "Do not recreate, style, OCR, or retype official government forms.",
+                           "Do not regenerate covers until the CNA cover issue is reviewed against PDF_Design_Studio."
+                       ],
+    "pending_next_session":  [
+                                 "Remove TJ/user role references from generated documents; do not replace with explicit defensive language.",
+                                 "Add Yadvir where an owner/preparer/contact label is needed, using neutral operational wording.",
+                                 "Remove wording that sounds like role avoidance, e.g. compiler/non-operational/capacity disclaimers.",
+                                 "Remove terms like human review/human verification; use verification/review as appropriate.",
+                                 "Review and repair the CNA application binder cover from the PDF_Design_Studio source of truth before any further batch generation.",
+                                 "Visually review the 14 PDFs updated by REMAINING_OLD_SHELL_STUDIO_REPORT.json because that batch completed just before the pause."
+                             ]
+}

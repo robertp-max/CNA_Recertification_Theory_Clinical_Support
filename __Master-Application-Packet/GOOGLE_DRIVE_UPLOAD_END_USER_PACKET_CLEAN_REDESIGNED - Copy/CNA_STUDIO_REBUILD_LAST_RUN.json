@@ -1,0 +1,38 @@
+﻿{
+  "status": "complete",
+  "renderer": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "studio_html": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\PDF_Design_Studio\\pdf_design_studio.html",
+  "fixed": [
+    {
+      "rel": "01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "previous_sha256": "2f9547976b5bbb003c062e77bfff8c7b1509c61431725ac93600b2f89b4c474a",
+      "new_sha256": "e4788072a7b480784dcb1f70ea136f7055372a9f457caad5f45303171b65c0c8",
+      "pages": 17
+    },
+    {
+      "rel": "02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "previous_sha256": "8f7d74b3fc5ff2d77dccd31ddcf3ea4b1c29bafab98dea6a920d844aed499214",
+      "new_sha256": "a8ea07b3592ea88ad95e08b13c617e54c073446dbe998e8ae9f4a744747d7b10",
+      "pages": 8
+    },
+    {
+      "rel": "04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "previous_sha256": "c48e29296db6d974793865a2556e7b7ba872d87161377e27a141cccad5583acc",
+      "new_sha256": "eb20164331dd08b19454cfc982bc0c63a671f7be98982b98a5a39578e1fef9d0",
+      "pages": 2
+    }
+  ],
+  "official_forms_unchanged_sha256": "a2d0247893a3a2df6b77807fb461abe697a362d78afa2c9b1bb28e0edfac315a",
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\01_CNA_CDPH_APPLICATION_BINDER_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\01_CNA_CDPH_APPLICATION_BINDER_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\01_CNA_CDPH_APPLICATION_BINDER_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\01_CNA_CDPH_APPLICATION_BINDER_p017.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p008.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_cna_submission_studio_html_qa\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS_p002.png"
+  ]
+}

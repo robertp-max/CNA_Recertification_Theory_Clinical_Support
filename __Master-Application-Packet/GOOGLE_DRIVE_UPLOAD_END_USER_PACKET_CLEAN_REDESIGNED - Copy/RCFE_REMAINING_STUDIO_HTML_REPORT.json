@@ -1,0 +1,55 @@
+{
+  "updated": 4,
+  "results": [
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "before_sha256": "2bd326d1940fcec9306ca63ef58fb044d66b7d7c4608184a8b3e4e2b2528dc2f",
+      "after_sha256": "64704925b71193a9169783ca4d6995684a7077f528e267ef7c3b45c660332722",
+      "pages": 37,
+      "official_verified": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "before_sha256": "9d01d52a4dda9a1b768a180d77b2f7e83ebf21fd03d8d7efed28f474a6edf658",
+      "after_sha256": "c49faf15ad6ea5a5abe996da502f180f9fb4837d6633aa1bf241f32f33ce1bd4",
+      "pages": 2,
+      "expected_total": 2
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "before_sha256": "bf123a5d7d27ee1ff7bb8a2e91116bc5b45f4c9daacb0215f570a74aa58eab84",
+      "after_sha256": "c54e6fa48cc8f95e76e03581d00c6fa4a2749912e9dfafed9fccb6fb9407eb2f",
+      "pages": 2,
+      "expected_total": 2
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "before_sha256": "fbe320fc7e57aab0ab7e22d03e8987d9ab0fe420f0faae308ffdbd1df3ef1d07",
+      "after_sha256": "4527dd2a3e334c97dabe30d145b77d76b0f85e0e1d7b7c86e97edf51f737e2c3",
+      "pages": 81,
+      "expected_total": 81
+    }
+  ],
+  "skipped": [
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "reason": "Redundant with compiled RCFE course-materials packet; LMS raw course-content PDF intentionally not generated."
+    }
+  ],
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET_p005.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET_p037.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p005.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_rcfe_app_studio_html_qa\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED_p081.png"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "pdf_count": 24,
+  "raw_lms_pdfs": [],
+  "compiled_markdown_findings": [],
+  "handoff_moodle_agency_start_findings": [],
+  "official_sha_mismatches": [],
+  "official_draft_blocker": "RCFE source official forms contain DRAFT text; not removed because official forms must remain source-identical."
+}

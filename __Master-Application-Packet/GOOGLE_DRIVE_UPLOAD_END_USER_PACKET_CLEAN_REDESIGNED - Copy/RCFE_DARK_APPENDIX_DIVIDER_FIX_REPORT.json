@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 12,
+      "text_contains_appendix": false,
+      "sample_digest": "b2902d3a6cbaee009d59561d80900c2f"
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 3,
+      "text_contains_appendix": false,
+      "sample_digest": "b2902d3a6cbaee009d59561d80900c2f"
+    }
+  ]
+}

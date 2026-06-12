@@ -1,0 +1,89 @@
+{
+  "updated": 8,
+  "results": [
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "before_sha256": "9efdfebfafb1a2262877482b192a9e9c3f40693ee1ee48815efeb5fc0d3e6a6c",
+      "after_sha256": "9efdfebfafb1a2262877482b192a9e9c3f40693ee1ee48815efeb5fc0d3e6a6c",
+      "pages": 3,
+      "content_pages_regenerated": 2,
+      "official_appended_from_source": false
+    },
+    {
+      "rel": "00_START_HERE/01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "before_sha256": "e3aa8a258de36b63445763a885cf62d6e3f6845ee3a6afcd7a88587071ef89bf",
+      "after_sha256": "e0d3bd934724f14017b3643f07ec3415aa1565dc69d88c5c628a38df0a75d9a0",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "before_sha256": "91c8bd2cc1af575aa71a85737ceafa9cf7188e2585cffd013f3c77f2d29ddc3a",
+      "after_sha256": "91c8bd2cc1af575aa71a85737ceafa9cf7188e2585cffd013f3c77f2d29ddc3a",
+      "pages": 3,
+      "content_pages_regenerated": 2,
+      "official_appended_from_source": false
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "before_sha256": "d2ad329f5962aa5d1de1a44cb5fef22a311f1cc78e856a8aab7fc52512bcb32d",
+      "after_sha256": "d2ad329f5962aa5d1de1a44cb5fef22a311f1cc78e856a8aab7fc52512bcb32d",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "before_sha256": "c751c10cb819a7360b790d8a39b33e963e21fb45f9177a01818f1ab7ec4c423b",
+      "after_sha256": "c751c10cb819a7360b790d8a39b33e963e21fb45f9177a01818f1ab7ec4c423b",
+      "pages": 22,
+      "content_pages_regenerated": 10,
+      "official_appended_from_source": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "before_sha256": "ce84f5190ae43d55920dd33205f34c7b9af8f13f17f22a698038d6bd29b82789",
+      "after_sha256": "ce84f5190ae43d55920dd33205f34c7b9af8f13f17f22a698038d6bd29b82789",
+      "pages": 13,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "before_sha256": "045adc0d2d27f48deda1752289829b50557070ce3ff8e7de6b0aeb38f6e8c9b6",
+      "after_sha256": "045adc0d2d27f48deda1752289829b50557070ce3ff8e7de6b0aeb38f6e8c9b6",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "before_sha256": "e23da3a984460f0e5edede61b7ddf676976b69b0f08418113e57b4391609f324",
+      "after_sha256": "e23da3a984460f0e5edede61b7ddf676976b69b0f08418113e57b4391609f324",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false
+    }
+  ],
+  "official_checks": [
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "issues": []
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "issues": []
+    }
+  ],
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\01_MASTER_END_USER_PACKET_INDEX_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\01_BRN_CEP_APPLICATION_BINDER_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET_p002.png"
+  ]
+}

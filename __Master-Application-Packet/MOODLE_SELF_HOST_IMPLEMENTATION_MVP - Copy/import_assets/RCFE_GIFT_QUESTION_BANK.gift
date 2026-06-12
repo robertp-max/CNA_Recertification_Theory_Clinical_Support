@@ -1,0 +1,1273 @@
+// RCFE / CDSS CETP - Moodle Quiz Bank (9 LIC 9140 courses / 27 hours)
+// Generated Moodle MVP implementation artifact. SME review required before production use.
+// No PHI; fictional de-identified scenarios only.
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-001
+
+// question: RCFE-RCFE-CETP-001-Q01
+::RCFE-RCFE-CETP-001-Q01::
+The body of California regulations most directly governing RCFE operations is generally found in\: {
+=Title 22 community care licensing regulations
+~Federal tax code
+~Local zoning ordinances only
+~Vehicle code
+#### RCFEs are licensed under California community care licensing regulations (Title 22). Confirm exact citations with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-001-Q02
+::RCFE-RCFE-CETP-001-Q02::
+This RCFE continuing-education refresher is intended for administrators who are\: {
+~Seeking initial certification
+=Renewing/maintaining their administrator certificate through continuing education
+~Applying for a nursing license
+~Becoming physicians
+#### The course is a renewal-level CE refresher, not initial certification.
+}
+
+// question: RCFE-RCFE-CETP-001-Q03
+::RCFE-RCFE-CETP-001-Q03::
+An RCFE administrator's policies and procedures should be\: {
+~Kept secret from staff
+=Written, current, accessible to staff, and consistent with applicable regulations
+~Optional
+~Created only after a citation
+#### Current, accessible, regulation-aligned policies support compliant operations.
+}
+
+// question: RCFE-RCFE-CETP-001-Q04
+::RCFE-RCFE-CETP-001-Q04::
+RCFE administrators are responsible for ensuring the facility operates in compliance with applicable licensing regulations. {T
+#### The administrator is accountable for regulatory compliance.}
+
+// question: RCFE-RCFE-CETP-001-Q05
+::RCFE-RCFE-CETP-001-Q05::
+When a regulation and a facility's internal preference conflict, the administrator should\: {
+~Follow the internal preference
+=Follow the applicable regulation and update internal practice
+~Ignore both
+~Ask residents to decide
+#### Applicable regulations take precedence over internal preferences.
+}
+
+// question: RCFE-RCFE-CETP-001-Q06
+::RCFE-RCFE-CETP-001-Q06::
+A licensing analyst arrives for an inspection. The administrator should\: {
+~Refuse entry
+=Cooperate, provide access to required records, and respond professionally
+~Hide records
+~Send the analyst away
+#### Administrators cooperate with authorized licensing inspections and provide required access.
+}
+
+// question: RCFE-RCFE-CETP-001-Q07
+::RCFE-RCFE-CETP-001-Q07::
+Procedural standards for documentation in an RCFE primarily exist to\: {
+~Create unnecessary paperwork
+=Demonstrate compliance, support resident safety, and provide an audit-ready record
+~Replace staff training
+~Increase fees
+#### Documentation standards support compliance, safety, and audit readiness.
+}
+
+// question: RCFE-RCFE-CETP-001-Q08
+::RCFE-RCFE-CETP-001-Q08::
+Scenario\: An administrator discovers a facility practice that does not meet a current regulatory standard. The best response is to\: {
+~Continue the practice to avoid disruption
+=Correct the practice, update policy, document the corrective action, and train staff
+~Hide it from staff
+~Wait for a citation
+#### Proactive correction, documentation, and staff training reflect sound compliance management.
+}
+
+// question: RCFE-RCFE-CETP-001-Q09
+::RCFE-RCFE-CETP-001-Q09::
+Posting of the facility license and required notices is generally\: {
+~Optional
+=Required and should be visible/accessible as specified by regulation
+~Only for new facilities
+~Prohibited
+#### Required postings must be displayed per regulation. Confirm specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-001-Q10
+::RCFE-RCFE-CETP-001-Q10::
+Staying current with regulatory updates is important for an administrator because\: {
+~Regulations never change
+=Requirements can change, and compliance must reflect current rules
+~It is only the staff's job
+~Updates do not affect the facility
+#### Regulations evolve; administrators must keep current to remain compliant.
+}
+
+// question: RCFE-RCFE-CETP-001-Q11
+::RCFE-RCFE-CETP-001-Q11::
+Which are administrator responsibilities under licensing standards? (Select all that apply.) {
+~%33.33333%Maintaining required records
+~%33.33333%Ensuring staff meet training requirements
+~%-100.0%Falsifying documents to pass inspection
+~%33.33333%Protecting resident rights and safety
+}
+
+// question: RCFE-RCFE-CETP-001-Q12
+::RCFE-RCFE-CETP-001-Q12::
+Which best describes 'procedural standards'? {
+~Informal preferences
+=Defined, consistent steps for carrying out required processes
+~Optional suggestions
+~Marketing materials
+#### Procedural standards define consistent steps for required processes.
+}
+
+// question: RCFE-RCFE-CETP-001-Q13
+::RCFE-RCFE-CETP-001-Q13::
+Maintaining required records for the retention period specified by regulation is part of regulatory compliance. {T
+#### Record retention per regulation is a compliance requirement. Confirm retention periods with SME/legal.}
+
+// question: RCFE-RCFE-CETP-001-Q14
+::RCFE-RCFE-CETP-001-Q14::
+When the administrator is unsure how a specific regulation applies, the most defensible action is to\: {
+~Guess and proceed
+=Consult the regulation text and seek qualified guidance (e.g., licensing/legal) before acting
+~Ignore the question
+~Ask a resident
+#### Consulting the source and qualified guidance supports compliant, defensible decisions.
+}
+
+// question: RCFE-RCFE-CETP-001-Q15
+::RCFE-RCFE-CETP-001-Q15::
+The overall purpose of this laws-and-regulations refresher is to\: {
+~Certify new administrators
+=Reinforce current knowledge of the legal and procedural framework that governs RCFE operations
+~Replace licensing inspections
+~Provide medical training
+#### It reinforces current knowledge of the governing framework at a renewal level.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-002
+
+// question: RCFE-RCFE-CETP-002-Q01
+::RCFE-RCFE-CETP-002-Q01::
+Person-centered dementia care is best described as care that\: {
+~Treats all residents with dementia the same
+=Focuses on the individual's history, preferences, abilities, and dignity
+~Prioritizes facility routines over the person
+~Avoids family involvement
+#### Person-centered dementia care individualizes support around the person's identity, preferences, and abilities.
+}
+
+// question: RCFE-RCFE-CETP-002-Q02
+::RCFE-RCFE-CETP-002-Q02::
+Alzheimer's disease is best characterized as\: {
+~A normal part of aging
+=A progressive neurodegenerative condition affecting memory and cognition
+~A temporary, fully reversible condition
+~A contagious infection
+#### Alzheimer's is a progressive neurodegenerative disease; it is not normal aging. Confirm clinical phrasing with SME.
+}
+
+// question: RCFE-RCFE-CETP-002-Q03
+::RCFE-RCFE-CETP-002-Q03::
+Behavioral expressions in dementia (such as agitation) are best understood as\: {
+~Deliberate misbehavior
+=Often a form of communication of an unmet need or discomfort
+~Always requiring medication
+~Reasons to isolate the resident
+#### Behaviors often communicate unmet needs; identifying triggers is key to person-centered responses.
+}
+
+// question: RCFE-RCFE-CETP-002-Q04
+::RCFE-RCFE-CETP-002-Q04::
+Validating a resident's feelings and using a calm approach can help reduce dementia-related distress. {T
+#### Validation and calm communication are core person-centered techniques.}
+
+// question: RCFE-RCFE-CETP-002-Q05
+::RCFE-RCFE-CETP-002-Q05::
+Which communication approach is most appropriate for a resident with moderate dementia? {
+~Long, complex explanations
+=Short, simple sentences, one step at a time, with patience
+~Speaking rapidly
+~Correcting every inaccuracy firmly
+#### Simple, stepwise, patient communication supports comprehension and reduces distress.
+}
+
+// question: RCFE-RCFE-CETP-002-Q06
+::RCFE-RCFE-CETP-002-Q06::
+A meaningful activity program for residents with dementia should be\: {
+~Identical for everyone
+=Tailored to individual abilities, interests, and life history
+~Eliminated to reduce risk
+~Limited to passive television
+#### Individualized, meaningful activity supports engagement and well-being.
+}
+
+// question: RCFE-RCFE-CETP-002-Q07
+::RCFE-RCFE-CETP-002-Q07::
+Scenario\: A resident with dementia becomes upset during the evening and repeatedly asks to 'go home.' A person-centered response is to\: {
+~Tell them repeatedly they live here now
+=Respond calmly, acknowledge the feeling, offer reassurance and redirection, and look for unmet needs (hunger, fatigue, pain)
+~Leave the resident alone until they stop
+~Restrict them to their room
+#### Acknowledge feelings, reassure, redirect, and assess for unmet needs (including possible 'sundowning' patterns).
+}
+
+// question: RCFE-RCFE-CETP-002-Q08
+::RCFE-RCFE-CETP-002-Q08::
+Which approaches support person-centered dementia care? (Select all that apply.) {
+~%33.33333%Knowing the resident's life story
+~%33.33333%Maintaining familiar routines
+~%-100.0%Using restraints for convenience
+~%33.33333%Involving family in care preferences
+}
+
+// question: RCFE-RCFE-CETP-002-Q09
+::RCFE-RCFE-CETP-002-Q09::
+Staff training on dementia in an RCFE should emphasize\: {
+~Speed of task completion only
+=Understanding the disease, communication skills, and behavioral support strategies
+~Avoiding residents with dementia
+~Medication administration by all staff
+#### Dementia training emphasizes understanding, communication, and behavioral support.
+}
+
+// question: RCFE-RCFE-CETP-002-Q10
+::RCFE-RCFE-CETP-002-Q10::
+Which environmental feature can support residents with dementia? {
+~Cluttered, noisy spaces
+=Calm, predictable spaces with helpful cues and reduced overstimulation
+~Frequently rearranged furniture
+~Dim, confusing hallways
+#### Calm, cue-rich, low-overstimulation environments support orientation and comfort.
+}
+
+// question: RCFE-RCFE-CETP-002-Q11
+::RCFE-RCFE-CETP-002-Q11::
+Preserving dignity for a resident with dementia during personal care includes\: {
+~Performing care without explanation
+=Explaining steps simply, ensuring privacy, and offering choices when possible
+~Rushing to finish
+~Discussing the resident in front of others
+#### Simple explanation, privacy, and choice preserve dignity.
+}
+
+// question: RCFE-RCFE-CETP-002-Q12
+::RCFE-RCFE-CETP-002-Q12::
+Family members can be valuable partners in understanding a resident's preferences and history. {T
+#### Families provide insight into the resident's identity and preferences.}
+
+// question: RCFE-RCFE-CETP-002-Q13
+::RCFE-RCFE-CETP-002-Q13::
+A non-pharmacological first response to mild dementia-related agitation is generally to\: {
+~Immediately request sedating medication
+=Identify and address triggers, reassure, and redirect
+~Isolate the resident
+~Ignore the behavior
+#### Non-pharmacological, trigger-focused responses are generally first-line; medication decisions are clinical. Confirm clinical guidance with SME.
+}
+
+// question: RCFE-RCFE-CETP-002-Q14
+::RCFE-RCFE-CETP-002-Q14::
+Why is consistency of caregivers helpful for residents with dementia? {
+~It is not helpful
+=Familiar caregivers build trust and reduce confusion and anxiety
+~It reduces staffing costs only
+~It allows skipping documentation
+#### Consistent, familiar caregivers support trust and reduce distress.
+}
+
+// question: RCFE-RCFE-CETP-002-Q15
+::RCFE-RCFE-CETP-002-Q15::
+The overall aim of person-centered dementia foundations is to\: {
+~Standardize all residents into one routine
+=Support each resident's dignity, abilities, and quality of life
+~Reduce family contact
+~Increase use of restraints
+#### The aim is dignity, ability support, and quality of life for each individual.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-003
+
+// question: RCFE-RCFE-CETP-003-Q01
+::RCFE-RCFE-CETP-003-Q01::
+A primary safety concern for residents with dementia who wander is\: {
+~Improved exercise only
+=Elopement (leaving the facility unsafely) and related injury risk
+~Better sleep
+~Reduced supervision needs
+#### Wandering raises elopement and injury risk, requiring environmental and care planning.
+}
+
+// question: RCFE-RCFE-CETP-003-Q02
+::RCFE-RCFE-CETP-003-Q02::
+A dementia-supportive physical environment generally includes\: {
+~Confusing layouts and clutter
+=Secure but non-institutional design, clear cues, good lighting, and reduced hazards
+~Locked rooms used as punishment
+~Removal of all personal items
+#### Safe, cue-rich, well-lit, hazard-reduced environments support residents with dementia.
+}
+
+// question: RCFE-RCFE-CETP-003-Q03
+::RCFE-RCFE-CETP-003-Q03::
+Documentation related to a resident with dementia should\: {
+~Be vague to save time
+=Objectively record behaviors, interventions tried, and outcomes to inform care planning
+~Include staff opinions and labels
+~Be skipped if the resident cannot read it
+#### Objective documentation of behaviors and interventions supports individualized care and accountability.
+}
+
+// question: RCFE-RCFE-CETP-003-Q04
+::RCFE-RCFE-CETP-003-Q04::
+Restraints (physical or chemical) should not be used for staff convenience or discipline in dementia care. {T
+#### Restraints for convenience/discipline are prohibited; least-restrictive, person-centered approaches are required. Confirm regulatory specifics with SME/legal.}
+
+// question: RCFE-RCFE-CETP-003-Q05
+::RCFE-RCFE-CETP-003-Q05::
+Fall risk is often elevated in residents with dementia because of\: {
+~Improved balance
+=Impaired judgment, gait/perception changes, and possible medication effects
+~Increased strength
+~No relevant factors
+#### Cognitive, perceptual, gait, and medication factors raise fall risk, requiring prevention measures.
+}
+
+// question: RCFE-RCFE-CETP-003-Q06
+::RCFE-RCFE-CETP-003-Q06::
+An effective approach to reduce dementia-related agitation in the environment is to\: {
+~Increase noise and activity at all times
+=Reduce overstimulation, maintain routine, and provide calm spaces
+~Frequently change the resident's room
+~Remove orienting cues
+#### Calm, predictable, low-stimulation environments reduce agitation.
+}
+
+// question: RCFE-RCFE-CETP-003-Q07
+::RCFE-RCFE-CETP-003-Q07::
+Scenario\: A resident with dementia is found near an exit door appearing intent on leaving. The most appropriate response is to\: {
+~Physically block and scold the resident
+=Calmly approach, reassure, redirect to a safe activity, and document/report to update the safety plan
+~Allow them to leave the building
+~Lock them in their room
+#### Calm redirection plus documentation and safety-plan updates address elopement risk without improper restraint.
+}
+
+// question: RCFE-RCFE-CETP-003-Q08
+::RCFE-RCFE-CETP-003-Q08::
+Which measures help keep residents with dementia safe? (Select all that apply.) {
+~%33.33333%Wandering/elopement safety planning
+~%33.33333%Hazard reduction and good lighting
+~%-100.0%Using seclusion as punishment
+~%33.33333%Individualized fall-prevention measures
+}
+
+// question: RCFE-RCFE-CETP-003-Q09
+::RCFE-RCFE-CETP-003-Q09::
+Secured perimeters or alarmed exits in a dementia setting are intended to\: {
+~Punish residents
+=Support resident safety while maintaining dignity and least-restrictive practices
+~Replace supervision entirely
+~Restrict resident rights arbitrarily
+#### Safety features support protection while preserving dignity; they do not replace supervision. Confirm regulatory specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-003-Q10
+::RCFE-RCFE-CETP-003-Q10::
+When a dementia-related behavior changes suddenly, staff should consider\: {
+~That it is always intentional
+=A possible underlying medical cause (pain, infection, medication) and report for assessment
+~Ignoring it
+~Immediate discharge
+#### Sudden behavior change may signal a medical issue and should be reported for assessment.
+}
+
+// question: RCFE-RCFE-CETP-003-Q11
+::RCFE-RCFE-CETP-003-Q11::
+Care plans for residents with dementia should be\: {
+~Static and never updated
+=Individualized and updated as needs and behaviors change
+~Identical for all residents
+~Kept hidden from care staff
+#### Care plans should be individualized and updated to remain relevant.
+}
+
+// question: RCFE-RCFE-CETP-003-Q12
+::RCFE-RCFE-CETP-003-Q12::
+Clear documentation of dementia-related incidents supports both resident safety and regulatory accountability. {T
+#### Incident documentation supports safety and accountability.}
+
+// question: RCFE-RCFE-CETP-003-Q13
+::RCFE-RCFE-CETP-003-Q13::
+Adequate lighting and contrast in dementia environments help to\: {
+~Increase falls
+=Reduce confusion, misperception, and fall risk
+~Create glare hazards intentionally
+~Hide hazards
+#### Good lighting/contrast reduce misperception and falls.
+}
+
+// question: RCFE-RCFE-CETP-003-Q14
+::RCFE-RCFE-CETP-003-Q14::
+A least-restrictive approach to dementia safety means\: {
+~Using the most restrictive option first
+=Choosing the option that protects safety while preserving the most freedom and dignity
+~Avoiding all safety measures
+~Restraining all residents
+#### Least-restrictive means balancing safety with freedom and dignity.
+}
+
+// question: RCFE-RCFE-CETP-003-Q15
+::RCFE-RCFE-CETP-003-Q15::
+The overall focus of this course (dementia safety, environment, and documentation) is to\: {
+~Provide medication certification
+=Strengthen safe environments, risk management, and accurate documentation for residents with dementia
+~Eliminate care planning
+~Replace family involvement
+#### The focus is safe environments, risk management, and documentation.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-004
+
+// question: RCFE-RCFE-CETP-004-Q01
+::RCFE-RCFE-CETP-004-Q01::
+Residents in an RCFE have the right to\: {
+=Be treated with dignity, respect, and freedom from abuse
+~Be excluded from decisions about their care
+~Have personal mail opened by staff routinely
+~Be restrained for convenience
+#### Resident rights include dignity, respect, and freedom from abuse and mistreatment.
+}
+
+// question: RCFE-RCFE-CETP-004-Q02
+::RCFE-RCFE-CETP-004-Q02::
+A resident council primarily exists to\: {
+~Manage facility finances
+=Give residents a voice in facility matters affecting them
+~Replace the administrator
+~Discipline residents
+#### Resident councils provide a collective voice for residents.
+}
+
+// question: RCFE-RCFE-CETP-004-Q03
+::RCFE-RCFE-CETP-004-Q03::
+Preserving resident dignity during personal care includes\: {
+=Providing privacy and respectful communication
+~Discussing the resident loudly in common areas
+~Rushing without explanation
+~Ignoring preferences
+#### Privacy and respect preserve dignity.
+}
+
+// question: RCFE-RCFE-CETP-004-Q04
+::RCFE-RCFE-CETP-004-Q04::
+Residents generally have the right to participate in decisions about their own care and daily life. {T
+#### Self-determination and participation are core resident rights.}
+
+// question: RCFE-RCFE-CETP-004-Q05
+::RCFE-RCFE-CETP-004-Q05::
+Which is an example of protecting a resident's right to privacy? {
+~Sharing care details with unauthorized visitors
+=Knocking before entering and keeping records confidential
+~Posting resident information publicly
+~Discussing residents on social media
+#### Privacy includes confidentiality and respectful entry practices.
+}
+
+// question: RCFE-RCFE-CETP-004-Q06
+::RCFE-RCFE-CETP-004-Q06::
+Abuse prevention in an RCFE is supported primarily by\: {
+~Avoiding staff training
+=Staff screening, training, supervision, and a clear reporting culture
+~Discouraging residents from speaking up
+~Ignoring complaints
+#### Screening, training, supervision, and reporting culture prevent abuse.
+}
+
+// question: RCFE-RCFE-CETP-004-Q07
+::RCFE-RCFE-CETP-004-Q07::
+Scenario\: A resident reports that a staff member spoke to them harshly and ignored their requests. The administrator should\: {
+~Dismiss the complaint
+=Take the complaint seriously, investigate per policy, protect the resident, and document/report as required
+~Tell the resident to stop complaining
+~Punish the resident
+#### Complaints must be taken seriously, investigated, and addressed with resident protection and documentation. Confirm reporting obligations with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-004-Q08
+::RCFE-RCFE-CETP-004-Q08::
+Which are recognized resident rights? (Select all that apply.) {
+~%33.33333%Right to dignity and respect
+~%33.33333%Right to voice grievances without retaliation
+~%-100.0%Right to be restrained for convenience
+~%33.33333%Right to participate in care decisions
+}
+
+// question: RCFE-RCFE-CETP-004-Q09
+::RCFE-RCFE-CETP-004-Q09::
+Retaliation against a resident for filing a grievance is\: {
+~Acceptable
+=Prohibited; residents may voice concerns without fear of retaliation
+~Encouraged
+~Required
+#### Retaliation for grievances is prohibited.
+}
+
+// question: RCFE-RCFE-CETP-004-Q10
+::RCFE-RCFE-CETP-004-Q10::
+Cultural competency in resident rights means\: {
+~Ignoring cultural differences
+=Respecting diverse backgrounds, identities, and preferences in care
+~Treating everyone identically
+~Excluding certain residents
+#### Cultural competency respects diversity, including identity and preferences.
+}
+
+// question: RCFE-RCFE-CETP-004-Q11
+::RCFE-RCFE-CETP-004-Q11::
+A resident's personal funds or property, when managed by the facility, must be\: {
+~Used by staff as needed
+=Handled with accountability, accurate records, and protection from misuse
+~Mixed with facility funds
+~Ignored
+#### Resident funds/property require accountability and protection from exploitation. Confirm specific safeguards with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-004-Q12
+::RCFE-RCFE-CETP-004-Q12::
+Residents generally have the right to receive visitors and communicate privately, subject to reasonable safety policies. {T
+#### Visitation and private communication are rights, balanced with reasonable safety. Confirm current policy with SME/legal.}
+
+// question: RCFE-RCFE-CETP-004-Q13
+::RCFE-RCFE-CETP-004-Q13::
+The role of the Long-Term Care Ombudsman generally includes\: {
+~Operating the facility
+=Advocating for residents and helping resolve concerns/complaints
+~Hiring staff
+~Setting facility fees
+#### The Ombudsman advocates for residents and assists with complaint resolution. Confirm role specifics with SME.
+}
+
+// question: RCFE-RCFE-CETP-004-Q14
+::RCFE-RCFE-CETP-004-Q14::
+Protecting dignity during group activities includes\: {
+~Forcing participation
+=Offering choices and respecting a resident's decision to participate or not
+~Excluding shy residents
+~Mocking residents who decline
+#### Choice and respect for participation decisions preserve dignity.
+}
+
+// question: RCFE-RCFE-CETP-004-Q15
+::RCFE-RCFE-CETP-004-Q15::
+The overall purpose of this course is to\: {
+~Certify medication aides
+=Reinforce resident rights, dignity, council participation, and abuse prevention
+~Replace licensing
+~Provide clinical nursing training
+#### The purpose is reinforcing rights, dignity, councils, and abuse prevention.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-005
+
+// question: RCFE-RCFE-CETP-005-Q01
+::RCFE-RCFE-CETP-005-Q01::
+In an RCFE, 'assistance with self-administration' of medication generally means staff may\: {
+~Make clinical dosing decisions
+=Help a resident take their own medication (e.g., reminders, opening containers) within regulatory limits
+~Prescribe medications
+~Diagnose conditions
+#### RCFE staff assist with self-administration within regulatory limits; they do not prescribe or make clinical decisions. Confirm exact scope with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-005-Q02
+::RCFE-RCFE-CETP-005-Q02::
+Centrally stored medications in an RCFE should be\: {
+~Left accessible to all residents
+=Stored securely, properly labeled, and accounted for per regulation
+~Mixed together in one container
+~Discarded in regular trash
+#### Secure storage, proper labeling, and accountability are required. Confirm specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-005-Q03
+::RCFE-RCFE-CETP-005-Q03::
+Accurate medication records (such as a medication administration/assistance record) are important because they\: {
+~Are optional
+=Document what was given/assisted, support safety, and provide an audit trail
+~Replace the pharmacy
+~Are only for billing
+#### Accurate records support safety and provide an audit trail.
+}
+
+// question: RCFE-RCFE-CETP-005-Q04
+::RCFE-RCFE-CETP-005-Q04::
+An RCFE administrator's oversight of medication processes does not authorize unlicensed staff to perform tasks reserved for licensed professionals. {T
+#### Oversight does not expand scope; licensed tasks remain with licensed professionals. Confirm scope with SME/legal.}
+
+// question: RCFE-RCFE-CETP-005-Q05
+::RCFE-RCFE-CETP-005-Q05::
+If a medication error or discrepancy is discovered, the appropriate response is to\: {
+~Hide it
+=Follow facility policy\: ensure resident safety, notify the appropriate licensed/health professional, and document/report
+~Blame the resident
+~Ignore it if minor
+#### Errors require safety-first response, notification, and documentation per policy.
+}
+
+// question: RCFE-RCFE-CETP-005-Q06
+::RCFE-RCFE-CETP-005-Q06::
+Proper labeling of a resident's medication generally includes\: {
+~No identifying information
+=Resident name, medication, dose/directions, and other required pharmacy label elements
+~Only the color of the pill
+~A staff nickname
+#### Proper labels include resident, medication, and directions per pharmacy/regulatory standards.
+}
+
+// question: RCFE-RCFE-CETP-005-Q07
+::RCFE-RCFE-CETP-005-Q07::
+Scenario\: A resident who self-administers medications appears increasingly confused and is making errors with their pills. The administrator should\: {
+~Take over prescribing
+=Report the change to the resident's physician/appropriate professional, review the needs/services plan, and adjust support within regulation
+~Ignore it
+~Stop all the resident's medications
+#### A change in ability triggers reassessment, professional notification, and plan adjustment within regulatory limits.
+}
+
+// question: RCFE-RCFE-CETP-005-Q08
+::RCFE-RCFE-CETP-005-Q08::
+Which support safe medication processes in an RCFE? (Select all that apply.) {
+~%33.33333%Secure storage
+~%33.33333%Accurate records
+~%-100.0%Allowing unlicensed staff to make dosing decisions
+~%33.33333%Staff training appropriate to their role
+}
+
+// question: RCFE-RCFE-CETP-005-Q09
+::RCFE-RCFE-CETP-005-Q09::
+Psychotropic medications in older adults require particular attention because they\: {
+~Have no side effects
+=Can carry significant risks and should be used appropriately with monitoring and oversight
+~Should be used for staff convenience
+~Replace person-centered care
+#### Psychotropics carry risks and require appropriate use, monitoring, and oversight; not for convenience. Confirm clinical/regulatory guidance with SME.
+}
+
+// question: RCFE-RCFE-CETP-005-Q10
+::RCFE-RCFE-CETP-005-Q10::
+Disposal of medications should follow\: {
+~Whatever is fastest
+=Facility policy and applicable regulations for safe, documented disposal
+~Flushing everything routinely
+~Giving leftovers to other residents
+#### Disposal follows policy and regulation; sharing medications between residents is prohibited.
+}
+
+// question: RCFE-RCFE-CETP-005-Q11
+::RCFE-RCFE-CETP-005-Q11::
+Medications prescribed for one resident must never be given to another resident. {T
+#### Medications are resident-specific and must not be shared.}
+
+// question: RCFE-RCFE-CETP-005-Q12
+::RCFE-RCFE-CETP-005-Q12::
+Staff who assist with medications should be trained to\: {
+~Diagnose new conditions
+=Follow proper procedures, recognize and report concerns, and stay within their role
+~Adjust doses independently
+~Skip documentation
+#### Training emphasizes correct procedures, reporting, and staying within role.
+}
+
+// question: RCFE-RCFE-CETP-005-Q13
+::RCFE-RCFE-CETP-005-Q13::
+A resident's right to refuse medication generally means staff should\: {
+~Force the medication
+=Respect the refusal, document it, and notify the appropriate professional
+~Hide the refusal
+~Discharge the resident immediately
+#### Refusals are respected, documented, and reported for follow-up. Confirm process with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-005-Q14
+::RCFE-RCFE-CETP-005-Q14::
+Coordination with the pharmacy and prescribing professional helps ensure\: {
+~Confusion
+=Correct, current medication information and safe processes
+~Higher costs only
+~Less accountability
+#### Coordination supports accurate, current information and safety.
+}
+
+// question: RCFE-RCFE-CETP-005-Q15
+::RCFE-RCFE-CETP-005-Q15::
+This course addresses medication management at the level of\: {
+~Certifying nurses to administer IV medications
+=Administrator oversight and safe RCFE medication processes (not medication-administration certification)
+~Prescribing authority
+~Pharmacy licensure
+#### The course covers oversight and safe processes, not administration certification or prescribing.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-006
+
+// question: RCFE-RCFE-CETP-006-Q01
+::RCFE-RCFE-CETP-006-Q01::
+A pre-admission appraisal of a prospective resident is used to\: {
+~Set the facility's marketing budget
+=Determine whether the facility can meet the person's needs before admission
+~Replace the physician's report
+~Avoid documentation
+#### The appraisal determines whether the facility can meet the prospective resident's needs.
+}
+
+// question: RCFE-RCFE-CETP-006-Q02
+::RCFE-RCFE-CETP-006-Q02::
+A needs and services plan should\: {
+~Be generic for all residents
+=Be individualized, based on assessment, and updated as needs change
+~Never be updated
+~Be hidden from staff
+#### Needs and services plans are individualized and updated with reappraisal.
+}
+
+// question: RCFE-RCFE-CETP-006-Q03
+::RCFE-RCFE-CETP-006-Q03::
+Reappraisal of a resident is generally triggered by\: {
+~Nothing ever
+=A significant change in the resident's condition or needs (and per required intervals)
+~Only at discharge
+~Staff preference
+#### Reappraisal occurs with significant changes and at required intervals. Confirm intervals with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-006-Q04
+::RCFE-RCFE-CETP-006-Q04::
+A facility should not admit or retain a resident whose needs it cannot safely meet. {T
+#### Admission/retention must align with the facility's ability to meet needs safely. Confirm specific retention criteria with SME/legal.}
+
+// question: RCFE-RCFE-CETP-006-Q05
+::RCFE-RCFE-CETP-006-Q05::
+Documentation supporting admission generally includes\: {
+~No records
+=A physician's report/health assessment and required admission documents
+~Only a verbal agreement
+~Marketing brochures
+#### Admission requires a health assessment/physician report and required documents. Confirm specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-006-Q06
+::RCFE-RCFE-CETP-006-Q06::
+When a resident's needs increase beyond the facility's capacity, the administrator should\: {
+~Ignore the change
+=Reassess, attempt appropriate accommodations within regulation, and plan a safe transition if needs cannot be met
+~Immediately evict without process
+~Reduce documentation
+#### Reassessment and, if needed, a safe, lawful transition protect the resident. Confirm process with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-006-Q07
+::RCFE-RCFE-CETP-006-Q07::
+Scenario\: A resident's mobility declines and they now need more assistance than the current plan reflects. The administrator should\: {
+~Keep the old plan unchanged
+=Initiate reappraisal, update the needs and services plan, involve the resident/family and appropriate professionals, and document
+~Discharge immediately
+~Tell staff to manage informally
+#### A change in needs prompts reappraisal, plan update, involvement of the resident/family, and documentation.
+}
+
+// question: RCFE-RCFE-CETP-006-Q08
+::RCFE-RCFE-CETP-006-Q08::
+Which belong in a needs and services plan process? (Select all that apply.) {
+~%33.33333%Assessment of the resident's needs
+~%33.33333%Resident/family involvement
+~%33.33333%Updates upon significant change
+~%-100.0%Ignoring the resident's preferences
+}
+
+// question: RCFE-RCFE-CETP-006-Q09
+::RCFE-RCFE-CETP-006-Q09::
+Involving the resident (and family/representative as appropriate) in care planning supports\: {
+~Reduced transparency
+=Person-centered, individualized, and defensible care decisions
+~Less accountability
+~Generic care
+#### Involvement supports person-centered, individualized, defensible planning.
+}
+
+// question: RCFE-RCFE-CETP-006-Q10
+::RCFE-RCFE-CETP-006-Q10::
+Retention decisions should be based primarily on\: {
+~The resident's ability to pay only
+=Whether the facility can safely and lawfully meet the resident's assessed needs
+~Staff convenience
+~How long the resident has stayed
+#### Retention hinges on the facility's ability to safely and lawfully meet needs.
+}
+
+// question: RCFE-RCFE-CETP-006-Q11
+::RCFE-RCFE-CETP-006-Q11::
+The needs and services plan should be accessible to staff who provide the resident's care. {T
+#### Care staff need access to the plan to deliver appropriate care.}
+
+// question: RCFE-RCFE-CETP-006-Q12
+::RCFE-RCFE-CETP-006-Q12::
+A complete admission process helps the facility\: {
+~Skip assessment
+=Confirm it can meet needs, set expectations, and establish a documented baseline
+~Avoid resident input
+~Reduce safety
+#### A complete admission process confirms fit, sets expectations, and documents a baseline.
+}
+
+// question: RCFE-RCFE-CETP-006-Q13
+::RCFE-RCFE-CETP-006-Q13::
+If required admission documentation is incomplete, the administrator should\: {
+~Proceed and never follow up
+=Obtain the required documentation to complete the record per regulation
+~Discard the file
+~Create false records
+#### Missing documentation must be obtained to complete the compliant record; never falsified.
+}
+
+// question: RCFE-RCFE-CETP-006-Q14
+::RCFE-RCFE-CETP-006-Q14::
+Reappraisal documentation should capture\: {
+~Only the date
+=The changed needs, updated services, and who was involved
+~Nothing relevant
+~Staff opinions only
+#### Reappraisal records should capture changes, updated services, and involvement.
+}
+
+// question: RCFE-RCFE-CETP-006-Q15
+::RCFE-RCFE-CETP-006-Q15::
+The overall purpose of this course is to\: {
+~Provide medication certification
+=Strengthen admission, retention, reappraisal, and needs-and-services planning practices
+~Replace licensing inspections
+~Eliminate documentation
+#### The purpose is sound admission, retention, reappraisal, and planning practices.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-007
+
+// question: RCFE-RCFE-CETP-007-Q01
+::RCFE-RCFE-CETP-007-Q01::
+An RCFE emergency/disaster plan should\: {
+~Exist only on paper and never be practiced
+=Be written, current, communicated to staff, and practiced through drills
+~Be secret from staff
+~Apply only to fires
+#### Effective emergency plans are current, communicated, and practiced via drills.
+}
+
+// question: RCFE-RCFE-CETP-007-Q02
+::RCFE-RCFE-CETP-007-Q02::
+Emergency drills in an RCFE are important because they\: {
+~Waste time
+=Help staff and residents respond effectively and reveal gaps to fix
+~Are only for new staff
+~Replace the written plan
+#### Drills build readiness and reveal gaps to correct.
+}
+
+// question: RCFE-RCFE-CETP-007-Q03
+::RCFE-RCFE-CETP-007-Q03::
+Maintaining clear, unobstructed exits and pathways primarily supports\: {
+~Decoration
+=Safe evacuation and fall prevention
+~Higher occupancy
+~Storage space
+#### Clear exits/pathways support safe evacuation and reduce falls.
+}
+
+// question: RCFE-RCFE-CETP-007-Q04
+::RCFE-RCFE-CETP-007-Q04::
+Staff should know their roles and responsibilities during different types of emergencies. {T
+#### Defined roles support a coordinated emergency response.}
+
+// question: RCFE-RCFE-CETP-007-Q05
+::RCFE-RCFE-CETP-007-Q05::
+Emergency supplies (water, food, first aid, etc.) should be\: {
+~Unnecessary
+=Maintained adequately and checked/replenished as needed
+~Stored where no one can reach them
+~Shared with neighbors routinely
+#### Adequate, maintained emergency supplies support continuity during emergencies.
+}
+
+// question: RCFE-RCFE-CETP-007-Q06
+::RCFE-RCFE-CETP-007-Q06::
+When considering residents with mobility or cognitive impairments in an evacuation, the plan should\: {
+~Treat all residents identically
+=Account for individual needs and assistance requirements
+~Exclude them
+~Assume they will self-evacuate
+#### Plans must account for residents needing assistance during evacuation.
+}
+
+// question: RCFE-RCFE-CETP-007-Q07
+::RCFE-RCFE-CETP-007-Q07::
+Scenario\: A power outage occurs during extreme heat. The administrator should\: {
+~Wait and do nothing
+=Activate the emergency plan, ensure resident safety and temperature/medical needs, communicate, and document actions
+~Send all staff home
+~Ignore residents needing cooling or refrigerated medications
+#### Activate the plan, protect residents (heat/medication needs), communicate, and document.
+}
+
+// question: RCFE-RCFE-CETP-007-Q08
+::RCFE-RCFE-CETP-007-Q08::
+Which are part of physical-environment safety in an RCFE? (Select all that apply.) {
+~%33.33333%Functioning smoke detectors/alarms
+~%33.33333%Clear, unobstructed exits
+~%-100.0%Blocked fire exits
+~%33.33333%Safe water temperature and hazard control
+}
+
+// question: RCFE-RCFE-CETP-007-Q09
+::RCFE-RCFE-CETP-007-Q09::
+Documentation of emergency drills should include\: {
+~Nothing
+=Date, type of drill, participants, and any issues/corrective actions
+~Only the weather
+~Staff opinions about lunch
+#### Drill records should capture date, type, participation, and corrective actions.
+}
+
+// question: RCFE-RCFE-CETP-007-Q10
+::RCFE-RCFE-CETP-007-Q10::
+Routine inspection/maintenance of safety equipment helps to\: {
+~Increase risk
+=Ensure equipment works when needed and reduce hazards
+~Save documentation time
+~Replace drills
+#### Maintenance ensures safety equipment functions and reduces hazards.
+}
+
+// question: RCFE-RCFE-CETP-007-Q11
+::RCFE-RCFE-CETP-007-Q11::
+Knowing how and when to shut off utilities (e.g., gas, water) can be part of emergency preparedness. {T
+#### Utility shutoff knowledge supports certain emergency responses.}
+
+// question: RCFE-RCFE-CETP-007-Q12
+::RCFE-RCFE-CETP-007-Q12::
+After an emergency, the administrator should\: {
+~Avoid review
+=Review the response, document outcomes, and update the plan to address gaps
+~Blame residents
+~Discard records
+#### Post-event review and plan updates strengthen future readiness.
+}
+
+// question: RCFE-RCFE-CETP-007-Q13
+::RCFE-RCFE-CETP-007-Q13::
+Communication during an emergency should include\: {
+~No communication
+=A plan for notifying staff, residents, families, and authorities as appropriate
+~Only social media
+~Rumors
+#### A communication plan covers staff, residents, families, and authorities.
+}
+
+// question: RCFE-RCFE-CETP-007-Q14
+::RCFE-RCFE-CETP-007-Q14::
+A safe physical environment supports residents primarily by\: {
+~Increasing hazards
+=Reducing the risk of injury, supporting mobility, and enabling effective emergency response
+~Limiting resident rights
+~Cutting staffing
+#### A safe environment reduces injury risk and supports emergency response.
+}
+
+// question: RCFE-RCFE-CETP-007-Q15
+::RCFE-RCFE-CETP-007-Q15::
+The overall purpose of this course is to\: {
+~Provide nursing certification
+=Strengthen emergency preparedness and physical-environment safety/controls in the RCFE
+~Replace licensing
+~Eliminate drills
+#### The purpose is emergency preparedness and environmental safety.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-008
+
+// question: RCFE-RCFE-CETP-008-Q01
+::RCFE-RCFE-CETP-008-Q01::
+Effective staff supervision in an RCFE primarily aims to\: {
+~Micromanage every action
+=Ensure staff perform competently, safely, and consistently with policy and regulation
+~Reduce resident care
+~Avoid documentation
+#### Supervision ensures competent, safe, policy-aligned performance.
+}
+
+// question: RCFE-RCFE-CETP-008-Q02
+::RCFE-RCFE-CETP-008-Q02::
+Staff training records should be\: {
+~Optional
+=Maintained, accurate, and demonstrate required training was completed
+~Discarded after hiring
+~Kept off-site only
+#### Accurate training records demonstrate compliance with training requirements.
+}
+
+// question: RCFE-RCFE-CETP-008-Q03
+::RCFE-RCFE-CETP-008-Q03::
+Administrator accountability means the administrator is responsible for\: {
+~Only marketing
+=Overall facility operations, compliance, staff oversight, and resident well-being
+~Nothing once staff are hired
+~Only finances
+#### The administrator is accountable for operations, compliance, oversight, and resident well-being.
+}
+
+// question: RCFE-RCFE-CETP-008-Q04
+::RCFE-RCFE-CETP-008-Q04::
+New staff should receive orientation and required training before or promptly upon assuming their duties, per regulation. {T
+#### Orientation/training requirements protect residents; confirm exact timelines with SME/legal.}
+
+// question: RCFE-RCFE-CETP-008-Q05
+::RCFE-RCFE-CETP-008-Q05::
+Ongoing (continuing) staff training is important because it\: {
+~Is never required
+=Maintains competency and keeps staff current with practices and regulations
+~Only benefits the administrator
+~Replaces supervision
+#### Continuing training maintains competency and currency.
+}
+
+// question: RCFE-RCFE-CETP-008-Q06
+::RCFE-RCFE-CETP-008-Q06::
+When a staff member performs a task incorrectly, an accountable supervisory response is to\: {
+~Ignore it
+=Provide corrective feedback/retraining, document it, and monitor improvement
+~Publicly humiliate the staff member
+~Immediately terminate without process
+#### Corrective feedback, retraining, documentation, and monitoring are constructive and defensible.
+}
+
+// question: RCFE-RCFE-CETP-008-Q07
+::RCFE-RCFE-CETP-008-Q07::
+Scenario\: A licensing review finds gaps in staff training documentation. The administrator should\: {
+~Falsify records to fill gaps
+=Identify the gaps, complete/verify required training, accurately document it, and implement a tracking system to prevent recurrence
+~Blame staff and do nothing
+~Hide the records
+#### Honest correction, completion of training, accurate documentation, and a tracking system are correct; falsification is prohibited.
+}
+
+// question: RCFE-RCFE-CETP-008-Q08
+::RCFE-RCFE-CETP-008-Q08::
+Which are administrator responsibilities for staff management? (Select all that apply.) {
+~%33.33333%Ensuring required training is completed
+~%33.33333%Maintaining accurate personnel/training records
+~%-100.0%Allowing untrained staff to perform tasks beyond their preparation
+~%33.33333%Supervising and supporting staff performance
+}
+
+// question: RCFE-RCFE-CETP-008-Q09
+::RCFE-RCFE-CETP-008-Q09::
+Adequate staffing levels are important because they\: {
+~Are irrelevant to care
+=Support resident safety, needs, and quality of care
+~Only affect costs
+~Reduce accountability
+#### Adequate staffing supports safety and quality of care.
+}
+
+// question: RCFE-RCFE-CETP-008-Q10
+::RCFE-RCFE-CETP-008-Q10::
+Background screening/clearance requirements for staff exist to\: {
+~Slow hiring for no reason
+=Protect residents from individuals who may pose a risk
+~Increase paperwork only
+~Replace training
+#### Screening helps protect residents; confirm specific clearance requirements with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-008-Q11
+::RCFE-RCFE-CETP-008-Q11::
+An administrator can delegate tasks but remains accountable for the facility's compliance and operations. {T
+#### Delegation does not remove the administrator's overall accountability.}
+
+// question: RCFE-RCFE-CETP-008-Q12
+::RCFE-RCFE-CETP-008-Q12::
+Clear job descriptions and expectations help staff to\: {
+~Be confused
+=Understand their roles, responsibilities, and limits
+~Avoid accountability
+~Skip training
+#### Clear roles support performance and accountability.
+}
+
+// question: RCFE-RCFE-CETP-008-Q13
+::RCFE-RCFE-CETP-008-Q13::
+A supportive supervision approach includes\: {
+~Only criticism
+=Clear expectations, training, feedback, and recognition
+~No communication
+~Inconsistent rules
+#### Effective supervision blends expectations, training, feedback, and recognition.
+}
+
+// question: RCFE-RCFE-CETP-008-Q14
+::RCFE-RCFE-CETP-008-Q14::
+Tracking training due dates and renewals helps the administrator to\: {
+~Miss requirements
+=Stay compliant and ensure staff competencies are current
+~Avoid documentation
+~Reduce safety
+#### Tracking supports timely compliance and current competencies.
+}
+
+// question: RCFE-RCFE-CETP-008-Q15
+::RCFE-RCFE-CETP-008-Q15::
+The overall purpose of this course is to\: {
+~Provide clinical certification
+=Strengthen staff supervision, training-record management, and administrator accountability
+~Replace licensing
+~Eliminate staffing
+#### The purpose is supervision, training records, and accountability.
+}
+
+$CATEGORY: $course$/RCFE/RCFE-CETP-009
+
+// question: RCFE-RCFE-CETP-009-Q01
+::RCFE-RCFE-CETP-009-Q01::
+Accurate business records in an RCFE support\: {
+~Concealment of operations
+=Compliance, financial accountability, and audit readiness
+~Higher fees only
+~Avoiding inspections
+#### Accurate records support compliance, accountability, and audit readiness.
+}
+
+// question: RCFE-RCFE-CETP-009-Q02
+::RCFE-RCFE-CETP-009-Q02::
+Records that must be retained should be kept\: {
+~As briefly as convenient
+=For the period and in the manner required by applicable regulation
+~Only until the next month
+~Never
+#### Retention follows regulatory requirements; confirm retention periods with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-009-Q03
+::RCFE-RCFE-CETP-009-Q03::
+'Claim-safe' communication in operations generally means\: {
+~Making unverified promises
+=Communicating accurately and avoiding misleading or unsupported claims
+~Exaggerating services
+~Hiding information from residents
+#### Claim-safe communication is accurate and avoids misleading or unsupported statements.
+}
+
+// question: RCFE-RCFE-CETP-009-Q04
+::RCFE-RCFE-CETP-009-Q04::
+Marketing and admission materials should accurately represent the services the facility actually provides. {T
+#### Accurate representation avoids misleading prospective residents.}
+
+// question: RCFE-RCFE-CETP-009-Q05
+::RCFE-RCFE-CETP-009-Q05::
+Resident financial records handled by the facility must be\: {
+~Combined with facility funds
+=Kept accurate, separate as required, and protected from misuse
+~Shared publicly
+~Estimated
+#### Resident funds require accuracy, required separation, and protection. Confirm specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-009-Q06
+::RCFE-RCFE-CETP-009-Q06::
+Confidentiality of resident and business information requires that information is\: {
+~Shared freely
+=Disclosed only to authorized parties and protected from improper access
+~Posted online
+~Discussed publicly
+#### Confidential information is protected and shared only with authorized parties.
+}
+
+// question: RCFE-RCFE-CETP-009-Q07
+::RCFE-RCFE-CETP-009-Q07::
+Scenario\: A prospective resident's family asks whether the facility provides a level of skilled care it does not actually offer. The administrator should\: {
+~Imply the facility offers it to secure the admission
+=Accurately describe the services the facility provides and not make unsupported claims
+~Avoid answering
+~Promise to add the service without basis
+#### Accurate, claim-safe communication prevents misrepresentation and protects residents.
+}
+
+// question: RCFE-RCFE-CETP-009-Q08
+::RCFE-RCFE-CETP-009-Q08::
+Which support sound RCFE business operations? (Select all that apply.) {
+~%33.33333%Accurate financial and operational records
+~%33.33333%Proper retention of required records
+~%-100.0%Misleading marketing claims
+~%33.33333%Confidential handling of sensitive information
+}
+
+// question: RCFE-RCFE-CETP-009-Q09
+::RCFE-RCFE-CETP-009-Q09::
+When required records are requested during an inspection, the administrator should\: {
+~Refuse
+=Provide the required records in an organized, accurate, and timely manner
+~Provide falsified records
+~Delay indefinitely
+#### Required records should be provided accurately and timely; falsification is prohibited.
+}
+
+// question: RCFE-RCFE-CETP-009-Q10
+::RCFE-RCFE-CETP-009-Q10::
+A clear, written admission agreement helps to\: {
+~Confuse residents
+=Set transparent expectations about services, fees, and terms
+~Hide fees
+~Avoid accountability
+#### A clear admission agreement sets transparent expectations.
+}
+
+// question: RCFE-RCFE-CETP-009-Q11
+::RCFE-RCFE-CETP-009-Q11::
+Backups and protection of important records help prevent loss of required documentation. {T
+#### Record protection/backups guard against loss of required documentation.}
+
+// question: RCFE-RCFE-CETP-009-Q12
+::RCFE-RCFE-CETP-009-Q12::
+Fee changes or billing practices should be\: {
+~Hidden from residents
+=Communicated transparently and consistent with the agreement and regulation
+~Applied without notice
+~Inconsistent
+#### Fees should be transparent and consistent with the agreement and regulation. Confirm specifics with SME/legal.
+}
+
+// question: RCFE-RCFE-CETP-009-Q13
+::RCFE-RCFE-CETP-009-Q13::
+Honest, accurate communication with residents and families builds\: {
+~Distrust
+=Trust and supports a defensible operation
+~Liability only
+~Confusion
+#### Honest communication builds trust and supports defensibility.
+}
+
+// question: RCFE-RCFE-CETP-009-Q14
+::RCFE-RCFE-CETP-009-Q14::
+Organized recordkeeping systems help the administrator to\: {
+~Lose documents
+=Locate, maintain, and produce required records efficiently
+~Avoid compliance
+~Reduce transparency
+#### Organized systems support efficient, compliant recordkeeping.
+}
+
+// question: RCFE-RCFE-CETP-009-Q15
+::RCFE-RCFE-CETP-009-Q15::
+The overall purpose of this course is to\: {
+~Provide clinical certification
+=Strengthen business operations, recordkeeping, and claim-safe communications in the RCFE
+~Replace licensing
+~Eliminate records
+#### The purpose is sound operations, recordkeeping, and claim-safe communication.
+}
+

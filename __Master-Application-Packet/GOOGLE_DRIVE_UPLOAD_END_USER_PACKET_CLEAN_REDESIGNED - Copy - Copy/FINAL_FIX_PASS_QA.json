@@ -1,0 +1,163 @@
+{
+  "updated_utc": "2026-06-12T18:58:26+00:00",
+  "pdf_validation": {
+    "count": 24,
+    "open_failures": []
+  },
+  "scan_totals": {
+    "pdf_count": 24,
+    "pdfs_with_raw_markdown": 5,
+    "pdfs_with_bottom_text": 22,
+    "pdfs_with_overflow": 0,
+    "pdfs_with_agency_draft_terms": 5,
+    "official_pdfs_with_draft_text": 0
+  },
+  "official_hashes_vs_source": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "source_exists": true,
+      "output_exists": true,
+      "sha_match": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "source_exists": true,
+      "output_exists": true,
+      "sha_match": false
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "source_exists": true,
+      "output_exists": true,
+      "sha_match": true
+    }
+  ],
+  "notes": [
+    "RCFE official-form output PDFs intentionally differ from source only by removal of separable DRAFT watermark XObject at user request.",
+    "CNA and BRN standalone official-form PDFs remain byte-identical to source.",
+    "Raw Markdown scan false positives remaining: literal word markdown in Start Here pages and official BRN ***IMPORTANT*** text.",
+    "Trim-edge overflow findings are zero after course table chunking."
+  ],
+  "pdf_page_counts": [
+    {
+      "rel": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "pages": 3,
+      "open_ok": true
+    },
+    {
+      "rel": "00_START_HERE\\01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "00_START_HERE\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "pages": 3,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "pages": 17,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages": 8,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "pages": 5,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "pages": 33,
+      "open_ok": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "pages": 46,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages": 37,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "pages": 34,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "pages": 60,
+      "open_ok": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "pages": 22,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages": 13,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "pages": 10,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "pages": 62,
+      "open_ok": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "pages": 63,
+      "open_ok": true
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "pages": 2,
+      "open_ok": true
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "pages": 2,
+      "open_ok": true
+    }
+  ]
+}

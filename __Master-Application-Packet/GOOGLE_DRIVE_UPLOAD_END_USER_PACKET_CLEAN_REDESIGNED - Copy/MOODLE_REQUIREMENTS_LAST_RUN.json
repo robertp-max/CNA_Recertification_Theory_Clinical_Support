@@ -1,0 +1,16 @@
+﻿{
+  "status": "complete",
+  "output_pdf": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+  "previous_sha256": "d3b112207591d6bbcf25a9aec6da9d489325183720b0400bbff6c417513c2d60",
+  "new_sha256": "de2a03dced5e78d5354c29ae5d74a48388a4fdf96fb610a9e619b4143e5c9c87",
+  "page_count": 63,
+  "source_folder": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\MOODLE_SELF_HOST_IMPLEMENTATION_MVP - Copy",
+  "excluded_folder": "import_assets",
+  "additional_elements_folder": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\MOODLE_SELF_HOST_IMPLEMENTATION_MVP - Copy\\generated_missing_elements",
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_moodle_requirements_pdf_qa\\moodle_requirements_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_moodle_requirements_pdf_qa\\moodle_requirements_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_moodle_requirements_pdf_qa\\moodle_requirements_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_moodle_requirements_pdf_qa\\moodle_requirements_p063.png"
+  ]
+}

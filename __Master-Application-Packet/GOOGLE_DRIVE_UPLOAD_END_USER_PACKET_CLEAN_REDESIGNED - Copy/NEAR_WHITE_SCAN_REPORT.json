@@ -1,0 +1,1859 @@
+{
+  "threshold_rgb_min": 246,
+  "ratio_threshold": 0.05,
+  "scanned": 394,
+  "skipped": 207,
+  "issue_count": 370,
+  "issues": [
+    {
+      "file": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 2,
+      "near_white_ratio": 0.757
+    },
+    {
+      "file": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 3,
+      "near_white_ratio": 0.8157
+    },
+    {
+      "file": "00_START_HERE\\01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "page": 2,
+      "near_white_ratio": 0.6958
+    },
+    {
+      "file": "00_START_HERE\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "page": 2,
+      "near_white_ratio": 0.7232
+    },
+    {
+      "file": "00_START_HERE\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "page": 3,
+      "near_white_ratio": 0.9145
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 2,
+      "near_white_ratio": 0.726
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 3,
+      "near_white_ratio": 0.7059
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 4,
+      "near_white_ratio": 0.8281
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "near_white_ratio": 0.6687
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 6,
+      "near_white_ratio": 0.713
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 7,
+      "near_white_ratio": 0.7823
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 8,
+      "near_white_ratio": 0.8514
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "near_white_ratio": 0.7877
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 10,
+      "near_white_ratio": 0.7551
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "near_white_ratio": 0.8774
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 2,
+      "near_white_ratio": 0.9213
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "near_white_ratio": 0.7753
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 4,
+      "near_white_ratio": 0.7429
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 5,
+      "near_white_ratio": 0.7302
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "near_white_ratio": 0.7378
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "near_white_ratio": 0.7375
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "near_white_ratio": 0.7348
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "near_white_ratio": 0.7281
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "near_white_ratio": 0.7319
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "near_white_ratio": 0.7205
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "near_white_ratio": 0.754
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 13,
+      "near_white_ratio": 0.7205
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 14,
+      "near_white_ratio": 0.7626
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "near_white_ratio": 0.7061
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "near_white_ratio": 0.7449
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "near_white_ratio": 0.7276
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "near_white_ratio": 0.7526
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "near_white_ratio": 0.7392
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "near_white_ratio": 0.7458
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "near_white_ratio": 0.7456
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 22,
+      "near_white_ratio": 0.737
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 23,
+      "near_white_ratio": 0.7335
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "near_white_ratio": 0.7404
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "near_white_ratio": 0.7308
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "near_white_ratio": 0.7209
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "near_white_ratio": 0.7426
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "near_white_ratio": 0.7195
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "near_white_ratio": 0.7495
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "near_white_ratio": 0.7574
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8748
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 2,
+      "near_white_ratio": 0.7747
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 3,
+      "near_white_ratio": 0.7423
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 4,
+      "near_white_ratio": 0.7297
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 5,
+      "near_white_ratio": 0.7372
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 6,
+      "near_white_ratio": 0.7369
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 7,
+      "near_white_ratio": 0.7342
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 8,
+      "near_white_ratio": 0.7275
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 9,
+      "near_white_ratio": 0.7314
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 10,
+      "near_white_ratio": 0.7199
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 11,
+      "near_white_ratio": 0.7534
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 12,
+      "near_white_ratio": 0.7199
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 13,
+      "near_white_ratio": 0.762
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 14,
+      "near_white_ratio": 0.7055
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 15,
+      "near_white_ratio": 0.7443
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 16,
+      "near_white_ratio": 0.727
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 17,
+      "near_white_ratio": 0.752
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 18,
+      "near_white_ratio": 0.7386
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 19,
+      "near_white_ratio": 0.7452
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 20,
+      "near_white_ratio": 0.745
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 21,
+      "near_white_ratio": 0.7364
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 22,
+      "near_white_ratio": 0.7329
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 23,
+      "near_white_ratio": 0.7398
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 24,
+      "near_white_ratio": 0.7302
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 25,
+      "near_white_ratio": 0.7203
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 26,
+      "near_white_ratio": 0.742
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 27,
+      "near_white_ratio": 0.7189
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 28,
+      "near_white_ratio": 0.7489
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 29,
+      "near_white_ratio": 0.7569
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "near_white_ratio": 0.7616
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "near_white_ratio": 0.9031
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "near_white_ratio": 0.8414
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 45,
+      "near_white_ratio": 0.7969
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 46,
+      "near_white_ratio": 0.8364
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 36,
+      "near_white_ratio": 0.7969
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 37,
+      "near_white_ratio": 0.8364
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8463
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "near_white_ratio": 0.7489
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "near_white_ratio": 0.879
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "near_white_ratio": 0.8071
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "near_white_ratio": 0.9466
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "near_white_ratio": 0.6652
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "near_white_ratio": 0.6651
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "near_white_ratio": 0.6651
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "near_white_ratio": 0.6621
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "near_white_ratio": 0.8785
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "near_white_ratio": 0.8114
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "near_white_ratio": 0.8914
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "near_white_ratio": 0.6682
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "near_white_ratio": 0.6682
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "near_white_ratio": 0.6682
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "near_white_ratio": 0.6662
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "near_white_ratio": 0.8808
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "near_white_ratio": 0.8146
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "near_white_ratio": 0.8938
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "near_white_ratio": 0.6643
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "near_white_ratio": 0.6643
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "near_white_ratio": 0.6643
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "near_white_ratio": 0.6612
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 33,
+      "near_white_ratio": 0.8871
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 34,
+      "near_white_ratio": 0.8395
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 35,
+      "near_white_ratio": 0.7135
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 36,
+      "near_white_ratio": 0.7219
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 39,
+      "near_white_ratio": 0.8809
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 40,
+      "near_white_ratio": 0.8158
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 41,
+      "near_white_ratio": 0.8918
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 42,
+      "near_white_ratio": 0.7235
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 43,
+      "near_white_ratio": 0.7235
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 44,
+      "near_white_ratio": 0.7235
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 45,
+      "near_white_ratio": 0.7205
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 48,
+      "near_white_ratio": 0.884
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 49,
+      "near_white_ratio": 0.8358
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 50,
+      "near_white_ratio": 0.9399
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 51,
+      "near_white_ratio": 0.6801
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 52,
+      "near_white_ratio": 0.6801
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 53,
+      "near_white_ratio": 0.6771
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 56,
+      "near_white_ratio": 0.8918
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 57,
+      "near_white_ratio": 0.8339
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 58,
+      "near_white_ratio": 0.7071
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 59,
+      "near_white_ratio": 0.7041
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 62,
+      "near_white_ratio": 0.8905
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 63,
+      "near_white_ratio": 0.8313
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 64,
+      "near_white_ratio": 0.697
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 65,
+      "near_white_ratio": 0.6941
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 68,
+      "near_white_ratio": 0.8855
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 69,
+      "near_white_ratio": 0.8309
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 70,
+      "near_white_ratio": 0.7229
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 71,
+      "near_white_ratio": 0.7209
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 73,
+      "near_white_ratio": 0.9048
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 74,
+      "near_white_ratio": 0.7167
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 75,
+      "near_white_ratio": 0.8775
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 76,
+      "near_white_ratio": 0.675
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 77,
+      "near_white_ratio": 0.675
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 78,
+      "near_white_ratio": 0.7405
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 80,
+      "near_white_ratio": 0.6951
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 81,
+      "near_white_ratio": 0.9529
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 4,
+      "near_white_ratio": 0.8772
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 5,
+      "near_white_ratio": 0.8054
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 6,
+      "near_white_ratio": 0.9449
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 7,
+      "near_white_ratio": 0.6634
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 8,
+      "near_white_ratio": 0.6634
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 9,
+      "near_white_ratio": 0.6634
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 10,
+      "near_white_ratio": 0.6603
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 13,
+      "near_white_ratio": 0.8768
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 14,
+      "near_white_ratio": 0.8097
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 15,
+      "near_white_ratio": 0.8897
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 16,
+      "near_white_ratio": 0.6665
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 17,
+      "near_white_ratio": 0.6665
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 18,
+      "near_white_ratio": 0.6665
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 19,
+      "near_white_ratio": 0.6645
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 22,
+      "near_white_ratio": 0.8791
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 23,
+      "near_white_ratio": 0.8128
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 24,
+      "near_white_ratio": 0.8921
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 25,
+      "near_white_ratio": 0.6625
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 26,
+      "near_white_ratio": 0.6625
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 27,
+      "near_white_ratio": 0.6625
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 28,
+      "near_white_ratio": 0.6595
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 31,
+      "near_white_ratio": 0.8854
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 32,
+      "near_white_ratio": 0.8378
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 33,
+      "near_white_ratio": 0.7118
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 34,
+      "near_white_ratio": 0.7202
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 37,
+      "near_white_ratio": 0.8792
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 38,
+      "near_white_ratio": 0.814
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 39,
+      "near_white_ratio": 0.8901
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 40,
+      "near_white_ratio": 0.7218
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 41,
+      "near_white_ratio": 0.7218
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 42,
+      "near_white_ratio": 0.7218
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 43,
+      "near_white_ratio": 0.7188
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 46,
+      "near_white_ratio": 0.8823
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 47,
+      "near_white_ratio": 0.8341
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 48,
+      "near_white_ratio": 0.9382
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 49,
+      "near_white_ratio": 0.6784
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 50,
+      "near_white_ratio": 0.6784
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 51,
+      "near_white_ratio": 0.6754
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 54,
+      "near_white_ratio": 0.89
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 55,
+      "near_white_ratio": 0.8322
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 56,
+      "near_white_ratio": 0.7054
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 57,
+      "near_white_ratio": 0.7024
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 60,
+      "near_white_ratio": 0.8888
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 61,
+      "near_white_ratio": 0.8296
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 62,
+      "near_white_ratio": 0.6953
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 63,
+      "near_white_ratio": 0.6923
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 66,
+      "near_white_ratio": 0.8838
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 67,
+      "near_white_ratio": 0.8292
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 68,
+      "near_white_ratio": 0.7212
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 69,
+      "near_white_ratio": 0.7192
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 71,
+      "near_white_ratio": 0.952
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 3,
+      "near_white_ratio": 0.8799
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 4,
+      "near_white_ratio": 0.8281
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 5,
+      "near_white_ratio": 0.8577
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 6,
+      "near_white_ratio": 0.7672
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 7,
+      "near_white_ratio": 0.8878
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 8,
+      "near_white_ratio": 0.8976
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 9,
+      "near_white_ratio": 0.9025
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 10,
+      "near_white_ratio": 0.899
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "page": 11,
+      "near_white_ratio": 0.8499
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 2,
+      "near_white_ratio": 0.7958
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "page": 2,
+      "near_white_ratio": 0.6441
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 2,
+      "near_white_ratio": 0.9162
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 3,
+      "near_white_ratio": 0.728
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 4,
+      "near_white_ratio": 0.8602
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 5,
+      "near_white_ratio": 0.7956
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 6,
+      "near_white_ratio": 0.7234
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 7,
+      "near_white_ratio": 0.6493
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 8,
+      "near_white_ratio": 0.7771
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 9,
+      "near_white_ratio": 0.7232
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 10,
+      "near_white_ratio": 0.7459
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 11,
+      "near_white_ratio": 0.7543
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 12,
+      "near_white_ratio": 0.6466
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 13,
+      "near_white_ratio": 0.7301
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 14,
+      "near_white_ratio": 0.7565
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 15,
+      "near_white_ratio": 0.7297
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 16,
+      "near_white_ratio": 0.7456
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 17,
+      "near_white_ratio": 0.6517
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 18,
+      "near_white_ratio": 0.7303
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 19,
+      "near_white_ratio": 0.767
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 20,
+      "near_white_ratio": 0.732
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 21,
+      "near_white_ratio": 0.7748
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 22,
+      "near_white_ratio": 0.6517
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 23,
+      "near_white_ratio": 0.718
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 24,
+      "near_white_ratio": 0.7692
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 25,
+      "near_white_ratio": 0.7317
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 26,
+      "near_white_ratio": 0.7885
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 27,
+      "near_white_ratio": 0.6561
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 28,
+      "near_white_ratio": 0.6972
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 29,
+      "near_white_ratio": 0.7703
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 30,
+      "near_white_ratio": 0.7212
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 31,
+      "near_white_ratio": 0.797
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 32,
+      "near_white_ratio": 0.6636
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 33,
+      "near_white_ratio": 0.6776
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 34,
+      "near_white_ratio": 0.7786
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 35,
+      "near_white_ratio": 0.7088
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 36,
+      "near_white_ratio": 0.8004
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 37,
+      "near_white_ratio": 0.6639
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 38,
+      "near_white_ratio": 0.6626
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 39,
+      "near_white_ratio": 0.7904
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 40,
+      "near_white_ratio": 0.7131
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 41,
+      "near_white_ratio": 0.7904
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 42,
+      "near_white_ratio": 0.6862
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 43,
+      "near_white_ratio": 0.6704
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 44,
+      "near_white_ratio": 0.7894
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 45,
+      "near_white_ratio": 0.7159
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 46,
+      "near_white_ratio": 0.7869
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 47,
+      "near_white_ratio": 0.7004
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 48,
+      "near_white_ratio": 0.6419
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 49,
+      "near_white_ratio": 0.795
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 50,
+      "near_white_ratio": 0.7226
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 51,
+      "near_white_ratio": 0.77
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 52,
+      "near_white_ratio": 0.7023
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 53,
+      "near_white_ratio": 0.6566
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 54,
+      "near_white_ratio": 0.7757
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 55,
+      "near_white_ratio": 0.7263
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "page": 56,
+      "near_white_ratio": 0.769
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8772
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 2,
+      "near_white_ratio": 0.7276
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 3,
+      "near_white_ratio": 0.8598
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 4,
+      "near_white_ratio": 0.7952
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 5,
+      "near_white_ratio": 0.7229
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 6,
+      "near_white_ratio": 0.6489
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 7,
+      "near_white_ratio": 0.7766
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 8,
+      "near_white_ratio": 0.7228
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 9,
+      "near_white_ratio": 0.7455
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 10,
+      "near_white_ratio": 0.7539
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 11,
+      "near_white_ratio": 0.6461
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 12,
+      "near_white_ratio": 0.7296
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 13,
+      "near_white_ratio": 0.756
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 14,
+      "near_white_ratio": 0.7293
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 15,
+      "near_white_ratio": 0.7451
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 16,
+      "near_white_ratio": 0.6513
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 17,
+      "near_white_ratio": 0.7299
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 18,
+      "near_white_ratio": 0.7666
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 19,
+      "near_white_ratio": 0.7316
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 20,
+      "near_white_ratio": 0.7744
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 21,
+      "near_white_ratio": 0.6513
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 22,
+      "near_white_ratio": 0.7176
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 23,
+      "near_white_ratio": 0.7687
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 24,
+      "near_white_ratio": 0.7313
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 25,
+      "near_white_ratio": 0.788
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 26,
+      "near_white_ratio": 0.6557
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 27,
+      "near_white_ratio": 0.6968
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 28,
+      "near_white_ratio": 0.7699
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 29,
+      "near_white_ratio": 0.7207
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 30,
+      "near_white_ratio": 0.7965
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 31,
+      "near_white_ratio": 0.6632
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 32,
+      "near_white_ratio": 0.6772
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 33,
+      "near_white_ratio": 0.7782
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 34,
+      "near_white_ratio": 0.7084
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 35,
+      "near_white_ratio": 0.8
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 36,
+      "near_white_ratio": 0.6634
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 37,
+      "near_white_ratio": 0.6622
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 38,
+      "near_white_ratio": 0.79
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 39,
+      "near_white_ratio": 0.7127
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 40,
+      "near_white_ratio": 0.7899
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 41,
+      "near_white_ratio": 0.6858
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 42,
+      "near_white_ratio": 0.6699
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 43,
+      "near_white_ratio": 0.7889
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 44,
+      "near_white_ratio": 0.7155
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 45,
+      "near_white_ratio": 0.7864
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 46,
+      "near_white_ratio": 0.7
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 47,
+      "near_white_ratio": 0.6414
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 48,
+      "near_white_ratio": 0.7946
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 49,
+      "near_white_ratio": 0.7221
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 50,
+      "near_white_ratio": 0.7696
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 51,
+      "near_white_ratio": 0.7018
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 52,
+      "near_white_ratio": 0.6562
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 53,
+      "near_white_ratio": 0.7752
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 54,
+      "near_white_ratio": 0.7259
+    },
+    {
+      "file": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "page": 55,
+      "near_white_ratio": 0.7686
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8667
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 4,
+      "near_white_ratio": 0.8181
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 5,
+      "near_white_ratio": 0.9015
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 6,
+      "near_white_ratio": 0.8236
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 7,
+      "near_white_ratio": 0.8507
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 8,
+      "near_white_ratio": 0.9048
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 9,
+      "near_white_ratio": 0.8635
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 11,
+      "near_white_ratio": 0.9261
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 12,
+      "near_white_ratio": 0.6341
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 14,
+      "near_white_ratio": 0.6585
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 15,
+      "near_white_ratio": 0.8294
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 16,
+      "near_white_ratio": 0.8803
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 17,
+      "near_white_ratio": 0.8303
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 18,
+      "near_white_ratio": 0.8937
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 19,
+      "near_white_ratio": 0.8334
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 20,
+      "near_white_ratio": 0.9165
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 21,
+      "near_white_ratio": 0.6136
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 22,
+      "near_white_ratio": 0.5636
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 24,
+      "near_white_ratio": 0.6988
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 25,
+      "near_white_ratio": 0.9422
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 26,
+      "near_white_ratio": 0.863
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 27,
+      "near_white_ratio": 0.9084
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 28,
+      "near_white_ratio": 0.6978
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 30,
+      "near_white_ratio": 0.8313
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 31,
+      "near_white_ratio": 0.8595
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 32,
+      "near_white_ratio": 0.9374
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 33,
+      "near_white_ratio": 0.8481
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 34,
+      "near_white_ratio": 0.851
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 35,
+      "near_white_ratio": 0.9458
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 36,
+      "near_white_ratio": 0.8418
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 37,
+      "near_white_ratio": 0.969
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 38,
+      "near_white_ratio": 0.8592
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 39,
+      "near_white_ratio": 0.8737
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 40,
+      "near_white_ratio": 0.6012
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 41,
+      "near_white_ratio": 0.8722
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 42,
+      "near_white_ratio": 0.8622
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 43,
+      "near_white_ratio": 0.6008
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 44,
+      "near_white_ratio": 0.9679
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 45,
+      "near_white_ratio": 0.6049
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 46,
+      "near_white_ratio": 0.9483
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 47,
+      "near_white_ratio": 0.9683
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 48,
+      "near_white_ratio": 0.8346
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 49,
+      "near_white_ratio": 0.9614
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 50,
+      "near_white_ratio": 0.8563
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 52,
+      "near_white_ratio": 0.9349
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 53,
+      "near_white_ratio": 0.833
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 54,
+      "near_white_ratio": 0.7944
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 55,
+      "near_white_ratio": 0.9649
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 56,
+      "near_white_ratio": 0.8565
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 57,
+      "near_white_ratio": 0.7918
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 58,
+      "near_white_ratio": 0.9111
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 59,
+      "near_white_ratio": 0.8839
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 60,
+      "near_white_ratio": 0.7772
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 61,
+      "near_white_ratio": 0.8854
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 62,
+      "near_white_ratio": 0.8555
+    },
+    {
+      "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "page": 63,
+      "near_white_ratio": 0.8999
+    },
+    {
+      "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8372
+    },
+    {
+      "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "page": 2,
+      "near_white_ratio": 0.8499
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "output_pdf_count": 26,
+  "rcfe_lms_raw_exists": false,
+  "checks": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "official_issues": []
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "official_issues": []
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "official_issues": []
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "official_issues": []
+    }
+  ]
+}

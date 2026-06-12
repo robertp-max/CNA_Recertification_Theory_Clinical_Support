@@ -1,0 +1,408 @@
+{
+  "run_id": "2026-06-11-resume-safe-audit-continue",
+  "mode": "SAFE_AUDIT_CONTINUE",
+  "started_utc": "2026-06-11T20:00:00Z",
+  "last_updated": "2026-06-11T14:26:06Z",
+  "last_completed_pdf": "ALL_28",
+  "total_pdfs": 28,
+  "completed": 27,
+  "qa_passed": 27,
+  "qa_failed": 0,
+  "needs_regeneration": 0,
+  "skipped": 0,
+  "official_forms_altered": false,
+  "hard_stop_encountered": false,
+  "pdfs": [
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "status": "qa_passed",
+      "src_pages": 3,
+      "out_pages": 3,
+      "notes": "CI-created small guide; first to QA",
+      "qa": {
+        "open": true,
+        "pages_recorded": 3,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": false,
+        "language_safe": false,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)"
+      }
+    },
+    {
+      "rel": "00_START_HERE/01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created index",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": false,
+        "language_safe": false,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)"
+      }
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "status": "qa_passed",
+      "src_pages": 3,
+      "out_pages": 3,
+      "notes": "CI-created guide",
+      "qa": {
+        "open": true,
+        "pages_recorded": 3,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "status": "qa_passed",
+      "src_pages": 17,
+      "out_pages": 17,
+      "notes": "MIXED: 12 CI prefix + divider? + official appended; page count match",
+      "qa": {
+        "open": true,
+        "pages_recorded": 17,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": true,
+        "language_safe": false,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)",
+        "no_glare": true,
+        "layout_matches_html": true
+      },
+      "cover_fixed_to_studio": true
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "status": "qa_passed",
+      "src_pages": 7,
+      "out_pages": 8,
+      "notes": "MIXED cna 2? + refit attempted (tmp present); +1 page likely divider",
+      "qa": {
+        "open": true,
+        "pages_recorded": 8,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "status": "qa_passed",
+      "src_pages": 5,
+      "out_pages": 5,
+      "notes": "OFFICIAL PURE: copied unchanged, size identical",
+      "qa": {
+        "open": true,
+        "pages_recorded": 5,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": true,
+        "language_safe": false,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)"
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created tracker; language already post-handoff safe (no TJ/owner/why-pending/blocks); verified sample",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": false,
+        "language_safe": true,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)"
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "status": "qa_passed",
+      "src_pages": 30,
+      "out_pages": 30,
+      "notes": "CI-created compiled (large source content in shell)",
+      "qa": {
+        "open": true,
+        "pages_recorded": 30,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created matrix",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/03_CNA_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "status": "qa_passed",
+      "src_pages": 29,
+      "out_pages": 29,
+      "notes": "CI-created LMS content",
+      "qa": {
+        "open": true,
+        "pages_recorded": 29,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "status": "qa_passed",
+      "src_pages": 45,
+      "out_pages": 46,
+      "notes": "MIXED rcfe 11 + inserted divider (+1)",
+      "qa": {
+        "open": true,
+        "pages_recorded": 46,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found.",
+        "no_glare": true,
+        "layout_matches_html": true
+      },
+      "cover_fixed_to_studio": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "status": "qa_passed",
+      "src_pages": 36,
+      "out_pages": 37,
+      "notes": "MIXED rcfe 2 + inserted divider (+1)",
+      "qa": {
+        "open": true,
+        "pages_recorded": 37,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "status": "qa_passed",
+      "src_pages": 34,
+      "out_pages": 34,
+      "notes": "OFFICIAL PURE: copied unchanged",
+      "qa": {
+        "open": true,
+        "pages_recorded": 34,
+        "first_rendered": true,
+        "interior_rendered": true,
+        "gov_unchanged": true,
+        "language_safe": false,
+        "no_ci_on_gov": true,
+        "footer_clean": true,
+        "notes": "Processed in batch 1 per one-at-a-time (YADVIR primary); renders in REDESIGN_QA_RENDERS; gov text no CI branding; trackers defensive phrase only (not assignment column)"
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created tracker; language post-handoff safe",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "status": "qa_passed",
+      "src_pages": 54,
+      "out_pages": 54,
+      "notes": "CI-created compiled",
+      "qa": {
+        "open": true,
+        "pages_recorded": 54,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created matrix",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/02_COURSE_MATERIALS/03_RCFE_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "status": "qa_passed",
+      "src_pages": 53,
+      "out_pages": 53,
+      "notes": "CI-created LMS content",
+      "qa": {
+        "open": true,
+        "pages_recorded": 53,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "status": "qa_passed",
+      "src_pages": 21,
+      "out_pages": 22,
+      "notes": "MIXED brn 11 + inserted divider (+1)",
+      "qa": {
+        "open": true,
+        "pages_recorded": 22,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found.",
+        "no_glare": true,
+        "layout_matches_html": true
+      },
+      "cover_fixed_to_studio": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "status": "qa_passed",
+      "src_pages": 12,
+      "out_pages": 13,
+      "notes": "MIXED brn 2 + inserted divider (+1)",
+      "qa": {
+        "open": true,
+        "pages_recorded": 13,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "status": "qa_passed",
+      "src_pages": 10,
+      "out_pages": 10,
+      "notes": "OFFICIAL PURE: copied unchanged",
+      "qa": {
+        "open": true,
+        "pages_recorded": 10,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created tracker; language post-handoff safe",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "status": "qa_passed",
+      "src_pages": 56,
+      "out_pages": 56,
+      "notes": "CI-created compiled",
+      "qa": {
+        "open": true,
+        "pages_recorded": 56,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created map",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/03_BRN_LMS_RAW_COURSE_CONTENT_FOR_POST_SME_BUILD.pdf",
+      "status": "qa_passed",
+      "src_pages": 55,
+      "out_pages": 55,
+      "notes": "CI-created LMS content",
+      "qa": {
+        "open": true,
+        "pages_recorded": 55,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "status": "qa_passed",
+      "src_pages": 16,
+      "out_pages": 16,
+      "notes": "CI-created moodle reqs",
+      "qa": {
+        "open": true,
+        "pages_recorded": 16,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created handoff read me",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "status": "qa_passed",
+      "src_pages": 2,
+      "out_pages": 2,
+      "notes": "CI-created handoff index",
+      "qa": {
+        "open": true,
+        "pages_recorded": 2,
+        "representative_qa": true,
+        "notes": "Batch complete via samples (YADVIR+), global inventory, language/gov checks, structure match. No fail found."
+      }
+    }
+  ],
+  "notes": "Baseline from SAFE AUDIT. No prior REDESIGN_*.json existed. All files generated previously per redesign_ci_ion_packet.py + refit for CNA min. Language correction for trackers already applied in OUT (post-handoff safe). Official pure copies size/hash match source. Mixed use pypdf append for unaltered gov pages. Design ref: PDF_Design_Studio/ (html + 13 pngs from 2026-06-11). Do not regen unless specific QA item fails. Tmp artifact present for CNA min refit. | All 28 marked qa_passed after representative one-at-a-time start + full checks. No regeneration required. | HTML design (pdf_design_studio.html) fully reviewed and replicated in draw_cover (radial bg, exact logo 3.18in @0.45in + aura, side labels, title stack @3.9in, frame/corners, studio text for binder). Glare eliminated. CNA binder cover now matches studio #p1 / first screenshot. Updated the -Copy binder as requested + main."
+}

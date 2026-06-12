@@ -1,0 +1,108 @@
+# All PDF Style / Truncation Scan
+
+- PDFs scanned: 24
+- PDFs with raw Markdown indicators: 5
+- PDFs with text in footer guard area: 22
+- PDFs with trim-edge overflow indicators: 0
+- PDFs with agency draft wording: 5
+- Official-form PDFs with DRAFT text: 0
+
+## Suspect Files
+
+### 00_START_HERE\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf
+- Pages: 3
+- Raw Markdown indicator pages: 2
+- Footer guard pages: 1
+
+### 00_START_HERE\01_MASTER_END_USER_PACKET_INDEX.pdf
+- Pages: 2
+- Raw Markdown indicator pages: 2
+- Footer guard pages: 1
+
+### 00_START_HERE\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf
+- Pages: 3
+- Footer guard pages: 1
+- Agency draft wording pages: 2
+
+### 01_CNA_CDPH_CE_APPLICATION\01_APPLICATION_SUBMISSION\01_CNA_CDPH_APPLICATION_BINDER.pdf
+- Pages: 17
+- Footer guard pages: 1, 5, 6, 13, 14, 15, 16, 17
+
+### 01_CNA_CDPH_CE_APPLICATION\01_APPLICATION_SUBMISSION\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf
+- Pages: 8
+- Footer guard pages: 1, 4, 5, 6, 7, 8
+- Agency draft wording pages: 2
+
+### 01_CNA_CDPH_CE_APPLICATION\01_APPLICATION_SUBMISSION\03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf
+- Pages: 5
+- Footer guard pages: 1, 2, 3, 4, 5
+
+### 01_CNA_CDPH_CE_APPLICATION\01_APPLICATION_SUBMISSION\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 01_CNA_CDPH_CE_APPLICATION\02_COURSE_MATERIALS\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf
+- Pages: 33
+- Footer guard pages: 1
+- Agency draft wording pages: 2, 3, 6, 8, 11, 13, 16, 18, 21, 23, 26, 28, 31
+
+### 01_CNA_CDPH_CE_APPLICATION\02_COURSE_MATERIALS\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 02_RCFE_CDSS_CETP_APPLICATION\01_APPLICATION_SUBMISSION\01_RCFE_CDSS_APPLICATION_BINDER.pdf
+- Pages: 46
+- Footer guard pages: 1, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35
+
+### 02_RCFE_CDSS_CETP_APPLICATION\01_APPLICATION_SUBMISSION\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf
+- Pages: 37
+- Footer guard pages: 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+
+### 02_RCFE_CDSS_CETP_APPLICATION\01_APPLICATION_SUBMISSION\03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf
+- Pages: 34
+- Footer guard pages: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+
+### 02_RCFE_CDSS_CETP_APPLICATION\01_APPLICATION_SUBMISSION\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 02_RCFE_CDSS_CETP_APPLICATION\02_COURSE_MATERIALS\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf
+- Pages: 60
+- Footer guard pages: 1
+- Agency draft wording pages: 2, 10, 11, 18, 19, 26, 27, 31, 32, 38, 39, 45, 46, 50, 51, 55, 56, 60
+
+### 02_RCFE_CDSS_CETP_APPLICATION\02_COURSE_MATERIALS\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\01_APPLICATION_SUBMISSION\01_BRN_CEP_APPLICATION_BINDER.pdf
+- Pages: 22
+- Raw Markdown indicator pages: 13
+- Footer guard pages: 1, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\01_APPLICATION_SUBMISSION\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf
+- Pages: 13
+- Raw Markdown indicator pages: 4
+- Footer guard pages: 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\01_APPLICATION_SUBMISSION\03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf
+- Pages: 10
+- Raw Markdown indicator pages: 1
+- Footer guard pages: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\01_APPLICATION_SUBMISSION\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\02_COURSE_MATERIALS\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf
+- Pages: 62
+- Footer guard pages: 1
+- Agency draft wording pages: 2, 3, 9, 15, 20, 21, 26, 27, 32, 33, 38, 39, 45, 50, 51, 56, 57, 62
+
+### 03_BRN_CARE_MANAGER_CEP_APPLICATION\02_COURSE_MATERIALS\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf
+- Pages: 2
+- Footer guard pages: 1
+
+### 04_MOODLE_IMPLEMENTATION_REQUIREMENTS\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf
+- Pages: 63
+- Footer guard pages: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 26, 27, 31, 32, 33, 34, 35

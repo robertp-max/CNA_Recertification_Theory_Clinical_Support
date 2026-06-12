@@ -1,0 +1,16 @@
+﻿{
+    "updated_at":  "2026-06-12T13:35:11.6096439-07:00",
+    "status":  "completed_tj_author_attribution",
+    "pdf_count":  24,
+    "author":  "TJ Padilla",
+    "qa":  {
+               "overflow_pdfs":  0,
+               "official_pdfs_with_draft_text":  0,
+               "strict_artifact_findings":  0,
+               "tj_cover_footer_hits":  281,
+               "tj_body_violations":  0,
+               "yadvir_ci_created_hits":  0,
+               "yadvir_official_form_hits_preserved":  6
+           },
+    "visual_samples":  "QA_RENDER_SAMPLES_TJ_AUTHOR_FIX"
+}

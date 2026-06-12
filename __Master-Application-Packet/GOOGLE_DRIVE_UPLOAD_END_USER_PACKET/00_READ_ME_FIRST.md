@@ -1,49 +1,80 @@
-# READ ME FIRST — CI Institute of Nursing Signer / Reviewer Packet
+# READ ME FIRST - Google Drive End-User Packet
 
-**Status: Draft / Pending Approval — Signer & Reviewer Review Version**
+This is the normalized end-user packet. Each lane contains one complete signer-review binder, one primary compiled course packet, supporting matrix/crosswalk PDFs, unbranded official government forms, and a final verification checklist.
 
-## What this folder is
+Do not use certificates, advertising claims, provider numbers, vendor numbers, or course approval numbers until regulator approval is issued.
 
-This is the clean, signer-friendly, Google Drive–ready version of the CI Institute of Nursing regulatory application packet. It now exposes both signer-review materials and visible course materials for each lane.
+Individual module PDFs are not the primary end-user route. They are excluded from this Google Drive packet except as source/archive references in the repository.
 
-- `01_SIGNER_REVIEW` contains the complete signer-review binder, unbranded official forms, and final lane checklist.
-- `02_COURSE_MATERIALS` contains consolidated branded course PDFs so reviewers can quickly find catalog, syllabus, LMS/course package, matrix, crosswalk, and representative course materials without opening the binder first.
+## Application Submission Workflow
 
-This is not the full source archive. Internal drafts, build scripts, research files, audit fragments, generated outputs, old one-page PDF fragments, and superseded materials are excluded.
+Yadvir should use the compiled signer-review binder and official forms for each lane as the working application submission packet. Before submission, verify that each required form is complete, all signature/date/payment fields are ready, Vanessa evidence is attached where required, reviewer access is valid where required, and no files from `99_NOT_FOR_SUBMISSION_REFERENCE` are included in the submission package.
 
-## Who should review it
+### CNA / CDPH CE
 
-- The authorized signer (Maria Divina Bustos, CEO / Authorized Representative).
-- The SME / instructor of record (Vanessa Valerio, RN) for instructor evidence items.
-- Any legal / privacy reviewer confirming notice and attestation language.
-- The LMS administrator confirming reviewer access for the regulator.
+- Review the CNA compiled signer-review binder.
+- Verify CDPH 192B and CDPH 193 are ready for final signature/date.
+- Verify course list, 24-hour / 12-unit online CE structure, instructor evidence, and certificate controls.
+- Confirm no clinical hours are represented as online CE.
+- Submit only the approved application packet/forms and required attachments.
 
-## What must be signed
+### RCFE / CDSS CETP
 
-- CNA: CDPH 192B and CDPH 193.
-- RCFE: LIC 9141 vendor application and all nine LIC 9140 course forms.
-- BRN: BRN CEP application.
+- Review the RCFE compiled signer-review binder.
+- Verify LIC 9141 vendor application and LIC 9140 course approval forms.
+- Verify the filed 9-course / 27-hour packet only.
+- Confirm the future 40-hour / 12-module RCFE concept is not submitted as current.
+- Verify Vanessa instructor evidence attachment/currentness.
+- Verify payment/check requirements before submission.
 
-## What must be attached
+### BRN / CEP RN Case Management
 
-- Instructor / SME evidence as listed in each lane checklist.
-- Business / identity records and reviewer-access credentials as listed in each lane checklist.
-- Course materials from each lane's `02_COURSE_MATERIALS` folder as appropriate for the submission.
+- Review the BRN compiled signer-review binder.
+- Verify BRN CEP application materials and 30-contact-hour / 10-module course package.
+- Use "contact hours," not CEUs, as the primary term.
+- Confirm no stale 4-contact-hour language remains.
+- Confirm certificate language remains disabled until BRN provider metadata is issued.
 
-## What must be paid
+## Vanessa Course Review and Approval Handoff
 
-- CNA: No fee required for CDPH 192B.
-- RCFE: Vendor fee $140 + course fees $270 = $410 total.
-- BRN: Confirm current BRN CEP application fee at submission time.
+After Vanessa Valerio, RN reviews and approves the course content for educational and clinical accuracy, provide the Moodle build requirements and course-content package to Aldrin and Dagny for implementation planning.
 
-## What must not be submitted
+### Provide Aldrin and Dagny
 
-- The raw design template file.
-- Raw source folders, scripts, prompts, research files, QA images, build artifacts, or old fragmented PDFs.
-- Anything in `99_NOT_FOR_SUBMISSION_REFERENCE` unless explicitly requested as a reference-only exclusion index.
+- Moodle self-host implementation requirements folder: `__Master-Application-Packet\MOODLE_SELF_HOST_IMPLEMENTATION_MVP`
+- Moodle course-content build folder: `__Master-Application-Packet\MOODLE_COURSE_CONTENT_READY_FOR_BUILD`
+- Lane-specific course content:
+  - CNA 24-hour / 12-unit course content
+  - RCFE 9-course / 27-hour course content
+  - BRN 30-contact-hour / 10-module course content
+- Completion and certificate rules
+- Activity/interaction maps
+- Moodle question-bank CSV files
+- Moodle build workbooks
+- Reviewer access requirements
+- No-PHI/privacy controls
+- Approval-gated certificate rules
+- Open items and final human-verification list
 
-## Approval is pending
+## Boundary Note
 
-No certificate of completion may be issued and no advertising or approval claim may be made until the applicable regulator issues approval. All binders and course materials are Draft / Pending Approval.
+Vanessa review/approval is an internal educational/clinical review step. It does not replace CDPH, CDSS/ACS, or BRN approval. No learner-facing approval claim, advertising claim, or certificate issuance should occur until the applicable government agency approval and issued metadata are received.
 
-Official government forms are intentionally unbranded and unchanged. Course materials and signer binders are branded for CI Institute of Nursing reviewer usability.
+## Do Not Give Aldrin and Dagny
+
+- official government forms for editing
+- signer-only binders as build source
+- raw source folders
+- `99_NOT_FOR_SUBMISSION_REFERENCE` files
+- old individual module PDFs
+- generated fragments
+- scratch scripts
+- cache files
+- any PHI or real resident data
+
+## Final Status Language
+
+- Application submission packet: for Yadvir signer/submission workflow.
+- Moodle requirements package: for Aldrin/Dagny implementation planning after Vanessa course review.
+- Moodle course-content package: for Aldrin/Dagny Moodle build after Vanessa course review.
+- Agency approval remains pending until issued by CDPH, CDSS/ACS, or BRN.

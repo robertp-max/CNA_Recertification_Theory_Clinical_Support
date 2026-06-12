@@ -1,0 +1,43 @@
+{
+  "threshold": 0.02,
+  "scanned_nonofficial_pages": 185,
+  "skipped_official_like_pages": 416,
+  "issue_count": 7,
+  "issues": [
+    {
+      "file": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "page": 3,
+      "white_ratio": 0.5369
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "page": 16,
+      "white_ratio": 0.7118
+    },
+    {
+      "file": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 7,
+      "white_ratio": 0.7118
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 45,
+      "white_ratio": 0.8091
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "page": 46,
+      "white_ratio": 0.8326
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 36,
+      "white_ratio": 0.8091
+    },
+    {
+      "file": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "page": 37,
+      "white_ratio": 0.8326
+    }
+  ]
+}

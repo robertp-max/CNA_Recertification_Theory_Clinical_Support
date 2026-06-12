@@ -1,0 +1,733 @@
+[
+  {
+    "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+    "page": 1,
+    "lines": [
+      "NO PUBLIC APPROVAL CLAIM IS MADE UNLESS AGENCY APPROVAL METADATA IS ISSUED",
+      "STATUS: DRAF T / PENDING APPROVAL",
+      "No public approval claim, enrollment for approved credit, or certificate release is authorized until applicable agency approval metadata is issued."
+    ]
+  },
+  {
+    "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+    "page": 2,
+    "lines": [
+      "POST-SME MOODLE BUILD HANDOFF",
+      "Moodle development may not start until Vanessa Valerio, RN or another approved SME has reviewed and approved the course materials for",
+      "development until SME approval is documented. What To Provide After SME Approval After Vanessa/SME approval, provide Aldrin and Dagny",
+      "the Moodle requirements PDF, raw course-content PDFs, workbooks, activity maps, question-bank spreadsheets, completion rules, certificate",
+      "gate rules, and implementation tracker. Approval by Vanessa/SME is internal educational/clinical approval only. It does not replace CDPH,",
+      "issuance may occur until the applicable agency approval and issued metadata are received.",
+      "YADVIR SAANDAL / POST-SME MOODLE BUILD HANDOFF"
+    ]
+  },
+  {
+    "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+    "page": 1,
+    "lines": [
+      "NO PUBLIC APPROVAL CLAIM IS MADE UNLESS AGENCY APPROVAL METADATA IS ISSUED",
+      "MOODLE BUILD INDEX",
+      "MOODLE BUILD INDEX",
+      "MOODLE BUILD INDEX",
+      "MOODLE BUILD INDEX",
+      "STATUS: DRAF T / PENDING APPROVAL",
+      "No public approval claim, enrollment for approved credit, or certificate release is authorized until applicable agency approval metadata is issued."
+    ]
+  },
+  {
+    "file": "05_ALDRIN_DAGNY_POST_SME_HANDOFF/02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+    "page": 2,
+    "lines": [
+      "POST-SME MOODLE BUILD INDEX",
+      "Moodle requirements-only PDF CNA, RCFE, and BRN raw LMS course-content PDFs Lane LMS build workbooks Activity/interactivity maps and",
+      "question-bank spreadsheets from source repository, if released by owner Completion rules and certificate gate rules Implementation tracker",
+      "and reviewer access requirements Hold Language LMS development may not start until Vanessa Valerio, RN or another approved SME has",
+      "reviewed and approved the course materials. Internal SME approval is required before Aldrin/Dagny begin Moodle course-shell build, content",
+      "import, quiz import, learner-access configuration, certificate setup, or production implementation. SME approval does not replace agency",
+      "YADVIR SAANDAL / POST-SME MOODLE BUILD INDEX"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 1,
+    "lines": [
+      "IMPLEMENTATION REQUIREMENT BINDER",
+      "INCLUDES ADDITIONAL IMPLEMENTATION ELEMENTS \u00b7 IMPORT ASSETS EXCLUDED",
+      "MOODLE REQUIREMENTS",
+      "MOODLE REQUIREMENTS",
+      "MOODLE REQUIREMENTS",
+      "MOODLE REQUIREMENTS",
+      "STATUS: DRAF T / PENDING AGENCY APPROVAL",
+      "Requirements for implementation review; no approval claim is made.",
+      "Certificate release and public approval claims remain disabled until applicable agency approval metadata is issued."
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 2,
+    "lines": [
+      "ONE CONSOLIDATED REQUIREMENT PDF FOR MOODLE IMPLEMENTATION REVIEW.",
+      "This consolidated PDF is assembled from the Moodle MVP implementation copy. The import_assets folder is excluded. Additional",
+      "implementation elements are included with presentation labels cleaned for review.",
+      "2. Self Hosted Moodle Requirements",
+      "8. Moodle Build Checklist",
+      "10. Moodle Import Package Index",
+      "11. Moodle Admin Quick Start",
+      "19. Implementation Risk Register",
+      "23. Moodle MVP Final Validation",
+      "Additional Implementation Elements",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 3,
+    "lines": [
+      "Applicant: CI Institute of Nursing, Inc. Prepared: June 09, 2026 Status: Draft / Pending Approval (all three lanes). This package is an",
+      "implementation requirement set for a self-hosted Moodle MVP. It is not a regulator submission and makes no approval claim.",
+      "Purpose of the Moodle MVP",
+      "Provide a complete, survey-defensible, self-hosted Moodle implementation requirement package so a Moodle administrator can build the learning",
+      "and 00_FINAL_COURSE_ALIGNMENT_AUDIT.md). where a required Moodle implementation artifact required completion, it has been prepared",
+      "conservatively and clearly labeled \"Moodle MVP implementation support artifact.,\" with SME/admin review flags where content judgment is",
+      "Pending Approval.",
+      "only as a future, non-submitted expansion. Draft / Pending Approval.",
+      "The course architecture for all three lanes can be built in Moodle exactly as filed/controlling.",
+      "Certificates can be hard-blocked until regulator approval and released only under documented approval metadata.",
+      "It does not prove or assert any regulator approval. All lanes are Draft / Pending Approval.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 4,
+    "lines": [
+      "Every learner-facing course, certificate control, and catalog statement is built in a \"Pending Approval\" posture. No approval numbers are invented.",
+      "Certificate release is gated behind approval metadata and an authorized role (see 06_CERTIFICATE_AND_APPROVAL_CONTROLS.md).",
+      "GO to build the MVP environment: all implementation artifacts in this package are present (validated). The MVP build can proceed in a non-",
+      "NO-GO to issue certificates or make public approval claims until: (1) regulator approval is granted and approval metadata is entered; (2)",
+      "Moodle version recommendation (summary)",
+      "Default recommendation: Moodle 4.5 LTS for survey-stable self-hosting and plugin compatibility. Moodle 5.2 may be considered only if all required",
+      "See 01_SELF_HOSTED_MOODLE_REQUIREMENTS.md.",
+      "01_SELF_HOSTED_MOODLE_REQUIREMENTS.md",
+      "07_MOODLE_BUILD_CHECKLIST.md",
+      "09_MOODLE_IMPORT_PACKAGE_INDEX.md",
+      "10_MOODLE_ADMIN_QUICK_START.md",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 5,
+    "lines": [
+      "18_IMPLEMENTATION_RISK_REGISTER.md",
+      "99_MOODLE_MVP_FINAL_VALIDATION.md",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 6,
+    "lines": [
+      "SELF HOSTED MOODLE REQUIREMENTS",
+      "01_SELF_HOSTED_MOODLE_REQUIREMENTS.MD",
+      "SELF HOSTED MOODLE REQUIREMENTS",
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. where source technical values were not available locally. Items",
+      "Moodle version recommendation",
+      "Default recommendation: Moodle 4.5 LTS for survey-stable self-hosting and plugin compatibility (long-term support release lifecycle reduces",
+      "Moodle 5.2 may be considered only if all required plugins, import tools (GIFT/CSV question import), themes, and the certificate plugin are",
+      "claims unless verified from current Moodle documentation.",
+      "official Moodle documentation at install time.",
+      "A supported web server (e.g., Apache or Nginx) configured for the chosen Moodle version.",
+      "Technical admin final verification required - confirm exact web server version against the Moodle release's requirements.",
+      "PHP version and required PHP extensions as specified for the chosen Moodle release.",
+      "A supported database engine (e.g., MariaDB/MySQL or PostgreSQL) at a version supported by the chosen Moodle release.",
+      "Moodle cron must run on a reliable schedule (e.g., every 1 minute) for completion processing, notifications, scheduled tasks, and backups.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 7,
+    "lines": [
+      "Automated scheduled backups of the database and moodledata, plus Moodle automated course backups (.mbz).",
+      "Standard Moodle logging enabled; logs retained per retention policy; log export available for survey/audit (see",
+      "Adequate disk for moodledata, database, and backups, with growth headroom.",
+      "Only install plugins verified compatible with the chosen Moodle version and from trusted sources. Technical admin final verification required",
+      "Force HTTPS; secure cookies; disable unused features; restrict admin to dedicated accounts; keep Moodle and server patched.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 8,
+    "lines": [
+      "Configure Moodle privacy/GDPR-style tools and a privacy policy page. Technical admin final verification required - jurisdiction-specific privacy",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 9,
+    "lines": [
+      "Status: Draft / Pending Approval. Controlling source: master application packet (00_FINAL_COURSE_ALIGNMENT_AUDIT.md).",
+      "Recommended Moodle category structure:",
+      "CNA / CDPH CE - one Moodle course recommended for the MVP",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 10,
+    "lines": [
+      "RCFE / CDSS CETP - 9 separate Moodle courses (filed LIC 9140 list)",
+      "BRN / CEP RN Case Management - one 30-contact-hour Moodle course recommended for the MVP",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 11,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 12,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. (completion rules where not present in source). One row per CNA unit, RCFE course, and BRN module, plus finals.",
+      "Columns: lane | course/unit/module | hours | min minutes | Moodle section/activity | completion condition | grade/pass condition | restrict-access dependency | evidence produced | Moodle report/export | responsible role | survey risk",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 13,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 14,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 15,
+    "lines": [
+      "Status: Draft / Pending Approval. See machine-readable companion import_assets/ROLE_MATRIX_IMPORT_REFERENCE.csv.",
+      "Moodle Manager",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 16,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 17,
+    "lines": [
+      "Status: Draft / Pending Approval. Quiz banks were (see import_assets/) and meet minimum counts (see",
+      "Moodle), and scenario-based judgment questions (required).",
+      "CSV files use the fixed field order (below) for traceability and SME review; CSV is a reviewer review and re-import-staging format (Moodle",
+      "n_e,correct_answer,rationale,difficulty,source_reference,sme_review_status,moodle_import_category.",
+      "Question bank organized by Moodle categories (CNA/U01...CNA/FINAL, RCFE/RCFE-CETP-001...009, BRN/M01...M10, BRN/CAPSTONE_FINAL).",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 18,
+    "lines": [
+      "3. Approved items are imported via GIFT into the correct Moodle question category.",
+      "SME_review_status, Moodle_import_category - all present in the CSV banks.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 19,
+    "lines": [
+      "Status: Draft / Pending Approval. No certificate may be issued for CE credit before regulator approval. See",
+      "Approval metadata required before activation",
+      "A certificate cannot be enabled until the following approval metadata fields are populated (these are required gate fields; do not fabricate values):",
+      "4. Approval metadata present and the \"approved\" flag set by an authorized role.",
+      "Only the Site Administrator or Moodle Manager may enable the certificate activity and set the approval flag, and only after approval metadata",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 20,
+    "lines": [
+      "Test CT-01 (certificate blocked before approval) and CT-02 (release only after approval metadata) in 08_SURVEY_READINESS_QA_TEST_PLAN.md.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 21,
+    "lines": [
+      "MOODLE BUILD CHECKLIST",
+      "07_MOODLE_BUILD_CHECKLIST.MD",
+      "MOODLE BUILD CHECKLIST",
+      "Status: Draft / Pending Approval. Each row: task | owner | evidence | pass/fail | severity | notes. Pass/fail left blank for the builder to complete.",
+      "Site install (chosen Moodle version)",
+      "DB + moodledata + course backups",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 22,
+    "lines": [
+      "Status: Draft / Pending Approval. Each test case: ID | purpose | steps | expected result | evidence artifact | severity | pass/fail (placeholder).",
+      "Set approval metadata + flag (test)",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 23,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 24,
+    "lines": [
+      "MOODLE IMPORT PACKAGE INDEX",
+      "09_MOODLE_IMPORT_PACKAGE_INDEX.MD",
+      "MOODLE IMPORT PACKAGE INDEX",
+      "Status: Draft / Pending Approval. Indexes all import assets in import_assets/ and explains how to use them.",
+      "DIRECT IMPORT TO MOODLE?",
+      "What requires manual Moodle setup",
+      "Categories, courses, sections, activities, completion settings, restrict-access rules, gradebook setup, roles, certificate controls, and attestations are built manually per the reference CSVs and course_shells specs (Moodle has no",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 25,
+    "lines": [
+      "Course naming: per COURSE_SHELL_NAMING_CONVENTIONS.csv (short + full names with \"[Draft / Pending Approval]\" / \"[Pending BRN CEP Approval]\").",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 26,
+    "lines": [
+      "MOODLE ADMIN QUICK START",
+      "10_MOODLE_ADMIN_QUICK_START.MD",
+      "MOODLE ADMIN QUICK START",
+      "Status: Draft / Pending Approval. Practical, step-by-step guide for the Moodle administrator. Menu paths are typical for Moodle 4.5 LTS and may",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 27,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 28,
+    "lines": [
+      "Status: Draft / Pending Approval. Consolidated build specs for all three lanes. Lane-specific detail also in course_shells/.",
+      "Moodle category: CI-CNA-CE",
+      "Course full name: \"CI Institute of Nursing - CNA Continuing Education (12 Units / 24 Online CE Hours) [Draft / Pending Approval]\"",
+      "Certificate gate dependency: course complete + Final passed + attestation + approval metadata flag (post-approval only).",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 29,
+    "lines": [
+      "Moodle category: CI-RCFE-CETP",
+      "One Moodle course per LIC 9140 course (short names = RCFE-CETP-001..009; full names per COURSE_SHELL_NAMING_CONVENTIONS.csv).",
+      "Certificate gate dependency: completion + final passed + evaluation + attestation + approval metadata flag (post-approval only); certificate must match approved terms.",
+      "Moodle category: CI-BRN-CM",
+      "Certificate gate dependency: course complete + Capstone passed + approval metadata flag (post-approval only). Contact hours, not CEUs; no certification/scope claim.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 30,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 31,
+    "lines": [
+      "Status: Draft / Pending Approval. Companion: import_assets/GRADEBOOK_SETUP_REFERENCE.csv,",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 32,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 33,
+    "lines": [
+      "Status: Draft / Pending Approval. Companion: import_assets/REPORTING_EXPORT_CHECKLIST.csv.",
+      "Course backups (.mbz) per course; full-site DB + moodledata backups. Stored with offsite copy.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 34,
+    "lines": [
+      "Status: Draft / Pending Approval. Exact retention periods require SME/legal verification per each regulator's recordkeeping rules.",
+      "Automated daily database + moodledata backups; automated course backups (.mbz) on a regular schedule.",
+      "requests where required (Moodle privacy tools).",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 35,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 36,
+    "lines": [
+      "Status: Draft / Pending Approval. Companion reviewer-facing script: additional_elements/SURVEY_REVIEWER_SCRIPT.md.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 37,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 38,
+    "lines": [
+      "Status: Draft / Pending Approval. Companion learner-facing copy: additional_elements/NO_PHI_LEARNER_WARNINGS.md.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 39,
+    "lines": [
+      "Status: Draft / Pending Approval. Target: WCAG-oriented accessibility and mobile usability. Final accessibility audit: recommended before",
+      "Aim for WCAG 2.1 AA-oriented practices across content and activities. Run an accessibility checker (e.g., Moodle's built-in/brickfield-style",
+      "Any PDF resources should be tagged/accessible (headings, reading order, alt text, selectable text - not scanned images). Prefer native Moodle",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 40,
+    "lines": [
+      "IMPLEMENTATION RISK REGISTER",
+      "18_IMPLEMENTATION_RISK_REGISTER.MD",
+      "IMPLEMENTATION RISK REGISTER",
+      "Status: Draft / Pending Approval. Columns: risk | lane | severity | likelihood | mitigation | owner | evidence | status.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 41,
+    "lines": [
+      "Status: Draft / Pending Approval.",
+      "1. Regulator approval granted and approval metadata entered (number, dates, approved titles/hours). Approval number/decision = regulator-",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 42,
+    "lines": [
+      "Status: Draft / Pending Approval. Execute only after a lane's regulator approval is granted.",
+      "Enter the regulator-issued approval/provider number(s) and effective/expiration dates into the certificate approval metadata fields (per lane).",
+      "Replace \"Draft / Pending Approval\" / \"Pending BRN CEP Approval\" labels with approved status wording. Ensure no overclaim (no clinical hours",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 43,
+    "lines": [
+      "Status: Draft / Pending Approval. This list is explicit. Items below are NOT build blockers unless marked TRUE BLOCKER (none are, for the MVP build). Signature/payment/reviewer-credential/regulator-decision items are verification",
+      "items that do not block building the Moodle MVP environment.",
+      "Moodle version + PHP/DB exact values",
+      "B. Additional implementation artifacts",
+      "No Moodle-ready item banks existed",
+      "No Moodle config artifacts existed",
+      "No Moodle shell specs existed",
+      "No Moodle attestation copy existed",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 44,
+    "lines": [
+      "None for the Moodle MVP build. All items required to build the self-hosted MVP environment are present or prepared. Items in section A are required before public CE issuance / survey submission but do not block constructing",
+      "and internally testing the MVP. See 99_MOODLE_MVP_FINAL_VALIDATION.md.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 45,
+    "lines": [
+      "MOODLE MVP FINAL VALIDATION",
+      "99_MOODLE_MVP_FINAL_VALIDATION.MD",
+      "MOODLE MVP FINAL VALIDATION",
+      "MOODLE MVP PACKAGE COMPLETE - READY FOR ADMIN BUILD AND SURVEY-DEFENSIBLE REVIEW",
+      "This package is in a Draft / Pending Approval posture. \"Complete\" means the implementation package is buildable and survey-defensible; it does NOT mean any regulator has approved the courses. No CE certificates issue until",
+      "\"Pending Approval\" posture throughout",
+      "All assets under MOODLE_SELF_HOST_IMPLEMENTATION_MVP",
+      "MOODLE_SELF_HOST_IMPLEMENTATION_MVP.zip",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 46,
+    "lines": [
+      "None for the Moodle MVP build.",
+      "Tracked in 98_VERIFICATION_ITEMS.md: regulator-issued approval/provider numbers, legal signatures, authorized signer identity, real reviewer credentials, and final Moodle technical version/host verification. SME/legal review of",
+      "Moodle version recommendation",
+      "Moodle 4.5 LTS recommended for survey-stable self-hosting and plugin compatibility. Moodle 5.2 only if all required plugins/import tools/themes are verified compatible. Version recommendation requires final technical verification",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 47,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 48,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 49,
+    "lines": [
+      "Course complete + Capstone passed + approval metadata flag (post-approval only). BRN certificate uses \"contact hours\" (30); never CEUs",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 50,
+    "lines": [
+      "Status: Draft / Pending Approval. Online CE only; no clinical hours; no hands-on competency validation; no full 48-hour renewal claim.",
+      "Course full name: \"CI Institute of Nursing - CNA Continuing Education (12 Units / 24 Online CE Hours) [Draft / Pending Approval]\"",
+      "Course complete + Final passed + attestation + approval metadata flag (post-approval only). CNA certificate states online CE hours only (no",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 51,
+    "lines": [
+      "Status: Draft / Pending Approval. Controlling structure = filed 9 LIC 9140 courses / 27 hours. The 40-hour/12-module concept is FUTURE",
+      "One Moodle course per LIC 9140 course (9 total). Completion tracking ON; Topics format.",
+      "Completion + final passed + evaluation + attestation + approval metadata flag (post-approval only). RCFE certificate must match CDSS-",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 52,
+    "lines": [
+      "ADDITIONAL IMPLEMENTATION ELEMENTS",
+      "These additional implementation elements are included for review. Presentation labels are cleaned; source files remain unchanged.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 53,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. Legal/compliance review required before production use.",
+      "competency validation and does not, by itself, complete all California CNA renewal requirements. Status: Draft / Pending Approval.\"",
+      "certification. Status: Draft / Pending Approval.\"",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 54,
+    "lines": [
+      "Status: Pending BRN CEP approval. Moodle MVP implementation support artifact. SME review required. 30 contact hours = 10 modules x 3",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 55,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 56,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. Legal/compliance review required. See",
+      "pending regulatory approval. No CE certificate will be issued until approval is granted and approval metadata is configured.\"",
+      "Required approval metadata (must be set by authorized role before any certificate release)",
+      "Certificate release is permitted only when: regulator approval granted; approval metadata complete; certificate wording matches approved terms;",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 57,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. SME review required. Online CE only; no clinical hours;",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 58,
+    "lines": [
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 59,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. Privacy/compliance review required.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 60,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. SME review required. Renewal-level CE refresher for RCFE",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 61,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. SME review required.",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 62,
+    "lines": [
+      "Status: Draft / Pending Approval. Moodle MVP implementation support artifact. Reviewer-facing orientation. Read-only access only.",
+      "Orient a regulator/surveyor or compliance reviewer to the self-hosted Moodle MVP so they can verify structure, completion evidence, assessment",
+      "\"This is a self-hosted Moodle learning environment in a pre-approval, survey-readiness state. No continuing-education certificates are issued until",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  },
+  {
+    "file": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS/01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+    "page": 63,
+    "lines": [
+      "Status: Draft / Pending Approval. These files are Moodle MVP implementation support artifacts. They are kept for source control and build review,",
+      "MOODLE SELF-HOST IMPLEMENTATION REQUIREMENTS",
+      "YADVIR SAANDAL / IMPLEMENTATION REQUIREMENT BINDER"
+    ]
+  }
+]

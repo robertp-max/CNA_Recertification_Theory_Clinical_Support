@@ -1,0 +1,244 @@
+{
+  "status": "complete",
+  "updated_pdf_count": 22,
+  "skipped_official_count": 3,
+  "results": [
+    {
+      "rel": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "befac3b7cb590b94b5fe224213dc3b94ae53646e4418e7c58ac6735a67ef13d7",
+      "new_sha256": "e3a5d40daf0c9e06d69b24e9fd168448f7803e8644cb5fd4a4bb1d25356c0a7a",
+      "pages": 3
+    },
+    {
+      "rel": "00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "c2a8ffcd6279431618e3e7ba6a1175285815065a6d822413ad5a000db14dd6b6",
+      "new_sha256": "9e3ae6b415b5b1e664970b11e06629def4d03c1c6eef1c09d2086bb4a2c59f84",
+      "pages": 3
+    },
+    {
+      "rel": "00_START_HERE\\01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "8d6eb1a48ba85f94301df04e4c6a3be6f79107d91f8537040e01722e91037696",
+      "new_sha256": "beaf6812be0fb801d7275d2154fc13395867755e63dcb2957ca2a21af28913c3",
+      "pages": 2
+    },
+    {
+      "rel": "00_START_HERE\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "88116927804448e67d6ab55ed73fe155426051d7d9d328bde9825205d07eb2dc",
+      "new_sha256": "c21817896b977ac7bea21a1f43bde887de894ac36771ef325c5b237ab0e4daf8",
+      "pages": 3
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "eb6b0ac04cc403c6ab9dc2474e2b8e368246cb7538325cfa6af1bd827e5420ac",
+      "new_sha256": "db27ac4a556271686fe03303c5b3d0b33613c55646aef23f511da0945b93effc",
+      "pages": 17
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "15952e045fca8ed6e4ecfec8bae9372ca7a7fad7c369922c6dea4cae5133276f",
+      "new_sha256": "6c8b950fd150dc8d6e1726bf470f1cc0bea221e9b6aa8e0b3896483b9edd6c0a",
+      "pages": 8
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "e99bc9c9982077a07253fbb51a113a338de0eafdcdafe56539f897dcdab9608d",
+      "new_sha256": "851b2c8a960777f01601c094849b4e6050bd0fe5088b23d230837f5112e5f2f1",
+      "pages": 2
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "9979ba29d897cd3ed11008dcd3e27c873906434e028b53be719d031a4bff4985",
+      "new_sha256": "bd54a4de91c9b3cb93ed9f729f380123f04aa5a8b328ee3cf1ba5dc1dc9fc03b",
+      "pages": 33
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\02_COURSE_MATERIALS\\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "0ecb6d61d937f71a17c52ae316af4c7066d8f71d86704f635fbeb08699f22158",
+      "new_sha256": "4bd35cb4eeaa37bd93355795a9f4a37dd31110c4fb4e3c77bbfe8e63dcc06442",
+      "pages": 2
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "ec4c72bb28939cf8303d996a05d84ccc44bafb8c4c9c675c40f1039c1460ff86",
+      "new_sha256": "8de011d2a9fd69b899cf1e5823b3b7ba1ae9a85ff8abe8090ec74927b87b05c1",
+      "pages": 46
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "a1dba0ee11aeff5dcb529e8ca8b669d0d2cd344322de6ab5017dec4fb905fcf1",
+      "new_sha256": "7756f9b8e5eb9d3da0d6c24a70dfaa2e445d39668887697bce5f94dc51dfe4a2",
+      "pages": 37
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_RCFE_CDSS_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "c49faf15ad6ea5a5abe996da502f180f9fb4837d6633aa1bf241f32f33ce1bd4",
+      "new_sha256": "2d23a8e6e9f5f18a23a258a11de197010d769bb8b0fc8212399ca3739bf74da8",
+      "pages": 2
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\01_RCFE_9_COURSE_27HR_COURSE_MATERIALS_COMPILED.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "91b91107eea5efb2126337abec70c5ea389643bb052b239598f578b8156a668b",
+      "new_sha256": "e4f644a10320e5f28c0afdc89a4800944286f22f492fb2c8da18efed7d9a39bd",
+      "pages": 60
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\02_COURSE_MATERIALS\\02_RCFE_COURSE_MATRIX_AND_DEMENTIA_BLOCK.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "c54e6fa48cc8f95e76e03581d00c6fa4a2749912e9dfafed9fccb6fb9407eb2f",
+      "new_sha256": "0768c2f0fc2c3cd660cc653619e59a1299b5b7d4adbae15a896e1a2886147308",
+      "pages": 2
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "201e568ffcbf4fe682ead3bae960ec6fb05870eb6ef1596e63d53b54f3de7b3f",
+      "new_sha256": "5f2ed021df02e6cd798912525111c93f2c0cd212921d014428a751cc20ea2bcb",
+      "pages": 22
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "d9e8fa939944e3ae9bb9303d03a56e0b770033544de6548d0c81b9cda8f591d8",
+      "new_sha256": "f60f7b7751ea24b14219d500950a581d643aaabe3d151fe1ea2795fe5e114480",
+      "pages": 13
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "f1dc715cebffd453396766dffd2e97adb3c1ad09bafbb2960b3645630bbd9b38",
+      "new_sha256": "1efc519034837ca5e680999d0e2100d1838bc52cf02a747d259e802e1b220884",
+      "pages": 2
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\01_BRN_30_CONTACT_HOUR_COURSE_MATERIALS_COMPILED.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "985bccd976f06b8991953b6a229f89072bd1c8c60af0a28ccb7c15a445a3b036",
+      "new_sha256": "59b3241c0e4758461ef2a97f933d3813bbf34c2e4b591781c214355278298450",
+      "pages": 62
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\02_COURSE_MATERIALS\\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "6771bb1349d18f046dc784d530f597491ea6ddf9027bbda670d0e3b93eead608",
+      "new_sha256": "73228e3ab9c994d7c694714f95b22aa01edcdeb7304b6498868832e635dc7378",
+      "pages": 2
+    },
+    {
+      "rel": "04_MOODLE_IMPLEMENTATION_REQUIREMENTS\\01_MOODLE_SELF_HOST_IMPLEMENTATION_REQUIREMENTS_ONLY.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "b9c97cf9ceea95e0f8b3c37cdd3bc37d46a18d5615232786bd63226672fe87fb",
+      "new_sha256": "25e395857fdc1c957383d3d63498e63991e7c9950333b937612acdf2eff68f86",
+      "pages": 63
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\01_POST_SME_MOODLE_BUILD_HANDOFF_READ_ME.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "5972568d161cda0ffdbf80c5117fa16a7de8a9b22c891f2d502a1afec11fce9f",
+      "new_sha256": "fe396555b5ceddbdd076b1c72d4b792afdaf6584025c898a1f19a9e473036138",
+      "pages": 2
+    },
+    {
+      "rel": "05_ALDRIN_DAGNY_POST_SME_HANDOFF\\02_POST_SME_MOODLE_BUILD_REQUIREMENTS_AND_COURSE_CONTENT_INDEX.pdf",
+      "pages_replaced": [
+        1
+      ],
+      "previous_sha256": "2192b9898be6bbb2a98139d8a8372d9009b7d4bc734f10e3c761f45a4dc5a531",
+      "new_sha256": "8801a4ce84607a672fd228ae161f8f83e0a137d4d715127b85548f3804a45373",
+      "pages": 2
+    }
+  ],
+  "skipped": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "reason": "official government form left unchanged"
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "reason": "official government form left unchanged"
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "reason": "official government form left unchanged"
+    }
+  ],
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_MASTER_END_USER_PACKET_INDEX_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_MASTER_END_USER_PACKET_INDEX_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE_p003.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_CDPH_APPLICATION_BINDER_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_CDPH_APPLICATION_BINDER_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_CDPH_APPLICATION_BINDER_p017.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET_p008.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\04_CNA_CDPH_MISSING_OR_PENDING_SUBMISSION_ITEMS_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED_p001.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa\\01_CNA_24HR_12_UNIT_COURSE_MATERIALS_COMPILED_p033.png"
+  ],
+  "qa_dir": "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_folderwide_studio_covers_qa"
+}

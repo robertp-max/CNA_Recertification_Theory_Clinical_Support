@@ -1,0 +1,111 @@
+{
+  "updated": 7,
+  "blocked": [
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "before_sha256": "befac3b7cb590b94b5fe224213dc3b94ae53646e4418e7c58ac6735a67ef13d7",
+      "after_sha256": "befac3b7cb590b94b5fe224213dc3b94ae53646e4418e7c58ac6735a67ef13d7",
+      "pages": 3,
+      "content_pages_regenerated": 2,
+      "official_appended_from_source": false,
+      "status": "blocked_target_locked",
+      "pending_replacement": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace.pdf",
+      "error": "[WinError 5] Access is denied: 'C:\\\\AI\\\\Git\\\\CNA_Recertification_Theory_Clinical_Support\\\\__Master-Application-Packet\\\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\\\00_START_HERE\\\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.merged.tmp.pdf' -> 'C:\\\\AI\\\\Git\\\\CNA_Recertification_Theory_Clinical_Support\\\\__Master-Application-Packet\\\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\\\00_START_HERE\\\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf'"
+    }
+  ],
+  "results": [
+    {
+      "rel": "00_START_HERE/00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf",
+      "before_sha256": "befac3b7cb590b94b5fe224213dc3b94ae53646e4418e7c58ac6735a67ef13d7",
+      "after_sha256": "befac3b7cb590b94b5fe224213dc3b94ae53646e4418e7c58ac6735a67ef13d7",
+      "pages": 3,
+      "content_pages_regenerated": 2,
+      "official_appended_from_source": false,
+      "status": "blocked_target_locked",
+      "pending_replacement": "C:\\AI\\Git\\CNA_Recertification_Theory_Clinical_Support\\__Master-Application-Packet\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\00_START_HERE\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pending-replace.pdf",
+      "error": "[WinError 5] Access is denied: 'C:\\\\AI\\\\Git\\\\CNA_Recertification_Theory_Clinical_Support\\\\__Master-Application-Packet\\\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\\\00_START_HERE\\\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.merged.tmp.pdf' -> 'C:\\\\AI\\\\Git\\\\CNA_Recertification_Theory_Clinical_Support\\\\__Master-Application-Packet\\\\GOOGLE_DRIVE_UPLOAD_END_USER_PACKET_CLEAN_REDESIGNED - Copy\\\\00_START_HERE\\\\00_YADVIR_READ_ME_FIRST_COMPLETE_GUIDE.pdf'"
+    },
+    {
+      "rel": "00_START_HERE/01_MASTER_END_USER_PACKET_INDEX.pdf",
+      "before_sha256": "e546229eded1a89277c2a9870ee36ad166f75f352c3f71dfa88d5a148e8c875e",
+      "after_sha256": "8d6eb1a48ba85f94301df04e4c6a3be6f79107d91f8537040e01722e91037696",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false,
+      "status": "updated"
+    },
+    {
+      "rel": "00_START_HERE/03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE.pdf",
+      "before_sha256": "418e543f25e39e66b7249333faff52f369cafea07ca9e2f5d23cda543d25e6af",
+      "after_sha256": "88116927804448e67d6ab55ed73fe155426051d7d9d328bde9825205d07eb2dc",
+      "pages": 3,
+      "content_pages_regenerated": 2,
+      "official_appended_from_source": false,
+      "status": "updated"
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/02_COURSE_MATERIALS/02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK.pdf",
+      "before_sha256": "2c5e143aadb31f1e0da84635e28a63fc0e555436b944d9ebe6afbee4e2fa0425",
+      "after_sha256": "0ecb6d61d937f71a17c52ae316af4c7066d8f71d86704f635fbeb08699f22158",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false,
+      "status": "updated"
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "before_sha256": "71fad936343d1e6dee47912b361b0dc0cea2ba5aa35a8ee008516b1877ab8608",
+      "after_sha256": "201e568ffcbf4fe682ead3bae960ec6fb05870eb6ef1596e63d53b54f3de7b3f",
+      "pages": 22,
+      "content_pages_regenerated": 10,
+      "official_appended_from_source": true,
+      "status": "updated"
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "before_sha256": "a074d96c827bee80e07a1af05795c42e07461a91f788f2fbc3984acda6cf7bc1",
+      "after_sha256": "d9e8fa939944e3ae9bb9303d03a56e0b770033544de6548d0c81b9cda8f591d8",
+      "pages": 13,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": true,
+      "status": "updated"
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS.pdf",
+      "before_sha256": "ead441c4fde128545e87a870986a0ee20a486b7a3f08a77676294c261cd60700",
+      "after_sha256": "f1dc715cebffd453396766dffd2e97adb3c1ad09bafbb2960b3645630bbd9b38",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false,
+      "status": "updated"
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/02_COURSE_MATERIALS/02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET.pdf",
+      "before_sha256": "f6e8dafa6f4e8211893ff4efe9c0ddd97896a1aaa2fa780a3864b20a68ce0eed",
+      "after_sha256": "6771bb1349d18f046dc784d530f597491ea6ddf9027bbda670d0e3b93eead608",
+      "pages": 2,
+      "content_pages_regenerated": 1,
+      "official_appended_from_source": false,
+      "status": "updated"
+    }
+  ],
+  "official_checks": [
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "issues": []
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "issues": []
+    }
+  ],
+  "qa_samples": [
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\01_MASTER_END_USER_PACKET_INDEX_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\03_CE_CATALOG_ADDENDUM_AND_WEBSITE_UPDATE_GUIDE_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_CNA_COURSE_MATRIX_AND_SOURCE_CROSSWALK_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\01_BRN_CEP_APPLICATION_BINDER_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\04_BRN_CEP_MISSING_OR_PENDING_SUBMISSION_ITEMS_p002.png",
+    "C:\\Users\\razer\\AppData\\Local\\Temp\\ci_ion_remaining_old_shell_studio_qa\\02_BRN_CONTACT_HOUR_MAP_AND_REPRESENTATIVE_COURSE_PACKET_p002.png"
+  ]
+}

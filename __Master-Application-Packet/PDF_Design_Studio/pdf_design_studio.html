@@ -1,0 +1,2109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CI Institute of Nursing — CNA Recertification Signer-Review Binder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ci-maroon: #8B1515;
+      --ci-maroon-deep: #610000;
+      --ci-maroon-black: #260000;
+      --ci-gold: #FFC107;
+      --ci-gold-dark: #D4AF37;
+      --ci-gold-soft: rgba(255, 193, 7, 0.78);
+      --ci-white: #FFFFFF;
+      --paper-cream: #FDFCF7;
+      --text-dark: #2C2C2C;
+      --text-gray: #666666;
+      --border-gray: #E0E0E0;
+      --font-main: 'Roboto', Arial, sans-serif;
+      --font-serif: 'Playfair Display', Georgia, serif;
+      --page-width: 8.5in;
+      --page-height: 11in;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: #1e1e1e;
+      font-family: var(--font-main);
+      color: var(--text-dark);
+      scroll-behavior: smooth;
+    }
+
+    body {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      padding-left: 280px; /* Space for the navigation sidebar */
+    }
+
+    /* Interactive Sidebar Navigation */
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 280px;
+      height: 100vh;
+      background: #111111;
+      border-right: 1px solid #2d2d2d;
+      color: #bbbbbb;
+      display: flex;
+      flex-direction: column;
+      z-index: 100;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .sidebar-header {
+      padding-bottom: 20px;
+      border-bottom: 1px solid #2d2d2d;
+      margin-bottom: 20px;
+    }
+
+    .sidebar-brand {
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    .sidebar-sub {
+      font-size: 11px;
+      color: var(--ci-gold);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .nav-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .nav-item a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: #aaaaaa;
+      text-decoration: none;
+      font-size: 12px;
+      padding: 8px 10px;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      border-left: 2px solid transparent;
+    }
+
+    .nav-item a:hover {
+      background: #222222;
+      color: #ffffff;
+    }
+
+    .nav-item.active a {
+      background: rgba(139, 21, 21, 0.2);
+      color: #ffffff;
+      border-left-color: var(--ci-maroon);
+    }
+
+    .nav-item-num {
+      font-size: 10px;
+      color: var(--ci-gold);
+      font-weight: bold;
+    }
+
+    .sidebar-actions {
+      margin-top: auto;
+      padding-top: 20px;
+      border-top: 1px solid #2d2d2d;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .print-btn {
+      appearance: none;
+      width: 100%;
+      border: 1px solid var(--ci-gold);
+      background: var(--ci-gold);
+      color: #111111;
+      font-family: var(--font-main);
+      font-size: 13px;
+      font-weight: 600;
+      border-radius: 6px;
+      padding: 10px;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+
+    .print-btn:hover {
+      background: #ffca28;
+      box-shadow: 0 0 10px rgba(255, 193, 7, 0.3);
+    }
+
+    /* Main Container & Page Layouts */
+    .document-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px;
+      gap: 32px;
+    }
+
+    .page {
+      position: relative;
+      width: var(--page-width);
+      height: var(--page-height);
+      background: var(--paper-cream);
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+      overflow: hidden;
+      padding: 0.75in;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      page-break-after: always;
+    }
+
+    /* Smooth Premium Cover Page - NO Leather Texture */
+    .cover-page {
+      background: radial-gradient(circle at 50% 35%, #8B1515 0%, #5b0000 65%, #260000 100%);
+      padding: 0.62in;
+      isolation: isolate;
+      justify-content: flex-start;
+    }
+
+    .cover-page::before {
+      display: none !important; /* Leather textures disabled completely */
+    }
+
+    .cover-page::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      background: radial-gradient(circle at center, transparent 40%, rgba(0,0,0,0.4) 100%);
+      pointer-events: none;
+    }
+
+    .frame {
+      position: absolute;
+      inset: 0.22in;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .frame::before,
+    .frame::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border: 2px solid var(--ci-gold);
+    }
+
+    .frame::after {
+      inset: 0.075in;
+      border-width: 1.15px;
+      opacity: .72;
+    }
+
+    .corner-block {
+      position: absolute;
+      width: 0.58in;
+      height: 0.58in;
+      z-index: 2;
+      color: var(--ci-gold);
+      opacity: .94;
+    }
+
+    .corner-block::before,
+    .corner-block::after {
+      content: '';
+      position: absolute;
+      border-color: currentColor;
+      border-style: solid;
+    }
+
+    .corner-block::before {
+      width: 0.42in;
+      height: 0.42in;
+      border-width: 2px 0 0 2px;
+    }
+
+    .corner-block::after {
+      width: 0.23in;
+      height: 0.23in;
+      border-width: 2px 0 0 2px;
+      top: 0.08in;
+      left: 0.08in;
+      box-shadow:
+        0.13in 0 0 -0.11in currentColor,
+        0 0.13in 0 -0.11in currentColor;
+    }
+
+    .corner-block.tl { top: 0.29in; left: 0.29in; }
+    .corner-block.tr { top: 0.29in; right: 0.29in; transform: scaleX(-1); }
+    .corner-block.bl { bottom: 0.29in; left: 0.29in; transform: scaleY(-1); }
+    .corner-block.br { bottom: 0.29in; right: 0.29in; transform: scale(-1); }
+
+    .side-label {
+      position: absolute;
+      z-index: 3;
+      top: 1.52in;
+      bottom: 1.52in;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 0.18in;
+      color: rgba(255, 193, 7, 0.70);
+      font-size: 0.07in;
+      font-weight: 400;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+    }
+
+    .side-label.left { left: 0.45in; transform: rotate(180deg); }
+    .side-label.right { right: 0.45in; }
+
+    .cover-content {
+      position: relative;
+      z-index: 3;
+      height: 100%;
+      width: 100%;
+      text-align: center;
+    }
+
+    .logo {
+      position: absolute;
+      top: 0.45in;
+      left: 50%;
+      width: 3.18in;
+      height: 3.18in;
+      transform: translateX(-50%);
+      object-fit: contain;
+      display: block;
+      filter: drop-shadow(0 9px 18px rgba(0,0,0,.34));
+    }
+
+    .logo-aura {
+      position: absolute;
+      top: 0.29in;
+      left: 50%;
+      width: 3.75in;
+      height: 3.55in;
+      transform: translateX(-50%);
+      border-radius: 50%;
+      border: 1px solid rgba(255,193,7,.10);
+      opacity: .45;
+    }
+
+    .title-stack {
+      position: absolute;
+      top: 3.9in;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6.72in;
+    }
+
+    .metallic-white {
+      color: #f7f7f7;
+      background: linear-gradient(180deg, #ffffff 0%, #f7f7f7 30%, #d8d8d8 52%, #ffffff 76%, #ececec 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow:
+        0 1px 0 rgba(255,255,255,.45),
+        0 4px 18px rgba(0,0,0,.44),
+        0 0 1px rgba(255,255,255,.95);
+    }
+
+    .title-california {
+      font-weight: 300;
+      font-size: 0.29in;
+      line-height: 1;
+      letter-spacing: 0.25em;
+      margin: 0;
+      text-transform: uppercase;
+      transform: scaleX(1.10);
+      transform-origin: center;
+    }
+
+    .title-main {
+      font-weight: 300;
+      font-size: 0.49in;
+      line-height: 1.02;
+      letter-spacing: 0.055em;
+      margin: 0.16in 0 0;
+      text-transform: uppercase;
+      transform: scaleX(1.035);
+      transform-origin: center;
+    }
+
+    .binder-title {
+      margin-top: 0.25in;
+      font-weight: 400;
+      font-size: 0.235in;
+      line-height: 1.1;
+      color: var(--ci-gold);
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      text-shadow: 0 4px 16px rgba(0,0,0,.34);
+    }
+
+    .subtitle {
+      margin-top: 0.1in;
+      font-weight: 300;
+      font-size: 0.12in;
+      color: rgba(255,255,255,0.90);
+      letter-spacing: 0.135em;
+      text-transform: uppercase;
+    }
+
+    .facts-line {
+      margin: 0.35in auto 0;
+      width: 6.55in;
+      color: rgba(255,255,255,0.95);
+      font-size: 0.108in;
+      line-height: 1.35;
+      font-weight: 400;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.13in;
+      flex-wrap: nowrap;
+    }
+
+    .facts-line span { white-space: nowrap; }
+
+    .pipe {
+      color: var(--ci-gold);
+      opacity: .92;
+    }
+
+    .source-note {
+      display: block;
+      margin-top: 0.052in;
+      color: rgba(255,255,255,0.72);
+      font-size: 0.078in;
+      font-weight: 300;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .rule {
+      width: 5.72in;
+      display: flex;
+      align-items: center;
+      gap: 0.14in;
+      margin: 0.3in auto 0;
+      color: var(--ci-gold);
+    }
+
+    .rule::before,
+    .rule::after {
+      content: '';
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--ci-gold), transparent);
+      flex: 1;
+      opacity: .75;
+    }
+
+    .rule-mark {
+      width: 0.075in;
+      height: 0.075in;
+      background: var(--ci-gold);
+      transform: rotate(45deg);
+      display: inline-block;
+      box-shadow: 0 0 9px rgba(255,193,7,.35);
+    }
+
+    .provider-stack {
+      position: absolute;
+      top: 7.0in;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6.2in;
+    }
+
+    .provider-name {
+      font-weight: 400;
+      font-size: 0.155in;
+      letter-spacing: 0.01em;
+      margin: 0;
+      color: rgba(255,255,255,.95);
+    }
+
+    .prepared-line {
+      margin-top: 0.15in;
+      color: rgba(255,255,255,0.82);
+      font-size: 0.088in;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      font-weight: 300;
+    }
+
+    .prepared-line strong {
+      color: var(--ci-gold);
+      font-weight: 400;
+      letter-spacing: 0.11em;
+    }
+
+    .status-text {
+      position: absolute;
+      top: 8.5in;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 6.5in;
+      color: var(--ci-white);
+    }
+
+    .status-title {
+      color: var(--ci-white);
+      font-size: 0.15in;
+      font-weight: 400;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .status-title::before,
+    .status-title::after {
+      content: '';
+      display: inline-block;
+      width: 0.88in;
+      height: 1px;
+      background: var(--ci-gold);
+      vertical-align: middle;
+      margin: 0 0.20in;
+      opacity: .78;
+    }
+
+    .status-subtitle {
+      margin-top: 0.1in;
+      color: rgba(255,255,255,0.78);
+      font-size: 0.097in;
+      font-weight: 300;
+      letter-spacing: 0.075em;
+    }
+
+    .footer-note {
+      position: absolute;
+      left: 0.82in;
+      right: 0.82in;
+      bottom: 0.33in;
+      z-index: 4;
+      font-size: 0.065in;
+      line-height: 1.35;
+      color: rgba(255,255,255,0.50);
+      text-align: center;
+      font-weight: 300;
+    }
+
+    /* Interior Page Header / Footer Styling */
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1.5px solid var(--ci-maroon);
+      padding-bottom: 6px;
+      margin-bottom: 20px;
+    }
+
+    .header-left {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-weight: 500;
+      color: var(--ci-maroon);
+    }
+
+    .header-right {
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 400;
+      color: var(--text-gray);
+    }
+
+    .page-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--border-gray);
+      padding-top: 6px;
+      margin-top: 20px;
+      font-size: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-gray);
+    }
+
+    .footer-left {
+      font-weight: 400;
+    }
+
+    .footer-center {
+      font-weight: 300;
+      text-align: center;
+    }
+
+    .footer-right {
+      font-weight: bold;
+    }
+
+    /* Document Body Typography & Layout Elements */
+    .page-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .doc-section-title {
+      font-family: var(--font-serif);
+      font-size: 20px;
+      color: var(--ci-maroon-deep);
+      margin-top: 0;
+      margin-bottom: 15px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .doc-section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(90deg, var(--ci-gold), transparent);
+    }
+
+    .intro-text {
+      font-size: 12px;
+      line-height: 1.6;
+      color: var(--text-dark);
+      margin-bottom: 15px;
+    }
+
+    /* High-Fidelity Tables with Premium 3D Beveled Gradient Headers */
+    .ci-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      font-size: 11px;
+    }
+
+    .ci-table th {
+      background: linear-gradient(180deg, #9C1A1A 0%, var(--ci-maroon-deep) 100%);
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 500;
+      padding: 8px 12px;
+      text-align: left;
+      border: 1px solid var(--ci-maroon-black);
+      border-top: 1.5px solid var(--ci-gold-dark); /* Subtle premium top gold line */
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15); /* Soft inner top reflection */
+    }
+
+    .ci-table td {
+      padding: 8px 12px;
+      border: 1px solid var(--border-gray);
+      color: var(--text-dark);
+      line-height: 1.4;
+    }
+
+    .ci-table tr:nth-child(even) {
+      background: rgba(139, 21, 21, 0.03);
+    }
+
+    .ci-table .row-title {
+      font-weight: bold;
+      color: var(--ci-maroon);
+    }
+
+    /* Badges & Tags */
+    .badge {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 9px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .badge-aligned { background: #E8F5E9; color: #2E7D32; border: 1px solid #A5D6A7; }
+    .badge-complete { background: #E3F2FD; color: #1565C0; border: 1px solid #90CAF9; }
+    .badge-verify { background: #FFF3E0; color: #E65100; border: 1px solid #FFCC80; }
+    .badge-pending { background: #FFEBEE; color: #C62828; border: 1px solid #FFCDD2; }
+
+    /* Interactive Verification Checkboxes */
+    .verification-list {
+      list-style: none;
+      padding: 0;
+      margin: 15px 0;
+    }
+
+    .verification-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .verification-item input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--ci-maroon);
+      margin-top: 2px;
+      cursor: pointer;
+    }
+
+    .verification-desc {
+      flex: 1;
+    }
+
+    /* Notice Block */
+    .notice-block {
+      background: #FFFDE7;
+      border-left: 4px solid var(--ci-gold);
+      padding: 12px;
+      font-size: 11px;
+      line-height: 1.5;
+      margin-top: 15px;
+      border-radius: 0 6px 6px 0;
+    }
+
+    /* Sign-off Fields */
+    .sign-table {
+      width: 100%;
+      margin-top: 40px;
+      border-collapse: collapse;
+    }
+
+    .sign-table td {
+      border: none;
+      padding: 16px 12px;
+      font-size: 11px;
+    }
+
+    .sign-line {
+      border-bottom: 1px solid #000000;
+      width: 3.5in;
+      height: 24px;
+    }
+
+    /* Appended Form Divider - NO Leather Texture, Fixed Flex-Alignment Border Collision */
+    .divider-page {
+      background: radial-gradient(circle at center, #610000 0%, #3d0000 70%, #1a0000 100%);
+      position: relative;
+      display: block; /* Fixed: Overrides default page-flex layout to guarantee consistent absolute sizing */
+    }
+
+    .divider-content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); /* Fixed: Perfectly centered visually without layout stretches */
+      width: 6.5in;
+      z-index: 10;
+      color: white;
+      text-align: center;
+    }
+
+    .divider-title {
+      font-family: var(--font-serif);
+      font-size: 32px;
+      color: var(--ci-gold);
+      margin-bottom: 15px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .divider-sub {
+      font-size: 12px;
+      color: rgba(255, 255, 255, 0.8);
+      max-width: 4.5in;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    /* ---------------------------------------------------- */
+    /* STRICT OFFICIAL GOVERNMENT FORM PAGES STYLING        */
+    /* ---------------------------------------------------- */
+    .page.gov-form-page {
+      background: #ffffff !important;
+      color: #000000 !important;
+      font-family: Arial, Helvetica, sans-serif !important;
+      padding: 0.45in 0.5in !important;
+      display: block !important;
+      justify-content: initial !important;
+      border: 1px solid #cccccc !important; /* Standard browser boundary */
+    }
+
+    .page.gov-form-page * {
+      color: #000000 !important;
+      font-family: Arial, Helvetica, sans-serif !important;
+    }
+
+    /* Zero Frames/Side Labels on official government forms */
+    .page.gov-form-page .frame,
+    .page.gov-form-page .corner-block,
+    .page.gov-form-page .side-label {
+      display: none !important;
+    }
+
+    .gov-form-container {
+      width: 100%;
+      height: 100%;
+      background: #ffffff !important;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .gov-form-header-box {
+      border-bottom: 2px solid #000000;
+      padding-bottom: 4px;
+      margin-bottom: 6px;
+      font-size: 8px;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+
+    .gov-form-title {
+      font-size: 10.5px;
+      font-weight: bold;
+      text-align: center;
+      line-height: 1.25;
+      margin: 6px 0;
+      text-transform: uppercase;
+    }
+
+    .gov-form-subtitle {
+      text-align: center;
+      font-size: 7.5px;
+      line-height: 1.25;
+      margin-bottom: 8px;
+    }
+
+    /* Plain standard black-and-white grid tables */
+    .gov-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
+
+    .gov-table th,
+    .gov-table td {
+      border: 1px solid #000000 !important;
+      padding: 4px 6px !important;
+      vertical-align: top !important;
+      font-size: 8px !important;
+      line-height: 1.25 !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+
+    .gov-table th {
+      font-weight: bold !important;
+      text-align: left !important;
+    }
+
+    .gov-table-shaded {
+      background-color: #f2f2f2 !important;
+    }
+
+    .gov-checkbox {
+      display: inline-block;
+      width: 11px;
+      height: 11px;
+      border: 1.2px solid #000000;
+      text-align: center;
+      line-height: 9px;
+      font-weight: bold;
+      font-size: 8px;
+      margin-right: 3px;
+    }
+
+    .gov-form-label {
+      font-size: 7.5px;
+      font-weight: bold;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 2px;
+      color: #000000;
+    }
+
+    .gov-text-block {
+      font-size: 7.2px;
+      line-height: 1.35;
+      text-align: justify;
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
+
+    .gov-form-footer {
+      border-top: 1px solid #000000;
+      padding-top: 3px;
+      font-size: 7.5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 4px;
+    }
+
+    /* Print Overrides */
+    @media print {
+      @page {
+        size: letter;
+        margin: 0;
+      }
+      html, body {
+        width: 8.5in;
+        height: 11in;
+        background: white !important;
+        padding: 0 !important;
+        margin: 0 !important;
+      }
+      body {
+        display: block;
+      }
+      .sidebar {
+        display: none !important;
+      }
+      .document-container {
+        padding: 0 !important;
+        gap: 0 !important;
+      }
+      .page {
+        width: 8.5in !important;
+        height: 11in !important;
+        box-shadow: none !important;
+        margin: 0 !important;
+        page-break-after: always;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+      .page.gov-form-page {
+        border: none !important;
+        box-shadow: none !important;
+        background: #ffffff !important;
+        padding: 0.45in 0.5in !important;
+      }
+      .cover-page {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+      * {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Side Navigation Workspace Navigation Overlay -->
+  <aside class="sidebar" aria-label="Review Companion Menu">
+    <div class="sidebar-header">
+      <div class="sidebar-brand">CI Institute</div>
+      <div class="sidebar-sub">Application Binder</div>
+    </div>
+    
+    <nav aria-label="Binder page menu">
+      <ul class="nav-list">
+        <li class="nav-item active"><a href="#p1"><span>Cover Page</span> <span class="nav-item-num">01</span></a></li>
+        <li class="nav-item"><a href="#p2"><span>Executive Summary</span> <span class="nav-item-num">02</span></a></li>
+        <li class="nav-item"><a href="#p3"><span>Readiness Matrix</span> <span class="nav-item-num">03</span></a></li>
+        <li class="nav-item"><a href="#p4"><span>Critical Verification</span> <span class="nav-item-num">04</span></a></li>
+        <li class="nav-item"><a href="#p5"><span>Course Catalog Matrix</span> <span class="nav-item-num">05</span></a></li>
+        <li class="nav-item"><a href="#p6"><span>Course Syllabus Objectives</span> <span class="nav-item-num">06</span></a></li>
+        <li class="nav-item"><a href="#p7"><span>Instructor Evidence</span> <span class="nav-item-num">07</span></a></li>
+        <li class="nav-item"><a href="#p8"><span>Reviewer-Access Check</span> <span class="nav-item-num">08</span></a></li>
+        <li class="nav-item"><a href="#p9"><span>Recordkeeping Policies</span> <span class="nav-item-num">09</span></a></li>
+        <li class="nav-item"><a href="#p10"><span>Module-to-Unit Index</span> <span class="nav-item-num">10</span></a></li>
+        <li class="nav-item"><a href="#p11"><span>Sign-Off Authorization</span> <span class="nav-item-num">11</span></a></li>
+        <li class="nav-item"><a href="#p12"><span>Appendix Divider</span> <span class="nav-item-num">12</span></a></li>
+        <li class="nav-item"><a href="#p13"><span>CDPH 192B - Pg 1</span> <span class="nav-item-num">13</span></a></li>
+        <li class="nav-item"><a href="#p14"><span>CDPH 192B - Pg 2</span> <span class="nav-item-num">14</span></a></li>
+        <li class="nav-item"><a href="#p15"><span>CDPH 192B - Pg 3</span> <span class="nav-item-num">15</span></a></li>
+        <li class="nav-item"><a href="#p16"><span>CDPH 192B - Pg 4</span> <span class="nav-item-num">16</span></a></li>
+        <li class="nav-item"><a href="#p17"><span>CDPH 193 - Form</span> <span class="nav-item-num">17</span></a></li>
+      </ul>
+    </nav>
+
+    <div class="sidebar-actions">
+      <button class="print-btn" onclick="window.print()">Print / Export PDF</button>
+    </div>
+  </aside>
+
+  <main class="document-container">
+
+    <!-- PAGE 1: COVER PAGE (Smooth premium gradient, NO leather texture) -->
+    <div id="p1" class="page cover-page" role="document" aria-label="Binder Cover Page">
+      <div class="frame"></div>
+      <div class="corner-block tl"></div>
+      <div class="corner-block tr"></div>
+      <div class="corner-block bl"></div>
+      <div class="corner-block br"></div>
+      <div class="side-label left">CNA / CDPH APPLICATION BINDER</div>
+      <div class="side-label right">DRAFT / PENDING APPROVAL</div>
+
+      <div class="cover-content">
+        <div class="logo-aura"></div>
+        <img class="logo" src="https://ciinstituteofnursing.com/assets/logos/ci-ion-logomark-white.svg" alt="CI Institute of Nursing Logo" onerror="this.style.display='none'" />
+
+        <div class="title-stack">
+          <h2 class="title-california metallic-white">California</h2>
+          <h1 class="title-main metallic-white">CNA Recertification</h1>
+          <div class="binder-title">CNA Recert Binder</div>
+          <div class="subtitle">Online CE — Signer-Review Binder</div>
+
+          <div class="facts-line" aria-label="Binder facts">
+            <span>24 Online CE Hours</span>
+            <span class="pipe">|</span>
+            <span>12 Units × 2 Hours</span>
+            <span class="pipe">|</span>
+            <span>Source Backbone: CCCCO/NATP 10–17</span>
+          </div>
+          <span class="source-note">CCCCO / NATP source backbone · learner-facing structure remains U01–U12</span>
+          <div class="rule"><span class="rule-mark"></span></div>
+        </div>
+
+        <div class="provider-stack">
+          <p class="provider-name">CI Institute of Nursing, Inc.</p>
+          <div class="prepared-line">Prepared by <strong>TJ Padilla</strong> · June 9, 2026</div>
+        </div>
+
+        <div class="status-text" aria-label="Status">
+          <div class="status-title">Status: Draft / Pending Approval</div>
+          <div class="status-subtitle">Ready for verification, signature, and submission review.</div>
+        </div>
+      </div>
+
+      <div class="footer-note">
+        No public approval claim, enrollment for approved credit, or certificate release is authorized until applicable agency approval metadata is issued.
+      </div>
+    </div>
+
+
+    <!-- PAGE 2: EXECUTIVE SUMMARY -->
+    <div id="p2" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Executive Summary</h2>
+        
+        <p class="intro-text">
+          This binder consolidates the California CNA recertification online continuing-education (CE) submission for signer review. The course delivers 24 online CE hours organized as 12 units of 2 online CE hours each (Year $1 = U01-U06$; Year $2 = U07-U12$), built on the source CCCCO Nurse Assistant Model Curriculum (Rev. Dec 2018), Modules 10-17, preserved as the source backbone and mapped under each unit.
+        </p>
+
+        <p class="intro-text" style="font-weight: 500;">
+          The application packet, CDPH 192B course attachment, LMS build, course matrix, workbook, and PDF-ready documentation all use this single aligned 12-unit x 2-hour structure. The earlier 8-module x 3-hour LMS framing is superseded. The older 12-hour M00-M07 ContentV2 module set is not controlling for this submission.
+        </p>
+
+        <div class="notice-block">
+          <strong>Compliance posture:</strong> Draft / Pending Approval. Online CE only; no clinical hours and no hands-on competency validation. This online course does not, by itself, complete all California CNA renewal requirements. Fictional, de-identified resident examples only; no PHI. No approved provider/course number is claimed.
+        </div>
+
+        <h3 style="font-size: 14px; color: var(--ci-maroon); margin: 20px 0 10px;">Project Parameters</h3>
+        <table class="ci-table">
+          <thead>
+            <tr>
+              <th style="width: 30%">Parameter</th>
+              <th>Value / Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="row-title">Applicant</td>
+              <td>CI Institute of Nursing, Inc.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Lane</td>
+              <td>CNA recertification online CE/CDPH</td>
+            </tr>
+            <tr>
+              <td class="row-title">Course Structure</td>
+              <td>12 units × 2 online CE hours = 24 (Year 1 = 12, Year 2 = 12)</td>
+            </tr>
+            <tr>
+              <td class="row-title">Source Backbone</td>
+              <td>CCCCO NA Model Curriculum (Rev. Dec 2018), Modules 10-17</td>
+            </tr>
+            <tr>
+              <td class="row-title">SME/Instructor of Record</td>
+              <td>Vanessa Valerio (evidence attachment is a final verification item)</td>
+            </tr>
+            <tr>
+              <td class="row-title">Official Forms</td>
+              <td>CDPH 192B, CDPH 193 (filled, appended)</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 2 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 3: READINESS & STATUS MATRIX -->
+    <div id="p3" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Readiness & Status Matrix</h2>
+        <p class="intro-text">
+          Review state of alignment and documentation integrity across all components of the submission package prior to final verification signatures.
+        </p>
+
+        <table class="ci-table" style="margin-top: 15px;">
+          <thead>
+            <tr>
+              <th style="width: 35%">Element</th>
+              <th style="width: 15%">Status</th>
+              <th>Details & Mapping Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="row-title">Course Structure Aligned</td>
+              <td><span class="badge badge-aligned">Aligned</span></td>
+              <td>12 units × 2 hours structural layout matched perfectly across the packet & LMS system.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Course Matrix (12 units)</td>
+              <td><span class="badge badge-complete">Complete</span></td>
+              <td>24 HOUR CNA COURSE MATRIX FINAL.md matches the operational lesson matrix.</td>
+            </tr>
+            <tr>
+              <td class="row-title">CDPH 192B Attachment</td>
+              <td><span class="badge badge-complete">Complete</span></td>
+              <td>Form maps identical 12 units × 2 hours for transparent agency processing.</td>
+            </tr>
+            <tr>
+              <td class="row-title">LMS Package & Workbook</td>
+              <td><span class="badge badge-complete">Complete</span></td>
+              <td>Units U01-U12 aligned with Modules 10-17 source map backbone.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Official Forms Filled</td>
+              <td><span class="badge badge-complete">Complete</span></td>
+              <td>CDPH 192B & CDPH 193 completed without branding overlays.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Instructor/SME Evidence</td>
+              <td><span class="badge badge-verify">Verify</span></td>
+              <td>Confirm attachment of Vanessa Valerio's resume & active nursing license check.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Provider/Course Approval</td>
+              <td><span class="badge badge-pending">Pending</span></td>
+              <td>Course catalog operates as a draft pending physical state agency approval.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="notice-block" style="margin-top: 30px;">
+          <strong>Structural Integrity Note:</strong> Unit/module alignment contains no outstanding items. Units U01-U12 are built natively from historical source Modules 10-17. There is no structural layout or curriculum overlap conflict to reconcile at the point of signer-instructor execution.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 3 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 4: FINAL VERIFICATION & CRITICAL PATH -->
+    <div id="p4" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Final Verification & Critical Path</h2>
+        <p class="intro-text">
+          The following list represents human execution steps and supporting physical attachments required during final signing. These are operational milestones, not document compilation gaps:
+        </p>
+
+        <ul class="verification-list">
+          <li class="verification-item">
+            <input type="checkbox" id="v1" />
+            <div class="verification-desc">
+              <strong>Line-by-Line Verification:</strong> Verify all finalized official government form data fields on pages 13–17 directly against the operational metrics defined in this reviewer dossier.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v2" />
+            <div class="verification-desc">
+              <strong>Authorized Signatures:</strong> Secure the physical/digital signature, initialing, and date execution points from authorized executive and nursing leaders of CI Institute of Nursing, Inc.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v3" />
+            <div class="verification-desc">
+              <strong>Legal Attestations:</strong> Complete personal legal attestation and compliance assurance declarations as specified in CDPH 192B Page 4.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v4" />
+            <div class="verification-desc">
+              <strong>Reviewer Auditing Credentials:</strong> Confirm functional status of external audit credentials (LMS URL, reviewer ID, password, security sandbox parameters) in the CDPH 192B form space.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v5" />
+            <div class="verification-desc">
+              <strong>SME Evidence Attachment:</strong> Append Vanessa Valerio's clinical instructor profile (comprehensive CV, primary California RN license printout, expiration check).
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v6" />
+            <div class="verification-desc">
+              <strong>Legal & Privacy Policy Clearance:</strong> Check corporate legal clearance for all de-identification, PHI compliance, and terms of service layout screens.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="v7" />
+            <div class="verification-desc">
+              <strong>Finalize Strategic Pricing structures:</strong> Input commercial fee schedules, membership pricing parameters, and/or promo rules into CDPH 192B Page 1 (business administrative field).
+            </div>
+          </li>
+        </ul>
+
+        <div class="notice-block">
+          <strong>State Processing Fee Exemption:</strong> Per the explicit guidelines of state form CDPH 192B, there is no state administration fee required for this application submission; hence, no checking, escrow, or ledger transaction document needs to be appended.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 4 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 5: COURSE CATALOG / 24-HOUR COURSE MATRIX -->
+    <div id="p5" class="page" style="padding: 0.6in 0.75in;">
+      <header class="page-header" style="margin-bottom: 12px;">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title" style="margin-bottom: 8px; font-size: 18px;">Course Catalog / 24-Hour Matrix</h2>
+        <p class="intro-text" style="font-size: 10.5px; margin-bottom: 10px;">
+          Structural schema mapping the 12 lesson units of 2 continuing education hours back to their foundational modules.
+        </p>
+
+        <table class="ci-table" style="font-size: 8.5px; margin-bottom: 10px;">
+          <thead>
+            <tr>
+              <th style="width: 6%">Unit</th>
+              <th style="width: 6%">Yr</th>
+              <th style="width: 58%">Course Topic & Unit Name</th>
+              <th style="width: 8%">CE Hrs</th>
+              <th style="width: 22%">Source Module Backbone</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>U01</td><td>1</td><td class="row-title">Vital Signs I: Purpose, Terminology, Temp, and Pain Observation</td><td>2</td><td>Module 10 - Vital Signs</td></tr>
+            <tr><td>U02</td><td>1</td><td class="row-title">Vital Signs II: Pulse, Respirations, Blood Pressure, and Reporting</td><td>2</td><td>Module 10 - Vital Signs</td></tr>
+            <tr><td>U03</td><td>1</td><td class="row-title">Nutrition, Hydration, Diets, Feeding Assistance, and Aspiration</td><td>2</td><td>Module 11 - Nutrition</td></tr>
+            <tr><td>U04</td><td>1</td><td class="row-title">Emergency Procedures, Distress Recognition, and Facility Codes</td><td>2</td><td>Module 12 - Emergency Procedures</td></tr>
+            <tr><td>U05</td><td>1</td><td class="row-title">Long Term Care Resident I: Aging, Body Systems, and Conditions</td><td>2</td><td>Module 13 - Long Term Care Resident</td></tr>
+            <tr><td>U06</td><td>1</td><td class="row-title">Long Term Care Resident II: Dementia Care, Psychosocial, Resources</td><td>2</td><td>Module 13 - Long Term Care Resident</td></tr>
+            <tr><td>U07</td><td>2</td><td class="row-title">Rehabilitative Nursing and Restorative Care Concepts</td><td>2</td><td>Module 14 - Rehabilitative Nursing</td></tr>
+            <tr><td>U08</td><td>2</td><td class="row-title">Observation and Charting I: Objective/Subjective & Reporting Cues</td><td>2</td><td>Module 15 - Observation & Charting</td></tr>
+            <tr><td>U09</td><td>2</td><td class="row-title">Observation and Charting II: Legal Forms, Records, and Adjustments</td><td>2</td><td>Module 15 - Observation & Charting</td></tr>
+            <tr><td>U10</td><td>2</td><td class="row-title">Death & Dying: Grief, Hospice Comfort, and Postmortem Scope</td><td>2</td><td>Module 16 - Death and Dying</td></tr>
+            <tr><td>U11</td><td>2</td><td class="row-title">Patient/Resident Abuse I: Abuse Typology, Rights, and Prevention</td><td>2</td><td>Module 17 - Patient/Resident Abuse</td></tr>
+            <tr><td>U12</td><td>2</td><td class="row-title">Patient/Resident Abuse II: Mandated Timelines, Reporting, Case Studies</td><td>2</td><td>Module 17 - Patient/Resident Abuse</td></tr>
+            <tr style="background: #E8F5E9; font-weight: bold;">
+              <td colspan="3" style="text-align: right; color: var(--ci-maroon);">Total Program Layout:</td>
+              <td>24</td>
+              <td>Modules 10-17</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <span class="source-note" style="color: var(--text-dark); font-size: 8px;">* The learner-facing LMS structure runs sequentially from Unit U01 to U12. Underlying data sets trace exactly to CDPH Modules 10 through 17.</span>
+      </section>
+
+      <footer class="page-footer" style="margin-top: 10px;">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 5 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 6: COURSE SYLLABUS - UNIT OBJECTIVES -->
+    <div id="p6" class="page" style="padding: 0.6in 0.75in;">
+      <header class="page-header" style="margin-bottom: 12px;">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title" style="margin-bottom: 8px; font-size: 18px;">Syllabus - Learning Objectives</h2>
+        
+        <table class="ci-table" style="font-size: 8.5px; margin-bottom: 5px;">
+          <thead>
+            <tr>
+              <th style="width: 8%">Unit</th>
+              <th style="width: 72%">Core Curriculum Learning Objectives</th>
+              <th style="width: 20%">Source Mapping</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>U01</td><td>Vital-signs terminology; temperature routes/ranges and factors; objective pain observation and scope-safe reporting.</td><td>Module 10 - Vital Signs</td></tr>
+            <tr><td>U02</td><td>Pulse, respirations, and blood-pressure concepts and adult normal ranges; record T-P-R/BP within scope; report abnormal findings.</td><td>Module 10 - Vital Signs</td></tr>
+            <tr><td>U03</td><td>Therapeutic diets and the CNA role; safe feeding-assistance and aspiration prevention; hydration; cultural respect; observe-report alternative routes.</td><td>Module 11 - Nutrition</td></tr>
+            <tr><td>U04</td><td>Recognize distress; scope-safe immediate actions and EMS chain; conscious-choking response within scope; facility codes. No hands-on CPR certification.</td><td>Module 12 - Emergencies</td></tr>
+            <tr><td>U05</td><td>Aging changes by body system; common conditions complications of immobility observed and reported; basic A&P; for scope-safe observation.</td><td>Module 13 - LTC Resident</td></tr>
+            <tr><td>U06</td><td>Dementia-sensitive person-centered care and de-escalation; psychosocial/spiritual needs; community resources.</td><td>Module 13 - LTC Resident</td></tr>
+            <tr><td>U07</td><td>Restorative philosophy; CNA role on the rehab team; ADLs; adaptive devices; ROM and immobility prevention at assist/observe level.</td><td>Module 14 - Rehab Care</td></tr>
+            <tr><td>U08</td><td>Objective vs subjective observation; medical word elements/abbreviations; reporting cues and scope-safe escalation.</td><td>Module 15 - Observation</td></tr>
+            <tr><td>U09</td><td>Charting document types; accurate/timely/factual scope-safe recording and corrections; objective incident report; change-in-condition reporting.</td><td>Module 15 - Observation</td></tr>
+            <tr><td>U10</td><td>Five stages of grief; scope-safe emotional/spiritual support; dying-resident rights; comfort, hospice support, postmortem boundaries.</td><td>Module 16 - Death & Dying</td></tr>
+            <tr><td>U11</td><td>Abuse terminology and types; resident rights; CNA prevention role and risk recognition.</td><td>Module 17 - Resident Abuse</td></tr>
+            <tr><td>U12</td><td>Mandated-reporter duty, pathways, and timelines; confidentiality; objective documentation; final applied scenario.</td><td>Module 17 - Resident Abuse</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <footer class="page-footer" style="margin-top: 10px;">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 6 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 7: INSTRUCTOR / SME EVIDENCE CHECKLIST -->
+    <div id="p7" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Instructor / SME Evidence</h2>
+        <p class="intro-text">
+          Verification requirements checklist designated for the designated clinical subject-matter expert (SME) of record.
+        </p>
+
+        <div style="background: rgba(139, 21, 21, 0.02); border: 1px dashed var(--ci-maroon); padding: 16px; border-radius: 6px; margin: 15px 0;">
+          <h3 style="margin-top:0; font-size:14px; color: var(--ci-maroon-deep);">SME of Record: Vanessa Valerio, RN</h3>
+          <p style="font-size: 11.5px; margin-bottom: 0; line-height: 1.5;">
+            Assigned to supervise content delivery, verify interactive feedback mechanisms, audit learning outcomes, and provide expert review for continuous quality development.
+          </p>
+        </div>
+
+        <h3 style="font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-gray); margin-top: 20px;">Physical Evidence Required for Packet Compilation</h3>
+        <ul class="verification-list">
+          <li class="verification-item">
+            <input type="checkbox" id="e1" />
+            <div class="verification-desc">
+              <strong>Professional CV/Resume:</strong> Must display a minimum of two full years of clinical nurse education experience or supervisory background within long-term nursing care environments.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="e2" />
+            <div class="verification-desc">
+              <strong>Active RN Licensure:</strong> Copy of the physical registration document retrieved from the California Board of Registered Nursing (BRN) online registry.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="e3" />
+            <div class="verification-desc">
+              <strong>License Status & Expiration Review:</strong> Verification logs showing no disciplinary actions, registry limits, or structural obstacles affecting active status.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="e4" />
+            <div class="verification-desc">
+              <strong>SME Assignment Letter:</strong> Formal statement countersigned by executive management recognizing responsibilities over the educational tracks.
+            </div>
+          </li>
+        </ul>
+
+        <div class="notice-block" style="margin-top: 40px;">
+          <strong>Procedural Status:</strong> The SME profile assets compiled on Vanessa Valerio represent final deployment requirements to be physically printed and attached to the application packet upon sign-off, containing zero architectural program deficiencies.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 7 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 8: REVIEWER-ACCESS & ATTACHMENT CHECKLIST -->
+    <div id="p8" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Reviewer Access & Attachments</h2>
+        <p class="intro-text">
+          Technical configuration parameters and operational verification structures required to establish state-approved status.
+        </p>
+
+        <h3 style="font-size: 13px; color: var(--ci-maroon-deep); margin-bottom: 10px;">Technical Verification Fields</h3>
+        <ul class="verification-list">
+          <li class="verification-item">
+            <input type="checkbox" id="ra1" />
+            <div class="verification-desc">
+              <strong>Live Reviewer Platform Portal:</strong> Standard online LMS target URL optimized for mobile and desktop screens.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="ra2" />
+            <div class="verification-desc">
+              <strong>Auditing Login Credentials:</strong> Assign and record valid User ID and security password entries mapping to simulated active auditor views.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="ra3" />
+            <div class="verification-desc">
+              <strong>System Settings Audit Checklist:</strong> Complete validation matrix executed by the system database administrator checking pause-mechanisms, seat-times, and logs.
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="ra4" />
+            <div class="verification-desc">
+              <strong>Official Completion Certificate Template:</strong> Visual placeholder displaying essential compliance parameters (to be deployed upon state agency approval).
+            </div>
+          </li>
+          <li class="verification-item">
+            <input type="checkbox" id="ra5" />
+            <div class="verification-desc">
+              <strong>Corporate License Documentation:</strong> Physical business license records, corporate registrations (such as BPPE 94886 authorizations, operational student prospectus materials, and organizational forms).
+            </div>
+          </li>
+        </ul>
+
+        <div class="notice-block" style="margin-top: 30px;">
+          <strong>No-Fee Processing Posture:</strong> In strict alignment with California state regulation protocols, processing of form CDPH 192B requires zero processing or compliance fees. No banking ledger attachments are included.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 8 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 9: RECORDKEEPING & PROOF OF COMPLETION -->
+    <div id="p9" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Recordkeeping & Completion</h2>
+        <p class="intro-text">
+          Strategic policies governing candidate records, secure storage parameters, and state-mandated compliance controls.
+        </p>
+
+        <h3 style="font-size:12px; color: var(--ci-maroon-deep); margin: 10px 0 5px; text-transform: uppercase;">Standard Per-Learner Records Retained</h3>
+        <table class="ci-table" style="font-size: 10px;">
+          <thead>
+            <tr>
+              <th style="width: 30%">Log Record Category</th>
+              <th>System Tracking & Verification Mechanism</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="row-title">Enrollment & Identity</td>
+              <td>Verified via unique credential keys, login records, and legal profile statements.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Completion Status</td>
+              <td>Unit completion records (U01-U12) mapped across individual session databases.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Active Seat-Time</td>
+              <td>Time-pause and logging mechanisms checking actual page interaction times.</td>
+            </tr>
+            <tr>
+              <td class="row-title">Evaluation Metrics</td>
+              <td>Historical exam records (with a minimum required score of 80% on annual evaluations).</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p class="intro-text" style="font-size: 11px;">
+          <strong>Data Security Protocol:</strong> No Protected Health Information (PHI) is collected, stored, or processed at any point inside the lesson databases or evaluation modules.
+        </p>
+
+        <div class="notice-block">
+          <strong>Certificate Issuance Lock:</strong> System validation locks block completion certificates until student registration keys, U01-U12 lesson records, annual evaluations, seat-time trackers, and signed compliance statements are cleared. Certificates stay locked until provider approval is finalized.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 9 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 10: SOURCE INDEX - UNITS U01-U12 -->
+    <div id="p10" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Source Index</h2>
+        <p class="intro-text">
+          Comprehensive curriculum index tracing the delivery of lesson units back to official state modules.
+        </p>
+
+        <table class="ci-table" style="margin-top: 15px;">
+          <thead>
+            <tr>
+              <th style="width: 30%">Source Module ID</th>
+              <th style="width: 40%">State Model Curriculum Subject</th>
+              <th style="width: 30%">Assigned Course Unit</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="row-title">Module 10</td>
+              <td>Vital Signs</td>
+              <td>Units U01, U02</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 11</td>
+              <td>Nutrition</td>
+              <td>Unit U03</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 12</td>
+              <td>Emergency Procedures</td>
+              <td>Unit U04</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 13</td>
+              <td>Long Term Care Patient/Resident</td>
+              <td>Units U05, U06</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 14</td>
+              <td>Rehabilitative Nursing</td>
+              <td>Unit U07</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 15</td>
+              <td>Observation and Charting</td>
+              <td>Units U08, U09</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 16</td>
+              <td>Death and Dying</td>
+              <td>Unit U10</td>
+            </tr>
+            <tr>
+              <td class="row-title">Module 17</td>
+              <td>Patient/Resident Abuse</td>
+              <td>Units U11, U12</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="notice-block" style="margin-top: 25px;">
+          <strong>Historical Mapping Strategy:</strong> To ensure structural accuracy during review, larger modules (including 10, 13, 15, and 17) are divided into two distinct 2-hour segments. Highly focused modules (11, 12, 14, 16) are mapped directly to a single 2-hour lesson structure.
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 10 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 11: FINAL SIGN-OFF GATE -->
+    <div id="p11" class="page">
+      <header class="page-header">
+        <div class="header-left">CNA/CDPH CE Signer-Review Binder</div>
+        <div class="header-right">CI Institute of Nursing, Inc.</div>
+      </header>
+
+      <section class="page-body">
+        <h2 class="doc-section-title">Final Sign-Off Gate</h2>
+        <p class="intro-text" style="font-weight: 500;">
+          This educational review dossier is complete and ready for signature (featuring aligned 12 Units × 2 CE Hours mapped to Modules 10-17). Remaining execution paths represent routine institutional review steps prior to submission.
+        </p>
+
+        <table class="sign-table">
+          <tbody>
+            <tr>
+              <td style="width: 40%; font-weight: bold; color: var(--ci-maroon);">Authorized Signer</td>
+              <td>
+                <div class="sign-line"></div>
+                <div style="font-size: 9px; margin-top: 4px; color: var(--text-gray);">Authorized Signature &amp; Title / Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold; color: var(--ci-maroon);">SME / Instructor (Vanessa Valerio)</td>
+              <td>
+                <div class="sign-line"></div>
+                <div style="font-size: 9px; margin-top: 4px; color: var(--text-gray);">Vanessa Valerio, RN / Date</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold; color: var(--ci-maroon);">Legal / privacy review</td>
+              <td>
+                <div class="sign-line"></div>
+                <div style="font-size: 9px; margin-top: 4px; color: var(--text-gray);">Institutional Legal Counsel / Date</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="notice-block" style="margin-top: 40px;">
+          <strong>Attribution and Operations:</strong> This document was compiled and managed by TJ Padilla (acting strictly in an administrative author/compiler capacity. This role represents curriculum layout coordination and contains zero educational or operational oversight duties).
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <div class="footer-left">TJ Padilla — Compiler</div>
+        <div class="footer-center">Prepared June 09, 2026</div>
+        <div class="footer-right">Page 11 of 17</div>
+      </footer>
+    </div>
+
+
+    <!-- PAGE 12: APPENDIX DIVIDER (Borders fixed, NO Leather Texture) -->
+    <div id="p12" class="page divider-page">
+      <div class="frame"></div>
+      <div class="corner-block tl"></div>
+      <div class="corner-block tr"></div>
+      <div class="corner-block bl"></div>
+      <div class="corner-block br"></div>
+      
+      <div class="divider-content">
+        <h1 class="divider-title">Appendix</h1>
+        <h2 style="color: white; font-size: 16px; font-weight: 300; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 20px;">Official Forms Packet</h2>
+        <div class="divider-sub">
+          The following pages contain the completed official state application forms, reproduced cleanly in high fidelity: **CDPH 192B (4 Pages)** and **CDPH 193 (1 Page)**. In compliance with state regulations, institutional branding has been omitted from these official pages.
+        </div>
+      </div>
+    </div>
+
+
+    <!-- PAGE 13: CDPH 192B (PAGE 1) - STRICT REPRODUCTION -->
+    <div id="p13" class="page gov-form-page" role="document" aria-label="CDPH 192B Form Page 1">
+      <div class="gov-form-container">
+        <div>
+          <div class="gov-form-header-box">
+            State of California - Health and Human Services Agency <span style="float: right;">California Department of Public Health (CDPH)</span>
+          </div>
+          
+          <h2 class="gov-form-title">APPLICATION FOR INITIAL/RENEWAL APPROVAL AS AN ONLINE CONTINUING EDUCATION PROVIDER</h2>
+          
+          <div class="gov-form-subtitle">
+            Licensing and Certification Program (L&amp;C)<br>
+            Aide and Technician Certification Section (ATCS)<br>
+            MS 3301, P.O. Box 997416<br>
+            Sacramento, CA 95899-7416<br>
+            PHONE: (916) 327-2445 / FAX: (916) 324-0901 / EMAIL: cna@cdph.ca.gov
+          </div>
+
+          <table class="gov-table">
+            <tr>
+              <td colspan="2" class="gov-table-shaded" style="text-align: center; font-weight: bold; font-size: 8.5px !important;">FOR CDPH USE ONLY</td>
+            </tr>
+            <tr>
+              <td style="width: 50%;">Provider's NAC#: <strong>- N/A New Appli</strong></td>
+              <td>Approval Period: _______________________________</td>
+            </tr>
+          </table>
+
+          <div style="margin: 6px 0; font-weight: bold; text-align: center; border: 1px solid #000; padding: 4px; font-size: 8.5px;">
+            PLEASE COMPLETE AND SUBMIT FOR APPROVAL, NO FEE IS REQUIRED.
+          </div>
+
+          <table class="gov-table">
+            <tr>
+              <td style="width: 50%;">
+                <span class="gov-form-label">Application Type (Check one):</span>
+                <div style="margin-top: 3px;">
+                  <span class="gov-checkbox">X</span> Initial Application <br>
+                  <span class="gov-checkbox">&nbsp;</span> Renewal (If renewal, include): Provider's Nurse Assistant Certification (NAC)#: <strong>N/A - Nev</strong> Expiration Date: <strong>N/A - New Application</strong>
+                </div>
+              </td>
+              <td>
+                <span class="gov-form-label">Requesting Type of Approval (check one):</span>
+                <div style="margin-top: 3px;">
+                  <span class="gov-checkbox">X</span> Public Access <br>
+                  <span class="gov-checkbox">&nbsp;</span> Private Employee Only
+                </div>
+              </td>
+            </tr>
+          </table>
+
+          <table class="gov-table">
+            <tr>
+              <th style="width: 50%;" class="gov-table-shaded">Provider's Business Information</th>
+              <th class="gov-table-shaded">Responsible Contact Person Information</th>
+            </tr>
+            <tr>
+              <td style="line-height: 1.35;">
+                <span class="gov-form-label">Provider's Business Name and Address</span>
+                <strong>CI Institute of Nursing, Inc.</strong><br>
+                <strong>419 E. Hamilton Ave.</strong><br>
+                <strong>Campbell, CA 95008</strong><br><br>
+                <span class="gov-form-label">Provider's Business Phone Number:</span>
+                <strong>650-449-6706</strong>
+              </td>
+              <td style="line-height: 1.35;">
+                <span class="gov-form-label">Contact Person Name:</span>
+                <strong>Yadvir Saandal</strong><br><br>
+                <span class="gov-form-label">Contact Person Email Address:</span>
+                <strong>yadvirs@careindeed.com</strong><br><br>
+                <span class="gov-form-label">Contact person Phone Number: 650-449-6706</span>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span class="gov-form-label">Provider's Business Website URL:</span>
+                <strong>https://www.ci-ion.com</strong>
+              </td>
+            </tr>
+          </table>
+
+          <div style="border: 1px solid #000; margin-top: 6px; padding: 5px; font-size: 8px;">
+            Please indicate the amount you will charge per Continuing Education (CE) Unit or membership: $ <strong>________</strong><br>
+            If membership fee; $ <strong>________</strong> Per <span class="gov-checkbox">&nbsp;</span> Month <span class="gov-checkbox">&nbsp;</span> Year <span class="gov-checkbox">&nbsp;</span> Other (please indicate): __________________
+          </div>
+
+          <div style="border: 1px solid #000; margin-top: 6px; padding: 5px; line-height: 1.35; font-size: 8px;">
+            Please assign CDPH a User Identification (ID) number and password to review your program online. This assigned information should remain valid for the review process and throughout your approval in case of an audit.<br>
+            <strong>User ID: ______________________</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Password: ______________________</strong>
+          </div>
+
+          <div class="gov-text-block" style="font-size: 7px; line-height: 1.25; margin-top: 6px;">
+            <strong>See page 2 for complete application instructions. Minimally, an online applicant shall ensure that each online course contains all of the following:</strong><br>
+            1. Required use of a Personal Identification Number or personal identification information to confirm the identity of the participant.<br>
+            2. An interactive portion where the participants receive feedback through online communication, based on input from the participant.<br>
+            3. A final screen displaying a printable statement to be signed by the participant, certifying that the identified participant completed the course. This must be done before the participant receives a Certificate of Completion.<br>
+            4. The Certificate of Completion will include that the course was completed online and the participant received "xx amount of CEs online". See page 2 (Application Instructions) for the complete list of elements that must be included on the certificate.<br>
+            5. Each course must have a time/pause mechanism built into the course program, so that the participant receives a minimum of fifty (50) minutes of active participation for each one hour of CE credit. The participant is not allowed to proceed directly to the exam and print the certificate of completion without being in the course material for a minimum of fifty (50) minutes.<br>
+            6. Note: A Certified Nurse Aide (CNA) may obtain a maximum of twenty-four (24) online CEs during the two-year renewal period. A Home Health Aide may not obtain CE credit online.
+          </div>
+        </div>
+
+        <div>
+          <table style="width: 100%; border-collapse: collapse; margin-top: 6px; border: none !important;">
+            <tr style="border: none !important;">
+              <td style="border: none !important; width: 40%; padding: 0 !important; font-size: 8px !important;">Printed Name: __________________________</td>
+              <td style="border: none !important; width: 40%; padding: 0 !important; font-size: 8px !important;">Signature: __________________________</td>
+              <td style="border: none !important; width: 20%; padding: 0 !important; font-size: 8px !important;">Date: ____________</td>
+            </tr>
+          </table>
+
+          <div class="gov-form-footer">
+            <span>CDPH 192B (10/15)</span>
+            <span>This form is available on our website at: www.cdph.ca.gov</span>
+            <span>Page 1 of 4</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- PAGE 14: CDPH 192B (PAGE 2) - STRICT REPRODUCTION -->
+    <div id="p14" class="page gov-form-page" role="document" aria-label="CDPH 192B Form Page 2">
+      <div class="gov-form-container">
+        <div>
+          <h2 class="gov-form-title" style="border-bottom: 2px solid #000000; padding-bottom: 4px; margin-bottom: 8px; font-size: 9.5px;">
+            CDPH Online Continuing Education Provider Application (CDPH192B) Instructions for Certified Nurse Assistants (CNAS)
+          </h2>
+          
+          <p style="font-weight: bold; font-size: 8px; margin-bottom: 6px;">
+            Submit the following with the CDPH192B application and ensure that the following elements are included within each online course program:
+          </p>
+
+          <div class="gov-text-block" style="font-size: 7.6px; line-height: 1.35;">
+            <p style="margin-bottom: 5px;">1. A copy of the Online Continuing Education (CE) Provider's business license. If the county/city does not issue a business license for CE Providers, then a letter from the county/city will be provided in the application documents, stating this fact. This is not applicable to educational institutions, such as: colleges, universities, Adult Education Programs, and Regional Occupational Programs.</p>
+            
+            <p style="margin-bottom: 5px;">2. A "Course List" of topics that the Online Continuing Education (CE) Provider will market for CNAs, during the two year CE program approval period. Program approval is for a two year period only. Include on the "Course List" the number of CE hours for each course. Courses must enhance the skills already learned in the CNA certification program and reflect the specific duties of the CNA in a health facility. Courses must be in one hour increments.</p>
+            
+            <p style="margin-bottom: 5px;">3. Each course must have a time/pause mechanism built into the course program, so that the participant receives a minimum of fifty (50) minutes of active participation for each one hour of CE credit. The participant is not allowed to proceed directly to the exam and print the Certificate of Completion, without being in the course material for a minimum of fifty (50) minutes. Failure to develop and maintain the pause mechanism will result in the revocation of the CE Provider Identification Number (NAC#).</p>
+            
+            <p style="margin-bottom: 5px;">4. The Online CE course must be developed so that the participant has a user ID and password in order to secure the identity of each student.</p>
+            
+            <p style="margin-bottom: 5px;">5. A "feedback/interactive portion" must be built into each course where the participant receives feedback throughout the online communication based on the input from the participant. The CE Provider applicant must explain how the student can contact the provider and receive feedback.</p>
+            
+            <p style="margin-bottom: 5px;">6. Each Online CE course must provide an exam/test to evaluate the course material.</p>
+            
+            <p style="margin-bottom: 5px;">7. The course must include a final screen displaying a printable statement or affidavit to be signed by the participant, certifying that the identified participant completed the course and submitted it to the Provider. This must be done prior to the participant receiving the Certificate of Completion.</p>
+            
+            <p style="margin-bottom: 5px;">8. The Certificate of Completion must contain the following: a) program name, address, and contact person and telephone number; b) participant's name and CNA certificate number, c) course date, d) course name, e) number of Online CE hours, f) Department Identification Number (NAC#), and g) statement, "This record/certificate must be retained by the Certified Nurse Assistant for a period of (4) years starting from the date of completion." The certificate must also indicate it is an online program. Example: Two (2) Online Continuing Education hours (printed on the certificate).</p>
+            
+            <p style="margin-bottom: 5px;">9. The Online CE Provider must have a system in place for record retention and record availability for Department review upon request. Online CE Provider must provide a written policy to the Department regarding how it will meet this requirement.</p>
+            
+            <p style="margin-bottom: 5px;">10. The Online CE Provider must provide a phone number contact, and or email address for participants to contact providers for interactive feedback. Online Providers must provide a contact name and phone number to the Department, to ensure the Department's ability to contact provider and verify regulatory compliance.</p>
+            
+            <p style="margin-bottom: 5px;">11. To become an Online CE Provider, the applicant must document the URL of the program on the application, and assign the Department a "user name" and "password". This information must remain current at all times, so that the Department can perform random monitoring surveys for program compliance. Omitting this information will cause the online CE application to be automatically denied, and will cause revocation for an existing Online CE Provider.</p>
+            
+            <p style="margin-bottom: 5px;">12. The Online CE Provider will read, understand, and sign the attestation statement (see Page 3 and 4) that the CE Provider will adhere to all California regulatory requirements at HSC 1337.6(a) (2), and at CCR, Title 22, Sections 71813,</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="gov-form-footer">
+            <span>This form is available on our website at: www.cdph.ca.gov</span>
+            <span>CDPH 192B (10/15)</span>
+            <span>Page 2 of 4</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- PAGE 15: CDPH 192B (PAGE 3) - STRICT REPRODUCTION -->
+    <div id="p15" class="page gov-form-page" role="document" aria-label="CDPH 192B Form Page 3">
+      <div class="gov-form-container">
+        <div>
+          <div class="gov-text-block" style="font-size: 7.6px; line-height: 1.35; margin-top: 0;">
+            71843, 71845, and 71849. Signage on Page 4, verifies that the CE Provider understands that noncompliance with these regulations and application requirements will result in revocation of the CE Provider's Identification Number (NAC#).
+          </div>
+
+          <div style="border: 1px solid #000000; padding: 6px; margin: 8px 0; font-size: 8px; line-height: 1.4; max-width: 4in;">
+            <strong>Send information (via USPS mail) to:</strong><br><br>
+            California Department of Public Health<br>
+            Licensing &amp; Certification, ATCS<br>
+            P.O. Box 997416, MS 3301<br>
+            Sacramento, CA 95899-7416<br>
+            Attn: CE Program Analyst
+          </div>
+
+          <div class="gov-text-block" style="font-size: 7.6px; line-height: 1.35;">
+            The application review process takes up to 90 days. Upon completing of the review, the Department will notify the applicant of the outcome. If approved, the applicant will receive an Online CE Provider identification number (NAC#), which will be valid for a two year period. If the provider fails to comply with state regulatory requirements and/or fails to renew the program, the Department will revoke the NAC# and will remove the provider from the Department's online website list of current Online CE Providers.
+          </div>
+
+          <h3 class="gov-form-title" style="margin: 10px 0 6px; font-size: 9px;">
+            Regulatory Compliance and Department Requirements for Online CE Providers
+          </h3>
+
+          <div class="gov-text-block" style="font-size: 7.6px; line-height: 1.35;">
+            Online CE Providers must be approved by the Department and must comply with the requirements found in the Health and Safety Code, Section 1337.6 (a)(2) and the California Code of Regulations, Title 22, Section, 71813, 71843, 71845, and 71849. The Department has the authority to conduct random monitoring surveys of the online CE programs to ensure that compliance is maintained after Department approval has been determined for the initial application or renewal application. Failure to maintain ongoing compliance with these regulations and program requirements, or failure to meet renewal program requirements will result in revocation of the CE Provider's program and termination of the Provider Identification Number (NAC#). The Provider must also maintain the Department's user ID and password at all times, so that the Department can conduct monitoring surveys.
+          </div>
+
+          <div class="gov-text-block" style="font-size: 7.6px; line-height: 1.35;">
+            <p style="margin-bottom: 5px;">1. Online CE Providers will submit a "Course List" of topics that will be offered on the website to CNAs during the two year program activation period. Only courses that have Department approval may be advertised for the California CNA participant. Any additions to the course list must be submitted to the Department and approved by the Department, prior to advertising the course.</p>
+            
+            <p style="margin-bottom: 5px;">2. Online CE course content shall be designed to enhance the knowledge and skills acquired during the certification program and reflect the specific duties of the CNA in a health facility. Courses may also be on topics related to the safety, comfort, personal hygiene and protection of patients. Courses cannot be those that are applicable to the duties and scope of practice for licensed nurses, or duties pertinent to other allied health professions such as Medical Assistants, EKG Technicians, Ward Clerks, Telemetry Clerks, etc. The Department recommends that online CNA/HHA courses are limited to a maximum of four (4) hours. Courses greater than four hours will receive an online audit, to determine if the information presented is specific to the CNA duties, and if the material in the online presentation supports the CE hours offered in the course.</p>
+            
+            <p style="margin-bottom: 5px;">3. The Online CE Provider will develop within the online program structure, a choice tab/mechanism that prevents California CNAs from obtaining CEs courses that are for other health professionals and are courses for CNAs in other states. A selection process will be developed within the online program, so that only CNA topics as approved by the Department can be chosen for eventual course completion and certificate issuance.</p>
+            
+            <p style="margin-bottom: 5px;">4. All Online CE courses must be offered in one hour increments. Courses less than 50 minutes are not approved.</p>
+            
+            <p style="margin-bottom: 5px;">5. Each Online CE course must have a time/pause mechanism built into the course program, so that the participant receives a minimum of fifty (50) minutes of active participation for each one hour of CE credit. The participant cannot proceed directly to the course and course exam, without being in the course material for a minimum of fifty (50) minutes prior to accessing the certificate of completion. The fifty (50) minutes of participation can include the exam portion. Failure to develop and maintain the pause mechanism in the course will result in the revocation of the Provider Identification Number (NAC#).</p>
+          </div>
+        </div>
+
+        <div>
+          <div class="gov-form-footer">
+            <span>CDPH 192B (10/15)</span>
+            <span>This form is available on our website at: www.cdph.ca.gov</span>
+            <span>Page 3 of 4</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- PAGE 16: CDPH 192B (PAGE 4) - STRICT REPRODUCTION -->
+    <div id="p16" class="page gov-form-page" role="document" aria-label="CDPH 192B Form Page 4">
+      <div class="gov-form-container">
+        <div>
+          <div class="gov-text-block" style="font-size: 7.5px; line-height: 1.32; margin-top: 0;">
+            <p style="margin-bottom: 4px;">6. The Online CE courses must be developed so that the participant has a user ID and password in order to secure the identity of each student.</p>
+            
+            <p style="margin-bottom: 4px;">7. A feedback/interactive portion must be built into each course, where the participant receives feedback regarding online training, based on the input from the participant. The provider must describe to the Department how the online feedback occurs.</p>
+            
+            <p style="margin-bottom: 4px;">8. Each Online CE course must provide an exam/test to evaluate the course material.</p>
+            
+            <p style="margin-bottom: 4px;">9. The Online CE course must include a final screen displaying a printable statement or affidavit to be signed by the participant, certifying that the identified participant completed the course and submitted it to the provider. This must be done prior to the participant receiving the Certificate of Completion.</p>
+            
+            <p style="margin-bottom: 4px;">10. The Certificate of Completion document must contain the following: a) program information (name, address, and contact person and telephone number), b) participant's name and CNA certificate number, c) course date, d) course name, e) CE hours, and f) CE Provider ID# (NAC#), and g) statement, "This record/certificate must be retained by the Certified Nurse Assistant for a period of four (4) years starting from the date of completion." The certificate must also indicate it is an online program. Example: Two (2) Online Continuing Education Units (printed on the certificate).</p>
+            
+            <p style="margin-bottom: 4px;">11. The Online CE Provider must have a system in place for record retention and record availability for Department review. The Certificate of Completions must be maintained by the CE Provider for three (3) years and shall be made available to the Department upon request. The Online CE Provider will develop and implement a record keeping policy, and will provide the policy to the Department when requested.</p>
+            
+            <p style="margin-bottom: 4px;">12. The Online CE Provider must provide a phone number contact, and or email address for participants to contact providers for interactive feedback.</p>
+            
+            <p style="margin-bottom: 4px;">13. The Online CE Provider must provide and maintain current contact information including name, mailing address, phone number, URL site, and email address. This is to ensure that the Department can contact the provider related to Department questions and to verify regulatory compliance. If there are any changes in the contact information, this must be provided to the Department.</p>
+            
+            <p style="margin-bottom: 4px;">14. The Online CE Provider must maintain the Department's user password, so that the Department may perform random regulatory monitoring of the URL site at any time. If the Department is unable to access online courses to perform monitoring, the program application will be denied, and any existing program will be revoked.</p>
+            
+            <p style="margin-bottom: 4px;">15. The Online CE Provider must contact the Department when it changes the course offerings and either adds or deletes courses to the program's course topics. All courses must be approved prior to advertising and marketing on the website.</p>
+            
+            <p style="margin-bottom: 4px;">16. If the Provider is not providing the Online CE courses as per the Department's approved plan, the Department has the authority to revoke the NAC# and remove the Online CE Provider from the CDPH website list of current CE Providers. If the program is revoked, the Provider may not reapply for a minimum of 90 days (only if the Provider has corrected the deficiency violations).</p>
+          </div>
+
+          <h3 style="font-size: 8.5px; font-weight: bold; margin-top: 10px; margin-bottom: 4px;">Attestation Statement:</h3>
+          <p style="font-size: 7.5px; line-height: 1.3; margin-bottom: 12px;">
+            My signature below indicates that I am the person responsible for this CE program, and that I agree to maintain compliance with all CE Provider regulations and CDPH program requirements as noted above.
+          </p>
+
+          <table style="width: 100%; border-collapse: collapse; margin-top: 25px; border: none !important;">
+            <tr style="border: none !important;">
+              <td style="border: none !important; width: 45%; padding: 0 !important; font-size: 8.5px !important;">Printed Name: __________________________</td>
+              <td style="border: none !important; width: 40%; padding: 0 !important; font-size: 8.5px !important;">Signature: __________________________</td>
+              <td style="border: none !important; width: 15%; padding: 0 !important; font-size: 8.5px !important;">Date: ____________</td>
+            </tr>
+          </table>
+        </div>
+
+        <div>
+          <div class="gov-form-footer" style="margin-top: 20px;">
+            <span>CDPH 192B (10/15)</span>
+            <span>This form is available on our website at: www.cdph.ca.gov</span>
+            <span>Page 4 of 4</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- PAGE 17: CDPH 193 - STRICT REPRODUCTION -->
+    <div id="p17" class="page gov-form-page" role="document" aria-label="CDPH 193 Form Page 1">
+      <div class="gov-form-container">
+        <div>
+          <div class="gov-form-header-box">
+            State of California-Health and Human Services Agency <span style="float: right;">California Department of Public Health (CDPH)</span>
+          </div>
+          
+          <div class="gov-form-subtitle" style="text-align: left; margin-bottom: 6px;">
+            Licensing and Certification Program (L&amp;C)<br>
+            Aide and Technician Certification Section (ATCS)<br>
+            Training Program Review Unit (TPRU)<br>
+            MS 3301, P.O. Box 997416, Sacramento, CA 95899-7416<br>
+            EMAIL: TPRU@cdph.ca.gov
+          </div>
+
+          <h2 class="gov-form-title" style="margin: 4px 0; font-size: 11px;">Facility/School Contact Information</h2>
+          
+          <p style="font-size: 7.5px; line-height: 1.35; margin-top: 4px; margin-bottom: 6px;">
+            This form is required to be sent in with each initial and renewal application for all program types as well as when there is a change in the contact information.
+          </p>
+
+          <p style="font-size: 7px; line-height: 1.3; margin-top: 2px; margin-bottom: 6px;">
+            ➤ Skilled Nursing Facilities (SNF) and Intermediate Care Facilities (ICF): Provide contact information for the Facility Administrator, Director of Nursing and Director of Staff Development.<br>
+            ➤ All Other Providers: Provide contact information for the Owner/Administrator, Program Director and one other person.<br>
+            ➤ Note: The program identification (ID) number may start with a "F," "S," "NAC," "CHP" or "HHP."
+          </p>
+
+          <table class="gov-table">
+            <tr>
+              <td style="width: 50%;">
+                <span class="gov-form-label">Current as of this date</span>
+                <strong>Enter date at signing</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Facility/School ID #</span>
+                <strong>N/A - New Application</strong>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span class="gov-form-label">Facility/School Name</span>
+                <strong>CI Institute of Nursing, Inc.</strong>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span class="gov-form-label">Facility/School Physical Address</span>
+                <strong>419 E. Hamilton Ave., Campbell, CA 95008</strong>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span class="gov-form-label">Facility/School Mailing Address (if different)</span>
+                <strong>Same as physical address</strong>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span class="gov-form-label">Facility/School Telephone Number</span>
+                <strong>650-449-6706</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Facility/School General Email Address</span>
+                <strong>humanresources@ci-ion.com</strong>
+              </td>
+            </tr>
+          </table>
+
+          <p style="font-size: 7px; font-style: italic; margin-top: 2px; margin-bottom: 4px;">
+            Note: For your phone number, make sure to include the extension number, if there is any.
+          </p>
+
+          <h3 style="font-size: 8px; font-weight: bold; border-bottom: 1.5px solid #000; padding-bottom: 1px; margin-top: 6px; margin-bottom: 4px;">KEY CONTACT PERSONNEL DATA</h3>
+
+          <!-- Contact 1 -->
+          <table class="gov-table">
+            <tr>
+              <td style="width: 50%;">
+                <span class="gov-form-label">Contact #1 Name</span>
+                <strong>Maria Divina Bus</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Professional Title</span>
+                <strong>Chief Executive Of</strong>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span class="gov-form-label">Email Address</span>
+                <strong>deeb@careindeed.</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Best Contact Phone Number</span>
+                <strong>650-449-6706</strong>
+              </td>
+            </tr>
+          </table>
+
+          <!-- Contact 2 -->
+          <table class="gov-table" style="margin-top: 4px;">
+            <tr>
+              <td style="width: 50%;">
+                <span class="gov-form-label">Contact #2 Name</span>
+                <strong>Vanessa Valerio</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Professional Title</span>
+                <strong>RN</strong> (Program Director / SMEIn-)
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span class="gov-form-label">Email Address</span>
+                <strong>vanessav@careinde</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Best Contact Phone Number</span>
+                <strong>650-796-9397</strong>
+              </td>
+            </tr>
+          </table>
+
+          <!-- Contact 3 -->
+          <table class="gov-table" style="margin-top: 4px; margin-bottom: 8px;">
+            <tr>
+              <td style="width: 50%;">
+                <span class="gov-form-label">Contact #3 Name</span>
+                <strong>Yadvir Saandal</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Professional Title</span>
+                <strong>Institution Contact / Cust</strong>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span class="gov-form-label">Email Address</span>
+                <strong>yadvirs@careindee</strong>
+              </td>
+              <td>
+                <span class="gov-form-label">Best Contact Phone Number</span>
+                <strong>650-449-6706</strong>
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <div>
+          <div class="gov-form-footer">
+            <span>CDPH 193 (12/19)</span>
+            <span>This form is available on our website at: California Department of Public Health</span>
+            <span>1 of 1</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    // Live Review Assistant Interactivity
+    document.addEventListener("DOMContentLoaded", function () {
+      const navItems = document.querySelectorAll(".nav-item");
+      const pages = document.querySelectorAll(".page");
+
+      // Scroll Spy Implementation
+      window.addEventListener("scroll", function () {
+        let currentId = "";
+        const scrollPosition = window.scrollY + 100;
+
+        pages.forEach(page => {
+          const top = page.offsetTop;
+          const height = page.offsetHeight;
+          if (scrollPosition >= top && scrollPosition < top + height) {
+            currentId = page.id;
+          }
+        });
+
+        navItems.forEach(item => {
+          item.classList.remove("active");
+          const link = item.querySelector("a").getAttribute("href");
+          if (link === `#${currentId}`) {
+            item.classList.add("active");
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>

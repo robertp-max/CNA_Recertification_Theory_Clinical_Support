@@ -1,0 +1,46 @@
+{
+  "pdf_count": 26,
+  "rcfe_lms_raw_exists": false,
+  "nonofficial_banned_word_findings": [],
+  "official_standalone_sha_checks": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "match": true
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "match": true
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+      "match": true
+    }
+  ],
+  "official_append_checks": [
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\01_CNA_CDPH_APPLICATION_BINDER.pdf",
+      "issues": []
+    },
+    {
+      "rel": "01_CNA_CDPH_CE_APPLICATION\\01_APPLICATION_SUBMISSION\\02_CNA_CDPH_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "issues": []
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_RCFE_CDSS_APPLICATION_BINDER.pdf",
+      "issues": []
+    },
+    {
+      "rel": "02_RCFE_CDSS_CETP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_RCFE_CDSS_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "issues": []
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\01_BRN_CEP_APPLICATION_BINDER.pdf",
+      "issues": []
+    },
+    {
+      "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION\\01_APPLICATION_SUBMISSION\\02_BRN_CEP_MINIMUM_REQUIRED_SUBMISSION_PACKET.pdf",
+      "issues": []
+    }
+  ],
+  "official_append_failures": 0
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "source",
+    "draft_text_hits": []
+  },
+  {
+    "rel": "01_CNA_CDPH_CE_APPLICATION/01_APPLICATION_SUBMISSION/03_CNA_CDPH_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "output",
+    "draft_text_hits": []
+  },
+  {
+    "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "source",
+    "draft_text_hits": [
+      {
+        "page": 1,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 2,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 4,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 5,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 7,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 8,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 10,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 11,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 13,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 14,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 16,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 17,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 19,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 20,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 22,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 23,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 25,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 26,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 28,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 29,
+        "lines": [
+          "DRAFT"
+        ]
+      }
+    ]
+  },
+  {
+    "rel": "02_RCFE_CDSS_CETP_APPLICATION/01_APPLICATION_SUBMISSION/03_RCFE_CDSS_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "output",
+    "draft_text_hits": [
+      {
+        "page": 1,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 2,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 4,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 5,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 7,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 8,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 10,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 11,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 13,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 14,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 16,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 17,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 19,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 20,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 22,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 23,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 25,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 26,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 28,
+        "lines": [
+          "DRAFT"
+        ]
+      },
+      {
+        "page": 29,
+        "lines": [
+          "DRAFT"
+        ]
+      }
+    ]
+  },
+  {
+    "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "source",
+    "draft_text_hits": []
+  },
+  {
+    "rel": "03_BRN_CARE_MANAGER_CEP_APPLICATION/01_APPLICATION_SUBMISSION/03_BRN_CEP_OFFICIAL_FORMS_READY_FOR_SIGNATURE.pdf",
+    "where": "output",
+    "draft_text_hits": []
+  }
+]
