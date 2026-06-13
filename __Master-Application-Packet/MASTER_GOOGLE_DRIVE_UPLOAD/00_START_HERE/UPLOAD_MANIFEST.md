@@ -6,7 +6,11 @@ Generated/updated: 2026-06-12T18:04:20
 
 - Repository path: `C:\AI\Git\CNA_Recertification_Theory_Clinical_Support`
 - Branch checked: `catalog-website-requirements-design-root-patch`
-- Latest commit checked: `7d5a200 Publish master application packet`
+- Base commit checked: `7d5a200 Publish master application packet`
+- Published PR commit checked before this QA clarification patch: `a58cd8d Publish master Google Drive upload package`
+- GitHub review branch: `catalog-website-requirements-design-root-patch`
+- GitHub PR: `https://github.com/robertp-max/CNA_Recertification_Theory_Clinical_Support/pull/2`
+- Current PR head SHA is authoritative in GitHub; a committed manifest cannot self-reference its own final commit hash without changing that hash.
 - Final package: `C:\AI\Git\CNA_Recertification_Theory_Clinical_Support\__Master-Application-Packet\MASTER_GOOGLE_DRIVE_UPLOAD`
 
 ## Catalog and Website Update Requirements
@@ -839,3 +843,39 @@ None introduced by this patch for the catalog/website requirements PDFs. Both ro
 - Final package file/folder names containing `Copy`: 0.
 - Temp/cache/log/build artifact violations inside final package: 0.
 - Visual sample rendered from final PDFs: cover artifact removed; content pages use the PDF Design Studio cream page, maroon header rule, short gold section line, and gradient table header styling.
+
+## Signature / Executed Forms Status
+
+The `Official Forms Ready for Signature` files are unsigned ready-for-signature review copies. No signed/executed government forms are included in this GitHub package. Signed forms must be completed by the authorized signer and handled through the final agency submission workflow outside GitHub.
+
+## Payment / Check Handling Status
+
+No payment instrument, check image, credit card data, or payment credential is included in this GitHub package. Payment/check handling is outside GitHub and must be confirmed by the owner/signer before agency submission.
+
+## Instructor / SME Evidence Index
+
+Instructor/SME evidence is indexed in `00_START_HERE/CIION - Reviewer Status Notes.md` and mirrored under `90_INDEX/00_START_HERE/INDEX - CIION - Reviewer Status Notes.md`. The note identifies binder page references and supporting instructor review files for CNA, BRN, and RCFE.
+
+## ChatGPT QA Clarification Patch
+
+Updated: 2026-06-12T18:32:09
+
+### Items Double-Checked and Patched
+
+| Item | Status | Package Location / Note |
+| --- | --- | --- |
+| Final manifest tied to PR commit | PASS | Repository verification now distinguishes base commit `7d5a200`, prior PR publication commit `a58cd8d`, the GitHub review branch, and PR #2. The exact current PR head SHA remains authoritative in GitHub because a commit cannot embed its own final SHA. |
+| PACKAGE_INVENTORY.csv after catalog/website split | PASS | `00_START_HERE/PACKAGE_INVENTORY.csv` was regenerated from the actual final package tree. It now lists root-level `05_CATALOG_AND_WEBSITE_UPDATE_REQUIREMENTS/CIION - CE Catalog Update Requirements.pdf` and `CIION - Website Update Requirements.pdf`; the old combined guide is not mapped into BRN. |
+| Full source Markdown for two catalog/website PDFs | PASS | `90_INDEX/05_CATALOG_AND_WEBSITE_UPDATE_REQUIREMENTS/01_REQUIREMENT_SOURCE_MARKDOWN/INDEX - CIION - CE Catalog Update Requirements.md` and `INDEX - CIION - Website Update Requirements.md` now contain full section/source content rather than stubs. |
+| Signed/executed form labeling | PASS | `00_START_HERE/CIION - Reviewer Status Notes.md` states that `Official Forms Ready for Signature` files are unsigned ready-for-signature review copies and that no signed/executed government forms are included in GitHub. |
+| Payment/check handling note | PASS | `00_START_HERE/CIION - Reviewer Status Notes.md` states that no payment instrument/check image/payment credential is included and payment/check handling occurs outside GitHub before agency submission. |
+| Instructor/SME attachment confirmation | PASS | `00_START_HERE/CIION - Reviewer Status Notes.md` includes an Instructor/SME Evidence Index with binder page references and supporting instructor review files for CNA, BRN, and RCFE. |
+
+### Added Reviewer-Facing Note
+
+- `00_START_HERE/CIION - Reviewer Status Notes.md`
+- `90_INDEX/00_START_HERE/INDEX - CIION - Reviewer Status Notes.md`
+
+### Final Clarification
+
+This GitHub package is review/traceability material. It does not replace physical signatures, secure payment handling, or agency-required original/official attachments.
