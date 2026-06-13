@@ -1,0 +1,10 @@
+lane,course,grade_category,item,weight_percent,pass_threshold_percent,aggregation,notes
+CNA,CNA-CE-24,Unit Quizzes,U01-U12 unit quizzes,60,80,Mean of grades within category,12 unit quizzes equally weighted; confirm thresholds with SME/CDPH
+CNA,CNA-CE-24,Scenario/Documentation,U01-U12 scenario activities,10,N/A,Mean of grades,Complete-on-submit or graded by SME
+CNA,CNA-CE-24,Final Assessment,Comprehensive final,30,80,Single item,Gate for course completion
+RCFE,RCFE-CETP-001..009,Course Final,Final assessment,80,70,Single item,Pass threshold configurable; confirm with SME/CDSS
+RCFE,RCFE-CETP-001..009,Scenario/Judgment,Admin judgment exercise,20,N/A,Mean of grades,Complete-on-submit or graded by SME
+BRN,BRN-CM-30,Module Quizzes,M01-M10 module quizzes,50,80,Mean of grades within category,10 module quizzes equally weighted; confirm with SME/BRN
+BRN,BRN-CM-30,Module Activities,M01-M10 case/documentation activities,20,N/A,Mean of grades,Complete-on-submit or graded by SME
+BRN,BRN-CM-30,Capstone Final,Capstone final assessment,30,80,Single item,Gate for course completion
+ALL,ALL,Policy,Manual grade override,N/A,N/A,N/A,Manual override restricted to Manager/authorized role; every override must be documented (see 12_GRADEBOOK_AND_COMPLETION_CONFIGURATION.md)
